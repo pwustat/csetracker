@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Conferences"
-  url = "conferences/"
+  url = "conferences"
   weight = 20
   
 [[main]]
