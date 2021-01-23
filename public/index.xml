@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSE Tracker</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSE Tracker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>CSE Tracker</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Avoid Dashboard Fatigue</title>
+      <link>/webinars/rstudio/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/webinars/rstudio/</guid>
+      <description>&lt;p&gt;In this webinar, we’ll show you an easy way teams can solve these problems using proactive email notifications through the blastula and gt packages, and how RStudio pro products can be used to scale out those solutions for enterprise applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical Endpoints and Treatment Effect in Immuno-Oncology</title>
+      <link>/webinars/io/</link>
+      <pubDate>Tue, 07 Jul 2020 13:00:00 +0000</pubDate>
+      <guid>/webinars/io/</guid>
+      <description>&lt;p&gt;Learn on adaptations to tumor response and progression criteria for immune therapies.and statistical methods to best describe and test for treatment effects in immuno-oncology randomized clinical trials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science in Action in Response to the Outbreak of COVID-19</title>
+      <link>/webinars/ds-covid/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/webinars/ds-covid/</guid>
+      <description>&lt;p&gt;This webinar series aims to promptly disseminate the newest data science methods, tools, and findings in response to the outbreak of COVID-19, facilitate the exchange of research ideas, and engage collaborations between data scientists and field experts worldwide to solve the COVID-19 crisis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
