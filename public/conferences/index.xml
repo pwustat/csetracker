@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSE Tracker</title>
-    <link>/conferences/</link>
-      <atom:link href="/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/conferences/</link>
+      <atom:link href="https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/conferences/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
-      <link>/conferences/</link>
+      <link>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/conferences/</link>
     </image>
     
   </channel>
