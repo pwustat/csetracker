@@ -1,5 +1,5 @@
 ---
-type: webinar
+type: conference
 title: 2021 ASA Conference on Statistical Practice
 author: 
 date: '2021-02-17'
