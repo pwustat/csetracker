@@ -5,17 +5,17 @@
   
 [[main]]
   name = "Webinars"
-  url = "#replay"
+  url = "webinar/"
   weight = 10
 
 [[main]]
   name = "Conferences"
-  url = "conferences"
+  url = "conf/"
   weight = 20
   
 [[main]]
   name = "Courses"
-  url = "courses/"
+  url = "course/"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.

@@ -3,91 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/webinars/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/webinars/rstudio/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/tag/20210124asa/</loc>
+    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/2020/07/14/collaboration/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/course/20210124course1/</loc>
+    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/</loc>
+    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/2020/07/14/data-science/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/category/20210124data-science/</loc>
+    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/2020/07/14/efficiency/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/event/event1/</loc>
+    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/2020/07/14/enterprise/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/2020/07/14/rstudio/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/2020/07/14/rstudio/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/event/</loc>
+    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/webinars/io/</loc>
+    <loc>/webinar/20200714rstudio/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20200714collaboration/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20200714efficiency/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20200714enterprise/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20200714rstudio/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/20200714rstudio/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20200707io/</loc>
     <lastmod>2020-07-07T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/2020/07/07/clinical-trial/</loc>
+    <loc>/category/20200707clinical-trial/</loc>
     <lastmod>2020-07-07T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/2020/07/07/immuno-oncology/</loc>
+    <loc>/tag/20200707immuno-oncology/</loc>
     <lastmod>2020-07-07T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/2020/04/17/covid-19/</loc>
+    <loc>/tag/20200417covid-19/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/webinars/ds-covid/</loc>
+    <loc>/webinar/20200417ds-covid/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/conferences/</loc>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
+    <loc>/conf/</loc>
   </url>
   
   <url>
@@ -96,10 +117,6 @@
   
   <url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/event/</loc>
   </url>
   
 </urlset>
