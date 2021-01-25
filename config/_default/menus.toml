@@ -10,13 +10,13 @@
 
 [[main]]
   name = "Conferences"
-  url = "conf/"
+  url = "conference/"
   weight = 20
   
 [[main]]
   name = "Courses"
   url = "course/"
-  weight = 50
+  weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

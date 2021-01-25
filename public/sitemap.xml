@@ -4,32 +4,22 @@
   
   <url>
     <loc>/tag/20210124asa/</loc>
-    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
+    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/course/20210124course1/</loc>
-    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/course/</loc>
-    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
+    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
+    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
   </url>
   
   <url>
     <loc>/category/20210124data-science/</loc>
-    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
+    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
   </url>
   
   <url>
@@ -44,7 +34,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2021-01-24T18:11:58-08:00</lastmod>
+    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
   </url>
   
   <url>
@@ -98,8 +88,33 @@
   </url>
   
   <url>
-    <loc>/tag/20200417covid-19/</loc>
-    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <loc>/tag/20200610covid-19/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20200610estimand/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20200610dia/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20200610estimand/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20200610pandemic/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/20200610statistics/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,7 +123,11 @@
   </url>
   
   <url>
-    <loc>/conf/</loc>
+    <loc>/conference/</loc>
+  </url>
+  
+  <url>
+    <loc>/course/</loc>
   </url>
   
   <url>
