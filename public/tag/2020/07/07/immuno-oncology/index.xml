@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Immuno-Oncology | CSE Tracker</title>
-    <link>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/tag/2020/07/07/immuno-oncology/</link>
-      <atom:link href="https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/tag/2020/07/07/immuno-oncology/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/2020/07/07/immuno-oncology/</link>
+      <atom:link href="/tag/2020/07/07/immuno-oncology/index.xml" rel="self" type="application/rss+xml" />
     <description>Immuno-Oncology</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Immuno-Oncology</title>
-      <link>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/tag/2020/07/07/immuno-oncology/</link>
+      <link>/tag/2020/07/07/immuno-oncology/</link>
     </image>
     
     <item>
       <title>Clinical Endpoints and Treatment Effect in Immuno-Oncology</title>
-      <link>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/webinars/io/</link>
+      <link>/webinars/io/</link>
       <pubDate>Tue, 07 Jul 2020 13:00:00 +0000</pubDate>
-      <guid>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/webinars/io/</guid>
+      <guid>/webinars/io/</guid>
       <description>&lt;p&gt;Learn on adaptations to tumor response and progression criteria for immune therapies.and statistical methods to best describe and test for treatment effects in immuno-oncology randomized clinical trials.&lt;/p&gt;
 </description>
     </item>

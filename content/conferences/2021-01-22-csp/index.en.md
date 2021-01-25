@@ -15,7 +15,7 @@ url_register: https://ww2.amstat.org/meetings/csp/2021/registration.cfm
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-01-22T21:31:24-08:00'
+lastmod: ''
 featured: no
 image:
   caption: ''

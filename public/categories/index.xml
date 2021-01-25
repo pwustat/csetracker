@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | CSE Tracker</title>
-    <link>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/categories/</link>
-      <atom:link href="https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://app.netlify.com/sites/youthful-lamport-190a0e/settings/deploys/categories/</link>
+      <link>/categories/</link>
     </image>
     
   </channel>
