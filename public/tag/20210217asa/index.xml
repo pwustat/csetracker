@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conferences | CSE Tracker</title>
-    <link>/conference/</link>
-      <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
-    <description>Conferences</description>
+    <title>ASA | CSE Tracker</title>
+    <link>/tag/20210217asa/</link>
+      <atom:link href="/tag/20210217asa/index.xml" rel="self" type="application/rss+xml" />
+    <description>ASA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Conferences</title>
-      <link>/conference/</link>
+      <title>ASA</title>
+      <link>/tag/20210217asa/</link>
     </image>
     
     <item>
@@ -20,6 +20,14 @@
       <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
 &lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>event1</title>
+      <link>/event/event1/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/event/event1/</guid>
+      <description></description>
     </item>
     
   </channel>

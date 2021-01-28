@@ -22,6 +22,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+publishDate: '2021-01-24T21:57:17-08:00'
 ---
 The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.  
 <span style="color: salmon;">*Early registration Deadline: 2021-01-11*</span>
