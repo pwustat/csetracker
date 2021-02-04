@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>Avoid Dashboard Fatigue</title>
-      <link>/webinar/20200714rstudio/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/webinar/20200714rstudio/</guid>
-      <description>&lt;p&gt;In this webinar, we’ll show you an easy way teams can solve these problems using proactive email notifications through the blastula and gt packages, and how RStudio pro products can be used to scale out those solutions for enterprise applications.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Clinical Endpoints and Treatment Effect in Immuno-Oncology</title>
       <link>/webinar/20200707io/</link>
       <pubDate>Tue, 07 Jul 2020 13:00:00 +0000</pubDate>
@@ -50,9 +41,9 @@
     
     <item>
       <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
-      <link>/webinar/20200610estimand/</link>
+      <link>/webinar/20200610dia-covid-1/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/webinar/20200610estimand/</guid>
+      <guid>/webinar/20200610dia-covid-1/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;An overview of how COVID-19 progressed&lt;/li&gt;
 &lt;li&gt;How can pharmaceutical companies be better prepared? Should there be plans and clinical development strategies in place?&lt;/li&gt;

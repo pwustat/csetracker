@@ -86,6 +86,12 @@
 
 - id: btn_download
   translation: Download
+  
+- id: btn_audio
+  translation: Audio
+  
+- id: btn_register
+  translation: Register
 
 # About widget
 

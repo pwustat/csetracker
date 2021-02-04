@@ -53,6 +53,7 @@ url_slides:
 url_code:
 url_pdf:
 url_video:
+url_audio:
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

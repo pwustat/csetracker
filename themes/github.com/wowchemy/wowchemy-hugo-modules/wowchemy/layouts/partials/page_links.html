@@ -116,6 +116,17 @@
   {{ i18n "btn_video" }}
 </a>
 {{ end }}
+{{ with $page.Params.url_audio }}
+  {{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  {{ i18n "btn_audio" }}
+</a>
+{{ end }}
 {{ with $page.Params.url_register }}
   {{ $resource := $page.Resources.GetMatch . }}
   {{ if $resource }}
@@ -124,7 +135,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ "register" }}
+  {{ i18n "btn_register" }}
 </a>
 {{ end }}
 {{ with $page.Params.url_source }}
