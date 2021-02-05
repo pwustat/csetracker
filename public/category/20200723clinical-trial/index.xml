@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical Trial | CSE Tracker</title>
+    <link>/category/20200723clinical-trial/</link>
+      <atom:link href="/category/20200723clinical-trial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clinical Trial</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Clinical Trial</title>
+      <link>/category/20200723clinical-trial/</link>
+    </image>
+    
+    <item>
+      <title>Flexible Clinical Trial Design – Survival, Stepped-Wedge &amp; MAMS Designs</title>
+      <link>/webinar/20200723flexible-clinical-trial-design-survival-stepped-wedge-mams-designs/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200723flexible-clinical-trial-design-survival-stepped-wedge-mams-designs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Ronan Fitzpatrick (Head of Statistics, Statsols)&lt;/p&gt;
+&lt;p&gt;In this free webinar, we will explore a select few topics that highlight the additional flexibility available when designing modern clinical trials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Population Enrichment Trial Designs</title>
+      <link>/webinar/20200719enrich-trial/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200719enrich-trial/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Thomas Burnett (Cytel)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical Endpoints and Treatment Effect in Immuno-Oncology</title>
+      <link>/webinar/20200707io/</link>
+      <pubDate>Tue, 07 Jul 2020 13:00:00 +0000</pubDate>
+      <guid>/webinar/20200707io/</guid>
+      <description>&lt;p&gt;Learn on adaptations to tumor response and progression criteria for immune therapies.and statistical methods to best describe and test for treatment effects in immuno-oncology randomized clinical trials.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

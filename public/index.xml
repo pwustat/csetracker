@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSE Tracker</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSE Tracker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>CSE Tracker</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>2021 ASA Conference on Statistical Practice</title>
+      <link>/conference/20210217csp/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/conference/20210217csp/</guid>
+      <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
+&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/2020-07-10-test-from-code/</link>
+      <pubDate>Thu, 04 Feb 2021 21:07:41 -0800</pubDate>
+      <guid>/post/2020-07-10-test-from-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Clinical Trial Design – Survival, Stepped-Wedge &amp; MAMS Designs</title>
+      <link>/webinar/20200723flexible-clinical-trial-design-survival-stepped-wedge-mams-designs/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200723flexible-clinical-trial-design-survival-stepped-wedge-mams-designs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Ronan Fitzpatrick (Head of Statistics, Statsols)&lt;/p&gt;
+&lt;p&gt;In this free webinar, we will explore a select few topics that highlight the additional flexibility available when designing modern clinical trials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Population Enrichment Trial Designs</title>
+      <link>/webinar/20200719enrich-trial/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200719enrich-trial/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Thomas Burnett (Cytel)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical Endpoints and Treatment Effect in Immuno-Oncology</title>
+      <link>/webinar/20200707io/</link>
+      <pubDate>Tue, 07 Jul 2020 13:00:00 +0000</pubDate>
+      <guid>/webinar/20200707io/</guid>
+      <description>&lt;p&gt;Learn on adaptations to tumor response and progression criteria for immune therapies.and statistical methods to best describe and test for treatment effects in immuno-oncology randomized clinical trials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science in Action in Response to the Outbreak of COVID-19</title>
+      <link>/webinar/20200417ds-covid/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200417ds-covid/</guid>
+      <description>&lt;p&gt;This webinar series aims to promptly disseminate the newest data science methods, tools, and findings in response to the outbreak of COVID-19, facilitate the exchange of research ideas, and engage collaborations between data scientists and field experts worldwide to solve the COVID-19 crisis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

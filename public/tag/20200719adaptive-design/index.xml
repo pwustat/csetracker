@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptive Design | CSE Tracker</title>
+    <link>/tag/20200719adaptive-design/</link>
+      <atom:link href="/tag/20200719adaptive-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adaptive Design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Adaptive Design</title>
+      <link>/tag/20200719adaptive-design/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Population Enrichment Trial Designs</title>
+      <link>/webinar/20200719enrich-trial/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200719enrich-trial/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Thomas Burnett (Cytel)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
