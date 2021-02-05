@@ -1,26 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: webinar
-title: 
+title: Introduction to Population Enrichment Trial Designs
 register: Link
 register_url: 
 url_slides:
-url_video:
+url_video: https://www.youtube.com/watch?v=2oqVKCIBroY
 url_audio:
 url_code:
 url_pdf:
-
+slug: enrich-trial
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 
+date: 2020-07-19
 date_end: 
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: {{ .Date }}
-
+publishDate: 
+categories: Clinical Trial
 authors: []
-tags: []
+tags: [Adaptive Design, Enrichment Trial]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -65,3 +65,4 @@ address:
 summary:
 abstract:
 ---
+**Speaker:** Thomas Burnett (Cytel)

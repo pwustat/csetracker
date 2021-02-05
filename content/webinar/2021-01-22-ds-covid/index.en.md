@@ -3,6 +3,7 @@ type: webinar
 title: Data Science in Action in Response to the Outbreak of COVID-19
 date: '2020-04-17'
 date_end: '2020-04-18'
+all_day: true
 slug: ds-covid
 categories:
   - Data Science

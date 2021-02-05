@@ -1,26 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: webinar
-title: 
+title: "Flexible Clinical Trial Design – Survival, Stepped-Wedge & MAMS Designs"
 register: Link
 register_url: 
 url_slides:
-url_video:
+url_video: https://www.youtube.com/watch?v=YVZS1hKoDq8
 url_audio:
 url_code:
 url_pdf:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 
+date: 2020-07-23
 date_end: 
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: {{ .Date }}
-
+publishDate: 
+categories: [Clinical Trial, Adaptive Design]
 authors: []
-tags: []
+tags: [Survival Analysis, Multi-Arm, Multi-Stage]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -63,5 +63,9 @@ address:
   postcode:
   country:
 summary:
-abstract:
+
+abstract: 
 ---
+**Speaker**: Ronan Fitzpatrick (Head of Statistics, Statsols)  
+  
+In this free webinar, we will explore a select few topics that highlight the additional flexibility available when designing modern clinical trials.

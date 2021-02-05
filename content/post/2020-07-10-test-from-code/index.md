@@ -17,7 +17,7 @@ date_end:
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: {{ .Date }}
+publishDate: 2021-02-04T21:07:41-08:00
 
 authors: []
 tags: []
