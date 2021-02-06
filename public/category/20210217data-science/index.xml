@@ -18,17 +18,16 @@
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/conference/20210217csp/</guid>
       <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
-&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
+&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Data Science in Action in Response to the Outbreak of COVID-19</title>
-      <link>/webinar/20200417ds-covid/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/webinar/20200417ds-covid/</guid>
-      <description>&lt;p&gt;This webinar series aims to promptly disseminate the newest data science methods, tools, and findings in response to the outbreak of COVID-19, facilitate the exchange of research ideas, and engage collaborations between data scientists and field experts worldwide to solve the COVID-19 crisis.&lt;/p&gt;
-</description>
+      <title>Under the Hood of 1Point3Acres COVID-19 Map and Tracker</title>
+      <link>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Yu Guo (Uber) | Kyle Kirwan (Toro Data Labs) | Shan Lu (University of Massachusetts Medical School)&lt;br&gt;
+In this talk, Yu will first discuss how her volunteer team fought to have brought data transparency to CovidNet. Then, Kyle will present his team’s novel approach to continuous data quality monitoring, which combines semantic analysis with time series anomaly detection methods, ending with some examples showing issues (known and benign) detected in the 1point3acres dataset. Prof Shan Lu will also provide an example how the high quality data source can be highly useful for even non-biological scientists to produce meaningful analysis in a situation like COVID-19 pandemic.&lt;/p&gt;</description>
     </item>
     
   </channel>

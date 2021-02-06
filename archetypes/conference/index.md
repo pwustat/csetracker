@@ -1,11 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: conference
 title: "{{ replace .Name "-" " " | title }}"
-register: Link
+register: 
 register_url: 
-replay: Link
-replay_url: https://www.youtube.com/watch?v=vhfOkFl5PE8&feature=youtu.be
+
+url_slides: 
+url_code:
+url_pdf:
+url_video:
+url_website:
+url_agenda: 
+
 location:
 address:
   street:
@@ -13,17 +18,15 @@ address:
   region:
   postcode:
   country:
-summary:
-abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: {{ .Date }}
-date_end: {{ .Date }}
-all_day: false
+date_end: 
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: {{ .Date }}
+publishDate: 
 
 authors: []
 tags: []
@@ -47,12 +50,6 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your event's folder or a URL.
-url_slides: 
-url_code:
-url_pdf:
-url_video:
-
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -66,4 +63,9 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+summary:
+abstract:
 ---
+
+
+<!--more-->

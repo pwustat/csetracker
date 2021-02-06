@@ -5,20 +5,12 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Feb 2021 21:07:41 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/post/2020-07-10-test-from-code/</link>
-      <pubDate>Thu, 04 Feb 2021 21:07:41 -0800</pubDate>
-      <guid>/post/2020-07-10-test-from-code/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
