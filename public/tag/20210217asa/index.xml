@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ASA | CSE Tracker</title>
-    <link>/tag/20210217asa/</link>
-      <atom:link href="/tag/20210217asa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pwustat.github.io/csetracker/tag/20210217asa/</link>
+      <atom:link href="https://pwustat.github.io/csetracker/tag/20210217asa/index.xml" rel="self" type="application/rss+xml" />
     <description>ASA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://pwustat.github.io/csetracker/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>ASA</title>
-      <link>/tag/20210217asa/</link>
+      <link>https://pwustat.github.io/csetracker/tag/20210217asa/</link>
     </image>
     
     <item>
       <title>2021 ASA Conference on Statistical Practice</title>
-      <link>/conference/20210217csp/</link>
+      <link>https://pwustat.github.io/csetracker/conference/20210217csp/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/conference/20210217csp/</guid>
+      <guid>https://pwustat.github.io/csetracker/conference/20210217csp/</guid>
       <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
 &lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop 2020</title>
-      <link>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</link>
+      <link>https://pwustat.github.io/csetracker/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
+      <guid>https://pwustat.github.io/csetracker/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
       <description>&lt;p&gt;The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association. The conference lasts two days each year, with invited sessions co-chaired by statisticians from industry, academia, and the FDA. In addition, short courses on related topics are offered the day prior to the workshop.&lt;/p&gt;
 </description>
     </item>
