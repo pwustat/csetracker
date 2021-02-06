@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FDA | CSE Tracker</title>
+    <link>/tag/20201014fda/</link>
+      <atom:link href="/tag/20201014fda/index.xml" rel="self" type="application/rss+xml" />
+    <description>FDA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>FDA</title>
+      <link>/tag/20201014fda/</link>
+    </image>
+    
+    <item>
+      <title>12th Annual Sentinel Initiative Public Workshop</title>
+      <link>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
+      <description>&lt;p&gt;The Sentinel Initiative, an active medical product surveillance system, was established in response to the Food and Drug Administration (FDA) Amendments Act of 2007 and has become one of the Agency’s premier evidence generation platforms. The 12th Annual Sentinel Initiative Public Workshop is being convened on October 14, 2020 by the Robert J. Margolis, MD, Center for Health Policy under a cooperative agreement with the FDA. The workshop will be held as a virtual webinar and provides an opportunity to discuss recent achievements and developments and engage with the broader community of patients, consumers, and scientific stakeholders.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

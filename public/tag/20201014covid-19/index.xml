@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19 | CSE Tracker</title>
+    <link>/tag/20201014covid-19/</link>
+      <atom:link href="/tag/20201014covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>COVID-19</title>
+      <link>/tag/20201014covid-19/</link>
+    </image>
+    
+    <item>
+      <title>12th Annual Sentinel Initiative Public Workshop</title>
+      <link>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
+      <description>&lt;p&gt;The Sentinel Initiative, an active medical product surveillance system, was established in response to the Food and Drug Administration (FDA) Amendments Act of 2007 and has become one of the Agency’s premier evidence generation platforms. The 12th Annual Sentinel Initiative Public Workshop is being convened on October 14, 2020 by the Robert J. Margolis, MD, Center for Health Policy under a cooperative agreement with the FDA. The workshop will be held as a virtual webinar and provides an opportunity to discuss recent achievements and developments and engage with the broader community of patients, consumers, and scientific stakeholders.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Annual Real World Evidence Conference: Applying Lessons Learned from RWE in the Time of COVID-19 to the Future</title>
+      <link>/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</guid>
+      <description>&lt;p&gt;COVID-19 has disrupted the evidence-generation paradigm, resulting in the expanded use of novel technologies, data, and evidence. These new advancements not only improve clinical care and medical product development to fight the pandemic, but also have the potential to inform the future of drug development more broadly. This meeting will explore how COVID-19 has accelerated decision-maker understanding and use of real-world data (RWD) and real-world evidence (RWE) and its application in a post-COVID-19 environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Under the Hood of 1Point3Acres COVID-19 Map and Tracker</title>
+      <link>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</guid>
+      <description>&lt;p&gt;In this talk, Yu will first discuss how her volunteer team fought to have brought data transparency to CovidNet. Then, Kyle will present his team’s novel approach to continuous data quality monitoring, which combines semantic analysis with time series anomaly detection methods, ending with some examples showing issues (known and benign) detected in the 1point3acres dataset. Prof Shan Lu will also provide an example how the high quality data source can be highly useful for even non-biological scientists to produce meaningful analysis in a situation like COVID-19 pandemic.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
+      <link>/webinar/20200610dia/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200610dia/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;An overview of how COVID-19 progressed&lt;/li&gt;
+&lt;li&gt;How can pharmaceutical companies be better prepared? Should there be plans and clinical development strategies in place?&lt;/li&gt;
+&lt;li&gt;How do we build resiliency? What steps could/should be implemented at various stages to ‘flatten the curve’?&lt;/li&gt;
+&lt;li&gt;Vulnerable communities and minority populations are at a disadvantage. How do we address these health disparities?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

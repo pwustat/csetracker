@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical Trial | CSE Tracker</title>
+    <link>/category/20200610clinical-trial/</link>
+      <atom:link href="/category/20200610clinical-trial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clinical Trial</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Clinical Trial</title>
+      <link>/category/20200610clinical-trial/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
+      <link>/webinar/20200610dia/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/webinar/20200610dia/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;An overview of how COVID-19 progressed&lt;/li&gt;
+&lt;li&gt;How can pharmaceutical companies be better prepared? Should there be plans and clinical development strategies in place?&lt;/li&gt;
+&lt;li&gt;How do we build resiliency? What steps could/should be implemented at various stages to ‘flatten the curve’?&lt;/li&gt;
+&lt;li&gt;Vulnerable communities and minority populations are at a disadvantage. How do we address these health disparities?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
