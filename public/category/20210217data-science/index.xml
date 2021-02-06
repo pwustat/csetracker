@@ -26,8 +26,7 @@
       <link>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Yu Guo (Uber) | Kyle Kirwan (Toro Data Labs) | Shan Lu (University of Massachusetts Medical School)&lt;br&gt;
-In this talk, Yu will first discuss how her volunteer team fought to have brought data transparency to CovidNet. Then, Kyle will present his team’s novel approach to continuous data quality monitoring, which combines semantic analysis with time series anomaly detection methods, ending with some examples showing issues (known and benign) detected in the 1point3acres dataset. Prof Shan Lu will also provide an example how the high quality data source can be highly useful for even non-biological scientists to produce meaningful analysis in a situation like COVID-19 pandemic.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In this talk, Yu will first discuss how her volunteer team fought to have brought data transparency to CovidNet. Then, Kyle will present his team’s novel approach to continuous data quality monitoring, which combines semantic analysis with time series anomaly detection methods, ending with some examples showing issues (known and benign) detected in the 1point3acres dataset. Prof Shan Lu will also provide an example how the high quality data source can be highly useful for even non-biological scientists to produce meaningful analysis in a situation like COVID-19 pandemic.&lt;/p&gt;</description>
     </item>
     
   </channel>

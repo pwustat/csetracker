@@ -19,10 +19,10 @@
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
 {{ else if eq $item.Type "webinar" }}
-  {{ $show_authors_only = false }}
+  {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
 {{ else if eq $item.Type "conference" }}
-  {{ $show_authors_only = false }}
+  {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
 {{ end }}
 
@@ -36,21 +36,19 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{ $speaker := "" }}
+{{ if .Params.speaker }}
+  {{ $speaker = .Params.speaker | markdownify | emojify }}
+{{ end }}
+
+
 <div class="media stream-item">
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </h3>
-
-    {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style">
-        {{.}}
-      </div>
-    </a>
-    {{ end }}
-
+    
     <div class="stream-meta article-metadata">
 
       {{ if eq $item.Type "webinar" }}
@@ -93,6 +91,22 @@
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
     </div>
+    
+    {{ if .Params.speaker }}
+    <div class="row">
+      <div class="col-12 col-md-2"><p style="font-size:15px">{{ i18n "speaker" }}</p></div>
+      <div class="col-12 col-md-10"><p style="font-size:15px">{{ .Params.speaker | markdownify | emojify }}</p></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{end}}
+
+    {{ with $summary }}
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+      <div class="article-style">
+        {{.}}
+      </div>
+    </a>
+    {{ end }}
 
     {{ if $show_buttons }}
     <div class="btn-links">

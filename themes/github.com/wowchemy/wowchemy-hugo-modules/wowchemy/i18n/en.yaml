@@ -150,6 +150,9 @@
 - id: abstract
   translation: Abstract
 
+- id: speaker
+  translation: Speaker
+  
 - id: publication
   translation: Publication
 

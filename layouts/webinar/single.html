@@ -12,6 +12,14 @@
     {{ else }}
       <br>
     {{ end }}
+    
+    {{ if .Params.speaker }}
+    <div class="row">
+      <div class="col-12 col-md-2 pub-row-heading">{{ i18n "speaker" }}</div>
+      <div class="col-12 col-md-10">{{ .Params.speaker | markdownify | emojify }}</div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{end}}
 
     <div class="row">
       <div class="col-12 col-md-2 pub-row-heading">{{ "Time" }}</div>

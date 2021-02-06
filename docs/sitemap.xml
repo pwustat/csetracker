@@ -3,97 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tag/20210124asa/</loc>
-    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
+    <loc>/conference/20210217csp/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20210217asa/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/20210217conference/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/20210124data-science/</loc>
-    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
+    <loc>/category/20210217data-science/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/event/event1/</loc>
-    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/event/</loc>
-    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
+    <loc>/category/20210217statistics/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2021-01-24T17:58:45-08:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20201014covid-19/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20201014fda/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20201014medical-product/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/20201013pharma/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20201013r/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20201013r-in-pharma/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20201001duke-margolis/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20201001real-world-evidence/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/20201001real-world-evidence/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20201001rwe/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/webinar/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/webinar/20200714rstudio/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/20200714collaboration/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/20200714efficiency/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/tag/20200922pharma/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/20200714enterprise/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/tag/20200922workshop/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/20200714rstudio/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/tag/20200717causal-effects/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/20200714rstudio/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <loc>/category/20200717epidemiology/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/webinar/20200707io/</loc>
-    <lastmod>2020-07-07T13:00:00+00:00</lastmod>
+    <loc>/tag/20200717experimental-design/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/20200707clinical-trial/</loc>
-    <lastmod>2020-07-07T13:00:00+00:00</lastmod>
+    <loc>/tag/20200717health-outcome/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/20200707immuno-oncology/</loc>
-    <lastmod>2020-07-07T13:00:00+00:00</lastmod>
+    <loc>/webinar/20200717dahshu/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/20200610covid-19/</loc>
+    <loc>/category/20200610clinical-trial/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/webinar/20200610estimand/</loc>
+    <loc>/webinar/20200610dia/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,20 +183,6 @@
   </url>
   
   <url>
-    <loc>/category/20200610statistics/</loc>
-    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/webinar/20200417ds-covid/</loc>
-    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/conference/</loc>
-  </url>
-  
-  <url>
     <loc>/course/</loc>
   </url>
   
@@ -136,6 +192,10 @@
   
   <url>
     <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
   </url>
   
 </urlset>
