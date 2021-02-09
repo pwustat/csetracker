@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSE Tracker</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
-      <link>/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
     </image>
     
     <item>
       <title>2021 ASA Conference on Statistical Practice</title>
-      <link>/conference/20210217csp/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/conference/20210217csp/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</guid>
       <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
 &lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>12th Annual Sentinel Initiative Public Workshop</title>
-      <link>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2020101412th-annual-sentinel-initiative-public-workshop/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
       <description>&lt;p&gt;The Sentinel Initiative, an active medical product surveillance system, was established in response to the Food and Drug Administration (FDA) Amendments Act of 2007 and has become one of the Agency’s premier evidence generation platforms. The 12th Annual Sentinel Initiative Public Workshop is being convened on October 14, 2020 by the Robert J. Margolis, MD, Center for Health Policy under a cooperative agreement with the FDA. The workshop will be held as a virtual webinar and provides an opportunity to discuss recent achievements and developments and engage with the broader community of patients, consumers, and scientific stakeholders.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>R in Pharma</title>
-      <link>/conference/20201013r-in-pharma/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201013r-in-pharma/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/conference/20201013r-in-pharma/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201013r-in-pharma/</guid>
       <description>&lt;p&gt;The 2020 R/Pharma conference was held as a virtual event between October 13th and 15th October. Over 1000 people from 26 countries registered for the main conference. In addition, 11 workshops were held the week before the conference.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Annual Real World Evidence Conference: Applying Lessons Learned from RWE in the Time of COVID-19 to the Future</title>
-      <link>/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</guid>
       <description>&lt;p&gt;COVID-19 has disrupted the evidence-generation paradigm, resulting in the expanded use of novel technologies, data, and evidence. These new advancements not only improve clinical care and medical product development to fight the pandemic, but also have the potential to inform the future of drug development more broadly. This meeting will explore how COVID-19 has accelerated decision-maker understanding and use of real-world data (RWD) and real-world evidence (RWE) and its application in a post-COVID-19 environment.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Under the Hood of 1Point3Acres COVID-19 Map and Tracker</title>
-      <link>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</guid>
       <description>&lt;p&gt;In this talk, Yu will first discuss how her volunteer team fought to have brought data transparency to CovidNet. Then, Kyle will present his team’s novel approach to continuous data quality monitoring, which combines semantic analysis with time series anomaly detection methods, ending with some examples showing issues (known and benign) detected in the 1point3acres dataset. Prof Shan Lu will also provide an example how the high quality data source can be highly useful for even non-biological scientists to produce meaningful analysis in a situation like COVID-19 pandemic.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop 2020</title>
-      <link>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
       <description>&lt;p&gt;The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association. The conference lasts two days each year, with invited sessions co-chaired by statisticians from industry, academia, and the FDA. In addition, short courses on related topics are offered the day prior to the workshop.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using Multiple Natural Experimental Designs to Triangulate the Impact of a Policy Change</title>
-      <link>/webinar/20200717dahshu/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200717dahshu/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/webinar/20200717dahshu/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200717dahshu/</guid>
       <description>&lt;p&gt;Estimating causal effects is best done using randomized controlled trials. Regrettably, for many policy-relevant questions only observational data are available. In this talk we explore how (i) decomposing a policy into multiple parts, and (ii) leveraging multiple study designs can produce stronger, more defensible causal estimates.&lt;br&gt;
 We explore these statistical concepts through an example from health outcomes research: The feasibility and effectiveness of delaying surgery to transfer patients with acute type A aortic dissection—a catastrophic disease that requires prompt intervention—to higher-volume aortic surgery hospitals is unknown. We investigated the hypothesis that regionalizing care at high-volume hospitals for acute type A aortic dissections will lower mortality. We decomposed this hypothesis into subparts, investigating the isolated effect of transfer and the isolated effect of receiving care at a high-volume versus a low-volume facility. We used a preference-based instrumental variable design to address unmeasured confounding and matching to separate the effect of transfer from volume. We used the carefully deployed instrumental variable design, and contrast it with a decomposed propensity score study design, to gain deeper insights into the elements giving rise to confounding. We also develop a simple, but complete, form of sensitivity analysis to bound the effect of censored observations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
-      <link>/webinar/20200610dia/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/webinar/20200610dia/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;An overview of how COVID-19 progressed&lt;/li&gt;
 &lt;li&gt;How can pharmaceutical companies be better prepared? Should there be plans and clinical development strategies in place?&lt;/li&gt;
