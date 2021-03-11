@@ -1,9 +1,7 @@
 ---
 type: conference
 title: "{{ replace .Name "-" " " | title }}"
-register: 
-register_url: 
-
+url_register: 
 url_slides: 
 url_code:
 url_pdf:
@@ -23,7 +21,7 @@ address:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: {{ .Date }}
 date_end: 
-all_day: true
+all_day: no
 
 # Schedule page publish date (NOT event date).
 publishDate: 

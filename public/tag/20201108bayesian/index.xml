@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/category/20210217conference/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/category/20210217conference/index.xml" rel="self" type="application/rss+xml" />
-    <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <title>Bayesian | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20201108bayesian/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20201108bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/category/20210217conference/</link>
+      <title>Bayesian</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20201108bayesian/</link>
     </image>
-    
-    <item>
-      <title>2021 ASA Conference on Statistical Practice</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</guid>
-      <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
-&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Innovations in Bayesian Trials Virtual Symposium</title>
@@ -70,6 +61,30 @@ Ming-Hui Chen, Professor and Head of the Department of Statistics, The Universit
 &lt;li&gt;&lt;strong&gt;Leveraging external evidence in medical device decision-making&lt;/strong&gt;&lt;br&gt;
 Ram C. Tiwari, Ph.D. Head of Statistical Methodology, Bristol Myers Squibb&lt;br&gt;
 &lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3024363&amp;amp;sessionid=1&amp;amp;key=BD2CA3B8AB7D9856260F5287B7FE45B3&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Innovations in Bayesian Clinical Trials Interactive Workshops</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015innovations-in-bayesian-clinical-trials-interactive-workshops/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015innovations-in-bayesian-clinical-trials-interactive-workshops/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interactive Workshop 1: Essentials of Bayesian Statistics&lt;/strong&gt;&lt;br&gt;
+October 15, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;loginemail=peiwen.wu%40gilead.com&amp;amp;eventid=2691551&amp;amp;sessionid=1&amp;amp;key=109B6B88F22396785524BCAD42C50522&amp;amp;regTag=&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interactive Workshop 2: Bayesian Meta-Analysis and Hierarchical Models&lt;/strong&gt;&lt;br&gt;
+October 29, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;loginemail=peiwen.wu%40gilead.com&amp;amp;eventid=2691558&amp;amp;sessionid=1&amp;amp;key=8543F409BD3894D06579F92276808A5D&amp;amp;regTag=&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interactive Workshop 3: Prior Distributions (Part I)&lt;/strong&gt;&lt;br&gt;
+November 12, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;loginemail=peiwen.wu%40gilead.com&amp;amp;eventid=2691561&amp;amp;sessionid=1&amp;amp;key=238DEB3AC5D91E14B89095AF22C63D05&amp;amp;regTag=&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
