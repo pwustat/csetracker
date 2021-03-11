@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: /sitemap.xml
+Sitemap: https://master--youthful-lamport-190a0e.netlify.app/sitemap.xml

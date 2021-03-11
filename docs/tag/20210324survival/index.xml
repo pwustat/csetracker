@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survival | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210324survival/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210324survival/index.xml" rel="self" type="application/rss+xml" />
+    <description>survival</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 09:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>survival</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210324survival/</link>
+    </image>
+    
+    <item>
+      <title>PSI Journal Club: Survival Analysis</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210324psi-journal-club-survival-analysis/</link>
+      <pubDate>Wed, 24 Mar 2021 09:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210324psi-journal-club-survival-analysis/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Non‐proportional hazards in immuno‐oncology: Is an old perspective needed?&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Publication: Dominic Magirr, Pharmaceutical Statistics. 2020;1-16&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A weighted log‐rank test and associated effect estimator for cancer trials with delayed treatment effect&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Publication: Chang Yu, Xiang Huang, Hui Nian and Philip He, Pharmaceutical Statistics. 2021;1-23&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

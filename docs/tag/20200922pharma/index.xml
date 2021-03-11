@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pharma | CSE Tracker</title>
-    <link>/tag/20200922pharma/</link>
-      <atom:link href="/tag/20200922pharma/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200922pharma/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20200922pharma/index.xml" rel="self" type="application/rss+xml" />
     <description>Pharma</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Pharma</title>
-      <link>/tag/20200922pharma/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200922pharma/</link>
     </image>
     
     <item>
       <title>ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop 2020</title>
-      <link>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
       <description>&lt;p&gt;The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association. The conference lasts two days each year, with invited sessions co-chaired by statisticians from industry, academia, and the FDA. In addition, short courses on related topics are offered the day prior to the workshop.&lt;/p&gt;
 </description>
     </item>
