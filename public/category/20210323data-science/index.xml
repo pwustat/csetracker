@@ -25,12 +25,29 @@ Nonmembers: $35&lt;/p&gt;
     </item>
     
     <item>
+      <title>Veridical Data Science for biomedical discovery: detecting epistatic interactions with epiTree</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226veridical-data-science-for-biomedical-discovery-detecting-epistatic-interactions-with-epitree/</link>
+      <pubDate>Fri, 26 Feb 2021 09:30:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226veridical-data-science-for-biomedical-discovery-detecting-epistatic-interactions-with-epitree/</guid>
+      <description>&lt;p&gt;Data Science is a pillar of A.I. and has driven most of recent cutting-edge discoveries in biomedical research. In practice, Data Science has a life cycle (DSLC) that includes problem formulation, data collection, data cleaning, modeling, result interpretation and the drawing of conclusions. Human judgement calls are ubiquitous at every step of this process, e.g., in choosing data cleaning methods, predictive algorithms and data perturbations. Such judgment calls are often responsible for the &amp;ldquo;dangers&amp;rdquo; of A.I. To maximally mitigate these dangers, we developed a framework based on three core principles: Predictability, Computability and Stability (PCS). Through a workflow and documentation (in R Markdown or Jupyter Notebook) that allows one to manage the whole DSLC, the PCS framework unifies, streamlines and expands on the best practices of machine learning and statistics - bringing us a step forward towards veridical Data Science.&lt;/p&gt;
+&lt;p&gt;In this lecture, we will illustrate the PCS framework through the epiTree; a pipeline to discover epistasis interactions from genomics data. epiTree addresses issues of scaling of penetrance through decision trees, significance calling through PCS p-values, and combinatorial search over interactions through iterative random forests (which is a special case of PCS). Using UK Biobank data, we validate the epiTree pipeline through an application to the red-hair phenotype, where several genes are known to display epistatic interactions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2021 ASA Conference on Statistical Practice</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</guid>
       <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
 &lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COPSS-NISS COVID-19 Data Science Webinar Series</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201203copss-niss-covid-19-data-science-webinar-series/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201203copss-niss-covid-19-data-science-webinar-series/</guid>
+      <description>&lt;p&gt;The COPSS-NISS COVID-19 Data Science webinar series is co-organized by the Committee of the Presidents of Statistical Societies (COPSS) and its five charter member societies (ASA, ENAR, IMS, SSC, and WNAR), as well as NISS.  This twice a month webinar (1st and 3rd Thursday at noon EST) features the latest research that is positioned on the cusp of new understanding and analysis of COVID-19 pandemic data and promotes data-driven research and decision making to combat COVID-19.&lt;/p&gt;</description>
     </item>
     
     <item>

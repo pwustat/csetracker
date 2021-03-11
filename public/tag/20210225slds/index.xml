@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLDS | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210225slds/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210225slds/index.xml" rel="self" type="application/rss+xml" />
+    <description>SLDS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 11:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>SLDS</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210225slds/</link>
+    </image>
+    
+    <item>
+      <title>Illuminating the Black Box: Variable Importance Measures for Interpretable Machine Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210225illuminating-the-black-box-variable-importance-measures-for-interpretable-machine-learning/</link>
+      <pubDate>Thu, 25 Feb 2021 11:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210225illuminating-the-black-box-variable-importance-measures-for-interpretable-machine-learning/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Recording passcode&lt;/strong&gt;: 6cleDgX+&lt;/p&gt;
+&lt;p&gt;In this talk, Dr. Wolf will provide an overview of common machine learning methods (e.g. ensemble methods, support vector machines and neural networks) and discuss currently implemented importance measures that provide semi-quantitative measures of associations between variables and outcome.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
