@@ -12,6 +12,6 @@
     {{ $str = $str | append ((time $t2).Format site.Params.date_format) }}
   {{ end }}
   {{/* Show end time if not all day event. */}}
-  {{ if not .Params.all_day }}{{ $str = $str | append ((time $t2).Format (site.Params.time_format)) }}{{ end }}
+  {{ if not .Params.all_day }}{{ $str = $str | append ((time $t2).Format (site.Params.time_format)) }}{{ $str = $str | append "PST" }}{{ end }}
 {{ end }}
 {{ return (delimit $str " ") }}

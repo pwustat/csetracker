@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: webinar
 title: 
-register: Link
-register_url: 
+url_register: 
+url_freeregister: 
 url_slides:
 url_video:
 url_audio:
@@ -64,4 +64,5 @@ address:
   country:
 summary:
 abstract:
+speaker:
 ---

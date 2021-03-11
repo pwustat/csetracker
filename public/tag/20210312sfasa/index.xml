@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFASA | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210312sfasa/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210312sfasa/index.xml" rel="self" type="application/rss+xml" />
+    <description>SFASA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Mar 2021 16:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>SFASA</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210312sfasa/</link>
+    </image>
+    
+    <item>
+      <title>Identification of Putative Causal Loci in Whole-Genome Sequencing Data via Knockoff Statistics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</link>
+      <pubDate>Fri, 12 Mar 2021 16:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</guid>
+      <description>&lt;p&gt;The analysis of whole-genome sequencing studies is challenging due to the large number of rare variants in noncoding regions and the lack of natural units for testing. Existing association tests often suffer from insufficient power due to the substantially increased burden of multiple testing and correspondingly stringent multiple testing corrections that do not appropriately account for correlations. Using population-level whole-genome sequencing data, we propose a new statistical method to detect and localize rare and common risk variants based on a recently developed knockoff framework. The proposed approach includes a novel sequential knockoff generator for both rare and common variants in whole-genome sequencing studies, paired with a powerful screening method to comprehensively analyze rare and common variants across the genome. The proposed knockoff generator is scalable to large whole-genome sequencing datasets, and the screening method is powerful in detecting signals across the genome with guaranteed false discovery rate control. Furthermore, it can (1) prioritize causal variants over associations due to linkage disequilibrium thereby improving interpretability; (2) help distinguish the signal due to rare variants from shadow effects of significant common variants nearby; (3) integrate multiple knockoffs for improved power, stability and reproducibility; and (4) flexibly incorporate state-of-the-art and future association tests to achieve the benefits proposed here. In applications to whole-genome sequencing data from the Alzheimer’s Disease Sequencing Project (ADSP) and COPDGene samples from NHLBI Trans-Omics for Precision Medicine (TOPMed) Program we show that our method compared with conventional association tests can lead to substantially more discoveries, including several new ones and many previously implicated in GWAS studies on Alzheimer’s Disease and lung function phenotypes with much larger sample sizes.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

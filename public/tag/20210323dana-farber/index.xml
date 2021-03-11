@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dana-Farber | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323dana-farber/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210323dana-farber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dana-Farber</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Mar 2021 10:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Dana-Farber</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323dana-farber/</link>
+    </image>
+    
+    <item>
+      <title>The Importance of Representative Samples in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323the-importance-of-representative-samples-in-clinical-trials/</link>
+      <pubDate>Tue, 23 Mar 2021 10:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323the-importance-of-representative-samples-in-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ds.dfci.harvard.edu/event/data-science-zoominar-the-importance-of-representative-samples-in-clinical-trials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Event Page&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
