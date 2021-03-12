@@ -21,7 +21,7 @@ address:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: {{ .Date }}
 date_end: 
-all_day: no
+all_day: yes
 
 # Schedule page publish date (NOT event date).
 publishDate: 
@@ -64,6 +64,6 @@ projects: []
 summary:
 abstract:
 ---
-
+<span style="color: salmon;">*Early registration Deadline: Jan 11, 2021*</span>
 
 <!--more-->

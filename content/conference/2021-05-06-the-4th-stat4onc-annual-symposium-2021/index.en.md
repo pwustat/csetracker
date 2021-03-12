@@ -38,7 +38,7 @@ summary: ~
 abstract: ~
 ---
 Topics for this symposium include big data and genomics, novel dose-finding designs, umbrella/basket designs, drug combinations, immune-based oncology, and engagement of under-representative population in oncology research.  
-<span style="color: salmon;">*Early registration Deadline: 2021-03-31*</span>  
+<span style="color: salmon;">*Early registration Deadline: Mar 31, 2021*</span>  
 
 <!--more-->
   
