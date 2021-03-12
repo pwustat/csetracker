@@ -35,7 +35,8 @@ projects: []
 summary: ~
 abstract: ~
 ---
-ISBA2021 is the next biennial flagship meeting of the International Society of Bayesian Analysis (ISBA). The meeting will bring together an international community of statisticians interested in Bayesian inference and will feature the latest advances in theory, methods, computation, and applications of Bayesian statistics. Short courses will be offered on June 27, 2021 and the main conference will be from June 28, 2021 to July 2, 2021.  
+
 <span style="color: salmon;">*Early registration Deadline: Apr 15, 2021*</span>
 
 <!--more-->
+ISBA2021 is the next biennial flagship meeting of the International Society of Bayesian Analysis (ISBA). The meeting will bring together an international community of statisticians interested in Bayesian inference and will feature the latest advances in theory, methods, computation, and applications of Bayesian statistics. Short courses will be offered on June 27, 2021 and the main conference will be from June 28, 2021 to July 2, 2021.  
