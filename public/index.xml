@@ -87,11 +87,27 @@ Nonmembers: $35&lt;/p&gt;
     </item>
     
     <item>
+      <title>General Framework for Optimal Data-Driven Optimization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</link>
+      <pubDate>Fri, 19 Mar 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</guid>
+      <description>&lt;p&gt;We propose a statistically optimal approach to construct data-driven decisions for stochastic optimization problems. Fundamentally, a data-driven decision is simply a function that maps the available training data to a feasible action. It can always be expressed as the minimizer of a surrogate optimization model constructed from the data. The quality of a data-driven decision is measured by its out-of-sample risk. An additional quality measure is its out-of-sample disappointment, which we define as the probability that the out-of-sample risk exceeds the optimal value of the surrogate optimization model. The crux of data-driven optimization is that the data-generating probability measure is unknown. An ideal data-driven decision should therefore minimize the out-of-sample risk simultaneously with respect to every conceivable probability measure (and thus in particular with respect to the unknown true measure). Unfortunately, such ideal data-driven decisions are generally unavailable. This prompts us to seek data-driven decisions that minimize the out-of-sample risk subject to an upper bound on the out-of-sample disappointment - again simultaneously with respect to every conceivable probability measure. We prove that such Pareto-dominant data-driven decisions exist under conditions that allow for interesting applications: the unknown data-generating probability measure must belong to a parametric ambiguity set, and the corresponding parameters must admit a sufficient statistic that satisfies a large deviation principle. If these conditions hold, we can further prove that the surrogate optimization model generating the optimal data-driven decision must be a distributionally robust optimization problem constructed from the sufficient statistic and the rate function of its large deviation principle. This shows that the optimal method for mapping data to decisions is, in a rigorous statistical sense, to solve a distributionally robust optimization model. Maybe surprisingly, this result holds irrespective of whether the original stochastic optimization problem is convex or not and holds even when the training data is non-i.i.d. As a byproduct, our analysis reveals how the structural properties of the data-generating stochastic process impact the shape of the ambiguity set underlying the optimal distributionally robust optimization model. This is joint work with Tobias Sutter and Bart Van Parys.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Identification of Putative Causal Loci in Whole-Genome Sequencing Data via Knockoff Statistics</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</link>
       <pubDate>Fri, 12 Mar 2021 16:00:00 -0800</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</guid>
       <description>&lt;p&gt;The analysis of whole-genome sequencing studies is challenging due to the large number of rare variants in noncoding regions and the lack of natural units for testing. Existing association tests often suffer from insufficient power due to the substantially increased burden of multiple testing and correspondingly stringent multiple testing corrections that do not appropriately account for correlations. Using population-level whole-genome sequencing data, we propose a new statistical method to detect and localize rare and common risk variants based on a recently developed knockoff framework. The proposed approach includes a novel sequential knockoff generator for both rare and common variants in whole-genome sequencing studies, paired with a powerful screening method to comprehensively analyze rare and common variants across the genome. The proposed knockoff generator is scalable to large whole-genome sequencing datasets, and the screening method is powerful in detecting signals across the genome with guaranteed false discovery rate control. Furthermore, it can (1) prioritize causal variants over associations due to linkage disequilibrium thereby improving interpretability; (2) help distinguish the signal due to rare variants from shadow effects of significant common variants nearby; (3) integrate multiple knockoffs for improved power, stability and reproducibility; and (4) flexibly incorporate state-of-the-art and future association tests to achieve the benefits proposed here. In applications to whole-genome sequencing data from the Alzheimer’s Disease Sequencing Project (ADSP) and COPDGene samples from NHLBI Trans-Omics for Precision Medicine (TOPMed) Program we show that our method compared with conventional association tests can lead to substantially more discoveries, including several new ones and many previously implicated in GWAS studies on Alzheimer’s Disease and lung function phenotypes with much larger sample sizes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deciphering Neural Networks through the Lens of Feature Interactions</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</link>
+      <pubDate>Fri, 26 Feb 2021 12:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</guid>
+      <description>&lt;p&gt;Interpreting how neural networks work is a crucial and challenging task in machine learning. In this talk, I will discuss a novel framework, namely neural interaction detector (NID), for interpreting complex neural networks by detecting statistical interactions captured by the neural networks. Furthermore, we can construct a more interpretable generalized additive model that achieve similar prediction performance as the original neural networks. Experiment results on several applications, such as recommender systems, image recognition, sentiment prediction, demonstrate the effectiveness of NID.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -187,7 +203,42 @@ Nonmembers: $35&lt;/p&gt;
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201203copss-niss-covid-19-data-science-webinar-series/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201203copss-niss-covid-19-data-science-webinar-series/</guid>
-      <description>&lt;p&gt;The COPSS-NISS COVID-19 Data Science webinar series is co-organized by the Committee of the Presidents of Statistical Societies (COPSS) and its five charter member societies (ASA, ENAR, IMS, SSC, and WNAR), as well as NISS.  This twice a month webinar (1st and 3rd Thursday at noon EST) features the latest research that is positioned on the cusp of new understanding and analysis of COVID-19 pandemic data and promotes data-driven research and decision making to combat COVID-19.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The COPSS-NISS COVID-19 Data Science webinar series is co-organized by the Committee of the Presidents of Statistical Societies (COPSS) and its five charter member societies (ASA, ENAR, IMS, SSC, and WNAR), as well as NISS.  This twice a month webinar (1st and 3rd Thursday at noon EST) features the latest research that is positioned on the cusp of new understanding and analysis of COVID-19 pandemic data and promotes data-driven research and decision making to combat COVID-19.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;April 29, 2021&lt;/strong&gt; Communicating Statistics to the Media: Highs and Lows During the Pandemic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;April 15, 2021&lt;/strong&gt; Flying the Plane while Improving It – Learning from COVID Patient Data in Close to Real Time&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;April 1, 2021&lt;/strong&gt; Jim Yong Kim, M.D., PhD, Vice Chairman and Partner at Global Infrastructure Partners&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;March 18, 2021&lt;/strong&gt; COVID-19 One Year In: Navigating the Communications Triangle of Experts, Policy Makers, and the Public&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;March 4, 2021&lt;/strong&gt; Predictions, Role of Interventions and the Crisis of Virus in India: A Data Science Call to Arms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;February 18, 2021&lt;/strong&gt; Misinformation and Attitude Formation Analyzed Through Social Media Posts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;February 4, 2021&lt;/strong&gt; Insights into Host and Viral Genetics of SARS-CoV-2 Discussed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;January 21, 2021&lt;/strong&gt; Modeling Frameworks Provide Foundation for Inference and Projection of SARS-CoV-2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;January 7, 2021&lt;/strong&gt; Epidemiologic Modeling in the Spotlight in 3rd COPSS-NISS COVID-19 Webinar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;December 17, 2020&lt;/strong&gt; COPSS-NISS Webinar: Delphi’s COVIDcast Project Featured&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;December 3, 2020&lt;/strong&gt; Inaugural COPSS-NISS Webinar on the Statistics of COVID-19 Vaccine Trials - ‘Standing Room Only’!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -449,6 +500,14 @@ November 9, 2020&lt;br&gt;
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Optimization Methods for Machine Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</link>
+      <pubDate>Tue, 15 Sep 2020 12:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</guid>
+      <description>&lt;p&gt;Statistics and optimization are two of the foundational pillars of machine learning, and it is well recognized that optimization provides powerful tools for statistics. In recent years, techniques of the complementary nature, i.e., using statistics to improve optimization algorithms, have become increasingly successful. In this talk, we present several recent works on such statistical optimization methods. First, we discuss how to use statistical hypothesis testing to automatically adjust the learning rate of stochastic gradient methods in training deep neural networks. Then we overview some recent advances in structured nonconvex optimization using stochastic variance reduction techniques. Finally we will briefly explain how to leverage statistical preconditioning to accelerate distributed optimization.&lt;/p&gt;</description>
     </item>
     
     <item>

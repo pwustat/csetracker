@@ -92,6 +92,14 @@
     </item>
     
     <item>
+      <title>Statistical Optimization Methods for Machine Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</link>
+      <pubDate>Tue, 15 Sep 2020 12:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</guid>
+      <description>&lt;p&gt;Statistics and optimization are two of the foundational pillars of machine learning, and it is well recognized that optimization provides powerful tools for statistics. In recent years, techniques of the complementary nature, i.e., using statistics to improve optimization algorithms, have become increasingly successful. In this talk, we present several recent works on such statistical optimization methods. First, we discuss how to use statistical hypothesis testing to automatically adjust the learning rate of stochastic gradient methods in training deep neural networks. Then we overview some recent advances in structured nonconvex optimization using stochastic variance reduction techniques. Finally we will briefly explain how to leverage statistical preconditioning to accelerate distributed optimization.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>

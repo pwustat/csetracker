@@ -123,6 +123,16 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</loc>
+    <lastmod>2021-03-19T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210319optimization/</loc>
+    <lastmod>2021-03-19T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</loc>
     <lastmod>2021-03-12T16:00:00-08:00</lastmod>
   </url>
@@ -130,6 +140,16 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210312sfasa/</loc>
     <lastmod>2021-03-12T16:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</loc>
+    <lastmod>2021-02-26T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210226neural-networks/</loc>
+    <lastmod>2021-02-26T12:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -370,6 +390,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20200922workshop/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</loc>
+    <lastmod>2020-09-15T12:00:00-08:00</lastmod>
   </url>
   
   <url>

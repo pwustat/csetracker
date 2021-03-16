@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210319optimization/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210319optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 08:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Optimization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210319optimization/</link>
+    </image>
+    
+    <item>
+      <title>General Framework for Optimal Data-Driven Optimization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</link>
+      <pubDate>Fri, 19 Mar 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</guid>
+      <description>&lt;p&gt;We propose a statistically optimal approach to construct data-driven decisions for stochastic optimization problems. Fundamentally, a data-driven decision is simply a function that maps the available training data to a feasible action. It can always be expressed as the minimizer of a surrogate optimization model constructed from the data. The quality of a data-driven decision is measured by its out-of-sample risk. An additional quality measure is its out-of-sample disappointment, which we define as the probability that the out-of-sample risk exceeds the optimal value of the surrogate optimization model. The crux of data-driven optimization is that the data-generating probability measure is unknown. An ideal data-driven decision should therefore minimize the out-of-sample risk simultaneously with respect to every conceivable probability measure (and thus in particular with respect to the unknown true measure). Unfortunately, such ideal data-driven decisions are generally unavailable. This prompts us to seek data-driven decisions that minimize the out-of-sample risk subject to an upper bound on the out-of-sample disappointment - again simultaneously with respect to every conceivable probability measure. We prove that such Pareto-dominant data-driven decisions exist under conditions that allow for interesting applications: the unknown data-generating probability measure must belong to a parametric ambiguity set, and the corresponding parameters must admit a sufficient statistic that satisfies a large deviation principle. If these conditions hold, we can further prove that the surrogate optimization model generating the optimal data-driven decision must be a distributionally robust optimization problem constructed from the sufficient statistic and the rate function of its large deviation principle. This shows that the optimal method for mapping data to decisions is, in a rigorous statistical sense, to solve a distributionally robust optimization model. Maybe surprisingly, this result holds irrespective of whether the original stochastic optimization problem is convex or not and holds even when the training data is non-i.i.d. As a byproduct, our analysis reveals how the structural properties of the data-generating stochastic process impact the shape of the ambiguity set underlying the optimal distributionally robust optimization model. This is joint work with Tobias Sutter and Bart Van Parys.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Optimization Methods for Machine Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</link>
+      <pubDate>Tue, 15 Sep 2020 12:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</guid>
+      <description>&lt;p&gt;Statistics and optimization are two of the foundational pillars of machine learning, and it is well recognized that optimization provides powerful tools for statistics. In recent years, techniques of the complementary nature, i.e., using statistics to improve optimization algorithms, have become increasingly successful. In this talk, we present several recent works on such statistical optimization methods. First, we discuss how to use statistical hypothesis testing to automatically adjust the learning rate of stochastic gradient methods in training deep neural networks. Then we overview some recent advances in structured nonconvex optimization using stochastic variance reduction techniques. Finally we will briefly explain how to leverage statistical preconditioning to accelerate distributed optimization.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
