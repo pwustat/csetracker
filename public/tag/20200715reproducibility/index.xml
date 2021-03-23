@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducibility | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200715reproducibility/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20200715reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reproducibility</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Reproducibility</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200715reproducibility/</link>
+    </image>
+    
+    <item>
+      <title>Good Statistical Practices to Tackle the Lack of Reproducibility in Preclinical Research</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200715good-statistical-practices-to-tackle-the-lack-of-reproducibility-in-preclinical-research/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200715good-statistical-practices-to-tackle-the-lack-of-reproducibility-in-preclinical-research/</guid>
+      <description>&lt;p&gt;4 key learnings attendees will take away from this webinar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The value of good design of experiments&lt;/li&gt;
+&lt;li&gt;Consider Bayesian statistics to answer your question&lt;/li&gt;
+&lt;li&gt;P-values is not always what you’re looking for&lt;/li&gt;
+&lt;li&gt;Adopt a life-cycle over the long-run, not just study by study&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

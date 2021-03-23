@@ -110,6 +110,38 @@ Nonmembers: $35&lt;/p&gt;
     </item>
     
     <item>
+      <title>On Nearly Assumption-Free Tests of Nominal Confidence Interval Coverage for Causal Parameters Estimated by Machine Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200901on-nearly-assumption-free-tests-of-nominal-confidence-interval-coverage-for-causal-parameters-estimated-by-machine-learning/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200901on-nearly-assumption-free-tests-of-nominal-confidence-interval-coverage-for-causal-parameters-estimated-by-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Remote Data Science Teams</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728enabling-remote-data-science-teams/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728enabling-remote-data-science-teams/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Setting up a remote and collaborative R environment&lt;/li&gt;
+&lt;li&gt;Version control and Scrum&lt;/li&gt;
+&lt;li&gt;Using Shiny and RStudio Connect to share apps within and across teams&lt;/li&gt;
+&lt;li&gt;How to improve the UI and appearance of Shiny dashboards&lt;/li&gt;
+&lt;li&gt;How to scale Shiny dashboards to hundreds of users&lt;/li&gt;
+&lt;li&gt;How to build and grow a remote data science team&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Avoid Dashboard Fatigue</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200714avoid-dashboard-fatigue/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200714avoid-dashboard-fatigue/</guid>
+      <description>&lt;p&gt;In this webinar, we’ll show you an easy way teams can solve these problems using proactive email notifications through the blastula and gt packages, and how RStudio pro products can be used to scale out those solutions for enterprise applications. Dynamic emails are a powerful way to meet decision makers where they live - their inbox - while displaying exactly the results needed to influence decision-making. Best of all, these notifications are crafted with code, ensuring your work is still reproducible, durable, and credible.&lt;/p&gt;
+&lt;p&gt;We’ll demonstrate how this approach provides solutions for data quality monitoring, detecting and alerting on anomalies, and can even automate routine (but precisely formatted) KPI reporting.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA-JDS Webinar Series: Data Science in Action in Response to the Outbreak of COVID-19</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200417asa-jds-webinar-series-data-science-in-action-in-response-to-the-outbreak-of-covid-19/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>

@@ -63,11 +63,35 @@ November 9, 2020&lt;br&gt;
     </item>
     
     <item>
+      <title>Almost Matching Exactly</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200825almost-matching-exactly/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200825almost-matching-exactly/</guid>
+      <description>&lt;p&gt;We will present a matching framework for causal inference in the potential outcomes setting called Almost Matching Exactly. In this setting, the goal is to match treatment and control units on as many covariates as possible. We use machine learning on a hold-out training set to learn which variables are more important to match on; in essence, the method learns a distance metric for matching. This way, our methods retain the interpretability of matching, but also use distance metrics that are automated rather than being hand-designed, and are adaptive to the data rather than being fixed. The key constraint is that units are always matched on a set of covariates that together can predict the outcome well. Our techniques for discrete variables are called Fast Large-Scale Almost Matching Exactly (FLAME), Dynamic Almost Matching Exactly (DAME), Matching After Learning to Stretch (MALTS), and Adaptive Hyper-boxes. FLAME and DAME match units on a weighted Hamming distance for discrete variables using techniques that are natural for query processing in database management. FLAME rapidly produces high quality matched groups for discrete data, even for datasets that are too large to fit in memory. DAME produces higher quality matched groups than FLAME, but is slower. MALTS is useful for continuous variables and learns distance metrics that stretch the covariates in an interpretable way. Adaptive hyper-boxes can gracefully handle both discrete and continuous covariates flexibly and interpretably by optimizing a box around each treatment unit. These methods rival black box machine learning methods in their estimation accuracy but have the benefit of being interpretable and easier to troubleshoot.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>100 Stories of Causal Inference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200804100-stories-of-causal-inference/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200804100-stories-of-causal-inference/</guid>
+      <description>&lt;p&gt;In social science we learn from stories.  The best stories are anomalous and immutable.  We shall briefly discuss the theory of stories, the paradoxical nature of how we learn from them, and how this relates to forward and reverse causal inference.  Then we will go through some stories of applied causal inference and see what lessons we can draw from them.  We hope this talk will be useful as a model for how you can better learn from own experiences as participants and consumers of causal inference.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Design and Data Source Considerations from Pilot Investigations in Cardiovascular Disease</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference in the Light of Drug Repurposing for SARS-CoV-2</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707causal-inference-in-the-light-of-drug-repurposing-for-sars-cov-2/</link>
+      <pubDate>Tue, 07 Jul 2020 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707causal-inference-in-the-light-of-drug-repurposing-for-sars-cov-2/</guid>
+      <description>&lt;p&gt;Massive data collection holds the promise of a better understanding of complex phenomena and ultimately, of better decisions. An exciting opportunity in this regard stems from the growing availability of perturbation / intervention data (drugs, knockouts, overexpression, etc.) in biology. In order to obtain mechanistic insights from such data, a major challenge is the development of a framework that integrates observational and interventional data and allows predicting the effect of yet unseen interventions or transporting the effect of interventions observed in one context to another. I will present a framework for causal structure discovery based on such data and characterize the causal relationships that are identifiable in this setting. We end by demonstrating how these ideas can be applied for drug repurposing in the current SARS-CoV-2 crisis.&lt;/p&gt;</description>
     </item>
     
     <item>

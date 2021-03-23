@@ -115,6 +115,54 @@ Objective: The U.S. FDA’s Sentinel Initiative is engaged in numerous activitie
     </item>
     
     <item>
+      <title>NISS/Merck Meetup: Challenges and Potential in Vaccine Development</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200917niss-merck-meetup-challenges-and-potential-in-vaccine-development/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200917niss-merck-meetup-challenges-and-potential-in-vaccine-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigating US FDA Initiatives to Expedite Development, Approval, and Emergency Access to COVID-19 Treatments</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200730navigating-us-fda-initiatives-to-expedite-development-approval-and-emergency-access-to-covid-19-treatments/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200730navigating-us-fda-initiatives-to-expedite-development-approval-and-emergency-access-to-covid-19-treatments/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An overview of the Coronavirus Treatment Acceleration Program (CTAP)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Emergency Use Authorization (EUA) and single patient expanded access pathways and processes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Securing meetings with the FDA for COVID-19 programs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key clinical development guidances specific to COVID-19 programs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimands and Analysis Considerations for Clinical Trials Impacted by COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</link>
+      <pubDate>Thu, 16 Jul 2020 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;The use of the estimand framework to assess and address pandemic-related disruptions&lt;/li&gt;
+&lt;li&gt;Analysis strategies for pandemic-related missing and unobservable values&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Causal Inference in the Light of Drug Repurposing for SARS-CoV-2</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707causal-inference-in-the-light-of-drug-repurposing-for-sars-cov-2/</link>
+      <pubDate>Tue, 07 Jul 2020 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707causal-inference-in-the-light-of-drug-repurposing-for-sars-cov-2/</guid>
+      <description>&lt;p&gt;Massive data collection holds the promise of a better understanding of complex phenomena and ultimately, of better decisions. An exciting opportunity in this regard stems from the growing availability of perturbation / intervention data (drugs, knockouts, overexpression, etc.) in biology. In order to obtain mechanistic insights from such data, a major challenge is the development of a framework that integrates observational and interventional data and allows predicting the effect of yet unseen interventions or transporting the effect of interventions observed in one context to another. I will present a framework for causal structure discovery based on such data and characterize the causal relationships that are identifiable in this setting. We end by demonstrating how these ideas can be applied for drug repurposing in the current SARS-CoV-2 crisis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
