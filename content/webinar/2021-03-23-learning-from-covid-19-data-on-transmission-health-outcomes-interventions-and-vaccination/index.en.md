@@ -14,7 +14,7 @@ type: webinar
 url_register: https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#LCDTHOIV
 url_freeregister: ~
 url_slides: ~
-url_video: ~
+url_video: https://amstat.zoom.us/rec/share/gUdlIGYVF4pQmXUhV0f_kExynpf3knNlPTeRl2_cQhOiMdCq2oy-qzBpW6VLgSiO.iamhbBsT9BMAG-bt
 url_audio: ~
 url_code: ~
 url_pdf: ~
@@ -36,10 +36,11 @@ address:
   region: ~
   postcode: ~
   country: ~
-summary: ~
-speaker: "Xihong Lin (Harvard University)"
+summary: Video Passcode =TpGiw#6
+speaker: "Xihong Lin (Harvard University)"  
 abstract: 
 ---
+Video Passcode <span style="color: green;">*=TpGiw#6*</span>  
 <!--more-->
 **Registration**:    
 ASA Members: $20  
