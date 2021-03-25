@@ -24,7 +24,7 @@ address:
   country: ~
 date_end: ~
 all_day: yes
-publishDate: ~
+publishDate: '2021-03-12'
 authors: []
 featured: no
 image:

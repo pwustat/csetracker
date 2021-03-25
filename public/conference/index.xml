@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Conferences</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
     </image>
+    
+    <item>
+      <title>13th Annual University of Pennsylvania Conference on Statistical Issues in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2021 ASA Conference on Statistical Practice</title>

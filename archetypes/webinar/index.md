@@ -1,6 +1,5 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-draft: false
 type: webinar
 title: 
 url_register: 
