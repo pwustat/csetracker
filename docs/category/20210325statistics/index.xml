@@ -21,23 +21,6 @@
     </item>
     
     <item>
-      <title>PSI Journal Club: Survival Analysis</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210324psi-journal-club-survival-analysis/</link>
-      <pubDate>Wed, 24 Mar 2021 09:00:00 -0800</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210324psi-journal-club-survival-analysis/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Non‐proportional hazards in immuno‐oncology: Is an old perspective needed?&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Publication: Dominic Magirr, Pharmaceutical Statistics. 2020;1-16&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;A weighted log‐rank test and associated effect estimator for cancer trials with delayed treatment effect&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Publication: Chang Yu, Xiang Huang, Hui Nian and Philip He, Pharmaceutical Statistics. 2021;1-23&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>Identification of Putative Causal Loci in Whole-Genome Sequencing Data via Knockoff Statistics</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</link>
       <pubDate>Fri, 12 Mar 2021 16:00:00 -0800</pubDate>
@@ -51,7 +34,52 @@
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</guid>
       <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
-&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: 2021-01-11&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020 New England Rare Disease Statistics (NERDS) Webinar Series</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202011022020-new-england-rare-disease-statistics-nerds-webinar-series/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202011022020-new-england-rare-disease-statistics-nerds-webinar-series/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;1. Introductory NERDS Session&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;How to Select Endpoints and Quantify Treatment Effect in a Comparative Clinical Study on COVID-19 Diseases (L.J. Wei (Harvard))&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Borrowing Information from Historical Data: A Double-edged Sword (Ying Yuan (MD Anderson))&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://pfizerevents.webex.com/pfizerevents/lsr.php?RCID=13985dd6a939e0e4f8998620b4a428b1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recording&lt;/a&gt; (Password: hWFURkY5)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. CID Program Update&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Bayesian Adaptive Trial in Duchenne Muscular Dystrophy (Steve Lake (Wave Life Sciences))&lt;/li&gt;
+&lt;li&gt;Innovative Designs in the Rare Disease Setting (Dionne Price (FDA))&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfizerevents.webex.com/pfizerevents/lsr.php?RCID=1bc6e1d02b1002d62c170a17473e3d54&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recording&lt;/a&gt; (Password: pMbpsJT7)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Gene Therapy in Rare Disease Development&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gene Therapy: Opportunities and Challenges for the Treatment of Hemophilia (Michelle Casey (Pfizer))&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfizerevents.webex.com/pfizerevents/lsr.php?RCID=ccaaeefdd89e63e72892e9650397f117&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recording&lt;/a&gt; (Password: NERDS456)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Case Studies in Rare Disease Drug Development&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lessons from Notable New Drug Application involving External Controls (Margaret (Meg) Gamalo (Pfizer))&lt;/li&gt;
+&lt;li&gt;Design and Analysis of Drop the Losers Studies in the Rare Disease Setting (Glen Laird (Vertex))&lt;/li&gt;
+&lt;li&gt;A Case Study Using Nature History Data to Understand Long Term Disease Progression (Cindy Lu (Biogen))&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfizerevents.webex.com/pfizerevents/lsr.php?RCID=e227bbfd8699459593dffc5ce07cd795&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recording&lt;/a&gt; (Password: Pq8pBWgU)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Optimization Methods for Machine Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</link>
+      <pubDate>Tue, 15 Sep 2020 12:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200915statistical-optimization-methods-for-machine-learning/</guid>
+      <description>&lt;p&gt;Statistics and optimization are two of the foundational pillars of machine learning, and it is well recognized that optimization provides powerful tools for statistics. In recent years, techniques of the complementary nature, i.e., using statistics to improve optimization algorithms, have become increasingly successful. In this talk, we present several recent works on such statistical optimization methods. First, we discuss how to use statistical hypothesis testing to automatically adjust the learning rate of stochastic gradient methods in training deep neural networks. Then we overview some recent advances in structured nonconvex optimization using stochastic variance reduction techniques. Finally we will briefly explain how to leverage statistical preconditioning to accelerate distributed optimization.&lt;/p&gt;</description>
     </item>
     
     <item>
