@@ -13,7 +13,7 @@ tags:
 type: webinar
 url_freeregister: https://www.psiweb.org/events/event-item/2021/03/24/default-calendar/psi-journal-club-survival-analysis
 url_slides: ~
-url_video: ~
+url_video: false
 url_audio: ~
 url_code: ~
 url_pdf: ~

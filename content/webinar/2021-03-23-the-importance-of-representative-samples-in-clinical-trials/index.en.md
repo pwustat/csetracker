@@ -11,7 +11,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://dfci.zoom.us/webinar/register/WN_mLzYQovhQ-KZR1c40ZJMVA
 url_slides: ~
-url_video: ~
+url_video: false
 url_audio: ~
 url_code: ~
 url_pdf: ~

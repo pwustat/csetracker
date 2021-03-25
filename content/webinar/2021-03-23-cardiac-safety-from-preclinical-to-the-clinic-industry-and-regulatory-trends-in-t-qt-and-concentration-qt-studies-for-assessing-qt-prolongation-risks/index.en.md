@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Cardiac Safety from Preclinical to the Clinic – Industry and Regulatory Trends
   in T-QT and Concentration-QT Studies for Assessing QT Prolongation Risks
 author: ''
@@ -14,7 +15,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.pbss.org/aspx/eventInfo.aspx?eID=715
 url_slides: ~
-url_video: ~
+url_video: false
 url_audio: ~
 url_code: ~
 url_pdf: ~
