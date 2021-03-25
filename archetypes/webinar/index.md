@@ -1,11 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
+draft: false
 type: webinar
 title: 
 url_register: 
 url_freeregister: 
 url_slides:
-url_video:
+url_video: false
 url_agenda:
 url_website:
 url_audio:

@@ -53,21 +53,6 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210324psi/</loc>
-    <lastmod>2021-03-24T09:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210324psi-journal-club-survival-analysis/</loc>
-    <lastmod>2021-03-24T09:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210324survival/</loc>
-    <lastmod>2021-03-24T09:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323asa/</loc>
     <lastmod>2021-03-23T12:00:00-08:00</lastmod>
   </url>
@@ -169,6 +154,11 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210226career-development/</loc>
+    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210226psi/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -529,6 +519,11 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20200723statsols/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20200723survival/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   

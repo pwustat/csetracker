@@ -12,13 +12,14 @@ type: webinar
 url_register: ~
 url_freeregister: https://docs.google.com/forms/d/e/1FAIpQLScmO00DOxCQSihrU3lqttCgjCsEeMLjvApxmvxBU5WXpsT_wA/viewform
 url_slides: ~
-url_video: ~
+url_video: false
 url_audio: ~
 url_code: ~
 url_pdf: ~
+noreplay: true
 date_end: '2021-03-12T17:00:00-08:00'
 all_day: no
-publishDate: '2021-03-10T18:03:21-08:00'
+publishDate: 
 authors: []
 featured: no
 image:

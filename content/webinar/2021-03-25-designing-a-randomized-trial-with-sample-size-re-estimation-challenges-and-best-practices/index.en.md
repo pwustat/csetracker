@@ -14,7 +14,7 @@ type: webinar
 register: 
 url_freeregister: https://www.iddi.com/resources/scientific-webinars/designing-a-randomized-trial-with-sample-size-re-estimation-challenges-and-best-practices/
 url_slides: ~
-url_video: ~
+url_video: false
 url_audio: ~
 url_code: ~
 url_pdf: ~
