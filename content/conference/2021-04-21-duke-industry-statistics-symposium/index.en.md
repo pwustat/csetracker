@@ -23,7 +23,7 @@ address:
   country: ~
 date_end: '2021-04-23'
 all_day: yes
-publishDate: ~
+publishDate: '2021-03-12'
 authors: []
 featured: no
 image:

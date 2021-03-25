@@ -24,7 +24,7 @@ date_end:
 all_day: yes
 
 # Schedule page publish date (NOT event date).
-publishDate: 
+publishDate: '2020-01-01'
 
 authors: []
 tags: []
