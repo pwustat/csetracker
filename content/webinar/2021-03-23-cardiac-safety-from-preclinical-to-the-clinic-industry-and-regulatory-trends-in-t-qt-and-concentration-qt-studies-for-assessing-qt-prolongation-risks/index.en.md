@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: Cardiac Safety from Preclinical to the Clinic – Industry and Regulatory Trends
   in T-QT and Concentration-QT Studies for Assessing QT Prolongation Risks
 author: ''

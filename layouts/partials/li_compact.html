@@ -24,6 +24,9 @@
 {{ else if eq $item.Type "conference" }}
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
+{{ else if eq $item.Type "resource" }}
+  {{ $show_authors_only = true }}
+  {{ $show_buttons = true }}
 {{ end }}
 
 {{/* Get summary. */}}

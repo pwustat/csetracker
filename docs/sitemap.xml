@@ -3,23 +3,193 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
-    <lastmod>2021-03-25T09:00:00-08:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/categories/</loc>
-    <lastmod>2021-03-25T09:00:00-08:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210707biostatistics/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210325clinical-trial/</loc>
-    <lastmod>2021-03-25T09:00:00-08:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/</loc>
-    <lastmod>2021-03-25T09:00:00-08:00</lastmod>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tags/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202106282021-world-meeting-of-the-international-society-of-bayesian-analysis-isba2020/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210628bayesian/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/2021062741st-international-symposium-on-forecasting/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210627dia/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210627dia-2021-global-annual-meeting/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210602asa/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/categories/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210602data-science/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210517imaging/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210517statistics/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210506conference/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210506oncology/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506the-4th-stat4onc-annual-symposium-2021/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210421clinical-trial/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210421duke-industry-statistics-symposium/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
+    <lastmod>2021-04-08T16:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/202104082021-apr-bbsw-meetup/</loc>
+    <lastmod>2021-04-08T16:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210408bbsw/</loc>
+    <lastmod>2021-04-08T16:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/</loc>
+    <lastmod>2021-03-26T13:06:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210326causal-inference/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T12:51:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T12:37:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T12:48:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T12:42:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T12:55:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T12:35:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T13:03:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T12:59:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
+    <lastmod>2021-03-26T13:06:25-07:00</lastmod>
   </url>
   
   <url>
@@ -43,27 +213,17 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210325statistics/</loc>
-    <lastmod>2021-03-25T09:00:00-08:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210325real-world-evidence/</loc>
+    <lastmod>2021-03-25T08:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tags/</loc>
-    <lastmod>2021-03-25T09:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323asa/</loc>
-    <lastmod>2021-03-23T12:00:00-08:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210325synthetic-control-mythbusters/</loc>
+    <lastmod>2021-03-25T08:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323covid-19/</loc>
-    <lastmod>2021-03-23T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210323data-science/</loc>
     <lastmod>2021-03-23T12:00:00-08:00</lastmod>
   </url>
   
@@ -78,36 +238,6 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323dana-farber/</loc>
-    <lastmod>2021-03-23T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323the-importance-of-representative-samples-in-clinical-trials/</loc>
-    <lastmod>2021-03-23T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323cardiac-safety-from-preclinical-to-the-clinic-industry-and-regulatory-trends-in-t-qt-and-concentration-qt-studies-for-assessing-qt-prolongation-risks/</loc>
-    <lastmod>2021-03-23T08:30:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323cqt/</loc>
-    <lastmod>2021-03-23T08:30:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323pbss/</loc>
-    <lastmod>2021-03-23T08:30:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323tqt/</loc>
-    <lastmod>2021-03-23T08:30:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</loc>
     <lastmod>2021-03-19T08:00:00-07:00</lastmod>
   </url>
@@ -115,16 +245,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210319optimization/</loc>
     <lastmod>2021-03-19T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</loc>
-    <lastmod>2021-03-12T16:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210312sfasa/</loc>
-    <lastmod>2021-03-12T16:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -188,13 +308,8 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210217conference/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210211bias-and-randomization-1980-2020-2060/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -258,11 +373,6 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20201202causal-inference/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20201202cytel/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
@@ -270,16 +380,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201202head-to-head-comparisons-using-real-world-data-practical-application/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20201202real-world-evidence/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20201117bayesian/</loc>
-    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -364,11 +464,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20200929master-protocol/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20200929oncology/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -548,11 +643,6 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20200716dia/</loc>
-    <lastmod>2020-07-16T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</loc>
     <lastmod>2020-07-16T08:00:00-07:00</lastmod>
   </url>
@@ -615,10 +705,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200417asa-jds-webinar-series-data-science-in-action-in-response-to-the-outbreak-of-covid-19/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/</loc>
   </url>
   
   <url>

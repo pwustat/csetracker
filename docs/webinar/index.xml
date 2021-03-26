@@ -5,7 +5,7 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 09:00:00 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 16:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
@@ -13,11 +13,29 @@
     </image>
     
     <item>
+      <title>2021 Apr BBSW Meetup</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202104082021-apr-bbsw-meetup/</link>
+      <pubDate>Thu, 08 Apr 2021 16:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202104082021-apr-bbsw-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Designing a Randomized Trial with Sample Size Re-estimation - Challenges and Best Practices</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210325designing-a-randomized-trial-with-sample-size-re-estimation-challenges-and-best-practices/</link>
       <pubDate>Thu, 25 Mar 2021 09:00:00 -0800</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210325designing-a-randomized-trial-with-sample-size-re-estimation-challenges-and-best-practices/</guid>
       <description>&lt;p&gt;In this webinar, we will play the part of a sponsor consulting a statistician with the goal of designing a randomized trial with sample-size re-estimation. We will discuss the concept of conditional power and the promising-zone method, and we will present a pragmatic view of some issues, including when to plan the sample-size re-estimation in the course of the accrual, how to select the amount of sample-size increase, and how to operate such trials in practice. We will also discuss the pros- and cons- of using this type of design in relation to the clinical setting in which the trial is designed and endpoints it uses. Moreover, we will discuss the regulators’ views and illustrate our discussion with practical examples.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Synthetic Control Mythbusters</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210325synthetic-control-mythbusters/</link>
+      <pubDate>Thu, 25 Mar 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210325synthetic-control-mythbusters/</guid>
+      <description>&lt;p&gt;Synthetic control arms leverage real world data from various sources or evaluations of historical clinical data to demonstrate the positive effects of a new therapy or treatment, without the need to use a placebo or standard of care as a control.&lt;/p&gt;
+&lt;p&gt;Regulators in both the United States and Europe have responded positively to the use of SCAs in clinical development. While implementation of this method for regulatory purposes might be a new development, the majority of statistical and mathematical theories used for the design of SCAs are decades old and familiar to the scientific community. However, synthetic control arm studies are often subject to many misplaced industry myths.&lt;/p&gt;
+&lt;p&gt;During this webinar our panel of expert speakers from Cytel, Roche and CIOX Health, will share their insights and bust Real-World Data industry myths around the use of synthetic controls in research and regulatory applications. In addition, they will dispel and bust a number of myths related to their specific sector of industry, namely pharma, data vendor, and consulting.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,56 +52,11 @@ Nonmembers: $35&lt;/p&gt;
     </item>
     
     <item>
-      <title>The Importance of Representative Samples in Clinical Trials</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323the-importance-of-representative-samples-in-clinical-trials/</link>
-      <pubDate>Tue, 23 Mar 2021 10:00:00 -0800</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323the-importance-of-representative-samples-in-clinical-trials/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ds.dfci.harvard.edu/event/data-science-zoominar-the-importance-of-representative-samples-in-clinical-trials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Event Page&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cardiac Safety from Preclinical to the Clinic – Industry and Regulatory Trends in T-QT and Concentration-QT Studies for Assessing QT Prolongation Risks</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323cardiac-safety-from-preclinical-to-the-clinic-industry-and-regulatory-trends-in-t-qt-and-concentration-qt-studies-for-assessing-qt-prolongation-risks/</link>
-      <pubDate>Tue, 23 Mar 2021 08:30:00 -0800</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323cardiac-safety-from-preclinical-to-the-clinic-industry-and-regulatory-trends-in-t-qt-and-concentration-qt-studies-for-assessing-qt-prolongation-risks/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Symposium Agenda (All times are in Pacific Time)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Day 1: March 23, 2021&lt;/strong&gt;&lt;br&gt;
-&lt;span style=&#34;color:grey&#34;&gt;
-&lt;em&gt;8:30-8:45am:&lt;/em&gt; Introductions&lt;br&gt;
-&lt;em&gt;8:45-9:30am:&lt;/em&gt; State-of-the-Art: TQT studies (QT and C-QT Analyses, Challenges &amp;amp; Examples) - Borje Darpo (ERT)&lt;br&gt;
-&lt;em&gt;9:30-10:15am:&lt;/em&gt; Cardiac safety and TQT waivers (Types of studies - FIH, Food effect, DDI and timing, Issues with ECG collection) - Jay Mason (Spaulding)&lt;br&gt;
-&lt;em&gt;10:15-10:25am:&lt;/em&gt; Sponsor Presentation&lt;br&gt;
-&lt;em&gt;10:25-10:40am:&lt;/em&gt; Break&lt;br&gt;
-&lt;em&gt;10:40-11:25am:&lt;/em&gt; TBD&lt;br&gt;
-&lt;em&gt;11:25am-12:10pm:&lt;/em&gt; New opportunities for C-QT and C-QT in non-ideal scenarios - Lauren Lohmer (Nuventra)&lt;br&gt;
-&lt;em&gt;12:10pm-12:40pm:&lt;/em&gt; Panel Discussion&lt;br&gt;
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Day 2: March 24, 2021&lt;/strong&gt;&lt;br&gt;
-&lt;span style=&#34;color:grey&#34;&gt;
-&lt;em&gt;8:30-8:45am:&lt;/em&gt; Introductions&lt;br&gt;
-&lt;em&gt;8:45-9:30am:&lt;/em&gt; Case Study - Biologics C-QT project supporting a major readout - Yehong Wang (Genentech)&lt;br&gt;
-&lt;em&gt;9:30-10:15am:&lt;/em&gt; TBD&lt;br&gt;
-&lt;em&gt;10:15-10:25am:&lt;/em&gt; Sponsor Presentation&lt;br&gt;
-&lt;em&gt;10:25-10:40am:&lt;/em&gt; Break&lt;br&gt;
-&lt;em&gt;10:40-11:25am:&lt;/em&gt; Non-clinical aspects related to the ICH Q&amp;amp;A - Anne Bonneville (Terns Pharmaceuticals)&lt;br&gt;
-&lt;em&gt;11:25pm-12:05pm:&lt;/em&gt; Panel Discussion 
-&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>General Framework for Optimal Data-Driven Optimization</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</link>
       <pubDate>Fri, 19 Mar 2021 08:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</guid>
       <description>&lt;p&gt;We propose a statistically optimal approach to construct data-driven decisions for stochastic optimization problems. Fundamentally, a data-driven decision is simply a function that maps the available training data to a feasible action. It can always be expressed as the minimizer of a surrogate optimization model constructed from the data. The quality of a data-driven decision is measured by its out-of-sample risk. An additional quality measure is its out-of-sample disappointment, which we define as the probability that the out-of-sample risk exceeds the optimal value of the surrogate optimization model. The crux of data-driven optimization is that the data-generating probability measure is unknown. An ideal data-driven decision should therefore minimize the out-of-sample risk simultaneously with respect to every conceivable probability measure (and thus in particular with respect to the unknown true measure). Unfortunately, such ideal data-driven decisions are generally unavailable. This prompts us to seek data-driven decisions that minimize the out-of-sample risk subject to an upper bound on the out-of-sample disappointment - again simultaneously with respect to every conceivable probability measure. We prove that such Pareto-dominant data-driven decisions exist under conditions that allow for interesting applications: the unknown data-generating probability measure must belong to a parametric ambiguity set, and the corresponding parameters must admit a sufficient statistic that satisfies a large deviation principle. If these conditions hold, we can further prove that the surrogate optimization model generating the optimal data-driven decision must be a distributionally robust optimization problem constructed from the sufficient statistic and the rate function of its large deviation principle. This shows that the optimal method for mapping data to decisions is, in a rigorous statistical sense, to solve a distributionally robust optimization model. Maybe surprisingly, this result holds irrespective of whether the original stochastic optimization problem is convex or not and holds even when the training data is non-i.i.d. As a byproduct, our analysis reveals how the structural properties of the data-generating stochastic process impact the shape of the ambiguity set underlying the optimal distributionally robust optimization model. This is joint work with Tobias Sutter and Bart Van Parys.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Identification of Putative Causal Loci in Whole-Genome Sequencing Data via Knockoff Statistics</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</link>
-      <pubDate>Fri, 12 Mar 2021 16:00:00 -0800</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210312identification-of-putative-causal-loci-in-whole-genome-sequencing-data-via-knockoff-statistics/</guid>
-      <description>&lt;p&gt;The analysis of whole-genome sequencing studies is challenging due to the large number of rare variants in noncoding regions and the lack of natural units for testing. Existing association tests often suffer from insufficient power due to the substantially increased burden of multiple testing and correspondingly stringent multiple testing corrections that do not appropriately account for correlations. Using population-level whole-genome sequencing data, we propose a new statistical method to detect and localize rare and common risk variants based on a recently developed knockoff framework. The proposed approach includes a novel sequential knockoff generator for both rare and common variants in whole-genome sequencing studies, paired with a powerful screening method to comprehensively analyze rare and common variants across the genome. The proposed knockoff generator is scalable to large whole-genome sequencing datasets, and the screening method is powerful in detecting signals across the genome with guaranteed false discovery rate control. Furthermore, it can (1) prioritize causal variants over associations due to linkage disequilibrium thereby improving interpretability; (2) help distinguish the signal due to rare variants from shadow effects of significant common variants nearby; (3) integrate multiple knockoffs for improved power, stability and reproducibility; and (4) flexibly incorporate state-of-the-art and future association tests to achieve the benefits proposed here. In applications to whole-genome sequencing data from the Alzheimer’s Disease Sequencing Project (ADSP) and COPDGene samples from NHLBI Trans-Omics for Precision Medicine (TOPMed) Program we show that our method compared with conventional association tests can lead to substantially more discoveries, including several new ones and many previously implicated in GWAS studies on Alzheimer’s Disease and lung function phenotypes with much larger sample sizes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -118,6 +91,14 @@ Nonmembers: $35&lt;/p&gt;
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210225illuminating-the-black-box-variable-importance-measures-for-interpretable-machine-learning/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Recording passcode&lt;/strong&gt;: 6cleDgX+&lt;/p&gt;
 &lt;p&gt;In this talk, Dr. Wolf will provide an overview of common machine learning methods (e.g. ensemble methods, support vector machines and neural networks) and discuss currently implemented importance measures that provide semi-quantitative measures of associations between variables and outcome.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bias and Randomization 1980 - 2020 - 2060</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210211bias-and-randomization-1980-2020-2060/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210211bias-and-randomization-1980-2020-2060/</guid>
+      <description>&lt;p&gt;Learn on history of bias and randomization in oncology clinical trials and how to think about what constitutes persuasive evidence of treatment efficacy and safety.&lt;/p&gt;</description>
     </item>
     
     <item>
