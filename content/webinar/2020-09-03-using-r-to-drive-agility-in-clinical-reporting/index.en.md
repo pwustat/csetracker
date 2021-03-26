@@ -5,7 +5,6 @@ date: '2020-09-03'
 slug: using-r-to-drive-agility-in-clinical-reporting
 categories: []
 tags:
-  - RStudio
 type: webinar
 url_register: ~
 url_freeregister: ~

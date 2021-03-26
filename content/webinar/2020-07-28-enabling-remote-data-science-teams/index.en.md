@@ -6,7 +6,6 @@ slug: enabling-remote-data-science-teams
 categories:
   - Data Science
 tags:
-  - RStudio
 type: webinar
 url_register: ~
 url_freeregister: ~

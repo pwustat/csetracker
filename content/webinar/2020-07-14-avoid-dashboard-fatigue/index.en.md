@@ -6,7 +6,6 @@ slug: avoid-dashboard-fatigue
 categories:
   - Data Science
 tags:
-  - RStudio
 type: webinar
 url_register: ~
 url_freeregister: ~

@@ -5,7 +5,6 @@ date: '2020-08-26'
 slug: debunking-the-r-vs-python-myth
 categories: []
 tags:
-  - RStudio
 type: webinar
 url_register: ~
 url_freeregister: ~

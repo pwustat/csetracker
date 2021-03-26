@@ -8,7 +8,6 @@ categories:
   - Real-World Evidence
 tags:
   - Causal Inference
-  - Cytel
 type: webinar
 url_register: ~
 url_freeregister: ~

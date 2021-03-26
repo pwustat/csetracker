@@ -8,7 +8,7 @@ tags:
   - BBSW
 type: webinar
 url_register: ~
-url_freeregister: ~
+url_freeregister: https://bbsw-tickets.ticketleap.com/2021apr/
 url_slides: ~
 url_video: no
 url_agenda: ~

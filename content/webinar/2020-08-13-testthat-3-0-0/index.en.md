@@ -5,7 +5,6 @@ date: '2020-08-13'
 slug: testthat-3-0-0
 categories: []
 tags:
-  - RStudio
 type: webinar
 url_register: ~
 url_freeregister: ~

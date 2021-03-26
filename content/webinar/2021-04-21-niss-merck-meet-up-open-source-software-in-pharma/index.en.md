@@ -20,7 +20,7 @@ url_pdf: ~
 noreplay: true
 date_end: '2021-04-21T09:45:00-07:00'
 all_day: no
-publishDate: 
+publishDate: '2021-03-21T09:45:00-07:00'
 authors: []
 featured: no
 image:

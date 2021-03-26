@@ -6,7 +6,6 @@ slug: innovations-in-bayesian-clinical-trials-interactive-workshops
 categories:
   - Clinical Trial
 tags:
-  - Cytel
   - Bayesian
 type: webinar
 url_register: ~

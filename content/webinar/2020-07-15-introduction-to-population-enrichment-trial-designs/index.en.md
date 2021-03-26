@@ -7,7 +7,6 @@ categories:
   - Clinical Trial
 tags:
   - Adaptive Designs
-  - Cytel
 type: webinar
 url_register: ~
 url_freeregister: ~
