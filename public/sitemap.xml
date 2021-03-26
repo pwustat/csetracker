@@ -143,6 +143,16 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210325real-world-evidence/</loc>
+    <lastmod>2021-03-25T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210325synthetic-control-mythbusters/</loc>
+    <lastmod>2021-03-25T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323covid-19/</loc>
     <lastmod>2021-03-23T12:00:00-08:00</lastmod>
   </url>
@@ -155,16 +165,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323learning-from-covid-19-data-on-transmission-health-outcomes-interventions-and-vaccination/</loc>
     <lastmod>2021-03-23T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323dana-farber/</loc>
-    <lastmod>2021-03-23T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323the-importance-of-representative-samples-in-clinical-trials/</loc>
-    <lastmod>2021-03-23T10:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -268,6 +268,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210211bias-and-randomization-1980-2020-2060/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210112estimand/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url>
@@ -339,11 +344,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201202head-to-head-comparisons-using-real-world-data-practical-application/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20201202real-world-evidence/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   

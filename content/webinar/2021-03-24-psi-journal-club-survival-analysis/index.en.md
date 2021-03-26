@@ -11,12 +11,13 @@ tags:
   - PSI
   - survival
 type: webinar
-url_freeregister: https://www.psiweb.org/events/event-item/2021/03/24/default-calendar/psi-journal-club-survival-analysis
+url_freeregister: 
 url_slides: ~
-url_video: false
+url_video: https://www.psiweb.org/vod/item/psi-journal-club-webinar-survival-analysis
 url_audio: ~
 url_code: ~
 url_pdf: ~
+url_website: https://www.psiweb.org/vod/item/psi-journal-club-webinar-survival-analysis
 date_end: '2021-03-24T10:00:00-08:00'
 all_day: no
 publishDate: '2021-03-10T16:35:53-08:00'
@@ -35,7 +36,7 @@ address:
   region: ~
   postcode: ~
   country: ~
-summary: "Non-proportional hazards in immuno-oncology: Is an old perspective needed?; A weighted log-rank test and associated effect estimator for cancer trials with delayed treatment effect."
+summary: "Talk 1: Non-proportional hazards in immuno-oncology: Is an old perspective needed? Talk 2: A weighted log-rank test and associated effect estimator for cancer trials with delayed treatment effect."
 speaker: "Dominic Magirr (Novartis) | Chang Yu (Vanderbilt University)"
 abstract: 
 ---

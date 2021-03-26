@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: The Importance of Representative Samples in Clinical Trials
 author: ''
 date: '2021-03-23T10:00:00-08:00'

@@ -12,9 +12,9 @@ tags:
   - Sample Size Re-estimation
 type: webinar
 register: 
-url_freeregister: https://www.iddi.com/resources/scientific-webinars/designing-a-randomized-trial-with-sample-size-re-estimation-challenges-and-best-practices/
+url_freeregister: 
 url_slides: ~
-url_video: false
+url_video: https://www.youtube.com/watch?v=vcH4DCuEihE
 url_audio: ~
 url_code: ~
 url_pdf: ~
