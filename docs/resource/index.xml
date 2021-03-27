@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/resource/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/resource/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSE Tracker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>CSE Tracker</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/</link>
+    </image>
+    
+    <item>
+      <title>Duke-Margolis Seminars</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundations of Data Science - Virtual Talk Series</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Seminar on Selective Inference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Institute of Statistical Sciences (NISS) Meeting Recordings</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Information Processing Systems (NeurIPS) Video Archives</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Causal Inference Seminar</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Seminar on  Mathematical Foundations of Data Science</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Royal Statistical Society (RSS) Video and Audio</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Royal Statistical Society (RSS) Webinars</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio webinars</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statisticians in the Pharmaceutical Industry (PSI) Video-on-Demand</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estimand | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210112estimand/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210112estimand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Estimand</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Estimand</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210112estimand/</link>
+    </image>
+    
+    <item>
+      <title>PIONEERing estimands in Clinical Research</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210112pioneering-estimands-in-clinical-research/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210112pioneering-estimands-in-clinical-research/</guid>
+      <description>&lt;p&gt;Bringing estimands to life through a real case study. A year on after the final ICH E9 estimands addendum was published, we bring estimands to life from a real example from protocol to press release. Members of the estimands Implementation Working Group (EIWG) will describe the background and study objectives, intercurrent events of interest and chosen estimands in the PIONEER study.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Joint PSI, EFSPI &amp; ASA BIOP Webinar: Estimands</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201105joint-psi-efspi-asa-biop-webinar-estimands/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201105joint-psi-efspi-asa-biop-webinar-estimands/</guid>
+      <description>&lt;p&gt;The following aspects are covered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with proposals submitted to FDA and EMA on implementation of Estimands&lt;/li&gt;
+&lt;li&gt;How the estimands framework facilitates interaction with clinicians in different therapeutic areas&lt;/li&gt;
+&lt;li&gt;Common problems where the Estimands framework can help advance research&lt;/li&gt;
+&lt;li&gt;Where further discussions and research is required, and particularly where industry and regulators can collaborate&lt;/li&gt;
+&lt;li&gt;Issues related to alignment between different estimators to a given estimand&lt;/li&gt;
+&lt;li&gt;Special considerations of estimand framework in COVID-19 vaccine trials&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimands: Not Just a Statistical Issue</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200813estimands-not-just-a-statistical-issue/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200813estimands-not-just-a-statistical-issue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimands and Analysis Considerations for Clinical Trials Impacted by COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</link>
+      <pubDate>Thu, 16 Jul 2020 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;The use of the estimand framework to assess and address pandemic-related disruptions&lt;/li&gt;
+&lt;li&gt;Analysis strategies for pandemic-related missing and unobservable values&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;An overview of how COVID-19 progressed&lt;/li&gt;
+&lt;li&gt;How can pharmaceutical companies be better prepared? Should there be plans and clinical development strategies in place?&lt;/li&gt;
+&lt;li&gt;How do we build resiliency? What steps could/should be implemented at various stages to ‘flatten the curve’?&lt;/li&gt;
+&lt;li&gt;Vulnerable communities and minority populations are at a disadvantage. How do we address these health disparities?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimands in Oncology - A Virtual Panel Discussion</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200524estimands-in-oncology-a-virtual-panel-discussion/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200524estimands-in-oncology-a-virtual-panel-discussion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

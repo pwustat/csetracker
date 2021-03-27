@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal Inference | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210326causal-inference/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210326causal-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal Inference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Causal Inference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210326causal-inference/</link>
+    </image>
+    
+    <item>
+      <title>Online Causal Inference Seminar</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal reasoning in survival and time-to-event analyses</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201204causal-reasoning-in-survival-and-time-to-event-analyses/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201204causal-reasoning-in-survival-and-time-to-event-analyses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head to Head Comparisons Using Real World Data - Practical Application</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201202head-to-head-comparisons-using-real-world-data-practical-application/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201202head-to-head-comparisons-using-real-world-data-practical-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propensity score weighting for covariate adjustment in randomized clinical trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201124propensity-score-weighting-for-covariate-adjustment-in-randomized-clinical-trials/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201124propensity-score-weighting-for-covariate-adjustment-in-randomized-clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytel’s New Horizons Webinar Series</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201005cytel-s-new-horizons-webinar-series/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201005cytel-s-new-horizons-webinar-series/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Replay links available&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Increasing the Power of Platform Trials: Efficient Multi-Arm Multi-Stage Adaptive Designs&lt;/strong&gt;&lt;br&gt;
+Speaker: Cyrus Mehta&lt;br&gt;
+October 5, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2713671&amp;amp;sessionid=1&amp;amp;key=DEC35F5F99E3B346CD3428FB63E00EA1&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Value of Detailed Statistical Trial Simulations – A Case Study for Rare Diseases&lt;/strong&gt;&lt;br&gt;
+Speaker: Ursula Garczarek&lt;br&gt;
+October 26, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2754403&amp;amp;sessionid=1&amp;amp;key=5190486304A26AF8A168A9EB5762E412&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Key Design Considerations for Adaptive Platform Trials&lt;/strong&gt;&lt;br&gt;
+Speaker: Jay Park&lt;br&gt;
+November 2, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2803072&amp;amp;sessionid=1&amp;amp;key=B00AA58DD8F16FD72214ED83EAE3F56C&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AI in Clinical Research: Prediction and Causal Inference&lt;/strong&gt;&lt;br&gt;
+Speaker: Alind Gupta&lt;br&gt;
+November 9, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2803079&amp;amp;sessionid=1&amp;amp;key=F30F710608E4E55C3E02D0193E42FEAB&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Study Design Considerations and an Update on the Pilot Investigation in Cancer</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almost Matching Exactly</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200825almost-matching-exactly/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200825almost-matching-exactly/</guid>
+      <description>&lt;p&gt;We will present a matching framework for causal inference in the potential outcomes setting called Almost Matching Exactly. In this setting, the goal is to match treatment and control units on as many covariates as possible. We use machine learning on a hold-out training set to learn which variables are more important to match on; in essence, the method learns a distance metric for matching. This way, our methods retain the interpretability of matching, but also use distance metrics that are automated rather than being hand-designed, and are adaptive to the data rather than being fixed. The key constraint is that units are always matched on a set of covariates that together can predict the outcome well. Our techniques for discrete variables are called Fast Large-Scale Almost Matching Exactly (FLAME), Dynamic Almost Matching Exactly (DAME), Matching After Learning to Stretch (MALTS), and Adaptive Hyper-boxes. FLAME and DAME match units on a weighted Hamming distance for discrete variables using techniques that are natural for query processing in database management. FLAME rapidly produces high quality matched groups for discrete data, even for datasets that are too large to fit in memory. DAME produces higher quality matched groups than FLAME, but is slower. MALTS is useful for continuous variables and learns distance metrics that stretch the covariates in an interpretable way. Adaptive hyper-boxes can gracefully handle both discrete and continuous covariates flexibly and interpretably by optimizing a box around each treatment unit. These methods rival black box machine learning methods in their estimation accuracy but have the benefit of being interpretable and easier to troubleshoot.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>100 Stories of Causal Inference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200804100-stories-of-causal-inference/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200804100-stories-of-causal-inference/</guid>
+      <description>&lt;p&gt;In social science we learn from stories.  The best stories are anomalous and immutable.  We shall briefly discuss the theory of stories, the paradoxical nature of how we learn from them, and how this relates to forward and reverse causal inference.  Then we will go through some stories of applied causal inference and see what lessons we can draw from them.  We hope this talk will be useful as a model for how you can better learn from own experiences as participants and consumers of causal inference.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design and Data Source Considerations from Pilot Investigations in Cardiovascular Disease</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference in the Light of Drug Repurposing for SARS-CoV-2</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707causal-inference-in-the-light-of-drug-repurposing-for-sars-cov-2/</link>
+      <pubDate>Tue, 07 Jul 2020 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707causal-inference-in-the-light-of-drug-repurposing-for-sars-cov-2/</guid>
+      <description>&lt;p&gt;Massive data collection holds the promise of a better understanding of complex phenomena and ultimately, of better decisions. An exciting opportunity in this regard stems from the growing availability of perturbation / intervention data (drugs, knockouts, overexpression, etc.) in biology. In order to obtain mechanistic insights from such data, a major challenge is the development of a framework that integrates observational and interventional data and allows predicting the effect of yet unseen interventions or transporting the effect of interventions observed in one context to another. I will present a framework for causal structure discovery based on such data and characterize the causal relationships that are identifiable in this setting. We end by demonstrating how these ideas can be applied for drug repurposing in the current SARS-CoV-2 crisis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Time for Causal Inference is Now</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
