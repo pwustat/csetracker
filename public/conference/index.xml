@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Conferences</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
     </image>
+    
+    <item>
+      <title>JSM</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: May 31, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2021 UW Biostatistics Online Summer Institutes</title>
@@ -21,12 +29,11 @@
     </item>
     
     <item>
-      <title>2021 World Meeting of the International Society of Bayesian Analysis (ISBA2020)</title>
+      <title>2021 World Meeting of the International Society of Bayesian Analysis (ISBA)</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106282021-world-meeting-of-the-international-society-of-bayesian-analysis-isba2020/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106282021-world-meeting-of-the-international-society-of-bayesian-analysis-isba2020/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Apr 15, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;ISBA2021 is the next biennial flagship meeting of the International Society of Bayesian Analysis (ISBA). The meeting will bring together an international community of statisticians interested in Bayesian inference and will feature the latest advances in theory, methods, computation, and applications of Bayesian statistics. Short courses will be offered on June 27, 2021 and the main conference will be from June 28, 2021 to July 2, 2021.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 15, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,7 +53,7 @@
     </item>
     
     <item>
-      <title>2021 Symposium on Data Science &amp; Statistics</title>
+      <title>2021 Symposium on Data Science &amp; Statistics (SDSS)</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</guid>
@@ -59,6 +66,14 @@
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration ends on May 2, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First CANSSI-NISS Health Data Science Workshop</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506first-canssi-niss-health-data-science-workshop/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506first-canssi-niss-health-data-science-workshop/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -75,6 +90,14 @@
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210421duke-industry-statistics-symposium/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210421duke-industry-statistics-symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIA/FDA Biostatistics Industry and Regulator Forum</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</guid>
       <description></description>
     </item>
     
@@ -228,6 +251,30 @@ November 9, 2020&lt;br&gt;
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
       <description>&lt;p&gt;The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association. The conference lasts two days each year, with invited sessions co-chaired by statisticians from industry, academia, and the FDA. In addition, short courses on related topics are offered the day prior to the workshop.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Data Science Conference on COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200828data-science-conference-on-covid-19/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200828data-science-conference-on-covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duke MArgolis: Establishing a High-Quality Real-World Data Ecosystem</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200713duke-margolis-establishing-a-high-quality-real-world-data-ecosystem/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200713duke-margolis-establishing-a-high-quality-real-world-data-ecosystem/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EqffCIVzFt0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Day 1 video&lt;/a&gt;; &lt;a href=&#34;https://www.youtube.com/watch?v=Qm-qD8DTgOE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Day 2 video&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Conference 2020</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200127rstudio-conference/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200127rstudio-conference/</guid>
+      <description></description>
     </item>
     
   </channel>

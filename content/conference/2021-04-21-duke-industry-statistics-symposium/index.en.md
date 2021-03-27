@@ -32,7 +32,7 @@ image:
   preview_only: no
 slides: ''
 projects: []
-summary: ~
+summary: This year's theme is Emerging Clinical Initiatives in Plarmaceutical Development.
 abstract: ~
 ---
 

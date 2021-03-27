@@ -11,9 +11,9 @@ type: webinar
 url_register: ~
 url_freeregister: ~
 url_slides: ~
-url_video: https://www.psiweb.org/vod/item/psi-journal-club-bayesian-methods
+url_video: 
 url_agenda: ~
-url_website: ~
+url_website: https://www.psiweb.org/vod/item/psi-journal-club-bayesian-methods
 url_audio: ~
 url_code: ~
 url_pdf: ~

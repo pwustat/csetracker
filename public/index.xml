@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>JSM</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: May 31, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2021 UW Biostatistics Online Summer Institutes</title>
@@ -21,12 +29,11 @@
     </item>
     
     <item>
-      <title>2021 World Meeting of the International Society of Bayesian Analysis (ISBA2020)</title>
+      <title>2021 World Meeting of the International Society of Bayesian Analysis (ISBA)</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106282021-world-meeting-of-the-international-society-of-bayesian-analysis-isba2020/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106282021-world-meeting-of-the-international-society-of-bayesian-analysis-isba2020/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Apr 15, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;ISBA2021 is the next biennial flagship meeting of the International Society of Bayesian Analysis (ISBA). The meeting will bring together an international community of statisticians interested in Bayesian inference and will feature the latest advances in theory, methods, computation, and applications of Bayesian statistics. Short courses will be offered on June 27, 2021 and the main conference will be from June 28, 2021 to July 2, 2021.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 15, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,7 +53,7 @@
     </item>
     
     <item>
-      <title>2021 Symposium on Data Science &amp; Statistics</title>
+      <title>2021 Symposium on Data Science &amp; Statistics (SDSS)</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</guid>
@@ -59,6 +66,14 @@
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration ends on May 2, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First CANSSI-NISS Health Data Science Workshop</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506first-canssi-niss-health-data-science-workshop/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506first-canssi-niss-health-data-science-workshop/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,6 +102,14 @@
     </item>
     
     <item>
+      <title>DIA/FDA Biostatistics Industry and Regulator Forum</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>13th Annual University of Pennsylvania Conference on Statistical Issues in Clinical Trials</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
@@ -99,6 +122,14 @@
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202104082021-apr-bbsw-meetup/</link>
       <pubDate>Thu, 08 Apr 2021 16:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202104082021-apr-bbsw-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Law of Robustness for Two-layer Neural Networks</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</link>
+      <pubDate>Fri, 02 Apr 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</guid>
       <description></description>
     </item>
     
@@ -176,6 +207,14 @@
     
     <item>
       <title>RStudio webinars</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statisticians in the Pharmaceutical Industry (PSI) Video-on-Demand</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</guid>
@@ -318,11 +357,31 @@ Nonmembers: $35&lt;/p&gt;
     </item>
     
     <item>
+      <title>This year&#39;s most popular clinical trial designs topics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201215this-year-s-most-popular-clinical-trial-designs-topics/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201215this-year-s-most-popular-clinical-trial-designs-topics/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Phase II Adaptive Trials Designs&lt;/li&gt;
+&lt;li&gt;Phase III Adaptive Trial Designs&lt;/li&gt;
+&lt;li&gt;Further Webinar Highlights&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Statistical Observations on SARS-CoV-2 and Crisis Vaccine Clinical Testing</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201210statistical-observations-on-sars-cov-2-and-crisis-vaccine-clinical-testing/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201210statistical-observations-on-sars-cov-2-and-crisis-vaccine-clinical-testing/</guid>
       <description>&lt;p&gt;Traditional vaccine clinical development is an undertaking involving meticulous, multiple studies in multiple populations at risk of infection and disease over multiple years. SARS-CoV-2 and COVID-19 vaccine development is following this traditional development pathway, but accelerated Phase I-II-III clinical programs are being applied (c.f., USA FDA guidances 2020). This is not the first time vaccines have been manufactured and tested quickly to meet a public health crisis (1976, 2009). Selected statistical concepts pertaining to vaccine efficacy and safety, relevant during the design and implementation of such crisis programs, are discussed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Causal reasoning in survival and time-to-event analyses</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201204causal-reasoning-in-survival-and-time-to-event-analyses/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201204causal-reasoning-in-survival-and-time-to-event-analyses/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -377,6 +436,62 @@ Nonmembers: $35&lt;/p&gt;
     </item>
     
     <item>
+      <title>Why Data Science in the Cloud?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201202why-data-science-in-the-cloud/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201202why-data-science-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Present Your Research? - Focus and Intentionality Are Keys!</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201130how-to-present-your-research-focus-and-intentionality-are-keys/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201130how-to-present-your-research-focus-and-intentionality-are-keys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propensity score weighting for covariate adjustment in randomized clinical trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201124propensity-score-weighting-for-covariate-adjustment-in-randomized-clinical-trials/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201124propensity-score-weighting-for-covariate-adjustment-in-randomized-clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U-Design: SaaS for Streamlining Trial Simulation and Report Writing Using Efficient Statistical Designs</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201124u-design-saas-for-streamlining-trial-simulation-and-report-writing-using-efficient-statistical-designs/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201124u-design-saas-for-streamlining-trial-simulation-and-report-writing-using-efficient-statistical-designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Trial Design and Decision Making in a Broader Context - Program and Portfolio Optimization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201118clinical-trial-design-and-decision-making-in-a-broader-context-program-and-portfolio-optimization/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201118clinical-trial-design-and-decision-making-in-a-broader-context-program-and-portfolio-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview with Judea Pearl</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117interview-with-judea-pearl/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117interview-with-judea-pearl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Disease Risk from Genomics Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117predicting-disease-risk-from-genomics-data/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117predicting-disease-risk-from-genomics-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PSI Journal Club: Bayesian Methods</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117psi-journal-club-bayesian-methods/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
@@ -393,6 +508,26 @@ Publication: Jingjing Ye, Gregory Reaman, R. Angelo De Claro &amp;amp; Rajeshwar
 Speaker: Amy LaLonde (Eli Lilly)&lt;br&gt;
 Publication: Amy LaLonde &amp;amp; Yongming Qu, Pharmaceutical Statistics. 2020;19:482–491&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Impact of COVID-19 in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117the-impact-of-covid-19-in-clinical-trials/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117the-impact-of-covid-19-in-clinical-trials/</guid>
+      <description>&lt;p&gt;Understanding the Impact of Covid-19 in the areas of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clinical Operations&lt;/li&gt;
+&lt;li&gt;Data&lt;/li&gt;
+&lt;li&gt;Statistical Perspective&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Composite Intercurrent Events vs ICE Categories&lt;/p&gt;
+&lt;p&gt;Statistical Covid-19 strategies including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Study Design&lt;/li&gt;
+&lt;li&gt;Reporting&lt;/li&gt;
+&lt;li&gt;Measuring the effect&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -449,6 +584,38 @@ Ram C. Tiwari, Ph.D. Head of Statistical Methodology, Bristol Myers Squibb&lt;br
     </item>
     
     <item>
+      <title>Joint PSI, EFSPI &amp; ASA BIOP Webinar: Estimands</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201105joint-psi-efspi-asa-biop-webinar-estimands/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201105joint-psi-efspi-asa-biop-webinar-estimands/</guid>
+      <description>&lt;p&gt;The following aspects are covered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with proposals submitted to FDA and EMA on implementation of Estimands&lt;/li&gt;
+&lt;li&gt;How the estimands framework facilitates interaction with clinicians in different therapeutic areas&lt;/li&gt;
+&lt;li&gt;Common problems where the Estimands framework can help advance research&lt;/li&gt;
+&lt;li&gt;Where further discussions and research is required, and particularly where industry and regulators can collaborate&lt;/li&gt;
+&lt;li&gt;Issues related to alignment between different estimators to a given estimand&lt;/li&gt;
+&lt;li&gt;Special considerations of estimand framework in COVID-19 vaccine trials&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Re-imagining Clinical Trials: An Advanced Design Framework for the Era of Cloud-Computing</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201104re-imagining-clinical-trials-an-advanced-design-framework-for-the-era-of-cloud-computing/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201104re-imagining-clinical-trials-an-advanced-design-framework-for-the-era-of-cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview with Donald Rubin</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201103interview-with-donald-rubin/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201103interview-with-donald-rubin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2020 New England Rare Disease Statistics (NERDS) Webinar Series</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202011022020-new-england-rare-disease-statistics-nerds-webinar-series/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
@@ -486,6 +653,47 @@ Ram C. Tiwari, Ph.D. Head of Statistical Methodology, Bristol Myers Squibb&lt;br
     </item>
     
     <item>
+      <title>Three Rs - Reliability, Reproducibility, Replicability: The Interplay Between Statistical Science and Data Science</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201030three-rs-reliability-reproducibility-replicability-the-interplay-between-statistical-science-and-data-science/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201030three-rs-reliability-reproducibility-replicability-the-interplay-between-statistical-science-and-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Trials for, and despite, COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201027clinical-trials-for-and-despite-covid-19/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201027clinical-trials-for-and-despite-covid-19/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;the key characteristics of COVID-19 trials, particularly with regard to trial-design features such as trial mechanics (including factorial and multi-stage designs, as well as platform trials), outcome assessment, and other important methodological issues.&lt;/li&gt;
+&lt;li&gt;the impact the pandemic is having on clinical trials in several fields, including oncology and cardiology.&lt;/li&gt;
+&lt;li&gt;practical issues pertaining to trial design and conduct, including for data capture, data management, statistical analysis, and patient follow-up, all of which affected by the current crisis.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Biomarker Analysis in Clinical Trials Using R</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201021biomarker-analysis-in-clinical-trials-using-r/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201021biomarker-analysis-in-clinical-trials-using-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study Design For Non inferiority And Equivalence</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201021study-design-for-non-inferiority-and-equivalence/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201021study-design-for-non-inferiority-and-equivalence/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Regulatory information on this type of study design&lt;/li&gt;
+&lt;li&gt;Considerations for study design and your sample size&lt;/li&gt;
+&lt;li&gt;Practical worked examples of Non-inferiority Testing&lt;/li&gt;
+&lt;li&gt;Equivalence Testing&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Innovations in Bayesian Clinical Trials Interactive Workshops</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015innovations-in-bayesian-clinical-trials-interactive-workshops/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
@@ -507,6 +715,23 @@ November 12, 2020&lt;br&gt;
 &lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;loginemail=peiwen.wu%40gilead.com&amp;amp;eventid=2691561&amp;amp;sessionid=1&amp;amp;key=238DEB3AC5D91E14B89095AF22C63D05&amp;amp;regTag=&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Topics on COVID-19 vaccine and therapeutic clinical trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015statistical-topics-on-covid-19-vaccine-and-therapeutic-clinical-trials/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015statistical-topics-on-covid-19-vaccine-and-therapeutic-clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statisticians Debate Issues Central to Inference and Estimation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015statisticians-debate-issues-central-to-inference-and-estimation/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015statisticians-debate-issues-central-to-inference-and-estimation/</guid>
+      <description>&lt;p&gt;The purpose of this event was to shed light on and explain the main features (pro and con) that surround some of the controversies on use of p-values.&lt;/p&gt;
+&lt;p&gt;Jim Berger (Duke University) has been exploring the Bayesian and frequentist foundations of statistics for 50 years, and has recently been heavily involved in bringing these foundational perspectives to the p-value debate. David Trafimow (New Mexico State University) started the serious questioning of any use of p-values via the journal he edits, and Deborah Mayo (Virginia Tech) has developed a reformulation of frequentist error statistical methods within a full-blown philosophy of learning from error.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -553,12 +778,36 @@ Objective: The U.S. FDA’s Sentinel Initiative is engaged in numerous activitie
     </item>
     
     <item>
+      <title>2020 Pfizer/ASA/UConn Distinguished Statistician Colloquium: From the Application to the General – Notation is Everything</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202010142020-pfizer-asa-uconn-distinguished-statistician-colloquium-from-the-application-to-the-general-notation-is-everything/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202010142020-pfizer-asa-uconn-distinguished-statistician-colloquium-from-the-application-to-the-general-notation-is-everything/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R in Pharma</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201013r-in-pharma/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201013r-in-pharma/</guid>
       <description>&lt;p&gt;The 2020 R/Pharma conference was held as a virtual event between October 13th and 15th October. Over 1000 people from 26 countries registered for the main conference. In addition, 11 workshops were held the week before the conference.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Protecting confidentiality and privacy in clinical trial and medical data sets</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201007protecting-confidentiality-and-privacy-in-clinical-trial-and-medical-data-sets/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201007protecting-confidentiality-and-privacy-in-clinical-trial-and-medical-data-sets/</guid>
+      <description>&lt;p&gt;We are increasingly living in a data driven world. Data are collected in many different ways for a variety of purposes. As such concerns around protecting the privacy of individuals have increased in recent times. Research into protecting the confidentiality of any data collected is an important and challenging area of research. In particular, there is often a trade-off between protecting confidentiality and preserving the utility in the data. This meeting seeks to explore and address issues of protecting confidentiality and privacy when it comes to collecting clinical trial and medical/health data. The session speakers comprise some of the world leaders and experts in the field bringing together researchers from both academia and the pharmaceutical industry.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Randomization and Regression Adjustment</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201007randomization-and-regression-adjustment/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201007randomization-and-regression-adjustment/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -596,12 +845,28 @@ November 9, 2020&lt;br&gt;
     </item>
     
     <item>
+      <title>A New Measurements-based Approach to Machine Learning for Bioinformatics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201002a-new-measurements-based-approach-to-machine-learning-for-bioinformatics/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201002a-new-measurements-based-approach-to-machine-learning-for-bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Annual Real World Evidence Conference: Applying Lessons Learned from RWE in the Time of COVID-19 to the Future</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</guid>
       <description>&lt;p&gt;COVID-19 has disrupted the evidence-generation paradigm, resulting in the expanded use of novel technologies, data, and evidence. These new advancements not only improve clinical care and medical product development to fight the pandemic, but also have the potential to inform the future of drug development more broadly. This meeting will explore how COVID-19 has accelerated decision-maker understanding and use of real-world data (RWD) and real-world evidence (RWE) and its application in a post-COVID-19 environment.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Detangle modern dose-finding designs: A tutorial</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201001detangle-modern-dose-finding-designs-a-tutorial/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201001detangle-modern-dose-finding-designs-a-tutorial/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -736,6 +1001,14 @@ Non-inferiority testing is a common hypothesis test in the development of generi
     </item>
     
     <item>
+      <title>Scaling Data Science at Your Organization (Part 3)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903scaling-data-science-at-your-organization-part-3/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903scaling-data-science-at-your-organization-part-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using R to Drive Agility in Clinical Reporting</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903using-r-to-drive-agility-in-clinical-reporting/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
@@ -754,11 +1027,48 @@ Non-inferiority testing is a common hypothesis test in the development of generi
     </item>
     
     <item>
+      <title>Data Science Conference on COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200828data-science-conference-on-covid-19/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200828data-science-conference-on-covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demystifying “Drop-Out” in Single Cell RNA-seq</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828demystifying-drop-out-in-single-cell-rna-seq/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828demystifying-drop-out-in-single-cell-rna-seq/</guid>
       <description>&lt;p&gt;Droplet-based single-cell RNA-sequencing (scRNA-seq) methods have changed the landscape of genomics research in complex biological systems by producing single cell resolution data at affordable costs. In the state-of-the-arts protocols, a step called barcoding unique molecular identifiers (UMI) has been introduced to remove amplification bias and further improve data quality. Recent literature suggests that barcoding has led to a different error structure in the count data with much less technical noise. Regardless, many tools do not acknowledge the differences between the read count data and UMI count data, still assuming that both suffer from excessive technical noise. In this presentation, I will make a brief overview of scRNA-seq data analysis pipelines and then present extensive analyses of publicly available UMI data sets that challenge the assumptions of most existing pre-processing tools. Our results suggest that resolving cell-type heterogeneity should be the foremost step of the scRNA-seq analysis pipeline. Normalizing or imputing the data set before resolving the heterogeneity can lead to adversary consequences in downstream analysis. As a result, we provide a new perspective on scRNA-seq data analysis by fully integrating pre-processing and clustering, which was classified as part of the downstream analysis. The proposed procedures have been implemented in software, HIPPO. If time permits, I will also talk about other single cell analysis tools developed in my group, VIPER, an imputation method for SMART-seq data, and dmatch, an alignment tool for multiple scRNA-seq samples batch correction.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Purdue University: Deep Learning Methods and Theory Webinar Series</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;August 28, &lt;strong&gt;Intuitive Introduction to Deep Learning&lt;/strong&gt;, Professor Lawrence Carin, &lt;a href=&#34;https://www.youtube.com/watch?v=sVca43PstWA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 4, &lt;strong&gt;Distributed Machine Learning&lt;/strong&gt;, Professor Heng Huang,  &lt;a href=&#34;https://www.youtube.com/watch?v=5fFg4SLq4mU&amp;amp;t=10s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 11, &lt;strong&gt;A Representational Model of Grid Cells Based on Matrix Lie Algebras&lt;/strong&gt;, Professor Ying Nian Wu, &lt;a href=&#34;https://www.youtube.com/watch?v=lYQElUIaqEw&amp;amp;t=12s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 18, &lt;strong&gt;Integrating Domain-Knowledge into Deep Learning&lt;/strong&gt;, Professor Ruslan Salakhutdinov, &lt;a href=&#34;https://www.youtube.com/watch?v=gE78sONx_-k&amp;amp;t=4s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scaling Data Science at Your Organization (Part 2)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200827scaling-data-science-at-your-organization-part-2/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200827scaling-data-science-at-your-organization-part-2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -786,6 +1096,22 @@ Non-inferiority testing is a common hypothesis test in the development of generi
     </item>
     
     <item>
+      <title>Scaling Data Science at Your Organization (Part 1)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200820scaling-data-science-at-your-organization-part-1/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200820scaling-data-science-at-your-organization-part-1/</guid>
+      <description>&lt;p&gt;IPTOP framework (Infrastructure, People, Tools, Organization and Processes) for building data strategies and systematically scaling data science within an organization&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Duke-Margolis: Data Sharing to Accelerate Therapeutic Development for Rare Diseases (Day 2)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200819duke-margolis-data-sharing-to-accelerate-therapeutic-development-for-rare-diseases-day-2/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200819duke-margolis-data-sharing-to-accelerate-therapeutic-development-for-rare-diseases-day-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptive Designs for Phase II Clinical Trials </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200818adaptive-designs-for-phase-ii-clinical-trials/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
@@ -797,6 +1123,14 @@ Non-inferiority testing is a common hypothesis test in the development of generi
 &lt;li&gt;MCP-Mod (binary outcome)&lt;/li&gt;
 &lt;li&gt;Fleming GST (binary outcome)&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Duke-Margolis: Data Sharing to Accelerate Therapeutic Development for Rare Diseases (Day 1)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200818duke-margolis-data-sharing-to-accelerate-therapeutic-development-for-rare-diseases-day-1/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200818duke-margolis-data-sharing-to-accelerate-therapeutic-development-for-rare-diseases-day-1/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -855,6 +1189,14 @@ Non-inferiority testing is a common hypothesis test in the development of generi
     </item>
     
     <item>
+      <title>Ingram Olkin Forum: Unplanned Disruptions in Clinical Trials (Day 2)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200729ingram-olkin-forum-unplanned-disruptions-in-clinical-trials-day-2/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200729ingram-olkin-forum-unplanned-disruptions-in-clinical-trials-day-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Design and Data Source Considerations from Pilot Investigations in Cardiovascular Disease</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
@@ -891,6 +1233,14 @@ Cluster-randomized designs are often adopted when there is a high risk of contam
 &lt;p&gt;&lt;strong&gt;Multi-Arm Multi-Stage (MAMS)&lt;/strong&gt;&lt;br&gt;
 MAMs designs provide the ability to assess more treatments in less time than could be done with a series of two-arm trials and can offer smaller sample size requirements when compared to that required for the equivalent number of two-arm trials.&lt;/p&gt;
 &lt;p&gt;In this webinar, we will look at the design of a Group Sequential MAMS design and explore its design requirements.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ingram Olkin Forum: Unplanned Disruptions in Clinical Trials (Day 1)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200721ingram-olkin-forum-unplanned-disruptions-in-clinical-trials/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200721ingram-olkin-forum-unplanned-disruptions-in-clinical-trials/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -945,6 +1295,14 @@ We explore these statistical concepts through an example from health outcomes re
     </item>
     
     <item>
+      <title>Duke MArgolis: Establishing a High-Quality Real-World Data Ecosystem</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200713duke-margolis-establishing-a-high-quality-real-world-data-ecosystem/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200713duke-margolis-establishing-a-high-quality-real-world-data-ecosystem/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EqffCIVzFt0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Day 1 video&lt;/a&gt;; &lt;a href=&#34;https://www.youtube.com/watch?v=Qm-qD8DTgOE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Day 2 video&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Clinical Endpoints and Treatment Effect in Immuno-Oncology</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707clinical-endpoints-and-treatment-effect-in-immuno-oncology/</link>
       <pubDate>Tue, 07 Jul 2020 11:00:00 -0700</pubDate>
@@ -977,6 +1335,22 @@ We explore these statistical concepts through an example from health outcomes re
     </item>
     
     <item>
+      <title>MCP-Mod: Optimizing Phase II Dose Selection for Continuous and Non-Continuous Endpoints</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200617mcp-mod-optimizing-phase-ii-dose-selection-for-continuous-and-non-continuous-endpoints/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200617mcp-mod-optimizing-phase-ii-dose-selection-for-continuous-and-non-continuous-endpoints/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;An introduction to MCP-Mod&lt;/li&gt;
+&lt;li&gt;Why use MCP-Mod for Phase II trials&lt;/li&gt;
+&lt;li&gt;Steps to generate superior statistical evidence for dose-selection&lt;/li&gt;
+&lt;li&gt;MCP-Mod for various endpoints, including: Continuous Endpoint, Binary Endpoint&lt;/li&gt;
+&lt;li&gt;Poisson Rates&lt;/li&gt;
+&lt;li&gt;Negative Binomial rates&lt;/li&gt;
+&lt;li&gt;Worked examples &amp;amp; case studies&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
@@ -987,6 +1361,22 @@ We explore these statistical concepts through an example from health outcomes re
 &lt;li&gt;How do we build resiliency? What steps could/should be implemented at various stages to ‘flatten the curve’?&lt;/li&gt;
 &lt;li&gt;Vulnerable communities and minority populations are at a disadvantage. How do we address these health disparities?&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Replication and Evidence Factors in Observational Studies</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200602replication-and-evidence-factors-in-observational-studies/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200602replication-and-evidence-factors-in-observational-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimands in Oncology - A Virtual Panel Discussion</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200524estimands-in-oncology-a-virtual-panel-discussion/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200524estimands-in-oncology-a-virtual-panel-discussion/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1053,6 +1443,14 @@ We explore these statistical concepts through an example from health outcomes re
 04/17/2020, Dr. Peter X.K. Song University of Michigan&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Conference 2020</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200127rstudio-conference/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200127rstudio-conference/</guid>
+      <description></description>
     </item>
     
   </channel>

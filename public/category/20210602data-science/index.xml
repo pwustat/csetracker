@@ -13,11 +13,19 @@
     </image>
     
     <item>
-      <title>2021 Symposium on Data Science &amp; Statistics</title>
+      <title>2021 Symposium on Data Science &amp; Statistics (SDSS)</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Apr 7, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Law of Robustness for Two-layer Neural Networks</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</link>
+      <pubDate>Fri, 02 Apr 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -119,11 +127,56 @@ Nonmembers: $35&lt;/p&gt;
     </item>
     
     <item>
+      <title>Scaling Data Science at Your Organization (Part 3)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903scaling-data-science-at-your-organization-part-3/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903scaling-data-science-at-your-organization-part-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On Nearly Assumption-Free Tests of Nominal Confidence Interval Coverage for Causal Parameters Estimated by Machine Learning</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200901on-nearly-assumption-free-tests-of-nominal-confidence-interval-coverage-for-causal-parameters-estimated-by-machine-learning/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200901on-nearly-assumption-free-tests-of-nominal-confidence-interval-coverage-for-causal-parameters-estimated-by-machine-learning/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue University: Deep Learning Methods and Theory Webinar Series</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;August 28, &lt;strong&gt;Intuitive Introduction to Deep Learning&lt;/strong&gt;, Professor Lawrence Carin, &lt;a href=&#34;https://www.youtube.com/watch?v=sVca43PstWA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 4, &lt;strong&gt;Distributed Machine Learning&lt;/strong&gt;, Professor Heng Huang,  &lt;a href=&#34;https://www.youtube.com/watch?v=5fFg4SLq4mU&amp;amp;t=10s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 11, &lt;strong&gt;A Representational Model of Grid Cells Based on Matrix Lie Algebras&lt;/strong&gt;, Professor Ying Nian Wu, &lt;a href=&#34;https://www.youtube.com/watch?v=lYQElUIaqEw&amp;amp;t=12s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 18, &lt;strong&gt;Integrating Domain-Knowledge into Deep Learning&lt;/strong&gt;, Professor Ruslan Salakhutdinov, &lt;a href=&#34;https://www.youtube.com/watch?v=gE78sONx_-k&amp;amp;t=4s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scaling Data Science at Your Organization (Part 2)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200827scaling-data-science-at-your-organization-part-2/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200827scaling-data-science-at-your-organization-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Data Science at Your Organization (Part 1)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200820scaling-data-science-at-your-organization-part-1/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200820scaling-data-science-at-your-organization-part-1/</guid>
+      <description>&lt;p&gt;IPTOP framework (Infrastructure, People, Tools, Organization and Processes) for building data strategies and systematically scaling data science within an organization&lt;/p&gt;</description>
     </item>
     
     <item>

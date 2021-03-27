@@ -1,5 +1,5 @@
 ---
-title: 2021 Symposium on Data Science & Statistics
+title: 2021 Symposium on Data Science & Statistics (SDSS)
 author: ''
 date: '2021-06-02'
 slug: 2021-symposium-on-data-science-statistics
@@ -15,7 +15,7 @@ url_pdf: ~
 url_video: ~
 url_website: https://ww2.amstat.org/meetings/sdss/2021/
 url_agenda: https://ww2.amstat.org/meetings/sdss/2021/onlineprogram/index.cfm
-location: ~
+location: Virtual
 address:
   street: ~
   city: ~
