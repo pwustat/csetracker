@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517ispor-2021/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210517statistics/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
@@ -109,7 +114,12 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
-    <lastmod>2021-04-30T09:00:00-07:00</lastmod>
+    <lastmod>2021-05-04T02:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</loc>
+    <lastmod>2021-05-04T02:30:00-07:00</lastmod>
   </url>
   
   <url>
@@ -128,8 +138,28 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210429psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology/</loc>
+    <lastmod>2021-04-29T03:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210428psi-vissig-webinar-rapid-insights-to-data/</loc>
+    <lastmod>2021-04-28T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210423european-causal-inference-meeting-eurocim-2021/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</loc>
     <lastmod>2021-04-22T11:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/2021042126th-pfizer-asa-uconn-distinguished-statistician-colloquium-four-excursions-in-genomics/</loc>
+    <lastmod>2021-04-21T12:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -200,6 +230,21 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210402neural-networks/</loc>
     <lastmod>2021-04-02T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401what-are-the-most-important-statistical-ideas-of-the-past-50-years/</loc>
+    <lastmod>2021-04-01T15:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401copss-niss-covid-19-data-science-webinar-series-pandemics-poverty-and-public-health/</loc>
+    <lastmod>2021-04-01T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401sharp-inference-on-selected-subgroups-in-observational-studies/</loc>
+    <lastmod>2021-04-01T08:30:00-07:00</lastmod>
   </url>
   
   <url>

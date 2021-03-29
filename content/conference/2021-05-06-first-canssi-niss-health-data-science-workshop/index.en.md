@@ -20,7 +20,7 @@ address:
   region: ~
   postcode: ~
   country: ~
-date_end: ~
+date_end: '2021-05-08'
 all_day: yes
 publishDate: '2021-03-26T17:27:15-07:00'
 authors: []

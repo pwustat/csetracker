@@ -61,6 +61,14 @@
     </item>
     
     <item>
+      <title>ISPOR 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517ispor-2021/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517ispor-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Statistical Methods in Imaging Conference 2021</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
@@ -86,6 +94,14 @@
     </item>
     
     <item>
+      <title>PSI One-Day Meeting: Missing Data in Clinical Trials - Past, Present and Future</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</link>
+      <pubDate>Tue, 04 May 2021 02:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</guid>
+      <description>&lt;p&gt;Incomplete datasets due to missing data is an issue that has been, and will be, around for a long time. At this meeting we will present the evolution of missing data approaches, looking at how they have been handled in the past, the current established missing data approaches and the impact of the new ICH E9 R1 addendum on the handling of missing data, focussing in particular on the treatment policy estimand.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Competing Frameworks and Methods for Competing Risks Data</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210430competing-frameworks-and-methods-for-competing-risks-data/</link>
       <pubDate>Fri, 30 Apr 2021 09:00:00 -0700</pubDate>
@@ -102,11 +118,51 @@
     </item>
     
     <item>
+      <title>PSI One-Day Meeting: Non-proportional hazards and applications in immuno-oncology</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210429psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology/</link>
+      <pubDate>Thu, 29 Apr 2021 03:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210429psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology/</guid>
+      <description>&lt;p&gt;Designs of clinical trials with time to event primary endpoints usually rely on hazards being constant over time. A major challenge in immuno-oncology is the delayed onset of benefit with such therapies and the presence of non-proportional hazards. The impact of this needs to be accounted for in sample size calculations, analysis methodology and reporting. In this meeting we will examine possible strategies to handle such features, which may not be fully known when the trial is initiated.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI VisSIG Webinar: Rapid Insights to Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210428psi-vissig-webinar-rapid-insights-to-data/</link>
+      <pubDate>Wed, 28 Apr 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210428psi-vissig-webinar-rapid-insights-to-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Causal Inference Meeting (EuroCIM) 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210423european-causal-inference-meeting-eurocim-2021/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210423european-causal-inference-meeting-eurocim-2021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Virtual courses (exact times TBD)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;23 April: &amp;ldquo;Introduction to causal inference&amp;rdquo; by Rhian Daniel (Cardiff University)&lt;br&gt;
+18 May: &amp;ldquo;Causal machine learning&amp;rdquo; by Stijn Vansteelandt (Ghent University)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Events (exact times and ordering of talks for each theme TBD)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;19 May: Theme 1: Methods (propensity score; double robust &amp;amp; semiparametric estimation; machine learning; Bayesian methods; etc), Invited speaker: Edward Kennedy (Carnegie Mellon University)&lt;/p&gt;
+&lt;p&gt;26 May: Theme 2: Survival / longitudinal analyses, trials &amp;amp; estimands, Invited speaker: Jessica Young (Harvard Medical School)&lt;/p&gt;
+&lt;p&gt;2 July: Theme 3: Mixed topics - including e.g., applications, designs (IVs etc), interference, econometrics, Invited speaker: Ingeborg Waernbaum (Uppsala University)&lt;/p&gt;
+&lt;p&gt;2 September: Theme 4: Foundations, causal DAGs, structural equation models, mediation analysis, Invited speaker: Thomas Richardson (University of Washington)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Polygenic Risk Prediction and Equitable Disease Prevention</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</link>
       <pubDate>Thu, 22 Apr 2021 11:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</guid>
       <description>&lt;p&gt;Recent discoveries from large scale genome-wide association studies (GWAS) have raised the prospect of using polygenic risk scores in routine health care setting for the prediction of future incidence of large variety of complex diseases. However, as GWAS studies to date have been heavily biased towards European origin populations, current polygenic risk scores often underperform in non-European populations and thus use of them can further exacerbate healthcare inequality. In this talk, I will review simple and advanced statistical methods for generating polygenic risk score using high-dimensional SNP data and describe theoretical characterizations of their expected performance, both in the population that underlies original studies and in a different population that is expected to have different distribution of allele frequencies and linkage disequilibrium (SNP-correlation). I will further describe novel Bayesian and machine learning based methods for building polygenic risk scores that can borrow information across GWAS studies of different ethnic groups, and thus makes best use of available data to generate more powerful polygenic risk scores across different ethnic groups. I will demonstrate potential utility for PRS in precision medicine using our recent studies on breast cancer.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>26th Pfizer/ASA/UConn Distinguished Statistician Colloquium: Four Excursions in Genomics </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/2021042126th-pfizer-asa-uconn-distinguished-statistician-colloquium-four-excursions-in-genomics/</link>
+      <pubDate>Wed, 21 Apr 2021 12:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/2021042126th-pfizer-asa-uconn-distinguished-statistician-colloquium-four-excursions-in-genomics/</guid>
+      <description>&lt;p&gt;The purpose of the Colloquium is to provide a forum for a distinguished statistician to share and disseminate their unique perspective and work in the theory and/or application of statistics. This year’s speaker will be Professor Peter Bickel, from the Department of Statistics, University of California, Berkeley. The title of his presentation will be “Four excursions in genomics”.&lt;/p&gt;
+&lt;p&gt;The colloquium will be followed by a discussion with Liza Levina from the University of Michigan, Ann Arbor, Purnamrita Sarkar from the University of Texas, Austin, and Rachel Wang, from the University of Sydney.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -179,6 +235,30 @@
       <pubDate>Fri, 02 Apr 2021 08:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>What are the most important statistical ideas of the past 50 years?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401what-are-the-most-important-statistical-ideas-of-the-past-50-years/</link>
+      <pubDate>Thu, 01 Apr 2021 15:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401what-are-the-most-important-statistical-ideas-of-the-past-50-years/</guid>
+      <description>&lt;p&gt;We argue that the most important statistical ideas of the past half century are: counterfactual causal inference, bootstrapping and simulation-based inference, overparameterized models and regularization, multilevel models, generic computation algorithms, adaptive decision analysis, robust inference, and exploratory data analysis. We discuss common features of these ideas, how they relate to modern computing and big data, and how they might be developed and extended in future decades. The goal of this article is to provoke thought and discussion regarding the larger themes of research in statistics and data science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COPSS-NISS COVID-19 Data Science Webinar Series: Pandemics, Poverty and Public Health</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401copss-niss-covid-19-data-science-webinar-series-pandemics-poverty-and-public-health/</link>
+      <pubDate>Thu, 01 Apr 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401copss-niss-covid-19-data-science-webinar-series-pandemics-poverty-and-public-health/</guid>
+      <description>&lt;p&gt;This presentation will focus on Dr. Kim’s 30 years of experience in battling a pandemics in developing countries.  A trained infectious disease physician, Dr. Kim has tackled multidrug-resistant tuberculosis, HIV, cholera, Ebola and now COVID-19 in developing countries in Latin America, Asia and Africa.  He has also been involved in the COVID-19 response in the United States through the organization he co-founded, Partners in Health.  Dr. Kim will first talk about his experiences in combatting both poverty and infectious diseases throughout his career and then looks forward to a robust question and answer session.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sharp Inference on Selected Subgroups in Observational Studies</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401sharp-inference-on-selected-subgroups-in-observational-studies/</link>
+      <pubDate>Thu, 01 Apr 2021 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401sharp-inference-on-selected-subgroups-in-observational-studies/</guid>
+      <description>&lt;p&gt;In modern drug development, the broader availability of high-dimensional observational data provides opportunities for scientist to explore subgroup heterogeneity, especially when randomized clinical trials are unavailable due to cost and ethical constraints. However, a common practice that naively searches the subgroup with a high treatment level is often misleading due to the “subgroup selection bias.” More importantly, the nature of high-dimensional observational data has further exacerbated the challenge of accurately estimating the subgroup treatment effects. To resolve these issues, we provide new inferential tools based on resampling to assess the replicability of post-hoc identified subgroups from observational studies. Through careful theoretical justification and extensive simulations, we show that our proposed approach delivers asymptotically sharp confidence intervals and debiased estimates for the selected subgroup treatment effects in the presence of high-dimensional covariates. We further demonstrate the merit of the proposed methods by analyzing the UK Biobank data. The R package “debiased.subgroup&amp;quot; implementing the proposed procedures is available on GitHub.&lt;/p&gt;</description>
     </item>
     
     <item>
