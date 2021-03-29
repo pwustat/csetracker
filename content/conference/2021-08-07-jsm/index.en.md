@@ -1,5 +1,5 @@
 ---
-title: JSM
+title: 2021 Joint Statistical Meetings (JSM)
 author: ''
 date: '2021-08-07'
 slug: jsm
@@ -11,16 +11,16 @@ url_slides: ~
 url_code: ~
 url_pdf: ~
 url_video: ~
-url_website: ~
+url_website: https://ww2.amstat.org/meetings/jsm/2021/
 url_agenda: ~
-location: Hybrid
+location: Hybrid 
 address:
   street: ~
   city: ~
   region: ~
   postcode: ~
   country: ~
-date_end: ~
+date_end: '2021-08-12'
 all_day: yes
 publishDate: '2021-03-26T17:41:18-07:00'
 authors: []
@@ -34,6 +34,6 @@ projects: []
 summary: ~
 abstract: ~
 ---
-<span style="color: salmon;">*Early registration Deadline: May 31, 2021*</span>
+<span style="color: salmon;">*Registration open: May 3; Early registration Deadline: May 31*</span>
 
 <!--more-->
