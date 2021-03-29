@@ -8,7 +8,6 @@ categories:
   - Pharma
   - Statistics
 tags:
-  - IDDI
   - Sample Size Re-estimation
 type: webinar
 register: 
