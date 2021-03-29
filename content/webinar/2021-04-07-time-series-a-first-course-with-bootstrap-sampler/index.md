@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: webinar
 title: Time Series - A First Course with Bootstrap Sampler
-url_register: 
+url_register: https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TSAFCBS
 url_freeregister: 
 url_slides:
 url_video: false
@@ -16,7 +16,7 @@ url_pdf:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-04-08T07:00:00-07:00
 date_end: 2021-04-29T09:00:00-07:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2021-03-28T21:38:51-07:00
@@ -64,7 +64,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: This will be a four-part webinar presentation from 7-9 am PST on the 8th, 15th, 22nd, and 29th of April.
 abstract:
 speaker:
 ---

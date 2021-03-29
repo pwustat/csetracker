@@ -86,6 +86,30 @@
     </item>
     
     <item>
+      <title>Competing Frameworks and Methods for Competing Risks Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210430competing-frameworks-and-methods-for-competing-risks-data/</link>
+      <pubDate>Fri, 30 Apr 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210430competing-frameworks-and-methods-for-competing-risks-data/</guid>
+      <description>&lt;p&gt;Competing risks data arise frequently in clinical and epidemiologic studies. Such data are characterized by a survival time that terminates due to one of several mutually exclusive causes. This webinar will cover the following: the two most commonly adopted frameworks for competing risks data; relevant estimands and estimators within each framework; the role of censoring as a competing risk; available modeling strategies; and causal inference in the competing risks setting. The main ideas will be illustrated through several real-data examples.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Communicating Statistics to the Media: Highs and Lows During the Pandemic (so far)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210429communicating-statistics-to-the-media-highs-and-lows-during-the-pandemic-so-far/</link>
+      <pubDate>Thu, 29 Apr 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210429communicating-statistics-to-the-media-highs-and-lows-during-the-pandemic-so-far/</guid>
+      <description>&lt;p&gt;The current crisis is notable for the vast traffic in official and unofficial information and claims.  I will offer some personal insights into the challenges of trying to bring some illumination to the statistics about the pandemic, illustrated with some examples of things have gone fairly well, and some communication disasters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polygenic Risk Prediction and Equitable Disease Prevention</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</link>
+      <pubDate>Thu, 22 Apr 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</guid>
+      <description>&lt;p&gt;Recent discoveries from large scale genome-wide association studies (GWAS) have raised the prospect of using polygenic risk scores in routine health care setting for the prediction of future incidence of large variety of complex diseases. However, as GWAS studies to date have been heavily biased towards European origin populations, current polygenic risk scores often underperform in non-European populations and thus use of them can further exacerbate healthcare inequality. In this talk, I will review simple and advanced statistical methods for generating polygenic risk score using high-dimensional SNP data and describe theoretical characterizations of their expected performance, both in the population that underlies original studies and in a different population that is expected to have different distribution of allele frequencies and linkage disequilibrium (SNP-correlation). I will further describe novel Bayesian and machine learning based methods for building polygenic risk scores that can borrow information across GWAS studies of different ethnic groups, and thus makes best use of available data to generate more powerful polygenic risk scores across different ethnic groups. I will demonstrate potential utility for PRS in precision medicine using our recent studies on breast cancer.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>NISS-Merck Meet-Up: Open Source Software in Pharma</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210421niss-merck-meet-up-open-source-software-in-pharma/</link>
       <pubDate>Wed, 21 Apr 2021 08:00:00 -0700</pubDate>
@@ -99,6 +123,14 @@
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210421duke-industry-statistics-symposium/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Flying the Plane While Improving It - Learning from COVID Patient Data in Close to Real Time</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210415flying-the-plane-while-improving-it-learning-from-covid-patient-data-in-close-to-real-time/</link>
+      <pubDate>Thu, 15 Apr 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210415flying-the-plane-while-improving-it-learning-from-covid-patient-data-in-close-to-real-time/</guid>
+      <description>&lt;p&gt;In the current pandemic the need to translate clinical data into actionable research to inform patient care has never been more urgent. Using the Precision Medicine Analytics Platform at Johns Hopkins University, a team of clinicians, biostatisticians and information technologists at the Precision Medicine Center of Excellence for COVID-19 rapidly created a COVID-19 patient registry and deployed an array of biostatistical methods to understand patient trajectories, conduct comparative effectiveness research for therapeutics, learn about pathobiology of COVID-19 and implement a real-time prediction model into the electronic health record (EHR). Join this session to hear about the lessons learned from conducting research in real time while building a complex data registry.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -118,11 +150,27 @@
     </item>
     
     <item>
-      <title>2021 Apr BBSW Meetup</title>
+      <title>2021 April BBSW Meetup</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202104082021-apr-bbsw-meetup/</link>
       <pubDate>Thu, 08 Apr 2021 16:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202104082021-apr-bbsw-meetup/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series - A First Course with Bootstrap Sampler</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210408time-series-a-first-course-with-bootstrap-sampler/</link>
+      <pubDate>Thu, 08 Apr 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210408time-series-a-first-course-with-bootstrap-sampler/</guid>
+      <description>&lt;p&gt;This course will be a reprise of the main topics of the book by the same name, by Tucker McElroy and Dimitris Politis. The intended audience includes statisticians with little or no knowledge of time series, but a general knowledge of statistics. Prerequisites include a course on linear models, a course on mathematical statistics (such concepts as bias, variance, and the Gaussian distribution), and a familiarity with linear algebra (the transpose, inverse, and eigen-values of a matrix). The aim is to cover basic concepts of time series analysis at a level suitable for those with a bachelor&amp;rsquo;s or master&amp;rsquo;s degree in statistics, while including a few non-standard concepts such as volatility filtering and time series bootstraps. A second aim is to incorporate coding in R of all concepts, methods, and examples.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Causal Inference for Multiple Time-point (Longitudinal) Exposures</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210407causal-inference-for-multiple-time-point-longitudinal-exposures/</link>
+      <pubDate>Wed, 07 Apr 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210407causal-inference-for-multiple-time-point-longitudinal-exposures/</guid>
+      <description>&lt;p&gt;This workshop applies the Causal Roadmap to estimate the causal effects with multiple intervention variables, such as the cumulative effect of an exposure over time, controlled direct effects, and effects on survival-type outcomes with right-censoring. We will cover longitudinal causal models, identification in the presence of time-dependent confounding; and estimation of joint treatment effects using G-computation, inverse probability weighting (IPW), and targeted maximum likelihood estimation (TMLE) with Super Learner. During the workshop session, participants will work through the Roadmap using an applied example and implement these estimators with the ltmle R package. Prior training in causal inference in a single time-point setting is strongly recommended, but not required.&lt;/p&gt;</description>
     </item>
     
     <item>

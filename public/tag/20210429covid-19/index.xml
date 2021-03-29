@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19 | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210429covid-19/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210429covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 09:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210429covid-19/</link>
+    </image>
+    
+    <item>
+      <title>Communicating Statistics to the Media: Highs and Lows During the Pandemic (so far)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210429communicating-statistics-to-the-media-highs-and-lows-during-the-pandemic-so-far/</link>
+      <pubDate>Thu, 29 Apr 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210429communicating-statistics-to-the-media-highs-and-lows-during-the-pandemic-so-far/</guid>
+      <description>&lt;p&gt;The current crisis is notable for the vast traffic in official and unofficial information and claims.  I will offer some personal insights into the challenges of trying to bring some illumination to the statistics about the pandemic, illustrated with some examples of things have gone fairly well, and some communication disasters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning from COVID-19 Data on Transmission, Health Outcomes, Interventions and Vaccination </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323learning-from-covid-19-data-on-transmission-health-outcomes-interventions-and-vaccination/</link>
+      <pubDate>Tue, 23 Mar 2021 12:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323learning-from-covid-19-data-on-transmission-health-outcomes-interventions-and-vaccination/</guid>
+      <description>&lt;p&gt;Video Passcode &lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;=TpGiw#6&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration&lt;/strong&gt;: &lt;br&gt;
+ASA Members: $20&lt;br&gt;
+Student ASA Member: $15&lt;br&gt;
+Nonmembers: $35&lt;/p&gt;
+&lt;p&gt;In this talk, I will first provide a historical overview of the epidemic in Wuhan. I will then provide the analysis results of 32,000 lab-confirmed COVID-19 cases in Wuhan to estimate the transmission rates using Poisson Partial Differential Equation based transmission dynamic models. This model is also used to evaluate the effects of different public health interventions on controlling the COVID-19 outbreak, such as social distancing, isolation and quarantine. I will present the results on the epidemiological characteristics of the cases. The results show that multi-faceted intervention measures successfully controlled the outbreak in Wuhan. I will next present transmission regression models for estimating transmission rates in USA and other countries, as well as factors including intervention effects using social distancing, test-trace-isolate strategies that affect transmission rates. I will discuss estimation of the proportion of undetected cases, including asymptomatic, pre-symptomatic cases and mildly symptomatic cases, the chances of resurgence in different scenarios, prevalence, and the factors that affect transmissions. I will also present the US county-level analysis to study the demographic, social-economic, and comorbidity factors that are associated with COVID-19 case and death rates. I will also present the analysis results of &amp;gt;500,000 participants of the HowWeFeel project on health outcomes and behaviors in US, and discuss the factors associated with infection, behavior, and vaccine hesitancy. I will provide several takeaways and discuss priorities.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Observations on SARS-CoV-2 and Crisis Vaccine Clinical Testing</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201210statistical-observations-on-sars-cov-2-and-crisis-vaccine-clinical-testing/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201210statistical-observations-on-sars-cov-2-and-crisis-vaccine-clinical-testing/</guid>
+      <description>&lt;p&gt;Traditional vaccine clinical development is an undertaking involving meticulous, multiple studies in multiple populations at risk of infection and disease over multiple years. SARS-CoV-2 and COVID-19 vaccine development is following this traditional development pathway, but accelerated Phase I-II-III clinical programs are being applied (c.f., USA FDA guidances 2020). This is not the first time vaccines have been manufactured and tested quickly to meet a public health crisis (1976, 2009). Selected statistical concepts pertaining to vaccine efficacy and safety, relevant during the design and implementation of such crisis programs, are discussed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COPSS-NISS COVID-19 Data Science Webinar Series</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201203copss-niss-covid-19-data-science-webinar-series/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201203copss-niss-covid-19-data-science-webinar-series/</guid>
+      <description>&lt;p&gt;The COPSS-NISS COVID-19 Data Science webinar series is co-organized by the Committee of the Presidents of Statistical Societies (COPSS) and its five charter member societies (ASA, ENAR, IMS, SSC, and WNAR), as well as NISS.  This twice a month webinar (1st and 3rd Thursday at noon EST) features the latest research that is positioned on the cusp of new understanding and analysis of COVID-19 pandemic data and promotes data-driven research and decision making to combat COVID-19.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;April 29, 2021&lt;/strong&gt; Communicating Statistics to the Media: Highs and Lows During the Pandemic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;April 15, 2021&lt;/strong&gt; Flying the Plane while Improving It – Learning from COVID Patient Data in Close to Real Time&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;April 1, 2021&lt;/strong&gt; Jim Yong Kim, M.D., PhD, Vice Chairman and Partner at Global Infrastructure Partners&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;March 18, 2021&lt;/strong&gt; COVID-19 One Year In: Navigating the Communications Triangle of Experts, Policy Makers, and the Public&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;March 4, 2021&lt;/strong&gt; Predictions, Role of Interventions and the Crisis of Virus in India: A Data Science Call to Arms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;February 18, 2021&lt;/strong&gt; Misinformation and Attitude Formation Analyzed Through Social Media Posts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;February 4, 2021&lt;/strong&gt; Insights into Host and Viral Genetics of SARS-CoV-2 Discussed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;January 21, 2021&lt;/strong&gt; Modeling Frameworks Provide Foundation for Inference and Projection of SARS-CoV-2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;January 7, 2021&lt;/strong&gt; Epidemiologic Modeling in the Spotlight in 3rd COPSS-NISS COVID-19 Webinar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;December 17, 2020&lt;/strong&gt; COPSS-NISS Webinar: Delphi’s COVIDcast Project Featured&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;December 3, 2020&lt;/strong&gt; Inaugural COPSS-NISS Webinar on the Statistics of COVID-19 Vaccine Trials - ‘Standing Room Only’!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Impact of COVID-19 in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117the-impact-of-covid-19-in-clinical-trials/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117the-impact-of-covid-19-in-clinical-trials/</guid>
+      <description>&lt;p&gt;Understanding the Impact of Covid-19 in the areas of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clinical Operations&lt;/li&gt;
+&lt;li&gt;Data&lt;/li&gt;
+&lt;li&gt;Statistical Perspective&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Composite Intercurrent Events vs ICE Categories&lt;/p&gt;
+&lt;p&gt;Statistical Covid-19 strategies including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Study Design&lt;/li&gt;
+&lt;li&gt;Reporting&lt;/li&gt;
+&lt;li&gt;Measuring the effect&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Clinical Trials for, and despite, COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201027clinical-trials-for-and-despite-covid-19/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201027clinical-trials-for-and-despite-covid-19/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;the key characteristics of COVID-19 trials, particularly with regard to trial-design features such as trial mechanics (including factorial and multi-stage designs, as well as platform trials), outcome assessment, and other important methodological issues.&lt;/li&gt;
+&lt;li&gt;the impact the pandemic is having on clinical trials in several fields, including oncology and cardiology.&lt;/li&gt;
+&lt;li&gt;practical issues pertaining to trial design and conduct, including for data capture, data management, statistical analysis, and patient follow-up, all of which affected by the current crisis.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Topics on COVID-19 vaccine and therapeutic clinical trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015statistical-topics-on-covid-19-vaccine-and-therapeutic-clinical-trials/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015statistical-topics-on-covid-19-vaccine-and-therapeutic-clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12th Annual Sentinel Initiative Public Workshop</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2020101412th-annual-sentinel-initiative-public-workshop/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
+      <description>&lt;p&gt;The Sentinel Initiative, an active medical product surveillance system, was established in response to the Food and Drug Administration (FDA) Amendments Act of 2007 and has become one of the Agency’s premier evidence generation platforms. The 12th Annual Sentinel Initiative Public Workshop is being convened on October 14, 2020 by the Robert J. Margolis, MD, Center for Health Policy under a cooperative agreement with the FDA. The workshop will be held as a virtual webinar and provides an opportunity to discuss recent achievements and developments and engage with the broader community of patients, consumers, and scientific stakeholders.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Session I: A Robust Sentinel System for the 21st Century&lt;/strong&gt;&lt;br&gt;
+Objective: In response to new legislative mandates and the desire to diversify scientific expertise and enhance core key capabilities in the Sentinel System, the Center for Drug Evaluation and Research (CDER) has awarded a new five-year contract that establishes a new organizational structure for the Sentinel Coordinating Center. This new contract builds on FDA successes integrating the active, post-market safety surveillance into regulatory decision-making. This session will feature key leads from each Sentinel coordinating center who will discuss plans on how to advance and transform Sentinel’s data infrastructure into a national resource for evidence generation. Panelists will also discuss opportunities for collaboration to broaden stakeholder involvement, improve access to new data sources and analytic tools, and ensure more efficient and effective safety surveillance activities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Session II: Building the BEST Network and Establishing New Capabilities for the Surveillance of Biologics&lt;/strong&gt;&lt;br&gt;
+Objective: Launched in 2017, the BEST Initiative enacts the Agency’s mandate to implement active surveillance for biologic products. This session will highlight key achievements of BEST over the last year enhancing its capabilities to execute safety and effectiveness surveillance and inform regulatory decision making. CBER representatives will discuss ongoing work to support the expansion of the BEST data network and methods infrastructure as well as specific studies utilizing the infrastructure.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Session III: Leveraging the Sentinel Initiative for COVID-19&lt;/strong&gt;&lt;br&gt;
+Objective: The U.S. FDA’s Sentinel Initiative is engaged in numerous activities to protect and promote public health during the COVID-19 pandemic. This session will highlight key ongoing efforts across CDER and CBER to leverage Sentinel data infrastructure to describe course of illness, and evaluate the utilization, safety, and effectiveness of available COVID-19 therapeutics and vaccines under real-world conditions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Annual Real World Evidence Conference: Applying Lessons Learned from RWE in the Time of COVID-19 to the Future</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</guid>
+      <description>&lt;p&gt;COVID-19 has disrupted the evidence-generation paradigm, resulting in the expanded use of novel technologies, data, and evidence. These new advancements not only improve clinical care and medical product development to fight the pandemic, but also have the potential to inform the future of drug development more broadly. This meeting will explore how COVID-19 has accelerated decision-maker understanding and use of real-world data (RWD) and real-world evidence (RWE) and its application in a post-COVID-19 environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Under the Hood of 1Point3Acres COVID-19 Map and Tracker</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</guid>
+      <description>&lt;p&gt;In this talk, Yu will first discuss how her volunteer team fought to have brought data transparency to CovidNet. Then, Kyle will present his team’s novel approach to continuous data quality monitoring, which combines semantic analysis with time series anomaly detection methods, ending with some examples showing issues (known and benign) detected in the 1point3acres dataset. Prof Shan Lu will also provide an example how the high quality data source can be highly useful for even non-biological scientists to produce meaningful analysis in a situation like COVID-19 pandemic.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NISS/Merck Meetup: Challenges and Potential in Vaccine Development</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200917niss-merck-meetup-challenges-and-potential-in-vaccine-development/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200917niss-merck-meetup-challenges-and-potential-in-vaccine-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science Conference on COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200828data-science-conference-on-covid-19/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200828data-science-conference-on-covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigating US FDA Initiatives to Expedite Development, Approval, and Emergency Access to COVID-19 Treatments</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200730navigating-us-fda-initiatives-to-expedite-development-approval-and-emergency-access-to-covid-19-treatments/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200730navigating-us-fda-initiatives-to-expedite-development-approval-and-emergency-access-to-covid-19-treatments/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An overview of the Coronavirus Treatment Acceleration Program (CTAP)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Emergency Use Authorization (EUA) and single patient expanded access pathways and processes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Securing meetings with the FDA for COVID-19 programs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key clinical development guidances specific to COVID-19 programs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimands and Analysis Considerations for Clinical Trials Impacted by COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</link>
+      <pubDate>Thu, 16 Jul 2020 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;The use of the estimand framework to assess and address pandemic-related disruptions&lt;/li&gt;
+&lt;li&gt;Analysis strategies for pandemic-related missing and unobservable values&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Causal Inference in the Light of Drug Repurposing for SARS-CoV-2</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707causal-inference-in-the-light-of-drug-repurposing-for-sars-cov-2/</link>
+      <pubDate>Tue, 07 Jul 2020 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707causal-inference-in-the-light-of-drug-repurposing-for-sars-cov-2/</guid>
+      <description>&lt;p&gt;Massive data collection holds the promise of a better understanding of complex phenomena and ultimately, of better decisions. An exciting opportunity in this regard stems from the growing availability of perturbation / intervention data (drugs, knockouts, overexpression, etc.) in biology. In order to obtain mechanistic insights from such data, a major challenge is the development of a framework that integrates observational and interventional data and allows predicting the effect of yet unseen interventions or transporting the effect of interventions observed in one context to another. I will present a framework for causal structure discovery based on such data and characterize the causal relationships that are identifiable in this setting. We end by demonstrating how these ideas can be applied for drug repurposing in the current SARS-CoV-2 crisis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;An overview of how COVID-19 progressed&lt;/li&gt;
+&lt;li&gt;How can pharmaceutical companies be better prepared? Should there be plans and clinical development strategies in place?&lt;/li&gt;
+&lt;li&gt;How do we build resiliency? What steps could/should be implemented at various stages to ‘flatten the curve’?&lt;/li&gt;
+&lt;li&gt;Vulnerable communities and minority populations are at a disadvantage. How do we address these health disparities?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA-JDS Webinar Series: Data Science in Action in Response to the Outbreak of COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200417asa-jds-webinar-series-data-science-in-action-in-response-to-the-outbreak-of-covid-19/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200417asa-jds-webinar-series-data-science-in-action-in-response-to-the-outbreak-of-covid-19/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Replay links available on website&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Curating a COVID-19 data repository and forecasting county-level death counts in the United States&lt;/strong&gt;&lt;br&gt;
+07/24/2020,  Dr. Bin Yu, University of California, Berkeley&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The COVID-19 Forecast Hub: using statistics and data science to support decision-making in a pandemic&lt;/strong&gt;&lt;br&gt;
+07/17/2020, Dr. Nicholas Reich, University of Massachusetts, Amherst&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Semiparametric Bayesian inference for the transmission dynamics of COVID-19 with a state-space model&lt;/strong&gt;&lt;br&gt;
+07/10/2020, Dr. Yuan Ji, University of Chicago&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The opportunities and challenges of healthcare systems in the COVID-19 era&lt;/strong&gt;&lt;br&gt;
+06/26/2020, Dr. Kimia Ghobadi, Johns Hopkins University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A statistical transmission model for COVID-19 outbreak with adjustment of external factors&lt;/strong&gt;&lt;br&gt;
+06/19/2020, Dr. Yifan Zhu, Fred Hutchinson Cancer Research Center&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistics and modeling in response to COVID-19 at NIAID&lt;/strong&gt;&lt;br&gt;
+06/12/2020, Dr. Dean Follmann, National Institute of Allergy and Infectious Diseases&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A biostatistician&amp;rsquo;s encounter with COVID-19 in New York City&lt;/strong&gt;&lt;br&gt;
+06/05/2020, Dr. Usha Govindarajulu, Icahn School of Medicine at Mount Sinai&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Can the reported COVID-19 data tell us the truth? Scrutinizing the data from the measurement error models perspective&lt;/strong&gt;&lt;br&gt;
+05/29/2020, Dr. Grace Yi, University of Western Ontario&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Predictions, role of interventions and implications of a national lockdown on the COVID-19 outbreak in India&lt;/strong&gt;&lt;br&gt;
+05/22/2020, COV-IND-19 Study Group ( (Dr. Bhramar Mukherjee, University of Michigan; Dr. Debashree Ray, Johns Hopkins University; Rupam Bhattacharyya, University of Michigan; and Maxwell Salvatore, University of Michigan)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;COVID-19: Analytic studies and opportunities for outside of epidemiology&lt;/strong&gt;&lt;br&gt;
+05/15/2020, Dr. David Corliss, Peace-Work&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Estimation of incubation period distribution of COVID-19 using disease onset forward time: A novel cross-sectional and forward follow-up study&lt;/strong&gt;&lt;br&gt;
+05/08/2020, Dr. Jing Qin, National Institute of Allergy and Infectious Diseases (NIAID)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;COVID19 US dashboard: Spatiotemporal dynamics, nowcasting and forecasting of COVID-19 in the United States&lt;/strong&gt;&lt;br&gt;
+05/01/2020, Dr. Lily Wang, Iowa State University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tracking reproductivity of COVID-19 pandemic with varying coefficient epidemiological models&lt;/strong&gt;&lt;br&gt;
+04/24/2020, Dr. Song Xi Chen, Peking University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;An epidemiological forecast model to assess the effect of social distancing on flattening the coronavirus curve in the USA&lt;/strong&gt;&lt;br&gt;
+04/17/2020, Dr. Peter X.K. Song University of Michigan&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

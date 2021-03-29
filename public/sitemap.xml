@@ -109,7 +109,27 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
-    <lastmod>2021-04-21T08:00:00-07:00</lastmod>
+    <lastmod>2021-04-30T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210430competing-frameworks-and-methods-for-competing-risks-data/</loc>
+    <lastmod>2021-04-30T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210429communicating-statistics-to-the-media-highs-and-lows-during-the-pandemic-so-far/</loc>
+    <lastmod>2021-04-29T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210429covid-19/</loc>
+    <lastmod>2021-04-29T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</loc>
+    <lastmod>2021-04-22T11:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -138,6 +158,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210415flying-the-plane-while-improving-it-learning-from-covid-patient-data-in-close-to-real-time/</loc>
+    <lastmod>2021-04-15T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url>
@@ -155,6 +180,16 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210408bbsw/</loc>
     <lastmod>2021-04-08T16:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210408time-series-a-first-course-with-bootstrap-sampler/</loc>
+    <lastmod>2021-04-08T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210407causal-inference-for-multiple-time-point-longitudinal-exposures/</loc>
+    <lastmod>2021-04-07T10:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -238,11 +273,6 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210325iddi/</loc>
-    <lastmod>2021-03-25T09:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210325sample-size-re-estimation/</loc>
     <lastmod>2021-03-25T09:00:00-08:00</lastmod>
   </url>
@@ -255,11 +285,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210325synthetic-control-mythbusters/</loc>
     <lastmod>2021-03-25T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210323covid-19/</loc>
-    <lastmod>2021-03-23T12:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -879,6 +904,11 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707clinical-endpoints-and-treatment-effect-in-immuno-oncology/</loc>
+    <lastmod>2020-07-07T11:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20200707iddi/</loc>
     <lastmod>2020-07-07T11:00:00-07:00</lastmod>
   </url>
   

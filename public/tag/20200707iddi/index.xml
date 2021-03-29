@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IDDI | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200707iddi/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20200707iddi/index.xml" rel="self" type="application/rss+xml" />
+    <description>IDDI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 11:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>IDDI</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200707iddi/</link>
+    </image>
+    
+    <item>
+      <title>Clinical Endpoints and Treatment Effect in Immuno-Oncology</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707clinical-endpoints-and-treatment-effect-in-immuno-oncology/</link>
+      <pubDate>Tue, 07 Jul 2020 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707clinical-endpoints-and-treatment-effect-in-immuno-oncology/</guid>
+      <description>&lt;p&gt;In this webinar the speakers reviewed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adaptations to tumor response and progression criteria for immune therapies. Survival may be the endpoint of choice for clinical trials in some tumor types, but presence of delayed treatment effects and non-proportional hazards may complicate evaluation of treatment benefits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Statistical methods to best describe and test for treatment effects in immuno-oncology randomized clinical trials.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
