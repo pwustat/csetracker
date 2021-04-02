@@ -4,19 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Webinars"
-  url = "webinar/"
-  weight = 10
-
-[[main]]
   name = "Conferences"
   url = "conference/"
+  weight = 10
+  
+[[main]]
+  name = "Short Courses"
+  url = "course/"
   weight = 20
   
 [[main]]
+  name = "Webinars"
+  url = "webinar/"
+  weight = 30
+
+[[main]]
   name = "Resources"
   url = "resource/"
-  weight = 30
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

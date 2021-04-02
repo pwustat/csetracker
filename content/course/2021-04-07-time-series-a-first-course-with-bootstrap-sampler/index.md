@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-type: webinar
-title: Competing Frameworks and Methods for Competing Risks Data
-url_register: https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#CFMCRD
+type: course
+title: Time Series - A First Course with Bootstrap Sampler
+url_register: https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TSAFCBS
 url_freeregister: 
 url_slides:
 url_video: false
@@ -14,12 +14,12 @@ url_pdf:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-30T09:00:00-07:00
-date_end: 2021-04-30T11:00:00-07:00
-all_day: false
+date: 2021-04-08T07:00:00-07:00
+date_end: 2021-04-29T09:00:00-07:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-03-28T21:34:47-07:00
+publishDate: 2021-03-28T21:38:51-07:00
 
 authors: []
 tags: []
@@ -64,10 +64,9 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: This will be a four-part webinar presentation from 7-9 am PST on the 8th, 15th, 22nd, and 29th of April.
 abstract:
-speaker: Douglas Schaubel (University of Pennsylvania Perelman School of Medicine)
+speaker:
 ---
 <!--more-->
-Competing risks data arise frequently in clinical and epidemiologic studies. Such data are characterized by a survival time that terminates due to one of several mutually exclusive causes. This webinar will cover the following: the two most commonly adopted frameworks for competing risks data; relevant estimands and estimators within each framework; the role of censoring as a competing risk; available modeling strategies; and causal inference in the competing risks setting. The main ideas will be illustrated through several real-data examples.
-
+This course will be a reprise of the main topics of the book by the same name, by Tucker McElroy and Dimitris Politis. The intended audience includes statisticians with little or no knowledge of time series, but a general knowledge of statistics. Prerequisites include a course on linear models, a course on mathematical statistics (such concepts as bias, variance, and the Gaussian distribution), and a familiarity with linear algebra (the transpose, inverse, and eigen-values of a matrix). The aim is to cover basic concepts of time series analysis at a level suitable for those with a bachelor's or master's degree in statistics, while including a few non-standard concepts such as volatility filtering and time series bootstraps. A second aim is to incorporate coding in R of all concepts, methods, and examples.

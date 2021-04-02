@@ -1,5 +1,5 @@
 ---
-title: ""
+title: 
 layout: webinar
 # View.
 #   1 = List

@@ -5,7 +5,7 @@ date: '2021-05-04T02:30:00-07:00'
 slug: psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future
 categories: []
 tags: []
-type: webinar
+type: conference
 url_register: https://uat.psiweb.org/events/event-item/2021/05/04/default-calendar/psi-one-day-meeting-missing-data-in-clinical-trials---past-present-and-future
 url_freeregister: ~
 url_slides: ~

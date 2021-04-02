@@ -27,6 +27,9 @@
 {{ else if eq $item.Type "resource" }}
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
+{{ else if eq $item.Type "course" }}
+  {{ $show_authors_only = true }}
+  {{ $show_buttons = true }}
 {{ end }}
 
 {{/* Get summary. */}}
@@ -84,6 +87,16 @@
               <span>{{ . }}</span>
               {{ end }}
             </div>
+                {{ else if eq $item.Type "conference" }}
+                <div>
+                  <span>
+                    {{ partial "functions/get_event_dates" $item }}
+                  </span>
+                  {{ with $item.Params.location }}
+                  <span class="middot-divider"></span>
+                  <span>{{ . }}</span>
+                  {{ end }}
+                </div>
           {{ end }}
 
       {{ if and $show_authors_only $item.Params.authors }}

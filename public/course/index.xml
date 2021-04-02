@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSE Tracker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 09:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>CSE Tracker</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
+    </image>
+    
+    <item>
+      <title>Competing Frameworks and Methods for Competing Risks Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</link>
+      <pubDate>Fri, 30 Apr 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</guid>
+      <description>&lt;p&gt;Competing risks data arise frequently in clinical and epidemiologic studies. Such data are characterized by a survival time that terminates due to one of several mutually exclusive causes. This webinar will cover the following: the two most commonly adopted frameworks for competing risks data; relevant estimands and estimators within each framework; the role of censoring as a competing risk; available modeling strategies; and causal inference in the competing risks setting. The main ideas will be illustrated through several real-data examples.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polygenic Risk Prediction and Equitable Disease Prevention</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</link>
+      <pubDate>Thu, 22 Apr 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</guid>
+      <description>&lt;p&gt;Recent discoveries from large scale genome-wide association studies (GWAS) have raised the prospect of using polygenic risk scores in routine health care setting for the prediction of future incidence of large variety of complex diseases. However, as GWAS studies to date have been heavily biased towards European origin populations, current polygenic risk scores often underperform in non-European populations and thus use of them can further exacerbate healthcare inequality. In this talk, I will review simple and advanced statistical methods for generating polygenic risk score using high-dimensional SNP data and describe theoretical characterizations of their expected performance, both in the population that underlies original studies and in a different population that is expected to have different distribution of allele frequencies and linkage disequilibrium (SNP-correlation). I will further describe novel Bayesian and machine learning based methods for building polygenic risk scores that can borrow information across GWAS studies of different ethnic groups, and thus makes best use of available data to generate more powerful polygenic risk scores across different ethnic groups. I will demonstrate potential utility for PRS in precision medicine using our recent studies on breast cancer.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Time Series - A First Course with Bootstrap Sampler</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</link>
+      <pubDate>Thu, 08 Apr 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</guid>
+      <description>&lt;p&gt;This course will be a reprise of the main topics of the book by the same name, by Tucker McElroy and Dimitris Politis. The intended audience includes statisticians with little or no knowledge of time series, but a general knowledge of statistics. Prerequisites include a course on linear models, a course on mathematical statistics (such concepts as bias, variance, and the Gaussian distribution), and a familiarity with linear algebra (the transpose, inverse, and eigen-values of a matrix). The aim is to cover basic concepts of time series analysis at a level suitable for those with a bachelor&amp;rsquo;s or master&amp;rsquo;s degree in statistics, while including a few non-standard concepts such as volatility filtering and time series bootstraps. A second aim is to incorporate coding in R of all concepts, methods, and examples.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Causal Inference for Multiple Time-point (Longitudinal) Exposures</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</link>
+      <pubDate>Wed, 07 Apr 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</guid>
+      <description>&lt;p&gt;This workshop applies the Causal Roadmap to estimate the causal effects with multiple intervention variables, such as the cumulative effect of an exposure over time, controlled direct effects, and effects on survival-type outcomes with right-censoring. We will cover longitudinal causal models, identification in the presence of time-dependent confounding; and estimation of joint treatment effects using G-computation, inverse probability weighting (IPW), and targeted maximum likelihood estimation (TMLE) with Super Learner. During the workshop session, participants will work through the Roadmap using an applied example and implement these estimators with the ltmle R package. Prior training in causal inference in a single time-point setting is strongly recommended, but not required.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

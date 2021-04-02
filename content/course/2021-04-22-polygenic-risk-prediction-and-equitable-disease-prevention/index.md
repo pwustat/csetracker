@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-type: webinar
+type: course
 title: Polygenic Risk Prediction and Equitable Disease Prevention
 url_register: https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#PRPEDP
 url_freeregister: 
