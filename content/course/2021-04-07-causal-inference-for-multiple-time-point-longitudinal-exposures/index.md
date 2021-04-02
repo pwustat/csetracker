@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-type: webinar
+type: course
 title: Causal Inference for Multiple Time-point (Longitudinal) Exposures
 url_register: https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#CIMTE
 url_freeregister: 
