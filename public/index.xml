@@ -29,22 +29,6 @@
     </item>
     
     <item>
-      <title>2021 World Meeting of the International Society of Bayesian Analysis (ISBA)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106282021-world-meeting-of-the-international-society-of-bayesian-analysis-isba2020/</link>
-      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106282021-world-meeting-of-the-international-society-of-bayesian-analysis-isba2020/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 15, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>41st International Symposium on Forecasting</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021062741st-international-symposium-on-forecasting/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021062741st-international-symposium-on-forecasting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DIA 2021 Global Annual Meeting</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210627dia-2021-global-annual-meeting/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
@@ -276,6 +260,20 @@
       <pubDate>Thu, 01 Apr 2021 15:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401what-are-the-most-important-statistical-ideas-of-the-past-50-years/</guid>
       <description>&lt;p&gt;We argue that the most important statistical ideas of the past half century are: counterfactual causal inference, bootstrapping and simulation-based inference, overparameterized models and regularization, multilevel models, generic computation algorithms, adaptive decision analysis, robust inference, and exploratory data analysis. We discuss common features of these ideas, how they relate to modern computing and big data, and how they might be developed and extended in future decades. The goal of this article is to provoke thought and discussion regarding the larger themes of research in statistics and data science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021 04 01 </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/post/2021-04-01-/</link>
+      <pubDate>Thu, 01 Apr 2021 12:44:48 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/post/2021-04-01-/</guid>
+      <description>
+&lt;script src=&#34;./rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;./rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;./rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+</description>
     </item>
     
     <item>

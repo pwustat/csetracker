@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: 41st International Symposium on Forecasting
 author: ''
 date: '2021-06-27'

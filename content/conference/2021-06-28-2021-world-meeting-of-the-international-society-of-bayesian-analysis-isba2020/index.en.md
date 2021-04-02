@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: 2021 World Meeting of the International Society of Bayesian Analysis (ISBA)
 author: ''
 date: '2021-06-28'
