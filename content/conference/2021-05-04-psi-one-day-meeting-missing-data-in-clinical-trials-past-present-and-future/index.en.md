@@ -15,7 +15,7 @@ url_website: ~
 url_audio: ~
 url_code: ~
 url_pdf: ~
-date_end: '2021-05-04T05:30:00-07:00'
+date_end: '2021-05-05T05:00:00-07:00'
 all_day: no
 publishDate: '2021-03-29T13:14:01-07:00'
 authors: []
@@ -33,7 +33,7 @@ address:
   region: ~
   postcode: ~
   country: ~
-summary: May 4th and 5th, 2021
+summary: May 4th (3:30-6:30am PST) and 5th (2:00-5:00am PST), 2021
 abstract: ~
 speaker: Khadija Rantell (MHRA) | Jiawei Wei (Novartis) | David Wright (AstraZeneca) | Bohdana Ratitch (Bayer) | Sylvia Li (IQVIA) | Michael O’Kelly (IQVIA) | Daniel Bratton (GSK) | James Bell (Elderbrook solutions GmbH)
 ---

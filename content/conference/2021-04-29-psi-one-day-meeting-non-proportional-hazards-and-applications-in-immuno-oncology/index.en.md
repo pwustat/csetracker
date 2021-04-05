@@ -5,7 +5,7 @@ date: '2021-04-29T03:00:00-07:00'
 slug: psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology
 categories: []
 tags: []
-type: webinar
+type: conference
 url_register: https://uat.psiweb.org/events/event-item/2021/04/29/default-calendar/psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology
 url_freeregister: ~
 url_slides: ~
