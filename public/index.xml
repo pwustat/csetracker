@@ -151,6 +151,14 @@
     </item>
     
     <item>
+      <title>DahShu Webinar: Dynamic Data Monitoring of Ongoing Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210423dynamic-data-monitoring-of-ongoing-clinical-trials/</link>
+      <pubDate>Fri, 23 Apr 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210423dynamic-data-monitoring-of-ongoing-clinical-trials/</guid>
+      <description>&lt;p&gt;According to a recent report, nearly 70% Phase II trials failed to move forward to Phase III. Part of the reasons caused such high failure rate could be inefficient trial design and trial monitoring. In this talk, we introduce the concept of dynamic data monitoring (DDM) for ongoing clinical trials. We develop the principles and procedures for dynamically monitoring on-going clinical trials and demonstrate that the accumulative treatment effect can be automatically estimated and continuously accessible over the information time. Building on the adaptive group sequential (AGS) methods, and by taking the advantage of modern eClinical technologies, we developed a clinical trial “radar” system on which the Wald statistics, conditional power, trend, timing for sample size re-estimation, alerting of early stopping for efficacy and/or futility can be automatically displayed. Thus, the trail can be intelligently monitored. Through simulation, we demonstrate the power of DDM in guiding a promising trial to success or detecting a “hopeless” trial to stop. We provide an example of DDM application in the 1st remdesivir trial in Wuhan China.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>European Causal Inference Meeting (EuroCIM) 2021</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210423european-causal-inference-meeting-eurocim-2021/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
