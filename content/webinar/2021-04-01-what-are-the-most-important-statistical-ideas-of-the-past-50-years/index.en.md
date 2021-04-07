@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: What are the most important statistical ideas of the past 50 years?
 author: ''
 date: '2021-04-01T15:00:00-07:00'

@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: ~
 url_slides: ~
-url_video: no
+url_video: https://drive.google.com/file/d/1Aj3Q4FOCTF6vCniHM8UWo0TU3M-AGPXs/view?usp=sharing
 url_agenda: ~
 url_website: https://sites.google.com/view/selective-inference-seminar
 url_audio: ~

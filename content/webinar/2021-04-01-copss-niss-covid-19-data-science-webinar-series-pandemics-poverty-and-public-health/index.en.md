@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://psu.zoom.us/webinar/register/WN_yoixtaACQD6DN-GSkp8fdw
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=4vqfsVZ15Ag
 url_agenda: ~
 url_website: https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series-8
 url_audio: ~
