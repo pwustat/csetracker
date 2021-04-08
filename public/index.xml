@@ -151,6 +151,25 @@
     </item>
     
     <item>
+      <title>Target Trial Emulation using Real World Data: A Head-to-Head Comparison of Antihyperglycemic Therapies for Type 2 Diabetes</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210427target-trial-emulation-using-real-world-data-a-head-to-head-comparison-of-antihyperglycemic-therapies-for-type-2-diabetes/</link>
+      <pubDate>Tue, 27 Apr 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210427target-trial-emulation-using-real-world-data-a-head-to-head-comparison-of-antihyperglycemic-therapies-for-type-2-diabetes/</guid>
+      <description>&lt;p&gt;During the webinar Alind will discuss:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;When a randomized trial to compare effectiveness of healthcare interventions can be emulated using real-world data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The target trial framework, which couples causal inference methods to an explicit causal question posed in the form of a protocol for a randomized trial.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How this approach helps to avoid common methodological pitfalls encountered in naïve analyses of observational data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>DahShu Webinar: Dynamic Data Monitoring of Ongoing Clinical Trials</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210423dynamic-data-monitoring-of-ongoing-clinical-trials/</link>
       <pubDate>Fri, 23 Apr 2021 09:00:00 -0700</pubDate>
@@ -1099,7 +1118,7 @@ November 9, 2020&lt;br&gt;
     </item>
     
     <item>
-      <title>Study Design Considerations and an Update on the Pilot Investigation in Cancer</title>
+      <title>Head-to-Head Comparison Using Real-World Data: Study Design Considerations and an Update on the Pilot Investigation in Cancer</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</guid>
@@ -1388,14 +1407,6 @@ Non-inferiority testing is a common hypothesis test in the development of generi
     </item>
     
     <item>
-      <title>Design and Data Source Considerations from Pilot Investigations in Cardiovascular Disease</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Enabling Remote Data Science Teams</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728enabling-remote-data-science-teams/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
@@ -1408,6 +1419,14 @@ Non-inferiority testing is a common hypothesis test in the development of generi
 &lt;li&gt;How to scale Shiny dashboards to hundreds of users&lt;/li&gt;
 &lt;li&gt;How to build and grow a remote data science team&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Head-to-head Comparisons using Real-World Data: Design and Data Source Considerations from Pilot Investigations in Cardiovascular Disease</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1518,7 +1537,7 @@ We explore these statistical concepts through an example from health outcomes re
     </item>
     
     <item>
-      <title>The Time for Causal Inference is Now</title>
+      <title>Head-to-Head Comparisons using Real World Data: The Time for Causal Inference is Now</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</guid>

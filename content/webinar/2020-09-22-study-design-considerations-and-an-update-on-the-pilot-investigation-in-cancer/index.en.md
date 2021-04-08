@@ -1,12 +1,12 @@
 ---
-title: Study Design Considerations and an Update on the Pilot Investigation in Cancer
+title: 'Head-to-Head Comparison Using Real-World Data: Study Design Considerations and an Update on the Pilot Investigation in Cancer'
 author: ''
 date: '2020-09-22'
 slug: study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer
 categories:
   - Causal Inference
-  - Real-World Evidence
 tags:
+  - RWE
   - Causal Inference
 type: webinar
 url_register: ~

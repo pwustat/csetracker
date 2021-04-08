@@ -1,12 +1,12 @@
 ---
-title: Design and Data Source Considerations from Pilot Investigations in Cardiovascular
-  Disease
+title: 'Head-to-head Comparisons using Real-World Data: Design and Data Source Considerations from Pilot Investigations in Cardiovascular Disease'
 author: ''
 date: '2020-07-28'
 slug: design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease
 categories:
   - Causal Inference
 tags:
+  - RWE
   - Causal Inference
 type: webinar
 url_register: ~

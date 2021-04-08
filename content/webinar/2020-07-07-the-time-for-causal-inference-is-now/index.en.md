@@ -1,11 +1,12 @@
 ---
-title: The Time for Causal Inference is Now
+title: 'Head-to-Head Comparisons using Real World Data: The Time for Causal Inference is Now'
 author: ''
 date: '2020-07-07'
 slug: the-time-for-causal-inference-is-now
 categories:
   - Causal Inference
 tags:
+  - RWE
   - Causal Inference
 type: webinar
 url_register: ~
