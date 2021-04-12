@@ -149,6 +149,17 @@
   {{ "$ Register" }}
 </a>
 {{ end }}
+{{ with $page.Params.url_dial }}
+  {{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  {{ "Dial-In Link" }}
+</a>
+{{ end }}
 {{ with $page.Params.url_agenda }}
   {{ $resource := $page.Resources.GetMatch . }}
   {{ if $resource }}
