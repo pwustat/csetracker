@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 08:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 09:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>COPSS-NISS COVID-19 Data Science Webinar Series: Communication of Statistical and Epidemiologic Concepts to Broad Audiences</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513copss-niss-covid-19-data-science-webinar-series-communication-of-statistical-and-epidemiologic-concepts-to-broad-audiences/</link>
+      <pubDate>Thu, 13 May 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513copss-niss-covid-19-data-science-webinar-series-communication-of-statistical-and-epidemiologic-concepts-to-broad-audiences/</guid>
+      <description>&lt;p&gt;The past year has seen a huge increase in the communication of statistical, medical, and public health concepts, methods, and results to broad audiences.  The general public has been exposed to the ideas of reproduction numbers, exponential growth, randomized trials, and the challenges of program evaluation in ways that had rarely been seen at such a large scale.  This webinar will provide a discussion between two experts in scientific communication&amp;ndash;Jenn Dowd, co-founder of Dear Pandemic and Associate Professor at the University of Oxford, and Ed Yong, staff writer at The Atlantic. They will discuss what they have learned during the course of the pandemic about communicating statistical/epidemiological concepts to broad audiences, what challenges remain, and how might we best address them.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Oncology and Imunno-Oncology Drug Discovery: from Hit-Finding to Pre-Clinical Candidate Selection</title>
