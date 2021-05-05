@@ -36,6 +36,6 @@ projects: []
 summary: ~
 abstract: ~
 ---
-<span style="color: salmon;">*Early registration Deadline: Apr 7, 2021*</span>
+<span style="color: salmon;">*Early registration deadline: Apr 7, 2021*</span>
 
 <!--more-->
