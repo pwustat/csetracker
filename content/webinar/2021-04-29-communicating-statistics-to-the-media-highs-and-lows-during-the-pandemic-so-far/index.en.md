@@ -1,6 +1,5 @@
 ---
-title: 'Communicating Statistics to the Media: Highs and Lows During the Pandemic
-  (so far)'
+title: 'Communicating Statistics to the Media: Highs and Lows During the Pandemic (so far)'
 author: ''
 date: '2021-04-29T09:00:00-07:00'
 slug: communicating-statistics-to-the-media-highs-and-lows-during-the-pandemic-so-far
@@ -11,9 +10,9 @@ type: webinar
 url_register: ~
 url_freeregister: https://psu.zoom.us/webinar/register/WN_CIAPCQX-RjuEAeq2qWXl6w
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=zJDgk5HMNDE
 url_agenda: ~
-url_website: https://www.niss.org/copss-niss-covid-19-data-science-webinar-series
+url_website: https://www.niss.org/news/communicating-statistics-media-highs-and-lows-during-pandemic-described
 url_audio: ~
 url_code: ~
 url_pdf: ~

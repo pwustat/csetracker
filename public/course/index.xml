@@ -5,12 +5,28 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 09:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
     </image>
+    
+    <item>
+      <title>Medical University of South Carolina (MUSC) Short Course: Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration ends by May 10, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Traveling Course: Introduction to Structural Equation Modeling with Health-Related Outcome Measures</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</link>
+      <pubDate>Thu, 13 May 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration Deadline: May 6, 2021 @ 3pm PST; ASA members: $45, non-members: $50&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Competing Frameworks and Methods for Competing Risks Data</title>

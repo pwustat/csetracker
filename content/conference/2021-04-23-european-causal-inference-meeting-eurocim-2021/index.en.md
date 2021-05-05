@@ -13,7 +13,7 @@ url_pdf: ~
 url_video: ~
 url_website: https://www.eurocim.org/
 url_agenda: ~
-location: ~
+location: Virtual
 address:
   street: ~
   city: ~

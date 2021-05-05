@@ -5,28 +5,12 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
     </image>
-    
-    <item>
-      <title>2021 Joint Statistical Meetings (JSM)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration open: May 3; Early registration Deadline: May 31&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2021 UW Biostatistics Online Summer Institutes</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jun 18, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>DIA 2021 Global Annual Meeting</title>
@@ -69,6 +53,31 @@
     </item>
     
     <item>
+      <title>International Indian Statistical Association (IISA) 2021 Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210520international-indian-statistical-association-iisa-2021-conference/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210520international-indian-statistical-association-iisa-2021-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>42nd Annual Meeting of Society of Clinical Trials (SCT)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021051742nd-annual-meeting-of-society-of-clinical-trials-sct/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021051742nd-annual-meeting-of-society-of-clinical-trials-sct/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration deadline: May 10, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Conference highlights include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plenary sessions, topical sessions and contributed presentations (both live and on-demand) on COVID-19 studies, the impact of COVID-19 on trials, along with many other clinical trial related topics&lt;/li&gt;
+&lt;li&gt;In-conference educational workshops, offering guidance on both classical and topical issues in clinical trials&lt;/li&gt;
+&lt;li&gt;Annual Thomas C. Chalmers Student Scholarship and Sylvan Green Award competitions&lt;/li&gt;
+&lt;li&gt;Discussion of timely issues and research experiences among colleagues in the field of clinical trials&lt;/li&gt;
+&lt;li&gt;Presentation of the 2020 David Sackett Trial of the Year Award&lt;/li&gt;
+&lt;li&gt;Presentation of the SCT Class of 2021 Fellows&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>ISPOR 2021</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517ispor-2021/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
@@ -82,6 +91,14 @@
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration ends on May 2, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>International Virtual Conference on Advances in Statistics - Honoring the Contributions of Barry C. Arnold in Statistical Science </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210507international-virtual-conference-on-advances-in-statistics-honoring-the-contributions-of-barry-c-arnold-in-statistical-science/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210507international-virtual-conference-on-advances-in-statistics-honoring-the-contributions-of-barry-c-arnold-in-statistical-science/</guid>
+      <description>&lt;p&gt;The conference will feature research topics inspired by the substantial contributions of Professor Barry C. Arnold in areas including ordered data analysis, univariate distribution theory, multivariate distribution theory, goodness-of-fit tests, statistical inference, and statistical applications. The main objective of this conference is to bring together researchers to discuss recent developments and explore future directions on these topics.&lt;/p&gt;</description>
     </item>
     
     <item>

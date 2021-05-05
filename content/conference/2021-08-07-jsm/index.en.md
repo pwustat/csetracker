@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: 2021 Joint Statistical Meetings (JSM)
 author: ''
 date: '2021-08-07'
@@ -13,7 +14,7 @@ url_pdf: ~
 url_video: ~
 url_website: https://ww2.amstat.org/meetings/jsm/2021/
 url_agenda: ~
-location: Hybrid 
+location: Virtual
 address:
   street: ~
   city: ~

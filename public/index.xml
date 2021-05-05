@@ -5,28 +5,12 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
     </image>
-    
-    <item>
-      <title>2021 Joint Statistical Meetings (JSM)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration open: May 3; Early registration Deadline: May 31&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2021 UW Biostatistics Online Summer Institutes</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jun 18, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>DIA 2021 Global Annual Meeting</title>
@@ -69,6 +53,81 @@
     </item>
     
     <item>
+      <title>Medical University of South Carolina (MUSC) Short Course: Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration ends by May 10, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fireside Chat with Kaggle Founder Anthony Goldbloom</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210520fireside-chat-with-anthony-goldbloom-founder-of-kaggle/</link>
+      <pubDate>Thu, 20 May 2021 10:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210520fireside-chat-with-anthony-goldbloom-founder-of-kaggle/</guid>
+      <description>&lt;p&gt;Hear Anthony share his thoughts and experiences from the past 10 years at the forefront of competitive Machine Learning:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What led him to start Kaggle?&lt;/li&gt;
+&lt;li&gt;What have been the biggest changes over Kaggle’s 10 years?&lt;/li&gt;
+&lt;li&gt;Is a Kaggle competition winner ever viable to be operationalised?&lt;/li&gt;
+&lt;li&gt;What are the pros and cons of being acquired by Google?&lt;/li&gt;
+&lt;li&gt;How do organisations best use the Kaggle community?&lt;/li&gt;
+&lt;li&gt;Is Kaggle good for its members? (is it a fair exchange?)&lt;/li&gt;
+&lt;li&gt;What’s next for Kaggle?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>30th Bradford Hill Memorial Lecture: Life course epidemiology - from the Bradford Hill viewpoints to counterfactual comparisons</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/2021052030th-bradford-hill-memorial-lecture-life-course-epidemiology-from-the-bradford-hill-viewpoints-to-counterfactual-comparisons/</link>
+      <pubDate>Thu, 20 May 2021 09:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/2021052030th-bradford-hill-memorial-lecture-life-course-epidemiology-from-the-bradford-hill-viewpoints-to-counterfactual-comparisons/</guid>
+      <description>&lt;p&gt;In this talk, Professor Bianca De Stavola will discuss how life course investigations may characterise the impact of exposures over time (e.g., continuous or time-specific) and across dimensions (e.g., via joint or distinct pathways), and how different study designs may aid them. She will also compare ‘traditional’ approaches to gather evidence for causality and potential areas of intervention with the formality and clarity of counterfactual-based estimands.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>International Indian Statistical Association (IISA) 2021 Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210520international-indian-statistical-association-iisa-2021-conference/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210520international-indian-statistical-association-iisa-2021-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytel Webinar: Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210518cytel-webinar-utilizing-bayesian-analysis-to-make-go-no-go-decisions-in-a-platform-trial/</link>
+      <pubDate>Tue, 18 May 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210518cytel-webinar-utilizing-bayesian-analysis-to-make-go-no-go-decisions-in-a-platform-trial/</guid>
+      <description>&lt;p&gt;The speakers will discuss:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A New Hybrid Phase I-II-III Clinical Trial Paradigm&lt;/li&gt;
+&lt;li&gt;Information borrowing in clinical trials: methods for basket trials and external data&lt;/li&gt;
+&lt;li&gt;Early phase oncology decision making using East Bayes&lt;/li&gt;
+&lt;li&gt;Leveraging external control data for a clinical trial with Time-to-Event Endpoint&lt;/li&gt;
+&lt;li&gt;A review of Adaptive Phase II basket trial designs in East Bayes
+Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/li&gt;
+&lt;li&gt;Using robust Bayesian priors to borrow information from historical adult trials for a clinical trial in pediatric multiple sclerosis&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>42nd Annual Meeting of Society of Clinical Trials (SCT)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021051742nd-annual-meeting-of-society-of-clinical-trials-sct/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021051742nd-annual-meeting-of-society-of-clinical-trials-sct/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration deadline: May 10, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Conference highlights include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plenary sessions, topical sessions and contributed presentations (both live and on-demand) on COVID-19 studies, the impact of COVID-19 on trials, along with many other clinical trial related topics&lt;/li&gt;
+&lt;li&gt;In-conference educational workshops, offering guidance on both classical and topical issues in clinical trials&lt;/li&gt;
+&lt;li&gt;Annual Thomas C. Chalmers Student Scholarship and Sylvan Green Award competitions&lt;/li&gt;
+&lt;li&gt;Discussion of timely issues and research experiences among colleagues in the field of clinical trials&lt;/li&gt;
+&lt;li&gt;Presentation of the 2020 David Sackett Trial of the Year Award&lt;/li&gt;
+&lt;li&gt;Presentation of the SCT Class of 2021 Fellows&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>ISPOR 2021</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517ispor-2021/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
@@ -90,6 +149,43 @@
       <pubDate>Thu, 13 May 2021 09:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513copss-niss-covid-19-data-science-webinar-series-communication-of-statistical-and-epidemiologic-concepts-to-broad-audiences/</guid>
       <description>&lt;p&gt;The past year has seen a huge increase in the communication of statistical, medical, and public health concepts, methods, and results to broad audiences.  The general public has been exposed to the ideas of reproduction numbers, exponential growth, randomized trials, and the challenges of program evaluation in ways that had rarely been seen at such a large scale.  This webinar will provide a discussion between two experts in scientific communication&amp;ndash;Jenn Dowd, co-founder of Dear Pandemic and Associate Professor at the University of Oxford, and Ed Yong, staff writer at The Atlantic. They will discuss what they have learned during the course of the pandemic about communicating statistical/epidemiological concepts to broad audiences, what challenges remain, and how might we best address them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FDA Grand Rounds: Project Orbis - Global Collaborative Oncology Review Program</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513fda-grand-rounds-project-orbis-global-collaborative-oncology-review-program/</link>
+      <pubDate>Thu, 13 May 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513fda-grand-rounds-project-orbis-global-collaborative-oncology-review-program/</guid>
+      <description>&lt;p&gt;FDA Oncology Center of Excellence (OCE) launched Project Orbis in May 2019 with international regulatory authorities as a global collaborative review program for oncology marketing applications. Current Project Orbis partners include the regulatory health authorities of Australia, Brazil, Canada, Singapore, Switzerland, and the United Kingdom. The program aims to facilitate the submission, review, and approval of high impact oncology marketing applications across the participating countries.&lt;/p&gt;
+&lt;p&gt;Learning Objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss the general framework of Project Orbis.&lt;/li&gt;
+&lt;li&gt;Explain how other FDA and OCE review programs interact with Project Orbis.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Traveling Course: Introduction to Structural Equation Modeling with Health-Related Outcome Measures</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</link>
+      <pubDate>Thu, 13 May 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/slug/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration Deadline: May 6, 2021 @ 3pm PST; ASA members: $45, non-members: $50&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frontiers in Biostatistics Seminar: Single-cell RNA-Seq Data Analysis Via a Regularized Zero-Inflated Mixture Model Framework</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210511frontiers-in-biostatistics-seminar-single-cell-rna-seq-data-analysis-via-a-regularized-zero-inflated-mixture-model-framework/</link>
+      <pubDate>Tue, 11 May 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210511frontiers-in-biostatistics-seminar-single-cell-rna-seq-data-analysis-via-a-regularized-zero-inflated-mixture-model-framework/</guid>
+      <description>&lt;p&gt;Applications of single-cell RNA sequencing in various biomedical research areas have been blooming. This new technology provides unprecedented opportunities to study disease heterogeneity at the cellular level. However, unique characteristics of scRNA-seq data, including large dimensionality, high dropout rates, and possibly batch effects, bring great difficulty into the analysis of such data. Not appropriately addressing these issues obstructs true scientific discovery. Herein, we propose a unified Regularized Zero-inflated Mixture Model framework designed for scRNA-seq data (RZiMM-scRNA) to simultaneously detect cell subgroups and identify gene differential expression based on a developed importance score, accounting for both dropouts and batch effects. We conduct extensive empirical investigation to demonstrate the promise of RZiMM-scRNA in comparison to several popular methods, including K-means and Hierarchical clustering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>International Virtual Conference on Advances in Statistics - Honoring the Contributions of Barry C. Arnold in Statistical Science </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210507international-virtual-conference-on-advances-in-statistics-honoring-the-contributions-of-barry-c-arnold-in-statistical-science/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210507international-virtual-conference-on-advances-in-statistics-honoring-the-contributions-of-barry-c-arnold-in-statistical-science/</guid>
+      <description>&lt;p&gt;The conference will feature research topics inspired by the substantial contributions of Professor Barry C. Arnold in areas including ordered data analysis, univariate distribution theory, multivariate distribution theory, goodness-of-fit tests, statistical inference, and statistical applications. The main objective of this conference is to bring together researchers to discuss recent developments and explore future directions on these topics.&lt;/p&gt;</description>
     </item>
     
     <item>

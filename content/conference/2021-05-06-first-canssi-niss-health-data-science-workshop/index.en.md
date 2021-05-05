@@ -13,7 +13,7 @@ url_pdf: ~
 url_video: ~
 url_website: https://www.niss.org/events/first-canssi-niss-health-data-science-workshop
 url_agenda: https://www.niss.org/first-canssi-niss-health-data-science-workshop-full-program
-location: ~
+location: Virtual
 address:
   street: ~
   city: ~
