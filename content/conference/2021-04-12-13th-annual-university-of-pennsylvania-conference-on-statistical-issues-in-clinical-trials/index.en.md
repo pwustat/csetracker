@@ -33,8 +33,9 @@ image:
   preview_only: no
 slides: ''
 projects: []
-summary: ~
+summary: 
 abstract: ~
 ---
+<span style="color: green;">*Presentation slides can be downloaded from the website*</span>  
 
 <!--more-->

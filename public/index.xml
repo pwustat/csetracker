@@ -206,15 +206,6 @@ Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/l
     </item>
     
     <item>
-      <title>Oncology and Imunno-Oncology Drug Discovery: from Hit-Finding to Pre-Clinical Candidate Selection</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210504oncology-and-imunno-oncology-drug-discovery-from-hit-finding-to-pre-clinical-candidate-selection/</link>
-      <pubDate>Tue, 04 May 2021 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210504oncology-and-imunno-oncology-drug-discovery-from-hit-finding-to-pre-clinical-candidate-selection/</guid>
-      <description>&lt;p&gt;An expert from Hitgen will discuss the application of DNA-encoded library (DEL) technology: the mechanics of DEL, the advantages and challenges of the technology to those considering DEL technology for identifying ligands for their target of interest.&lt;/p&gt;
-&lt;p&gt;An expert from Oncodesign will discuss how patient-derived xenograft (PDX) and PDX-derived models should be incorporated into different stages of the drug discovery process, taking example of Drug Positioning in Breast Cancer with relevant human projection.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>PSI One-Day Meeting: Missing Data in Clinical Trials - Past, Present and Future</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</link>
       <pubDate>Tue, 04 May 2021 02:30:00 -0700</pubDate>
@@ -348,7 +339,7 @@ Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/l
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Presentation slides can be downloaded from the website&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -686,49 +677,6 @@ Nonmembers: $35&lt;/p&gt;
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201204causal-reasoning-in-survival-and-time-to-event-analyses/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>COPSS-NISS COVID-19 Data Science Webinar Series</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201203copss-niss-covid-19-data-science-webinar-series/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201203copss-niss-covid-19-data-science-webinar-series/</guid>
-      <description>&lt;p&gt;The COPSS-NISS COVID-19 Data Science webinar series is co-organized by the Committee of the Presidents of Statistical Societies (COPSS) and its five charter member societies (ASA, ENAR, IMS, SSC, and WNAR), as well as NISS.  This twice a month webinar (1st and 3rd Thursday at noon EST) features the latest research that is positioned on the cusp of new understanding and analysis of COVID-19 pandemic data and promotes data-driven research and decision making to combat COVID-19.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;April 29, 2021&lt;/strong&gt; Communicating Statistics to the Media: Highs and Lows During the Pandemic&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;April 15, 2021&lt;/strong&gt; Flying the Plane while Improving It – Learning from COVID Patient Data in Close to Real Time&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;April 1, 2021&lt;/strong&gt; Jim Yong Kim, M.D., PhD, Vice Chairman and Partner at Global Infrastructure Partners&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;March 18, 2021&lt;/strong&gt; COVID-19 One Year In: Navigating the Communications Triangle of Experts, Policy Makers, and the Public&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;March 4, 2021&lt;/strong&gt; Predictions, Role of Interventions and the Crisis of Virus in India: A Data Science Call to Arms&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;February 18, 2021&lt;/strong&gt; Misinformation and Attitude Formation Analyzed Through Social Media Posts&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;February 4, 2021&lt;/strong&gt; Insights into Host and Viral Genetics of SARS-CoV-2 Discussed&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;January 21, 2021&lt;/strong&gt; Modeling Frameworks Provide Foundation for Inference and Projection of SARS-CoV-2&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;January 7, 2021&lt;/strong&gt; Epidemiologic Modeling in the Spotlight in 3rd COPSS-NISS COVID-19 Webinar&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;December 17, 2020&lt;/strong&gt; COPSS-NISS Webinar: Delphi’s COVIDcast Project Featured&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;December 3, 2020&lt;/strong&gt; Inaugural COPSS-NISS Webinar on the Statistics of COVID-19 Vaccine Trials - ‘Standing Room Only’!&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
     <item>

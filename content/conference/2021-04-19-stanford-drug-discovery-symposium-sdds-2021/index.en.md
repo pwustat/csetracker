@@ -10,7 +10,7 @@ url_freeregister: https://stanforduniversity.qualtrics.com/jfe/form/SV_3O5tU5pwR
 url_slides: ~
 url_code: ~
 url_pdf: ~
-url_video: ~
+url_video: http://med.stanford.edu/cvi/events/2021-drug-discovery-conference/event-recordings.html
 url_website: https://med.stanford.edu/cvi/events/2021-drug-discovery-conference.html
 url_agenda: ~
 location: ~
