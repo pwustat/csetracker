@@ -8,7 +8,7 @@ tags: []
 type: webinar
 url_register: ~
 url_freeregister: ~
-url_slides: ~
+url_slides: http://www.bayesianscientific.org/wp-content/uploads/2021/04/Alt_DIApres_Final.pdf
 url_video: no
 url_agenda: ~
 url_website: http://www.bayesianscientific.org/kol-lecture-series/

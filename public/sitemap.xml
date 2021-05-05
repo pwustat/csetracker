@@ -203,26 +203,6 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210428psi-vissig-webinar-rapid-insights-to-data/</loc>
-    <lastmod>2021-04-28T09:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210427causal-inference/</loc>
-    <lastmod>2021-04-27T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210427rwe/</loc>
-    <lastmod>2021-04-27T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210427target-trial-emulation-using-real-world-data-a-head-to-head-comparison-of-antihyperglycemic-therapies-for-type-2-diabetes/</loc>
-    <lastmod>2021-04-27T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210423dynamic-data-monitoring-of-ongoing-clinical-trials/</loc>
     <lastmod>2021-04-23T09:00:00-07:00</lastmod>
   </url>
@@ -360,6 +340,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/slug/</loc>
     <lastmod>2021-04-01T12:22:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210326causal-inference/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -524,6 +509,11 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201217non-randomized-studies-and-utilization-of-real-world-evidence/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20201217rwe/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
   </url>
   

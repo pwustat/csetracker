@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: 'PSI VisSIG Webinar: Rapid Insights to Data'
 author: ''
 date: '2021-04-28T09:00:00-07:00'
@@ -7,7 +8,7 @@ categories: []
 tags: []
 type: webinar
 url_register: ~
-url_freeregister: ~
+url_freeregister: https://members.psiweb.org/Core_Content_PSI/Events/Event_Display.aspx?EventKey=237
 url_slides: ~
 url_video: no
 url_agenda: ~

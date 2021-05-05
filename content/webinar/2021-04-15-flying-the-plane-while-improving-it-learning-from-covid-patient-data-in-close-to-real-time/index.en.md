@@ -9,9 +9,9 @@ type: webinar
 url_register: ~
 url_freeregister: https://psu.zoom.us/webinar/register/WN_CyemYr3bQt6-5Fn7AbMYfQ
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=gRY2etn-zH0
 url_agenda: ~
-url_website: https://www.niss.org/copss-niss-covid-19-data-science-webinar-series
+url_website: https://www.niss.org/news/flying-plane-while-improving-it-%E2%80%93-learning-covid-patient-data-close-real-time-april-19-2021
 url_audio: ~
 url_code: ~
 url_pdf: ~

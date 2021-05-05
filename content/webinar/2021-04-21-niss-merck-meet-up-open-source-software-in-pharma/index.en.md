@@ -9,11 +9,11 @@ tags:
   - Software
 type: webinar
 url_register: ~
-url_freeregister: https://psu.zoom.us/webinar/register/WN_ej_I29pyTjGRm9dgnAq9QQ
+url_freeregister: 
 url_slides: ~
-url_video: false
+url_video: https://www.youtube.com/watch?v=RkNtyBOkJk8
 url_agenda: ~
-url_website: https://www.niss.org/events/niss-merck-meet-open-source-software-pharma
+url_website: https://www.niss.org/news/niss-merck-meet-discusses-open-source-software-pharma
 url_audio: ~
 url_code: ~
 url_pdf: ~

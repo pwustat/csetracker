@@ -14,7 +14,7 @@ url_pdf: ~
 url_video: ~
 url_website: http://faculty.smu.edu/ngh/bca2021.html
 url_agenda: ~
-location: ~
+location: Virtual
 address:
   street: ~
   city: ~

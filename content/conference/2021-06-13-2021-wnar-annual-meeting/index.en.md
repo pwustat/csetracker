@@ -6,14 +6,14 @@ slug: 2021-wnar-annual-meeting
 categories: []
 tags: []
 type: conference
-url_register: ~
+url_register: http://www.wnar.org/event-3977784
 url_slides: ~
 url_code: ~
 url_pdf: ~
 url_video: ~
 url_website: http://www.wnar.org/event-3977784
 url_agenda: ~
-location: ~
+location: Virtual
 address:
   street: ~
   city: ~

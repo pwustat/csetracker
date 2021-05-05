@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: 'Target Trial Emulation using Real World Data: A Head-to-Head Comparison of Antihyperglycemic Therapies for Type 2 Diabetes'
 author: ''
 date: '2021-04-27T08:00:00-07:00'
