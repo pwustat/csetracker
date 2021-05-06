@@ -11,7 +11,7 @@ url_freeregister: ~
 url_slides: ~
 url_video: no
 url_agenda: ~
-url_website: ~
+url_website: https://www.rss.org.uk/training-events/events/events-2021/rss-events/30th-bradford-hill-memorial-lecture/
 url_audio: ~
 url_code: ~
 url_pdf: ~

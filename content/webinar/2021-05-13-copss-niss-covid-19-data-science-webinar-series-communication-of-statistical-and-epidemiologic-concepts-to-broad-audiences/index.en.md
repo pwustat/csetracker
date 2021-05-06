@@ -10,7 +10,7 @@ tags:
   - COVID-19
 type: webinar
 url_register: ~
-url_freeregister: https://urlisolation.com/browser?url=https%3A%2F%2Fpsu.zoom.us%2Fwebinar%2Fregister%2FWN_hWAifm87S62wwlOSzp-9YQ&traceToken=1618518408;gilead_hosted;https:/niss.us11.list-manage.com&clickId=4B7B1BA5-D6DE-40EA-8E61-2FC5AC5A1965
+url_freeregister: https://psu.zoom.us/webinar/register/WN_hWAifm87S62wwlOSzp-9YQ
 url_slides: ~
 url_video: no
 url_agenda: ~
