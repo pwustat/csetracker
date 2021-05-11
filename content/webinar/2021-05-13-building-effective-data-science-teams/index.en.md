@@ -1,5 +1,5 @@
 ---
-title: Building Effective Data Science Teams
+title: 'RStudio Webinar: Building Effective Data Science Teams'
 author: ''
 date: '2021-05-13T10:00:00-07:00'
 slug: building-effective-data-science-teams
