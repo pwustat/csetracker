@@ -98,15 +98,33 @@
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210518cytel-webinar-utilizing-bayesian-analysis-to-make-go-no-go-decisions-in-a-platform-trial/</link>
       <pubDate>Tue, 18 May 2021 08:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210518cytel-webinar-utilizing-bayesian-analysis-to-make-go-no-go-decisions-in-a-platform-trial/</guid>
-      <description>&lt;p&gt;The speakers will discuss:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A New Hybrid Phase I-II-III Clinical Trial Paradigm&lt;/li&gt;
-&lt;li&gt;Information borrowing in clinical trials: methods for basket trials and external data&lt;/li&gt;
-&lt;li&gt;Early phase oncology decision making using East Bayes&lt;/li&gt;
-&lt;li&gt;Leveraging external control data for a clinical trial with Time-to-Event Endpoint&lt;/li&gt;
-&lt;li&gt;A review of Adaptive Phase II basket trial designs in East Bayes
-Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/li&gt;
-&lt;li&gt;Using robust Bayesian priors to borrow information from historical adult trials for a clinical trial in pediatric multiple sclerosis&lt;/li&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;5/4/2021: A New Hybrid Phase I-II-III Clinical Trial Paradigm&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3142844&amp;amp;sessionid=1&amp;amp;key=A7CFB7FFF093713391FB55CF327DC229&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;5/11/2021: Early Phase Oncology Decision Making Using East Bayes&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3160410&amp;amp;sessionid=1&amp;amp;key=60085D7BE81E0415ED79D2544918CD38&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;5/18/2021: Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;5/25/2021: Information Borrowing in Clinical Trials: Methods for Basket Trials and External Data&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;6/1/2021: Review of Adaptive Phase II Basket Trial Designs in East Bayes&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;6/8/2021: Leveraging External Control Data for Clinical Trials with Time-to-Event Endpoints&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;6/15/2021: Bayesian Inference Using Poisson-Gamma Model Under Non-Proportional Hazards&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;6/22/2021: Using Robust Bayesian Priors to Borrow Information from Historical Adult Trials for a Clinical Trial in Pediatric Multiple Sclerosis&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -141,6 +159,14 @@ Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/l
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration ends on May 2, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DahShu Webinar: Automated Image Labeling for Medical Imaging AI</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</link>
+      <pubDate>Fri, 14 May 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</guid>
+      <description>&lt;p&gt;Computer vision application in the medical domain have recently become quite popular. Detecting, localizing, and diagnosing diseases and recognizing structures on MRI, CT, PET, XRay, ultrasound and photographic images is efficiently done by AI. What is rarely discussed, is how these AI systems are made. They require copious amounts of training data consisting of images and human-supplied labels. The labels are marked areas (either rectangles or free-form boundaries) that are attached to a word, e.g. “tumor.” Naturally, only highly qualified professionals are able to provide these labels making the process effortful and expensive. A technique called “active learning” from AI can help with this by reducing the manual effort by 90%. This allows the creation of state-of-the-art AI models for medicine using a significantly smaller budget of time and resources. This talk will present the method with several examples and will argue that this approach is a disruptive shift in medical AI.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -181,6 +207,14 @@ Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/l
 &lt;li&gt;Discuss the general framework of Project Orbis.&lt;/li&gt;
 &lt;li&gt;Explain how other FDA and OCE review programs interact with Project Orbis.&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Philadelphia Chapter Webinar on Machine learning in Neuroimaging: Applications to Clinical Neuroscience and Neurooncology</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</link>
+      <pubDate>Thu, 13 May 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</guid>
+      <description>&lt;p&gt;Machine learning has deeply penetrated the neuroimaging field in the past 15 years, by providing a means to construct imaging signatures of normal and pathologic brain states on an individual person basis. In this talk, I will discuss examples from our laboratory’s work on imaging signatures of brain aging and early stages of neurodegenerative diseases, brain development and neuropsychiatric disorders, as well as brain cancer precision diagnostics and estimation of molecular characteristics. I will discuss some challenges, such as disease heterogeneity, integration of data from multiple sites, and derivation of interpretable statistical maps from certain machine learning tools, and will present some of our work in these directions.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -558,6 +592,14 @@ Nonmembers: $35&lt;/p&gt;
       <pubDate>Fri, 19 Mar 2021 08:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</guid>
       <description>&lt;p&gt;We propose a statistically optimal approach to construct data-driven decisions for stochastic optimization problems. Fundamentally, a data-driven decision is simply a function that maps the available training data to a feasible action. It can always be expressed as the minimizer of a surrogate optimization model constructed from the data. The quality of a data-driven decision is measured by its out-of-sample risk. An additional quality measure is its out-of-sample disappointment, which we define as the probability that the out-of-sample risk exceeds the optimal value of the surrogate optimization model. The crux of data-driven optimization is that the data-generating probability measure is unknown. An ideal data-driven decision should therefore minimize the out-of-sample risk simultaneously with respect to every conceivable probability measure (and thus in particular with respect to the unknown true measure). Unfortunately, such ideal data-driven decisions are generally unavailable. This prompts us to seek data-driven decisions that minimize the out-of-sample risk subject to an upper bound on the out-of-sample disappointment - again simultaneously with respect to every conceivable probability measure. We prove that such Pareto-dominant data-driven decisions exist under conditions that allow for interesting applications: the unknown data-generating probability measure must belong to a parametric ambiguity set, and the corresponding parameters must admit a sufficient statistic that satisfies a large deviation principle. If these conditions hold, we can further prove that the surrogate optimization model generating the optimal data-driven decision must be a distributionally robust optimization problem constructed from the sufficient statistic and the rate function of its large deviation principle. This shows that the optimal method for mapping data to decisions is, in a rigorous statistical sense, to solve a distributionally robust optimization model. Maybe surprisingly, this result holds irrespective of whether the original stochastic optimization problem is convex or not and holds even when the training data is non-i.i.d. As a byproduct, our analysis reveals how the structural properties of the data-generating stochastic process impact the shape of the ambiguity set underlying the optimal distributionally robust optimization model. This is joint work with Tobias Sutter and Bart Van Parys.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Distributed Statistical Learning and Inference in EHR and Other Healthcare Datasets</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</link>
+      <pubDate>Tue, 09 Mar 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</guid>
+      <description>&lt;p&gt;The growth of availability and variety of healthcare data sources has provided unique opportunities for data integration and evidence synthesis, which can potentially accelerate knowledge discovery and enable better clinical decision making.  However, many practical and technical challenges, such as data privacy, high-dimensionality and heterogeneity across different datasets, remain to be addressed. In this talk, I will introduce several methods for effective and efficient integration of electronic health records and other healthcare datasets. Specifically, we develop communication-efficient distributed algorithms for jointly analyzing multiple datasets without the need of sharing patient-level data. Our algorithms are able to account for heterogeneity across different datasets. We provide theoretical guarantees for the performance of our algorithms, and examples of implementing the algorithms to real-world clinical research networks.&lt;/p&gt;</description>
     </item>
     
     <item>

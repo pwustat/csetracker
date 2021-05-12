@@ -123,6 +123,16 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210514ai/</loc>
+    <lastmod>2021-05-14T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</loc>
+    <lastmod>2021-05-14T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513building-effective-data-science-teams/</loc>
     <lastmod>2021-05-13T10:00:00-07:00</lastmod>
   </url>
@@ -145,6 +155,16 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513fda-grand-rounds-project-orbis-global-collaborative-oncology-review-program/</loc>
     <lastmod>2021-05-13T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</loc>
+    <lastmod>2021-05-13T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210513machine-learning/</loc>
+    <lastmod>2021-05-13T08:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -428,6 +448,16 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</loc>
+    <lastmod>2021-03-09T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210309real-world-evidence/</loc>
+    <lastmod>2021-03-09T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</loc>
     <lastmod>2021-02-26T12:00:00-08:00</lastmod>
   </url>
@@ -464,11 +494,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210225illuminating-the-black-box-variable-importance-measures-for-interpretable-machine-learning/</loc>
-    <lastmod>2021-02-25T11:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210225machine-learning/</loc>
     <lastmod>2021-02-25T11:00:00-08:00</lastmod>
   </url>
   
@@ -739,11 +764,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201001detangle-modern-dose-finding-designs-a-tutorial/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20201001real-world-evidence/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
