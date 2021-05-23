@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://dahshu.wildapricot.org/event-4254429/Registration
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=Gb2RwTw9CgA
 url_agenda: ~
 url_website: ~
 url_audio: ~

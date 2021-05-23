@@ -10,11 +10,11 @@ tags:
   - COVID-19
 type: webinar
 url_register: ~
-url_freeregister: https://psu.zoom.us/webinar/register/WN_hWAifm87S62wwlOSzp-9YQ
+url_freeregister:
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=Ki-Ye3iQwTA
 url_agenda: ~
-url_website: https://www.niss.org/events/copss-niss-covid-19-data-science-webinar-series-7
+url_website: https://www.niss.org/news/lessons-learned-about-communicating-statistical-and-epidemiologic-concepts-broad-audiences
 url_audio: ~
 url_code: ~
 url_pdf: ~

@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.rstudio.com/registration/building-effective-data-science-teams/?mkt_tok=NzA5LU5YTi03MDYAAAF89kW5bYz4I2e7KZ3KiBTEvIJNBXSFTlMJsVS6hjgOyRk7DKSDXjIwEP6zprhBLK-F0ZbPx2C_ngN114p25XK5kHeQ_pkJ9vuO-Tk1pPJEmgg
 url_slides: ~
-url_video: no
+url_video: https://www.rstudio.com/resources/webinars/building-effective-data-science-teams/
 url_agenda: ~
 url_website: ~
 url_audio: ~
