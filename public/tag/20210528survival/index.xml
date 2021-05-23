@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survival | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210528survival/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210528survival/index.xml" rel="self" type="application/rss+xml" />
+    <description>survival</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 May 2021 05:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>survival</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210528survival/</link>
+    </image>
+    
+    <item>
+      <title>ISI Short Course: An Introductory Course in Competing Risks</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</link>
+      <pubDate>Fri, 28 May 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction: Survival function and hazard function. Right-censoring and left-truncation. Competing risks. Markov and non-Markov multi-state models. Time-homogeneity and time inhomogeneity. Motivating examples (real data).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Competing risks: The competing risks multi-state model. Non-identifiability in the latent failure time model. Cause-specific hazards (transition intensities) and sub-distribution hazards. Cumulative incidence functions. Simulating competing risks data. Nonparametric estimation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proportional hazards regression models: Proportional cause-specific hazards model. Proportional sub-distribution hazards model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flexible Clinical Trial Design - Survival, Stepped-Wedge &amp; MAMS Designs</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200723flexible-clinical-trial-design-survival-stepped-wedge-mams-designs/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200723flexible-clinical-trial-design-survival-stepped-wedge-mams-designs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Flexible Survival Analysis Designs&lt;/strong&gt;&lt;br&gt;
+Non-proportional hazards and other complex survival curves have become of increasing interest, due to being commonly seen in immunotherapy development. This has led to interest in assessing the robustness of standard methods and alternative methods that better adapt to deviations.&lt;/p&gt;
+&lt;p&gt;In this webinar, we will look at power analysis assuming complex survival curves and the weighted log-rank test as one candidate model to deal with a delayed survival effect.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stepped-Wedge designs&lt;/strong&gt;&lt;br&gt;
+Cluster-randomized designs are often adopted when there is a high risk of contamination if cluster members were randomized individually. Stepped-wedge designs are useful in cases where it is difficult to apply a particular treatment to half of the clusters at the same time.&lt;/p&gt;
+&lt;p&gt;In this webinar, we will introduce stepped-wedge designs and provide an insight into the more complex, flexible randomization schedules available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multi-Arm Multi-Stage (MAMS)&lt;/strong&gt;&lt;br&gt;
+MAMs designs provide the ability to assess more treatments in less time than could be done with a series of two-arm trials and can offer smaller sample size requirements when compared to that required for the equivalent number of two-arm trials.&lt;/p&gt;
+&lt;p&gt;In this webinar, we will look at the design of a Group Sequential MAMS design and explore its design requirements.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

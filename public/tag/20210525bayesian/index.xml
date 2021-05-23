@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210525bayesian/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210525bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 07:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Bayesian</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210525bayesian/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Sample Size Determination - Approaches to Interval Estimation and Hypothesis testing</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525bayesian-sample-size-determination-approaches-to-interval-estimation-and-hypothesis-testing/</link>
+      <pubDate>Tue, 25 May 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525bayesian-sample-size-determination-approaches-to-interval-estimation-and-hypothesis-testing/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Background and Introduction to Bayesian Sample Size Determination&lt;/li&gt;
+&lt;li&gt;Bayesian Credible Intervals&lt;/li&gt;
+&lt;li&gt;Consensus-based approaches to constructing Credible Intervals&lt;/li&gt;
+&lt;li&gt;Hypothesis testing using the Bayesian Posterior Error Approach&lt;/li&gt;
+&lt;li&gt;Hypothesis testing using Bayes Factors&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>BSWG KOL Lecture Series: Slamming the Sham - A Bayesian Model for Adaptive Adjustment with Noisy Control Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210521dia-bswg-kol-lecture-series-slamming-the-sham-a-bayesian-model-for-adaptive-adjustment-with-noisy-control-data/</link>
+      <pubDate>Fri, 21 May 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210521dia-bswg-kol-lecture-series-slamming-the-sham-a-bayesian-model-for-adaptive-adjustment-with-noisy-control-data/</guid>
+      <description>&lt;p&gt;It is not always clear how to adjust for control data in causal inference, balancing the goals of reducing bias and variance. We show how, in a setting with repeated experiments, Bayesian hierarchical modeling yields an adaptive procedure that uses the data to determine how much adjustment to perform. The result is a novel analysis with increased statistical efficiency compared to the default analysis based on difference estimates. We demonstrate this procedure on two real examples, as well as on a series of simulated datasets. We show that the increased efficiency can have real-world consequences in terms of the conclusions that can be drawn from the experiments. We also discuss the relevance of this work to causal inference and statistical design and analysis more generally.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI Journal Club: Bayesian Methods</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117psi-journal-club-bayesian-methods/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201117psi-journal-club-bayesian-methods/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Replay links available on website&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Bayesian approach in design and analysis of pediatric cancer clinical trials&lt;/strong&gt;&lt;br&gt;
+Speaker: Jingjing Ye (BeiGene)&lt;br&gt;
+Publication: Jingjing Ye, Gregory Reaman, R. Angelo De Claro &amp;amp; Rajeshwari Sridhara, Pharmaceutical Statistics. 2020;1–13.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Estimation of group means using Bayesian generalized linear mixed models&lt;/strong&gt;&lt;br&gt;
+Speaker: Amy LaLonde (Eli Lilly)&lt;br&gt;
+Publication: Amy LaLonde &amp;amp; Yongming Qu, Pharmaceutical Statistics. 2020;19:482–491&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Innovations in Bayesian Trials Virtual Symposium</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201108innovations-in-bayesian-trials-virtual-symposium/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201108innovations-in-bayesian-trials-virtual-symposium/</guid>
+      <description>&lt;p&gt;This dynamic program will cover a range of topics presented by Bayesian experts in academia, regulatory and industry. The presentations will include: Adaptive design, platform studies, complex innovative designs using Bayesian modeling; Regulatory acceptability of Bayesian designs; Leveraging external information using Bayesian priors.&lt;br&gt;
+&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Replay links available&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, October 8, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Statistics and FDA Regulatory Acceptability&lt;/strong&gt;&lt;br&gt;
+Greg Campbell, PhD, President, GCStat Consulting (1hr)&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2691488&amp;amp;sessionid=1&amp;amp;key=7C84CEA899224E2CDE4F7E22CFABDECB&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, October 22, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Dose-finding Designs for Modern Drug Development&lt;/strong&gt;&lt;br&gt;
+Yuan Ji, Professor of Biostatistics, Department of Public Health Sciences, The University of Chicago (1hr)&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2691496&amp;amp;sessionid=1&amp;amp;key=08500FE422DAFE88617C8485AB42E961&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, Novermber 05, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Dynamic Borrowing for Partial Extrapolation and Bridging Studies: Methods and Case Studies&lt;/strong&gt;&lt;br&gt;
+Nicky Best, Head, Advanced Biostatistics and Data Analytics Centre of Excellence, GSK (1hr)&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;loginemail=peiwen.wu%40gilead.com&amp;amp;eventid=2691499&amp;amp;sessionid=1&amp;amp;key=3C8FF73C92BC880B2A5989FDE9074FF5&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, November 19, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Statistical Design and Conduct of Platform Trials&lt;/strong&gt;&lt;br&gt;
+Jason Connor, President &amp;amp; Lead Statistical Scientist, ConfluenceStat (1hr)&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2691515&amp;amp;sessionid=1&amp;amp;key=4B07CFCA81196A4A8DDB075F8E813266&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, December 3, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Models for Precision Oncology Clinical Trials&lt;/strong&gt;&lt;br&gt;
+Peter Mueller, Professor, Department of Mathematics and the
+Department of Statistics &amp;amp; Data Science, The University of Texas at Austin (1hr)&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2691509&amp;amp;sessionid=1&amp;amp;key=7B1DA30C7762FC9B3DB4A0EABBE36DD9&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, December 10, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Recent Development on Bayesian Clinical Trial Designs Using Historical Data&lt;/strong&gt;&lt;br&gt;
+Ming-Hui Chen, Professor and Head of the Department of Statistics, The University of Connecticut (1hr) 
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2691518&amp;amp;sessionid=1&amp;amp;key=B3CA28FA4552CAB13C45A32C412748AD&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday March 11, 2021&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Leveraging external evidence in medical device decision-making&lt;/strong&gt;&lt;br&gt;
+Ram C. Tiwari, Ph.D. Head of Statistical Methodology, Bristol Myers Squibb&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3024363&amp;amp;sessionid=1&amp;amp;key=BD2CA3B8AB7D9856260F5287B7FE45B3&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Innovations in Bayesian Clinical Trials Interactive Workshops</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015innovations-in-bayesian-clinical-trials-interactive-workshops/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201015innovations-in-bayesian-clinical-trials-interactive-workshops/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interactive Workshop 1: Essentials of Bayesian Statistics&lt;/strong&gt;&lt;br&gt;
+October 15, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;loginemail=peiwen.wu%40gilead.com&amp;amp;eventid=2691551&amp;amp;sessionid=1&amp;amp;key=109B6B88F22396785524BCAD42C50522&amp;amp;regTag=&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interactive Workshop 2: Bayesian Meta-Analysis and Hierarchical Models&lt;/strong&gt;&lt;br&gt;
+October 29, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;loginemail=peiwen.wu%40gilead.com&amp;amp;eventid=2691558&amp;amp;sessionid=1&amp;amp;key=8543F409BD3894D06579F92276808A5D&amp;amp;regTag=&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interactive Workshop 3: Prior Distributions (Part I)&lt;/strong&gt;&lt;br&gt;
+November 12, 2020&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;loginemail=peiwen.wu%40gilead.com&amp;amp;eventid=2691561&amp;amp;sessionid=1&amp;amp;key=238DEB3AC5D91E14B89095AF22C63D05&amp;amp;regTag=&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

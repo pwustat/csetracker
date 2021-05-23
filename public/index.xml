@@ -45,6 +45,33 @@
     </item>
     
     <item>
+      <title>ISI Short Course: Reshaping Challenging Data to Produce Insightful Graphs - A Quick Start to Using R Tidyverse Tools </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210604isi-short-course-reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</link>
+      <pubDate>Fri, 04 Jun 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210604isi-short-course-reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In this short course, you will learn to read and reshape a dataset from the World Bank, filter observations and select variables to produce an analysis data set and finally to produce figures. Customizing, enhancing and annotating data visualizations follows. R software with be used with functions included the tidyverse suite of packages being highlighted (dplyr, tidyr and ggplot2 in particular).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Webinar: S, R, and Data Science</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210603asa-webinar-s-r-and-data-science/</link>
+      <pubDate>Thu, 03 Jun 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210603asa-webinar-s-r-and-data-science/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA members: $20, non-members: $35&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This talk discusses the history and characteristics of the R software. R began, 20-odd years ago, as the open source clone of the S software. So the story of R has to start with S and with its history. S came from the Statistics and Data Analysis Research group at AT&amp;amp;T Bell Labs. We&amp;rsquo;ll see that the design goal of S, and so of R, is to support studies in what we&amp;rsquo;d now call data science. The principles resulting from this goal are still central to computing for data science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI EIWG Webinar: Estimands in Oncology - How and Why (Session 2)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210602psi-eiwg-webinar-estimands-in-oncology-how-and-why-session-2/</link>
+      <pubDate>Wed, 02 Jun 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210602psi-eiwg-webinar-estimands-in-oncology-how-and-why-session-2/</guid>
+      <description>&lt;p&gt;A year on after the final ICH E9 estimands addendum was published, we bring estimands to life. Members of the Estimands in Oncology special interest group will describe how the estimand framework provides a common language to describe the diversity of patient journeys and why it is important to address the right question in clinical trials.&lt;/p&gt;
+&lt;p&gt;You will be guided through a case study and interactively deepen the knowledge to gain hands-on experience in developing estimands. You will be introduced to the background and disease context of the case study, the concept of an estimand, and important clinical events (increased dropout rate and crossover therapy) that occurred in the trial and affected interpretation of the results. Using non-technical language and clear graphical presentation of the concepts, you will experience how the estimand framework provides a common language to describe the diversity of patient journeys and why it is important to address the right question in clinical trials.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2021 Symposium on Data Science &amp; Statistics (SDSS)</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
@@ -53,11 +80,173 @@
     </item>
     
     <item>
+      <title>IDDI Seminar: Practice-Oriented Pragmatic Trials can Integrate Innovations More Rapidly in Evidence-Based Medicine</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210601iddi-seminar-practice-oriented-pragmatic-trials-can-integrate-innovations-more-rapidly-in-evidence-based-medicine/</link>
+      <pubDate>Tue, 01 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210601iddi-seminar-practice-oriented-pragmatic-trials-can-integrate-innovations-more-rapidly-in-evidence-based-medicine/</guid>
+      <description>&lt;p&gt;Governments, their regulatory agencies and health technology assessment (HTA) bodies informing the healthcare payers have the ambition of providing patients with fast access to evidence-based innovations in healthcare. The historical split in objectives and responsibilities of the regulators and the HTA bodies can be seen as one of the reasons for the growing evidence gap remaining after the private sector has performed the trials needed to bring their product to the market. Regulators and HTA bodies differ in their recommendations on patient population, comparators and trial endpoints. The confirmatory trials asked by the regulators may not be fit for purpose to perform HTA nor to inform physicians wanting to practice evidence-based medicine. A better alignment of evidentiary requirements of regulators and HTA/payers could accelerate patient access to evidence-based innovations.&lt;/p&gt;
+&lt;p&gt;An additional option is to perform the missing comparative effectiveness trial in the post-marketing phase. Most informative to healthcare decision-makers are practice-oriented, also named pragmatic trials. Such trials have patient relevant outcomes, recruit a broad patient population and have usual care as comparator. Practice-oriented trials lead to real-world evidence and have proven to be practice-changing. A clear pathway towards the realization of such efficient trial methods is needed.&lt;/p&gt;
+&lt;p&gt;KEY TAKEWAYS&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Patient access to evidence-based innovations can be accelerated if practice-oriented trials are timely conducted.&lt;/li&gt;
+&lt;li&gt;Such trials have patient relevant outcomes, recruit a broad patient population and have usual care as comparator.&lt;/li&gt;
+&lt;li&gt;Facilitators would be an alignment of the evidentiary requirements of regulators and HTA/payers as well as a framework for an efficient conduct of trials based on coded electronic health records.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI EIWG Webinar: Estimands in Oncology - How and Why (Session 1) </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210601psi-eiwg-webinar-estimands-in-oncology-how-and-why/</link>
+      <pubDate>Tue, 01 Jun 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210601psi-eiwg-webinar-estimands-in-oncology-how-and-why/</guid>
+      <description>&lt;p&gt;You will be guided through a case study and interactively deepen the knowledge to gain hands-on experience in developing estimands. You will be introduced to the background and disease context of the case study, the concept of an estimand, and important clinical events (increased dropout rate and crossover therapy) that occurred in the trial and affected interpretation of the results. Using non-technical language and clear graphical presentation of the concepts, you will experience how the estimand framework provides a common language to describe the diversity of patient journeys and why it is important to address the right question in clinical trials.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Medical University of South Carolina (MUSC) Short Course: Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210601medical-university-of-south-carolina-musc-short-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210601medical-university-of-south-carolina-musc-short-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration ends by May 10, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Recurrent Event Analysis in R with the reReg Package</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210531isi-short-course-recurrent-event-analysis-in-r-with-the-rereg-package/</link>
+      <pubDate>Mon, 31 May 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210531isi-short-course-recurrent-event-analysis-in-r-with-the-rereg-package/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare recurrent event data in R with the Recur() function.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exploring recurrent event data with event plots and mean cumulative function with the plotEvent() and mcf() functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Simulating recurrent event data and fitting regression models with the simSC() and reReg() functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: An Introductory Course in Competing Risks</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</link>
+      <pubDate>Fri, 28 May 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction: Survival function and hazard function. Right-censoring and left-truncation. Competing risks. Markov and non-Markov multi-state models. Time-homogeneity and time inhomogeneity. Motivating examples (real data).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Competing risks: The competing risks multi-state model. Non-identifiability in the latent failure time model. Cause-specific hazards (transition intensities) and sub-distribution hazards. Cumulative incidence functions. Simulating competing risks data. Nonparametric estimation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proportional hazards regression models: Proportional cause-specific hazards model. Proportional sub-distribution hazards model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA BIOP Webinar: Generalized Pairwise Comparisons for Benefit/Risk Assessment in Personalized Medicine </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210527asa-biop-webinar-generalized-pairwise-comparisons-for-benefit-risk-assessment-in-personalized-medicine/</link>
+      <pubDate>Thu, 27 May 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210527asa-biop-webinar-generalized-pairwise-comparisons-for-benefit-risk-assessment-in-personalized-medicine/</guid>
+      <description>&lt;p&gt;A novel statistical approach to the analysis of randomized clinical trials uses all pairwise comparisons between two patients, one in the treatment arm and one in the control arm. Each pair favors treatment (“win”), control (“loss”), or neither. The “net treatment benefit” is the difference between the proportion of wins minus the proportion of losses. Pairwise comparisons can incorporate several outcomes of interest and several thresholds of clinical relevance in the analysis, and as such, they can be used to personalize treatment choices and to assess the benefit/risk of randomized therapeutic interventions in a rigorous yet flexible manner (Buyse 2010).&lt;/p&gt;
+&lt;p&gt;The advantages and limitations of generalized pairwise comparisons will be illustrated using two typical examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;For a single time-to-event endpoint, the net survival benefit is a meaningful measure of treatment effect whether or not hazards are proportional. When a delayed treatment effect is anticipated, for example in immune-oncology trials, the net benefit is appealing because it stresses benefits that are clinically worthwhile on the time scale. The test based on the net survival benefit can also gain power as compared to the traditional logrank test if interest focuses on long-term survival differences (Péron 2016a).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Most anticancer treatment have substantial toxicities that may counterbalance treatment benefits. Generalized pairwise comparisons can be used to assess the benefit-risk balance of new treatments. This will be illustrated using several randomized trials in patients with metastatic pancreatic cancer (Péron 2016b).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Buyse M. Generalized pairwise comparisons for prioritized outcomes in the two-sample problem. Stat Med 2010; 29: 3245-3257.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Péron J, Roy P, Ozenne B, Roche L, Buyse M. The net chance of a longer survival as a patient-oriented measure of benefit in randomized clinical trials. JAMA Oncology 2016a; 2:901-5.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Péron J, Roy P, Conroy T, Desseigne F, Ychou M, Gourgou-Bourgade S, Stanbury T, Roche L, Ozenne B, Buyse M. An assessment of the benefit-risk balance of FOLFIRINOX in metastatic pancreatic adenocarcinoma. Oncotarget 2016b;7:82953-82960.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AWS Healthcare &amp; Life Sciences Virtual Symposium</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210527aws-healthcare-life-sciences-virtual-symposium/</link>
+      <pubDate>Thu, 27 May 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210527aws-healthcare-life-sciences-virtual-symposium/</guid>
+      <description>&lt;p&gt;The era of personalization is here. From the integration of genomics data into pharma R&amp;amp;D, to creating personalized diagnostics tools and therapies, to the delivery of healthcare anywhere, anytime, to those who need it most- AWS is powering the personalization revolution.&lt;/p&gt;
+&lt;p&gt;Join us for our third annual free event focusing on how healthcare &amp;amp; life science organizations are using cloud technology to power precision medicine, personalize patient journeys, engage more closely with customers, and ultimately improve outcomes. Hear from industry leaders on how they innovate on AWS to power their business and advance their initiatives, across segments such as genomics, biopharma, medical devices, health IT, healthcare providers, and payors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Webinar: Rethink Reporting with Automation </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210526rstudio-webinar-rethink-reporting-with-automation/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210526rstudio-webinar-rethink-reporting-with-automation/</guid>
+      <description>&lt;p&gt;We invite you to join Claudio Rebelo, Actuary at Swiss Re, to learn about how companies in every industry, but especially in insurance, can revolutionize their reporting capabilities with automation.&lt;/p&gt;
+&lt;p&gt;You’ll learn about his team’s journey transitioning from a reporting frankenstack, involving SAS, Excel, and SQL, to a more effective way with free, open-source tools like R Markdown.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA SLDS Webinar: Towards Secure and Interpretable AI - Scalable Methods, Interactive Visualizations, and Practical Tools </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525asa-slds-webinar-towards-secure-and-interpretable-ai-scalable-methods-interactive-visualizations-and-practical-tools/</link>
+      <pubDate>Tue, 25 May 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525asa-slds-webinar-towards-secure-and-interpretable-ai-scalable-methods-interactive-visualizations-and-practical-tools/</guid>
+      <description>&lt;p&gt;AI and ML models are often vulnerable to adversarial attacks, and their predictions can be difficult to understand, evaluate and ultimately act upon. We present recent research highlights: ShapeShifter, the world’s first targeted adversarial technique that fools state-of-the-art object detector; MalNet, the largest public cybersecurity database with over 1.2M graphs and images; Summit and Bluff, systems that scalably summarize and visualize what features a deep learning model has learned, how those features interact to make predictions; CNN Explainer and GAN Lab (with Google Brain): a suite of accessible tools for students and experts alike to learn about AI models (both went viral).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DFCI Data Science Zoominar: Modeling Cancer Etiology and Evolution, and its Implications for Prevention</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525data-science-zoominar-modeling-cancer-etiology-and-evolution-and-its-implications-for-prevention/</link>
+      <pubDate>Tue, 25 May 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525data-science-zoominar-modeling-cancer-etiology-and-evolution-and-its-implications-for-prevention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Sample Size Determination - Approaches to Interval Estimation and Hypothesis testing</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525bayesian-sample-size-determination-approaches-to-interval-estimation-and-hypothesis-testing/</link>
+      <pubDate>Tue, 25 May 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525bayesian-sample-size-determination-approaches-to-interval-estimation-and-hypothesis-testing/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Background and Introduction to Bayesian Sample Size Determination&lt;/li&gt;
+&lt;li&gt;Bayesian Credible Intervals&lt;/li&gt;
+&lt;li&gt;Consensus-based approaches to constructing Credible Intervals&lt;/li&gt;
+&lt;li&gt;Hypothesis testing using the Bayesian Posterior Error Approach&lt;/li&gt;
+&lt;li&gt;Hypothesis testing using Bayes Factors&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI Webinar: Oncology Ted Style Talks (with interaction)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525psi-webinar-oncology-ted-style-talks-with-interaction/</link>
+      <pubDate>Tue, 25 May 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525psi-webinar-oncology-ted-style-talks-with-interaction/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;PSI members: free; non-members: £20+VAT&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The objective of this PSI virtual meeting is to enable practical interaction among clinical statisticians actively working in oncology and those interested to work in this area. The simple format of this meeting specifically facilitates these interactions, by balancing equally time dedicated to a sequence of short, engaging talks covering a broad range of relevant topics and to Q&amp;amp;A. A breakout session halfway through the meeting will also enable casual interactions with the speakers and among meeting participants.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cytel Webinar: Information Borrowing in Clinical Trials - Methods for Basket Trials and External Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525cytel-webinar-information-borrowing-in-clinical-trials-methods-for-basket-trials-and-external-data/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525cytel-webinar-information-borrowing-in-clinical-trials-methods-for-basket-trials-and-external-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASQ RRD Series Webinar: Covid-19 Statistical Modeling, Summary of a Year Work</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210521asq-rrd-series-webinar-covid-19-statistical-modeling-summary-of-a-year-work/</link>
+      <pubDate>Fri, 21 May 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210521asq-rrd-series-webinar-covid-19-statistical-modeling-summary-of-a-year-work/</guid>
+      <description>&lt;p&gt;Dr Jorge Romeu will share with us, how  groups from different sectors including from healthcare, education  and research apply Statistical Models to understand and identify new learning or  to prompt future follow ups and/or investigation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BSWG KOL Lecture Series: Slamming the Sham - A Bayesian Model for Adaptive Adjustment with Noisy Control Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210521dia-bswg-kol-lecture-series-slamming-the-sham-a-bayesian-model-for-adaptive-adjustment-with-noisy-control-data/</link>
+      <pubDate>Fri, 21 May 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210521dia-bswg-kol-lecture-series-slamming-the-sham-a-bayesian-model-for-adaptive-adjustment-with-noisy-control-data/</guid>
+      <description>&lt;p&gt;It is not always clear how to adjust for control data in causal inference, balancing the goals of reducing bias and variance. We show how, in a setting with repeated experiments, Bayesian hierarchical modeling yields an adaptive procedure that uses the data to determine how much adjustment to perform. The result is a novel analysis with increased statistical efficiency compared to the default analysis based on difference estimates. We demonstrate this procedure on two real examples, as well as on a series of simulated datasets. We show that the increased efficiency can have real-world consequences in terms of the conclusions that can be drawn from the experiments. We also discuss the relevance of this work to causal inference and statistical design and analysis more generally.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -108,7 +297,8 @@
 &lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3160410&amp;amp;sessionid=1&amp;amp;key=60085D7BE81E0415ED79D2544918CD38&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;5/18/2021: Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5/18/2021: Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3160412&amp;amp;sessionid=1&amp;amp;key=1929B8F3F563638562684BBA1B94BEF0&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;5/25/2021: Information Borrowing in Clinical Trials: Methods for Basket Trials and External Data&lt;/strong&gt;&lt;/p&gt;

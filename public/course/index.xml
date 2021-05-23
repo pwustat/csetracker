@@ -5,7 +5,7 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 05:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
@@ -13,11 +13,57 @@
     </image>
     
     <item>
+      <title>ISI Short Course: Reshaping Challenging Data to Produce Insightful Graphs - A Quick Start to Using R Tidyverse Tools </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210604isi-short-course-reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</link>
+      <pubDate>Fri, 04 Jun 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210604isi-short-course-reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In this short course, you will learn to read and reshape a dataset from the World Bank, filter observations and select variables to produce an analysis data set and finally to produce figures. Customizing, enhancing and annotating data visualizations follows. R software with be used with functions included the tidyverse suite of packages being highlighted (dplyr, tidyr and ggplot2 in particular).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Medical University of South Carolina (MUSC) Short Course: Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210601medical-university-of-south-carolina-musc-short-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210601medical-university-of-south-carolina-musc-short-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration ends by May 10, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Recurrent Event Analysis in R with the reReg Package</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210531isi-short-course-recurrent-event-analysis-in-r-with-the-rereg-package/</link>
+      <pubDate>Mon, 31 May 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210531isi-short-course-recurrent-event-analysis-in-r-with-the-rereg-package/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare recurrent event data in R with the Recur() function.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exploring recurrent event data with event plots and mean cumulative function with the plotEvent() and mcf() functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Simulating recurrent event data and fitting regression models with the simSC() and reReg() functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: An Introductory Course in Competing Risks</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</link>
+      <pubDate>Fri, 28 May 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction: Survival function and hazard function. Right-censoring and left-truncation. Competing risks. Markov and non-Markov multi-state models. Time-homogeneity and time inhomogeneity. Motivating examples (real data).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Competing risks: The competing risks multi-state model. Non-identifiability in the latent failure time model. Cause-specific hazards (transition intensities) and sub-distribution hazards. Cumulative incidence functions. Simulating competing risks data. Nonparametric estimation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proportional hazards regression models: Proportional cause-specific hazards model. Proportional sub-distribution hazards model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
     <item>

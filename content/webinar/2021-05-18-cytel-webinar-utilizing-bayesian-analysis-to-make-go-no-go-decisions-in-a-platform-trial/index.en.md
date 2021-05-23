@@ -45,6 +45,7 @@ speaker: Peter Thall (M.D. Anderson Cancer Center) | Kyle Wathen (Cytel) | Rajat
 [Replay](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3160410&sessionid=1&key=60085D7BE81E0415ED79D2544918CD38&regTag=&V2=false&sourcepage=register)  
 
 - **5/18/2021: Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial**  
+[Replay](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3160412&sessionid=1&key=1929B8F3F563638562684BBA1B94BEF0&regTag=&V2=false&sourcepage=register)
 
 - **5/25/2021: Information Borrowing in Clinical Trials: Methods for Basket Trials and External Data**  
 
