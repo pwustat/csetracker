@@ -10,8 +10,8 @@ tags:
 type: webinar
 url_register: ~
 url_freeregister: https://urlisolation.com/browser?clickId=CC6ED57B-F9FE-499E-A8EA-4A3DEB770488&traceToken=1620839888%3Bgilead_hosted%3Bhttp%3A%2Fdahshu.wildapricot.org%2Feve&url=https%3A%2F%2Fdahshu.wildapricot.org%2Fevent-4296195
-url_slides: ~
-url_video: no
+url_slides: ./Automated Image Labeling for Medical Imaging AI - DahShu.pdf
+url_video: https://www.youtube.com/watch?v=O7cb8u_Cp4k
 url_agenda: ~
 url_website: ~
 url_audio: ~
