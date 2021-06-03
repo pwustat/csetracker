@@ -7,9 +7,9 @@ categories: []
 tags: []
 type: webinar
 url_register: ~
-url_freeregister: https://www.rstudio.com/registration/rethink-reporting-with-automation/
+url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.rstudio.com/resources/webinars/rethink-reporting-with-automation/
 url_agenda: ~
 url_website: ~
 url_audio: ~
