@@ -1,5 +1,5 @@
 ---
-draft: yes
+draft: no
 title: 2021 Joint Statistical Meetings (JSM)
 author: ''
 date: '2021-08-07'

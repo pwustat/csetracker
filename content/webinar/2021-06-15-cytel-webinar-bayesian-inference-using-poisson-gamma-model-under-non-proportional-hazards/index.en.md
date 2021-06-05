@@ -1,0 +1,42 @@
+---
+title: 'Cytel Webinar: Bayesian Inference Using Poisson-Gamma Model Under Non-Proportional
+  Hazards'
+author: ''
+date: '2021-06-15T08:00:00-07:00'
+slug: cytel-webinar-bayesian-inference-using-poisson-gamma-model-under-non-proportional-hazards
+categories: []
+tags:
+  - Bayesian
+type: webinar
+url_register: ~
+url_freeregister: https://www.cytel.com/bayesian-webinar-series-registration
+url_slides: ~
+url_video: no
+url_agenda: ~
+url_website: ~
+url_audio: ~
+url_code: ~
+url_pdf: ~
+date_end: '2021-06-15T09:00:00-07:00'
+all_day: no
+publishDate: '2021-06-04T23:22:00-07:00'
+authors: []
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+slides: ''
+projects: []
+location: ~
+address:
+  street: ~
+  city: ~
+  region: ~
+  postcode: ~
+  country: ~
+summary: ~
+abstract: ~
+speaker: ~
+---
+<!--more-->

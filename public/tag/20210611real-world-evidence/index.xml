@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real-World Evidence | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210611real-world-evidence/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210611real-world-evidence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Real-World Evidence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 10:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Real-World Evidence</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210611real-world-evidence/</link>
+    </image>
+    
+    <item>
+      <title>ENAR Webinar: Novel Applications of Real-world Data to Support Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611enar-webinar-novel-applications-of-real-world-data-to-support-clinical-trials/</link>
+      <pubDate>Fri, 11 Jun 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611enar-webinar-novel-applications-of-real-world-data-to-support-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: free; IBS members: $65; Non-members: $85&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Real-world data (RWD) have played an increasingly important role in healthcare decisions, for example supporting the design, analysis, and contextualization of clinical trials. In this webinar, we invite panelists from industry with backgrounds in statistics, clinical trials, data science, epidemiology, and health outcomes research to discuss novel applications where RWD can be used to support clinical trials.&lt;/p&gt;
+&lt;p&gt;We discuss propensity-score based methods to leverage RWD as an external data source to augment single-arm clinical trials, enhanced extrapolation of long-term clinical trial survival outcomes using electronic health record (EHR)-derived RWD, and enrollment projection for a prospective pragmatic trial design that utilizes RWD. Finally, we tie the three topics together with a panel discussion.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Distributed Statistical Learning and Inference in EHR and Other Healthcare Datasets</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</link>
+      <pubDate>Tue, 09 Mar 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</guid>
+      <description>&lt;p&gt;The growth of availability and variety of healthcare data sources has provided unique opportunities for data integration and evidence synthesis, which can potentially accelerate knowledge discovery and enable better clinical decision making.  However, many practical and technical challenges, such as data privacy, high-dimensionality and heterogeneity across different datasets, remain to be addressed. In this talk, I will introduce several methods for effective and efficient integration of electronic health records and other healthcare datasets. Specifically, we develop communication-efficient distributed algorithms for jointly analyzing multiple datasets without the need of sharing patient-level data. Our algorithms are able to account for heterogeneity across different datasets. We provide theoretical guarantees for the performance of our algorithms, and examples of implementing the algorithms to real-world clinical research networks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Annual Real World Evidence Conference: Applying Lessons Learned from RWE in the Time of COVID-19 to the Future</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</guid>
+      <description>&lt;p&gt;COVID-19 has disrupted the evidence-generation paradigm, resulting in the expanded use of novel technologies, data, and evidence. These new advancements not only improve clinical care and medical product development to fight the pandemic, but also have the potential to inform the future of drug development more broadly. This meeting will explore how COVID-19 has accelerated decision-maker understanding and use of real-world data (RWD) and real-world evidence (RWE) and its application in a post-COVID-19 environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Health-Related Social Media Can Complement Traditional RWE Approaches to Access Unique Patient Insights</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903how-health-related-social-media-can-complement-traditional-rwe-approaches-to-access-unique-patient-insights/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903how-health-related-social-media-can-complement-traditional-rwe-approaches-to-access-unique-patient-insights/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Examples of health-related social media data sources&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The ethical considerations of using these data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When it is beneficial to use health-related social media as a real-world data source&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some methods used to generate insights from these data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Types of messages that can be generated from these data&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

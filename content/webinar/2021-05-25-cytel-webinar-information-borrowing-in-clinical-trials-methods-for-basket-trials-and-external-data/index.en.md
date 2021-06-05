@@ -17,7 +17,7 @@ url_audio: ~
 url_code: ~
 url_pdf: ~
 date_end: ~
-all_day: no
+all_day: yes
 publishDate: '2021-05-22T22:57:34-07:00'
 authors: []
 featured: no

@@ -5,12 +5,28 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>2021 Joint Statistical Meetings (JSM)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration open: May 3; Early registration Deadline: May 31&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021 UW Biostatistics Online Summer Institutes</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jun 18, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>DIA 2021 Global Annual Meeting</title>
@@ -37,11 +53,160 @@
     </item>
     
     <item>
+      <title>Some Recent Developments in Machine Learning for Addressing Multiple Outcomes in Data Driven Decision Support </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210618some-recent-developments-in-machine-learning-for-addressing-multiple-outcomes-in-data-driven-decision-support/</link>
+      <pubDate>Fri, 18 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210618some-recent-developments-in-machine-learning-for-addressing-multiple-outcomes-in-data-driven-decision-support/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mathematical Foundations of Data Science Webinar Series&lt;/strong&gt;&lt;br&gt;
+In this presentation, we will discuss some recent developments in machine learning based precision health for estimating dynamic treatment regimes which seek to balance two or more outcomes, such as, for example, balancing treatment efficacy against side effect burden. The first approach involves obtaining individual patient input on the relative priority of outcomes through preference instruments based on, for example, item response theory or discrete choice modeling. The second approach adapts inverse reinforcement learning to infer physician outcome priorities, allowing for the possibility of errors in decision making. Both approaches are illustrated with practical examples from mental health.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Bootstrap Methods and Permutation Tests</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210618isi-short-course-bootstrap-methods-and-permutation-tests/</link>
+      <pubDate>Fri, 18 Jun 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210618isi-short-course-bootstrap-methods-and-permutation-tests/</guid>
+      <description>&lt;p&gt;We begin with a graphical approach to bootstrapping and permutation testing, illuminating basic statistical concepts of standard errors, confidence intervals, p-values and significance tests.&lt;/p&gt;
+&lt;p&gt;We consider a variety of statistics (mean, trimmed mean, regression, etc.), and a number of sampling situations (one-sample, two-sample, stratified, finite-population), stressing the common techniques that apply in these situations. We’ll look at applications from a variety of fields, including telecommunications, finance, and biopharm.&lt;/p&gt;
+&lt;p&gt;These methods let us do confidence intervals and hypothesis tests when formulas are not available, so we can do better statistics, e.g. use robust methods like medians, trimmed means, or robust regression. They can help clients understand statistical variability. And some of the methods are more accurate than standard methods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Webinar: Statistical Issues in Agent-Based Models for Risk Assessment </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210617asa-webinar-statistical-issues-in-agent-based-models-for-risk-assessment/</link>
+      <pubDate>Thu, 17 Jun 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210617asa-webinar-statistical-issues-in-agent-based-models-for-risk-assessment/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA members: $20; non-members: $35&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Agent-based models (ABMs) are computational models used to simulate the actions and interactions of agents within a system. Usually, each agent has a relatively simple set of rules for how it responds to its environment and to other agents. These models are used to gain insight into the emergent behavior of complex systems with many agents, in which the emergent behavior depends upon the micro-level behavior of the individuals. ABMs are widely used in many fields, and this talk emphasizes the challenges that arise in the context various risk analyses (e.g., epidemics, invasive species, insurance). Relatively little work has been done on statistical theory for such models, this talk also points out some of those gaps and recent strategies to address them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cytel Webinar: Hi3&#43;3 – A Model-Assisted Dose-Finding Design Borrowing Historical Data </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210617cytel-webinar-hi3-3-a-model-assisted-dose-finding-design-borrowing-historical-data/</link>
+      <pubDate>Thu, 17 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210617cytel-webinar-hi3-3-a-model-assisted-dose-finding-design-borrowing-historical-data/</guid>
+      <description>&lt;p&gt;Yuan Ji will discuss his recent publication, Hi3+3: A Model-Assisted Dose-Finding Design Borrowing Historical Data, in the webinar presentation. The purpose of the publication was based on a hybrid design that partly uses probability models and partly uses algorithmic rules for decision making. The aim is to improve the efficiency of the dose-finding trials in the presence of historical data, maintain safety for patients, and achieve a level of simplicity for practical applications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Robust Methods for Biomarker Discovery in Studies with Many Candidate Biomarkers but Limited Sample Size</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210616robust-methods-for-biomarker-discovery-in-studies-with-many-candidate-biomarkers-but-limited-sample-size/</link>
+      <pubDate>Wed, 16 Jun 2021 09:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210616robust-methods-for-biomarker-discovery-in-studies-with-many-candidate-biomarkers-but-limited-sample-size/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Meeting ID: 999 5977 8908; Passcode: 129259&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Washington Statistical Society (WSS) Virtual Seminar&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Approaches for Addressing Missing Data in Cost-Effectiveness Analysis (alongside Randomised Controlled Trials) </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210616bayesian-approaches-for-addressing-missing-data-in-cost-effectiveness-analysis-alongside-randomised-controlled-trials/</link>
+      <pubDate>Wed, 16 Jun 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210616bayesian-approaches-for-addressing-missing-data-in-cost-effectiveness-analysis-alongside-randomised-controlled-trials/</guid>
+      <description>&lt;p&gt;Health economics has become an increasingly important discipline in medical research. Bodies such as NICE provide guidance based on health economic evaluation. Much of recent research has focused on using advanced statistical decision theoretic approaches in health economic evaluation studies where the interest is in the analysis of a multivariate outcome comprising of clinical benefit and associated costs. Missing data on one or both outcomes is common in these studies. The complex structure of the relationships between the outcomes makes handling missing data more challenging in these studies. In this talk the issues related to missing data in health economic evaluation studies will be discussed and novel statistical models developed to handle missing data using a full Bayesian approach will be described, using as motivating example a pilot study conducted at UCL.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electronic Health Data - Too Important to be a Toy Example</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210615electronic-health-data-too-important-to-be-a-toy-example/</link>
+      <pubDate>Tue, 15 Jun 2021 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210615electronic-health-data-too-important-to-be-a-toy-example/</guid>
+      <description>&lt;p&gt;Washington Statistical Society (WSS) Gertrude M. Cox Award Presentation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cytel Webinar: Bayesian Inference Using Poisson-Gamma Model Under Non-Proportional Hazards</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210615cytel-webinar-bayesian-inference-using-poisson-gamma-model-under-non-proportional-hazards/</link>
+      <pubDate>Tue, 15 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210615cytel-webinar-bayesian-inference-using-poisson-gamma-model-under-non-proportional-hazards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Introduction to Machine Learning </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210615isi-short-course-introduction-to-machine-learning/</link>
+      <pubDate>Tue, 15 Jun 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210615isi-short-course-introduction-to-machine-learning/</guid>
+      <description>&lt;p&gt;This course describes nonparametric regression, including the additive model and its generalizations, also the LASSO, and LARS.  Then it proceeds to classification (SVMs, random forests, boosting). The Curse of Dimensionality is described in both contexts.  Bagging and stacking are covered. There is some coverage of cluster analysis, and some text analytics.  The emphasis is upon the strengths and weaknesses of the tools, and guidance on when a particular method should be used.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2021 WNAR Annual Meeting</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106132021-wnar-annual-meeting/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106132021-wnar-annual-meeting/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>ENAR Webinar: Novel Applications of Real-world Data to Support Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611enar-webinar-novel-applications-of-real-world-data-to-support-clinical-trials/</link>
+      <pubDate>Fri, 11 Jun 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611enar-webinar-novel-applications-of-real-world-data-to-support-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: free; IBS members: $65; Non-members: $85&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Real-world data (RWD) have played an increasingly important role in healthcare decisions, for example supporting the design, analysis, and contextualization of clinical trials. In this webinar, we invite panelists from industry with backgrounds in statistics, clinical trials, data science, epidemiology, and health outcomes research to discuss novel applications where RWD can be used to support clinical trials.&lt;/p&gt;
+&lt;p&gt;We discuss propensity-score based methods to leverage RWD as an external data source to augment single-arm clinical trials, enhanced extrapolation of long-term clinical trial survival outcomes using electronic health record (EHR)-derived RWD, and enrollment projection for a prospective pragmatic trial design that utilizes RWD. Finally, we tie the three topics together with a panel discussion.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NASEM Symposium: Data Collection and Integration to Enhance Public Health – Making Sense of a Patchwork of Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210610nasem-symposium-data-collection-and-integration-to-enhance-public-health-making-sense-of-a-patchwork-of-data/</link>
+      <pubDate>Thu, 10 Jun 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210610nasem-symposium-data-collection-and-integration-to-enhance-public-health-making-sense-of-a-patchwork-of-data/</guid>
+      <description>&lt;p&gt;As policymakers and community leaders have worked to respond to the COVID-19 pandemic, it has become increasingly clear that statistics and data science can play a critical role in protecting public health and determining the best path forward. Moving from theory to practice presents challenges for working with a patchwork of data from many different sources across public and private sectors.&lt;/p&gt;
+&lt;p&gt;Speakers will discuss how their work in modeling, inference, predictive analysis, and machine learning has been applied to track the spread of COVID-19, drug use, air pollution, and human trafficking. Panelists will explore the strengths and weaknesses of available surveillance data and how to integrate and draw insight from multiple imperfect data sources.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Vaccines/Treatment Trials, and Predictive Modeling</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210610covid-19-vaccines-treatment-trials-and-predictive-modeling/</link>
+      <pubDate>Thu, 10 Jun 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210610covid-19-vaccines-treatment-trials-and-predictive-modeling/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Day 2 on June 11, 06:00 - 08:30 PST,&lt;/em&gt; &lt;a href=&#34;https://rutgers.webex.com/mw3300/mywebex/default.do?nomenu=true&amp;amp;siteurl=rutgers&amp;amp;service=6&amp;amp;rnd=0.91598952072901&amp;amp;main_url=https%3A%2F%2Frutgers.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000004ccfe17c46bed0464ec584839c2e9e63bee1abcffc3e5fc074828b0ccd1d8a813%26siteurl%3Drutgers%26confViewID%3D194838788450583441%26encryptTicket%3DSDJTSwAAAARC1c0o--SgmZ3tEVx2QxUCiA079yE_Che20yPxxVgUAQ2%26&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;register&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ASA New Jersey Chapter and Princeton-Trenton Chapter Joint Spring Symposium Day 1:&lt;/strong&gt;&lt;br&gt;
+In this year’s Spring Symposium, we will discuss efficient Covid-19 vaccine trial designs, rapid data collection and analysis techniques while assessing the impact of vaccines in bringing this pandemic under control. A panel will debate the determinants of a more robust public health policy to prevent future pandemics with potential to cause catastrophic damage in populations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frontiers in Biostatistics Seminar: The Use of External Control Data for Predictions and Interim Analyses in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210608frontiers-in-biostatistics-seminar-the-use-of-external-control-data-for-predictions-and-interim-analyses-in-clinical-trials/</link>
+      <pubDate>Tue, 08 Jun 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210608frontiers-in-biostatistics-seminar-the-use-of-external-control-data-for-predictions-and-interim-analyses-in-clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytel Webinar: Leveraging External Control Data for Clinical Trials with Time-to-Event Endpoints</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210608cytel-webinar-leveraging-external-control-data-for-clinical-trials-with-time-to-event-endpoints/</link>
+      <pubDate>Tue, 08 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210608cytel-webinar-leveraging-external-control-data-for-clinical-trials-with-time-to-event-endpoints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penn State ICDS Biomedical AI and Data Science Seminar Series: AI Expeditions in Healthcare</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210608penn-state-icds-biomedical-ai-and-data-science-seminar-series-ai-expeditions-in-healthcare/</link>
+      <pubDate>Tue, 08 Jun 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210608penn-state-icds-biomedical-ai-and-data-science-seminar-series-ai-expeditions-in-healthcare/</guid>
+      <description>&lt;p&gt;Artificial intelligence (AI) has tremendous potential to improve prediction of health risks and health  outcomes. The Biomedical AI and Data Sciences seminar series aims to initiate a dialog between healthcare practitioners, clinical researchers, and AI and Data Science experts on strategies for realizing the promise and potential of AI in healthcare.&lt;/p&gt;
+&lt;p&gt;The series kicks off on June 8 with several lightning talks from Penn State researchers, followed by discussions about the topics discussed, and next steps. In fall 2021, the series will continue and will feature prominent researchers within and beyond Penn State who are leading foundational and translational research on AI in healthcare.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Statistical Theory of Deep Learning </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210607isi-short-course-statistical-theory-of-deep-learning/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210607isi-short-course-statistical-theory-of-deep-learning/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Course outline&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Motivation: The present great success of Deep Learning&lt;/li&gt;
+&lt;li&gt;Statistical learning theory: Regression and Classification&lt;/li&gt;
+&lt;li&gt;The theory behind Deep Learning:&lt;br&gt;
+a. Introduction of Neural Networks&lt;br&gt;
+b. Different network architectures and activation functions&lt;br&gt;
+c. Approximation theory: Which function classes can be efficiently   approximated by DNNs?&lt;br&gt;
+d. Generalization: Convergence rates of DNNs for different regression and classification problems. When are those networks able to circumvent the curse of dimensionality?&lt;/li&gt;
+&lt;li&gt;Limits and open questions of DNNs&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
     <item>
