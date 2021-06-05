@@ -35,6 +35,6 @@ projects: []
 summary: ~
 abstract: ~
 ---
-<span style="color: salmon;">*Registration open: May 3; Early registration Deadline: May 31*</span>
+<span style="color: salmon;">*Registration open: May 17; Early registration Deadline: June 15*</span>
 
 <!--more-->
