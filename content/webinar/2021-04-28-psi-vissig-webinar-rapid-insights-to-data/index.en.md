@@ -8,11 +8,11 @@ categories: []
 tags: []
 type: webinar
 url_register: ~
-url_freeregister: https://members.psiweb.org/Core_Content_PSI/Events/Event_Display.aspx?EventKey=237
+url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.psiweb.org/vod/item/psi-vissig-webinar-rapid-insights-to-data
 url_agenda: ~
-url_website: https://uat.psiweb.org/events/event-item/2021/04/28/default-calendar/psi-vissig-webinar-rapid-insights-to-data
+url_website: 
 url_audio: ~
 url_code: ~
 url_pdf: ~

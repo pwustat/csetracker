@@ -10,9 +10,9 @@ type: webinar
 url_register: https://www.psiweb.org/events/event-item/2021/05/25/default-calendar/psi-webinar-oncology-ted-talks-(with-interaction)
 url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.psiweb.org/vod/item/psi-webinar-oncology-ted-style-talks
 url_agenda: ~
-url_website: https://www.psiweb.org/events/event-item/2021/05/25/default-calendar/psi-webinar-oncology-ted-talks-(with-interaction)
+url_website: https://www.psiweb.org/vod/item/psi-webinar-oncology-ted-style-talks
 url_audio: ~
 url_code: ~
 url_pdf: ~

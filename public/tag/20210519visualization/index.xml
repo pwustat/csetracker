@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210519visualization/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210519visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visualization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Visualization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210519visualization/</link>
+    </image>
+    
+    <item>
+      <title>PSI VisSIG Webinar: Grammar of Graphics - theory to implementation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210519psi-vissig-webinar-grammar-of-graphics-theory-to-implementation/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210519psi-vissig-webinar-grammar-of-graphics-theory-to-implementation/</guid>
+      <description>&lt;p&gt;In this talk we&amp;rsquo;ll introduce the Grammar of Graphics, which allows you to compose graphs by combining independent components, and the implementation of this theory in R &amp;ndash; the ggplot2 package. We will describe the basics of building plots with ggplot2 and touch on a few approaches for customizing the plots. We will also highlight a few packages that are built to supplement ggplot2.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

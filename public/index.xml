@@ -524,6 +524,14 @@ d. Generalization: Convergence rates of DNNs for different regression and classi
     </item>
     
     <item>
+      <title>PSI VisSIG Webinar: Grammar of Graphics - theory to implementation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210519psi-vissig-webinar-grammar-of-graphics-theory-to-implementation/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210519psi-vissig-webinar-grammar-of-graphics-theory-to-implementation/</guid>
+      <description>&lt;p&gt;In this talk we&amp;rsquo;ll introduce the Grammar of Graphics, which allows you to compose graphs by combining independent components, and the implementation of this theory in R &amp;ndash; the ggplot2 package. We will describe the basics of building plots with ggplot2 and touch on a few approaches for customizing the plots. We will also highlight a few packages that are built to supplement ggplot2.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Cytel Webinar: Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210518cytel-webinar-utilizing-bayesian-analysis-to-make-go-no-go-decisions-in-a-platform-trial/</link>
       <pubDate>Tue, 18 May 2021 08:00:00 -0700</pubDate>
@@ -691,11 +699,25 @@ d. Generalization: Convergence rates of DNNs for different regression and classi
     </item>
     
     <item>
-      <title>PSI One-Day Meeting: Missing Data in Clinical Trials - Past, Present and Future</title>
+      <title>PSI One-Day Meeting: Missing Data in Clinical Trials - Past, Present and Future [Part 2]</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210505psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210505psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI One-Day Meeting: Missing Data in Clinical Trials - Past, Present and Future [Part 1]</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</link>
       <pubDate>Tue, 04 May 2021 02:30:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</guid>
-      <description>&lt;p&gt;Incomplete datasets due to missing data is an issue that has been, and will be, around for a long time. At this meeting we will present the evolution of missing data approaches, looking at how they have been handled in the past, the current established missing data approaches and the impact of the new ICH E9 R1 addendum on the handling of missing data, focussing in particular on the treatment policy estimand.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Incomplete datasets due to missing data is an issue that has been, and will be, around for a long time. At this meeting we will present the evolution of missing data approaches, looking at how they have been handled in the past, the current established missing data approaches and the impact of the new ICH E9 R1 addendum on the handling of missing data, focussing in particular on the treatment policy estimand.&lt;/p&gt;
+&lt;p&gt;Key Timings&lt;br&gt;
+04:30 - Introduction &amp;amp; Welcome&lt;br&gt;
+06:18 - Khadija Rantell&lt;br&gt;
+44:30 - Jiawei Wei&lt;br&gt;
+1:38:00 - Bohdana Ratitch&lt;br&gt;
+2:23:50 - Panel Q&amp;amp;A&lt;/p&gt;</description>
     </item>
     
     <item>

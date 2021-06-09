@@ -326,6 +326,14 @@ In this year’s Spring Symposium, we will discuss efficient Covid-19 vaccine tr
     </item>
     
     <item>
+      <title>PSI VisSIG Webinar: Grammar of Graphics - theory to implementation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210519psi-vissig-webinar-grammar-of-graphics-theory-to-implementation/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210519psi-vissig-webinar-grammar-of-graphics-theory-to-implementation/</guid>
+      <description>&lt;p&gt;In this talk we&amp;rsquo;ll introduce the Grammar of Graphics, which allows you to compose graphs by combining independent components, and the implementation of this theory in R &amp;ndash; the ggplot2 package. We will describe the basics of building plots with ggplot2 and touch on a few approaches for customizing the plots. We will also highlight a few packages that are built to supplement ggplot2.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Cytel Webinar: Utilizing Bayesian Analysis to Make Go/No-Go Decisions in a Platform Trial</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210518cytel-webinar-utilizing-bayesian-analysis-to-make-go-no-go-decisions-in-a-platform-trial/</link>
       <pubDate>Tue, 18 May 2021 08:00:00 -0700</pubDate>
