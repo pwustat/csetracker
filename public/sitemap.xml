@@ -88,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210616remap-cap-a-bayesian-approach-to-learning-and-treating-covid-19/</loc>
+    <lastmod>2021-06-16T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210616bayesian/</loc>
     <lastmod>2021-06-16T07:00:00-07:00</lastmod>
   </url>
@@ -133,6 +138,16 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210611adaptive-designs/</loc>
+    <lastmod>2021-06-11T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611analyzing-clinical-trials-for-personalized-medicine-via-bayesian-adaptive-design-dactperm/</loc>
+    <lastmod>2021-06-11T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210610nasem-symposium-data-collection-and-integration-to-enhance-public-health-making-sense-of-a-patchwork-of-data/</loc>
     <lastmod>2021-06-10T10:00:00-07:00</lastmod>
   </url>
@@ -145,6 +160,31 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210610covid-19-vaccines-treatment-trials-and-predictive-modeling/</loc>
     <lastmod>2021-06-10T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/</loc>
+    <lastmod>2021-06-09T11:06:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609biopharmaceutical-software-working-group/</loc>
+    <lastmod>2021-06-09T10:40:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609bnp-isba/</loc>
+    <lastmod>2021-06-09T10:59:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609isba/</loc>
+    <lastmod>2021-06-09T11:06:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609oncology-estimand-working-group/</loc>
+    <lastmod>2021-06-09T10:36:03-07:00</lastmod>
   </url>
   
   <url>
@@ -290,11 +330,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525psi-webinar-oncology-ted-style-talks-with-interaction/</loc>
     <lastmod>2021-05-25T06:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210525adaptive-designs/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -555,11 +590,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210401sharp-inference-on-selected-subgroups-in-observational-studies/</loc>
     <lastmod>2021-04-01T08:30:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/</loc>
-    <lastmod>2021-04-01T12:22:40-07:00</lastmod>
   </url>
   
   <url>
@@ -1255,6 +1285,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200625biostats-and-pharma-webinar-a-phase-i-ii-basket-trial-design-to-optimize-dose-schedule-regimes/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>

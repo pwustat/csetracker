@@ -5,12 +5,48 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/resource/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/resource/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/resource/</link>
     </image>
+    
+    <item>
+      <title>Biopharmaceutical Software Working Group</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609biopharmaceutical-software-working-group/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609biopharmaceutical-software-working-group/</guid>
+      <description>&lt;p&gt;The Working Group is planning to solicit ideas for new software tools with biopharmaceutical applications, set up a network of testers and reviewers, and ultimately cultivate a community focused on the development of software tools for biopharmaceutical statisticians by biopharmaceutical statisticians.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BNP-ISBA</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609bnp-isba/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609bnp-isba/</guid>
+      <description>&lt;p&gt;The Bayesian Nonparametric Section of the International Society for Bayesian Analysis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISBA - International Society of Bayesian Analysis</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609isba/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609isba/</guid>
+      <description>&lt;p&gt;The primary purpose of the Section is to promote the research, application and dissemination of Bayesian methods and solutions for problems in Biostatistics and Pharmaceutical statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oncology estimand working group</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609oncology-estimand-working-group/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609oncology-estimand-working-group/</guid>
+      <description>&lt;p&gt;A cross-industry international working group&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> ASA Biopharm&#39;s Podcast</title>

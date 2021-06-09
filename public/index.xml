@@ -98,6 +98,22 @@ In this presentation, we will discuss some recent developments in machine learni
     </item>
     
     <item>
+      <title>REMAP-CAP: A Bayesian Approach to Learning and Treating COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210616remap-cap-a-bayesian-approach-to-learning-and-treating-covid-19/</link>
+      <pubDate>Wed, 16 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210616remap-cap-a-bayesian-approach-to-learning-and-treating-covid-19/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Related Publication:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nejm.org/doi/10.1056/NEJMoa2100433&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interleukin-6 Receptor Antagonists in Critically Ill Patients with Covid-19&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jamanetwork.com/journals/jama/fullarticle/2770278&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Effect of Hydrocortisone on Mortality and Organ Support in Patients With Severe COVID-19, The REMAP-CAP COVID-19 Corticosteroid Domain Randomized Clinical Trial&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Bayesian Approaches for Addressing Missing Data in Cost-Effectiveness Analysis (alongside Randomised Controlled Trials) </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210616bayesian-approaches-for-addressing-missing-data-in-cost-effectiveness-analysis-alongside-randomised-controlled-trials/</link>
       <pubDate>Wed, 16 Jun 2021 07:00:00 -0700</pubDate>
@@ -148,6 +164,14 @@ In this presentation, we will discuss some recent developments in machine learni
     </item>
     
     <item>
+      <title>Analyzing Clinical Trials for Personalized Medicine via Bayesian Adaptive Design (DACTPerM)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611analyzing-clinical-trials-for-personalized-medicine-via-bayesian-adaptive-design-dactperm/</link>
+      <pubDate>Fri, 11 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611analyzing-clinical-trials-for-personalized-medicine-via-bayesian-adaptive-design-dactperm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NASEM Symposium: Data Collection and Integration to Enhance Public Health – Making Sense of a Patchwork of Data</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210610nasem-symposium-data-collection-and-integration-to-enhance-public-health-making-sense-of-a-patchwork-of-data/</link>
       <pubDate>Thu, 10 Jun 2021 10:00:00 -0700</pubDate>
@@ -164,6 +188,42 @@ In this presentation, we will discuss some recent developments in machine learni
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Day 2 on June 11, 06:00 - 08:30 PST,&lt;/em&gt; &lt;a href=&#34;https://rutgers.webex.com/mw3300/mywebex/default.do?nomenu=true&amp;amp;siteurl=rutgers&amp;amp;service=6&amp;amp;rnd=0.91598952072901&amp;amp;main_url=https%3A%2F%2Frutgers.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000004ccfe17c46bed0464ec584839c2e9e63bee1abcffc3e5fc074828b0ccd1d8a813%26siteurl%3Drutgers%26confViewID%3D194838788450583441%26encryptTicket%3DSDJTSwAAAARC1c0o--SgmZ3tEVx2QxUCiA079yE_Che20yPxxVgUAQ2%26&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;register&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ASA New Jersey Chapter and Princeton-Trenton Chapter Joint Spring Symposium Day 1:&lt;/strong&gt;&lt;br&gt;
 In this year’s Spring Symposium, we will discuss efficient Covid-19 vaccine trial designs, rapid data collection and analysis techniques while assessing the impact of vaccines in bringing this pandemic under control. A panel will debate the determinants of a more robust public health policy to prevent future pandemics with potential to cause catastrophic damage in populations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Biopharmaceutical Software Working Group</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609biopharmaceutical-software-working-group/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609biopharmaceutical-software-working-group/</guid>
+      <description>&lt;p&gt;The Working Group is planning to solicit ideas for new software tools with biopharmaceutical applications, set up a network of testers and reviewers, and ultimately cultivate a community focused on the development of software tools for biopharmaceutical statisticians by biopharmaceutical statisticians.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BNP-ISBA</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609bnp-isba/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609bnp-isba/</guid>
+      <description>&lt;p&gt;The Bayesian Nonparametric Section of the International Society for Bayesian Analysis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISBA - International Society of Bayesian Analysis</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609isba/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609isba/</guid>
+      <description>&lt;p&gt;The primary purpose of the Section is to promote the research, application and dissemination of Bayesian methods and solutions for problems in Biostatistics and Pharmaceutical statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oncology estimand working group</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609oncology-estimand-working-group/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609oncology-estimand-working-group/</guid>
+      <description>&lt;p&gt;A cross-industry international working group&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2003,6 +2063,15 @@ We explore these statistical concepts through an example from health outcomes re
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Biostats and Pharma Webinar: A Phase I–II Basket Trial Design to Optimize Dose-Schedule Regimes</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200625biostats-and-pharma-webinar-a-phase-i-ii-basket-trial-design-to-optimize-dose-schedule-regimes/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200625biostats-and-pharma-webinar-a-phase-i-ii-basket-trial-design-to-optimize-dose-schedule-regimes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Related Publication:&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/A-Phase-III-Basket-Trial-Design-to-Optimize-Dose-Schedule/10.1214/20-BA1205.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ruitao Lin. Peter F. Thall. Ying Yuan. &amp;ldquo;A Phase I–II Basket Trial Design to Optimize Dose-Schedule Regimes Based on Delayed Outcomes.&amp;rdquo; Bayesian Anal. 16 (1) 179 - 202, March 2021. https://doi.org/10.1214/20-BA1205&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
