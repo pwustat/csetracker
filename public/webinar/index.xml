@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>Bayesian Detection of Potential Safety Signal from Blinded Clinical Trial Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210618bayesian-detection-of-potential-safety-signal-from-blinded-clinical-trial-data/</link>
+      <pubDate>Fri, 18 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210618bayesian-detection-of-potential-safety-signal-from-blinded-clinical-trial-data/</guid>
+      <description>&lt;p&gt;Ensuring patients&#39; safety in clinical trials is extremely important and is a major responsibility of the sponsors of the clinical trials. Regulatory authorities also encourage aggregate review of safety from ongoing clinical trials, specifically to identify potential risks of adverse events of special interest. Sponsors may decide that a blinded review of safety data can meet these needs while also ensuring clinical trial integrity. A Bayesian methodological framework has been developed that leverages historical data of the background rates of events of interest to monitor and detect potential safety signals using blinded data from ongoing clinical trials. This new method is a two‐step Bayesian evaluation of potential safety signals composed of a screening analysis followed by a sensitivity analysis. The blinded safety teams can use these steps to make an informed decision if any events of interest should be escalated for unblinded review.&lt;br&gt;
+To ease implementation and operationalization of the method, an R package called BDRIBS (Bayesian Detection of potential Risk using Inference on Blinded Safety data) and an associated R-Shiny application have been developed. The R-package and the R-Shiny tool are both publicly available.&lt;br&gt;
+The first part of the presentation will focus on the methodological development and the second part will feature the BDRIBS R-Shiny application to illustrate visualization and assessment of the events of interest to help in exploration of various scenarios and sensitivity analyses in real‐time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Some Recent Developments in Machine Learning for Addressing Multiple Outcomes in Data Driven Decision Support </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210618some-recent-developments-in-machine-learning-for-addressing-multiple-outcomes-in-data-driven-decision-support/</link>
       <pubDate>Fri, 18 Jun 2021 08:00:00 -0700</pubDate>
