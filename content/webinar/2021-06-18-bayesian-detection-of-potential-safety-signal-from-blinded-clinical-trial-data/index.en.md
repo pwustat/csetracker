@@ -39,6 +39,7 @@ summary: ~
 abstract: ~
 speaker: Saurabh Mukhopadhyay (AbbVie) | Brian Waterhouse (Merck)
 ---
+*The DIA Bayesian Scientific Working Group (BSWG) KOL lecture series* 
 <!--more-->
 Ensuring patients' safety in clinical trials is extremely important and is a major responsibility of the sponsors of the clinical trials. Regulatory authorities also encourage aggregate review of safety from ongoing clinical trials, specifically to identify potential risks of adverse events of special interest. Sponsors may decide that a blinded review of safety data can meet these needs while also ensuring clinical trial integrity. A Bayesian methodological framework has been developed that leverages historical data of the background rates of events of interest to monitor and detect potential safety signals using blinded data from ongoing clinical trials. This new method is a two‐step Bayesian evaluation of potential safety signals composed of a screening analysis followed by a sensitivity analysis. The blinded safety teams can use these steps to make an informed decision if any events of interest should be escalated for unblinded review.  
 To ease implementation and operationalization of the method, an R package called BDRIBS (Bayesian Detection of potential Risk using Inference on Blinded Safety data) and an associated R-Shiny application have been developed. The R-package and the R-Shiny tool are both publicly available.  
