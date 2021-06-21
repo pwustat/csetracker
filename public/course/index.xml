@@ -5,12 +5,37 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 05:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 10:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
     </image>
+    
+    <item>
+      <title>Survival Outcome Data with High Dimensional Predictors: Methods and Applications</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210624survival-outcome-data-with-high-dimensional-predictors-methods-and-applications/</link>
+      <pubDate>Thu, 24 Jun 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210624survival-outcome-data-with-high-dimensional-predictors-methods-and-applications/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA members: $40; non-members: $65&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In the era of precision medicine, survival outcome data with high-throughput covariates and predictors are often collected. These high dimensional data defy classical survival regression models, which are either infeasible to fit or likely to incur low predictability because of overfitting. This short course will introduce various cutting-edge methods that handle survival outcome data with high dimensional predictors. I will cover statistical principles and concepts behind the methods, and will also discuss their applications to the real medical examples.&lt;/p&gt;
+&lt;p&gt;Time permitting, I intend to cover the following topics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Survival analysis overview: basic concepts and models, e.g. Cox, Accelerated Failure Time (AFT), and Censored Quantile Regression (CQR) Models;&lt;/li&gt;
+&lt;li&gt;Survival models with high dimensional predictors (p&amp;gt;n): Regularized methods and Dantzig selector;&lt;/li&gt;
+&lt;li&gt;Survival analysis with ultra-high dimensional predictors (p&amp;raquo;n): Screening Methods, e.g, Principled sure independent screening (PSIS), Conditional screening, IPOD, Forward selection, etc;&lt;/li&gt;
+&lt;li&gt;Inference for survival models with high dimensional predictors (p&amp;gt;n).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Audience only needs to have some basic knowledge of regression analysis and survival analysis. The relevant papers and software for this short course can be found in: &lt;a href=&#34;http://www-personal.umich.edu/~yili/resindex.html&#34;&gt;http://www-personal.umich.edu/~yili/resindex.html&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Communicating Health Data - The COVID-19 Experience</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210624isi-short-course-communicating-health-data-the-covid-19-experience/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210624isi-short-course-communicating-health-data-the-covid-19-experience/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ISI Short Course: Bootstrap Methods and Permutation Tests</title>
@@ -20,6 +45,16 @@
       <description>&lt;p&gt;We begin with a graphical approach to bootstrapping and permutation testing, illuminating basic statistical concepts of standard errors, confidence intervals, p-values and significance tests.&lt;/p&gt;
 &lt;p&gt;We consider a variety of statistics (mean, trimmed mean, regression, etc.), and a number of sampling situations (one-sample, two-sample, stratified, finite-population), stressing the common techniques that apply in these situations. We’ll look at applications from a variety of fields, including telecommunications, finance, and biopharm.&lt;/p&gt;
 &lt;p&gt;These methods let us do confidence intervals and hypothesis tests when formulas are not available, so we can do better statistics, e.g. use robust methods like medians, trimmed means, or robust regression. They can help clients understand statistical variability. And some of the methods are more accurate than standard methods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Data Science and Predictive Analytics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210616isi-short-course-data-science-and-predictive-analytics/</link>
+      <pubDate>Wed, 16 Jun 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210616isi-short-course-data-science-and-predictive-analytics/</guid>
+      <description>&lt;p&gt;The training will provide intermediate to advanced learners with a solid data science foundation to address challenges related to collecting, managing, processing, interrogating, analyzing and interpreting complex health and biomedical datasets using R. Participants will gain skills and acquire a tool-chest of methods, software tools, and protocols that can be applied to a broad spectrum of Big Data problems.&lt;/p&gt;
+&lt;p&gt;Before diving into the mathematical algorithms, statistical computing methods, software tools, and health analytics, we will discuss a number of driving motivational problems. These will ground all the subsequent scientific discussions, data modeling, and computational approaches. The training will involve active-learning and integrate driving motivational challenges with mathematical foundations, computational statistics, and modern scientific inference.&lt;/p&gt;
+&lt;p&gt;Building on open-science principles, training will focus on effective, reliable, reproducible, and transformative data-driven discovery. Trainees will develop scientific intuition, computational skills, and data-wrangling abilities to tackle Big biomedical and advanced health data problems. The instructor will provide well-documented R-scripts and software recipes implementing atomic data-filters, as well as complex end-to-end predictive big data analytics solutions.&lt;/p&gt;</description>
     </item>
     
     <item>

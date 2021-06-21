@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/category/20210616data-science/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/category/20210616data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jun 2021 05:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Science</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/category/20210616data-science/</link>
+    </image>
+    
+    <item>
+      <title>ISI Short Course: Data Science and Predictive Analytics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210616isi-short-course-data-science-and-predictive-analytics/</link>
+      <pubDate>Wed, 16 Jun 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210616isi-short-course-data-science-and-predictive-analytics/</guid>
+      <description>&lt;p&gt;The training will provide intermediate to advanced learners with a solid data science foundation to address challenges related to collecting, managing, processing, interrogating, analyzing and interpreting complex health and biomedical datasets using R. Participants will gain skills and acquire a tool-chest of methods, software tools, and protocols that can be applied to a broad spectrum of Big Data problems.&lt;/p&gt;
+&lt;p&gt;Before diving into the mathematical algorithms, statistical computing methods, software tools, and health analytics, we will discuss a number of driving motivational problems. These will ground all the subsequent scientific discussions, data modeling, and computational approaches. The training will involve active-learning and integrate driving motivational challenges with mathematical foundations, computational statistics, and modern scientific inference.&lt;/p&gt;
+&lt;p&gt;Building on open-science principles, training will focus on effective, reliable, reproducible, and transformative data-driven discovery. Trainees will develop scientific intuition, computational skills, and data-wrangling abilities to tackle Big biomedical and advanced health data problems. The instructor will provide well-documented R-scripts and software recipes implementing atomic data-filters, as well as complex end-to-end predictive big data analytics solutions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penn State ICDS Biomedical AI and Data Science Seminar Series: AI Expeditions in Healthcare</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210608penn-state-icds-biomedical-ai-and-data-science-seminar-series-ai-expeditions-in-healthcare/</link>
+      <pubDate>Tue, 08 Jun 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210608penn-state-icds-biomedical-ai-and-data-science-seminar-series-ai-expeditions-in-healthcare/</guid>
+      <description>&lt;p&gt;Artificial intelligence (AI) has tremendous potential to improve prediction of health risks and health  outcomes. The Biomedical AI and Data Sciences seminar series aims to initiate a dialog between healthcare practitioners, clinical researchers, and AI and Data Science experts on strategies for realizing the promise and potential of AI in healthcare.&lt;/p&gt;
+&lt;p&gt;The series kicks off on June 8 with several lightning talks from Penn State researchers, followed by discussions about the topics discussed, and next steps. In fall 2021, the series will continue and will feature prominent researchers within and beyond Penn State who are leading foundational and translational research on AI in healthcare.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Webinar: S, R, and Data Science</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210603asa-webinar-s-r-and-data-science/</link>
+      <pubDate>Thu, 03 Jun 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210603asa-webinar-s-r-and-data-science/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA members: $20, non-members: $35&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This talk discusses the history and characteristics of the R software. R began, 20-odd years ago, as the open source clone of the S software. So the story of R has to start with S and with its history. S came from the Statistics and Data Analysis Research group at AT&amp;amp;T Bell Labs. We&amp;rsquo;ll see that the design goal of S, and so of R, is to support studies in what we&amp;rsquo;d now call data science. The principles resulting from this goal are still central to computing for data science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021 Symposium on Data Science &amp; Statistics (SDSS)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration deadline: Apr 7, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA SLDS Webinar: Towards Secure and Interpretable AI - Scalable Methods, Interactive Visualizations, and Practical Tools </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525asa-slds-webinar-towards-secure-and-interpretable-ai-scalable-methods-interactive-visualizations-and-practical-tools/</link>
+      <pubDate>Tue, 25 May 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210525asa-slds-webinar-towards-secure-and-interpretable-ai-scalable-methods-interactive-visualizations-and-practical-tools/</guid>
+      <description>&lt;p&gt;AI and ML models are often vulnerable to adversarial attacks, and their predictions can be difficult to understand, evaluate and ultimately act upon. We present recent research highlights: ShapeShifter, the world’s first targeted adversarial technique that fools state-of-the-art object detector; MalNet, the largest public cybersecurity database with over 1.2M graphs and images; Summit and Bluff, systems that scalably summarize and visualize what features a deep learning model has learned, how those features interact to make predictions; CNN Explainer and GAN Lab (with Google Brain): a suite of accessible tools for students and experts alike to learn about AI models (both went viral).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Webinar: Building Effective Data Science Teams</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513building-effective-data-science-teams/</link>
+      <pubDate>Thu, 13 May 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513building-effective-data-science-teams/</guid>
+      <description>&lt;p&gt;In this panel webinar, you will hear from leaders at Warner Music Group, T-Mobile, Saturn Cloud, The Looma Project, and Caliber Home Loans, about what it takes to build successful a data science team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Their experiences and perspective on building great data science teams of both R and Python users&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How their teams prioritize and deliver work in a way that adds value to their organizations, while also maintaining credibility among stakeholders even when the results aren’t necessarily good news&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Their advice for advancing your own data science career and collaborating with non-data-science stakeholders&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>COPSS-NISS COVID-19 Data Science Webinar Series: Communication of Statistical and Epidemiologic Concepts to Broad Audiences</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513copss-niss-covid-19-data-science-webinar-series-communication-of-statistical-and-epidemiologic-concepts-to-broad-audiences/</link>
+      <pubDate>Thu, 13 May 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513copss-niss-covid-19-data-science-webinar-series-communication-of-statistical-and-epidemiologic-concepts-to-broad-audiences/</guid>
+      <description>&lt;p&gt;The past year has seen a huge increase in the communication of statistical, medical, and public health concepts, methods, and results to broad audiences.  The general public has been exposed to the ideas of reproduction numbers, exponential growth, randomized trials, and the challenges of program evaluation in ways that had rarely been seen at such a large scale.  This webinar will provide a discussion between two experts in scientific communication&amp;ndash;Jenn Dowd, co-founder of Dear Pandemic and Associate Professor at the University of Oxford, and Ed Yong, staff writer at The Atlantic. They will discuss what they have learned during the course of the pandemic about communicating statistical/epidemiological concepts to broad audiences, what challenges remain, and how might we best address them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Law of Robustness for Two-layer Neural Networks</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</link>
+      <pubDate>Fri, 02 Apr 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from COVID-19 Data on Transmission, Health Outcomes, Interventions and Vaccination </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323learning-from-covid-19-data-on-transmission-health-outcomes-interventions-and-vaccination/</link>
+      <pubDate>Tue, 23 Mar 2021 12:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210323learning-from-covid-19-data-on-transmission-health-outcomes-interventions-and-vaccination/</guid>
+      <description>&lt;p&gt;Video Passcode &lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;=TpGiw#6&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration&lt;/strong&gt;: &lt;br&gt;
+ASA Members: $20&lt;br&gt;
+Student ASA Member: $15&lt;br&gt;
+Nonmembers: $35&lt;/p&gt;
+&lt;p&gt;In this talk, I will first provide a historical overview of the epidemic in Wuhan. I will then provide the analysis results of 32,000 lab-confirmed COVID-19 cases in Wuhan to estimate the transmission rates using Poisson Partial Differential Equation based transmission dynamic models. This model is also used to evaluate the effects of different public health interventions on controlling the COVID-19 outbreak, such as social distancing, isolation and quarantine. I will present the results on the epidemiological characteristics of the cases. The results show that multi-faceted intervention measures successfully controlled the outbreak in Wuhan. I will next present transmission regression models for estimating transmission rates in USA and other countries, as well as factors including intervention effects using social distancing, test-trace-isolate strategies that affect transmission rates. I will discuss estimation of the proportion of undetected cases, including asymptomatic, pre-symptomatic cases and mildly symptomatic cases, the chances of resurgence in different scenarios, prevalence, and the factors that affect transmissions. I will also present the US county-level analysis to study the demographic, social-economic, and comorbidity factors that are associated with COVID-19 case and death rates. I will also present the analysis results of &amp;gt;500,000 participants of the HowWeFeel project on health outcomes and behaviors in US, and discuss the factors associated with infection, behavior, and vaccine hesitancy. I will provide several takeaways and discuss priorities.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>General Framework for Optimal Data-Driven Optimization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</link>
+      <pubDate>Fri, 19 Mar 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210319general-framework-for-optimal-data-driven-optimization/</guid>
+      <description>&lt;p&gt;We propose a statistically optimal approach to construct data-driven decisions for stochastic optimization problems. Fundamentally, a data-driven decision is simply a function that maps the available training data to a feasible action. It can always be expressed as the minimizer of a surrogate optimization model constructed from the data. The quality of a data-driven decision is measured by its out-of-sample risk. An additional quality measure is its out-of-sample disappointment, which we define as the probability that the out-of-sample risk exceeds the optimal value of the surrogate optimization model. The crux of data-driven optimization is that the data-generating probability measure is unknown. An ideal data-driven decision should therefore minimize the out-of-sample risk simultaneously with respect to every conceivable probability measure (and thus in particular with respect to the unknown true measure). Unfortunately, such ideal data-driven decisions are generally unavailable. This prompts us to seek data-driven decisions that minimize the out-of-sample risk subject to an upper bound on the out-of-sample disappointment - again simultaneously with respect to every conceivable probability measure. We prove that such Pareto-dominant data-driven decisions exist under conditions that allow for interesting applications: the unknown data-generating probability measure must belong to a parametric ambiguity set, and the corresponding parameters must admit a sufficient statistic that satisfies a large deviation principle. If these conditions hold, we can further prove that the surrogate optimization model generating the optimal data-driven decision must be a distributionally robust optimization problem constructed from the sufficient statistic and the rate function of its large deviation principle. This shows that the optimal method for mapping data to decisions is, in a rigorous statistical sense, to solve a distributionally robust optimization model. Maybe surprisingly, this result holds irrespective of whether the original stochastic optimization problem is convex or not and holds even when the training data is non-i.i.d. As a byproduct, our analysis reveals how the structural properties of the data-generating stochastic process impact the shape of the ambiguity set underlying the optimal distributionally robust optimization model. This is joint work with Tobias Sutter and Bart Van Parys.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deciphering Neural Networks through the Lens of Feature Interactions</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</link>
+      <pubDate>Fri, 26 Feb 2021 12:00:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</guid>
+      <description>&lt;p&gt;Interpreting how neural networks work is a crucial and challenging task in machine learning. In this talk, I will discuss a novel framework, namely neural interaction detector (NID), for interpreting complex neural networks by detecting statistical interactions captured by the neural networks. Furthermore, we can construct a more interpretable generalized additive model that achieve similar prediction performance as the original neural networks. Experiment results on several applications, such as recommender systems, image recognition, sentiment prediction, demonstrate the effectiveness of NID.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Veridical Data Science for biomedical discovery: detecting epistatic interactions with epiTree</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226veridical-data-science-for-biomedical-discovery-detecting-epistatic-interactions-with-epitree/</link>
+      <pubDate>Fri, 26 Feb 2021 09:30:00 -0800</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226veridical-data-science-for-biomedical-discovery-detecting-epistatic-interactions-with-epitree/</guid>
+      <description>&lt;p&gt;Data Science is a pillar of A.I. and has driven most of recent cutting-edge discoveries in biomedical research. In practice, Data Science has a life cycle (DSLC) that includes problem formulation, data collection, data cleaning, modeling, result interpretation and the drawing of conclusions. Human judgement calls are ubiquitous at every step of this process, e.g., in choosing data cleaning methods, predictive algorithms and data perturbations. Such judgment calls are often responsible for the &amp;ldquo;dangers&amp;rdquo; of A.I. To maximally mitigate these dangers, we developed a framework based on three core principles: Predictability, Computability and Stability (PCS). Through a workflow and documentation (in R Markdown or Jupyter Notebook) that allows one to manage the whole DSLC, the PCS framework unifies, streamlines and expands on the best practices of machine learning and statistics - bringing us a step forward towards veridical Data Science.&lt;/p&gt;
+&lt;p&gt;In this lecture, we will illustrate the PCS framework through the epiTree; a pipeline to discover epistasis interactions from genomics data. epiTree addresses issues of scaling of penetrance through decision trees, significance calling through PCS p-values, and combinatorial search over interactions through iterative random forests (which is a special case of PCS). Using UK Biobank data, we validate the epiTree pipeline through an application to the red-hair phenotype, where several genes are known to display epistatic interactions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021 ASA Conference on Statistical Practice</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</guid>
+      <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
+&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Under the Hood of 1Point3Acres COVID-19 Map and Tracker</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200925under-the-hood-of-1point3acres-covid-19-map-and-tracker/</guid>
+      <description>&lt;p&gt;In this talk, Yu will first discuss how her volunteer team fought to have brought data transparency to CovidNet. Then, Kyle will present his team’s novel approach to continuous data quality monitoring, which combines semantic analysis with time series anomaly detection methods, ending with some examples showing issues (known and benign) detected in the 1point3acres dataset. Prof Shan Lu will also provide an example how the high quality data source can be highly useful for even non-biological scientists to produce meaningful analysis in a situation like COVID-19 pandemic.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scaling Data Science at Your Organization (Part 3)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903scaling-data-science-at-your-organization-part-3/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903scaling-data-science-at-your-organization-part-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Nearly Assumption-Free Tests of Nominal Confidence Interval Coverage for Causal Parameters Estimated by Machine Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200901on-nearly-assumption-free-tests-of-nominal-confidence-interval-coverage-for-causal-parameters-estimated-by-machine-learning/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200901on-nearly-assumption-free-tests-of-nominal-confidence-interval-coverage-for-causal-parameters-estimated-by-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purdue University: Deep Learning Methods and Theory Webinar Series</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;August 28, &lt;strong&gt;Intuitive Introduction to Deep Learning&lt;/strong&gt;, Professor Lawrence Carin, &lt;a href=&#34;https://www.youtube.com/watch?v=sVca43PstWA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 4, &lt;strong&gt;Distributed Machine Learning&lt;/strong&gt;, Professor Heng Huang,  &lt;a href=&#34;https://www.youtube.com/watch?v=5fFg4SLq4mU&amp;amp;t=10s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 11, &lt;strong&gt;A Representational Model of Grid Cells Based on Matrix Lie Algebras&lt;/strong&gt;, Professor Ying Nian Wu, &lt;a href=&#34;https://www.youtube.com/watch?v=lYQElUIaqEw&amp;amp;t=12s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;September 18, &lt;strong&gt;Integrating Domain-Knowledge into Deep Learning&lt;/strong&gt;, Professor Ruslan Salakhutdinov, &lt;a href=&#34;https://www.youtube.com/watch?v=gE78sONx_-k&amp;amp;t=4s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scaling Data Science at Your Organization (Part 2)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200827scaling-data-science-at-your-organization-part-2/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200827scaling-data-science-at-your-organization-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Data Science at Your Organization (Part 1)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200820scaling-data-science-at-your-organization-part-1/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200820scaling-data-science-at-your-organization-part-1/</guid>
+      <description>&lt;p&gt;IPTOP framework (Infrastructure, People, Tools, Organization and Processes) for building data strategies and systematically scaling data science within an organization&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enabling Remote Data Science Teams</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728enabling-remote-data-science-teams/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728enabling-remote-data-science-teams/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Setting up a remote and collaborative R environment&lt;/li&gt;
+&lt;li&gt;Version control and Scrum&lt;/li&gt;
+&lt;li&gt;Using Shiny and RStudio Connect to share apps within and across teams&lt;/li&gt;
+&lt;li&gt;How to improve the UI and appearance of Shiny dashboards&lt;/li&gt;
+&lt;li&gt;How to scale Shiny dashboards to hundreds of users&lt;/li&gt;
+&lt;li&gt;How to build and grow a remote data science team&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Avoid Dashboard Fatigue</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200714avoid-dashboard-fatigue/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200714avoid-dashboard-fatigue/</guid>
+      <description>&lt;p&gt;In this webinar, we’ll show you an easy way teams can solve these problems using proactive email notifications through the blastula and gt packages, and how RStudio pro products can be used to scale out those solutions for enterprise applications. Dynamic emails are a powerful way to meet decision makers where they live - their inbox - while displaying exactly the results needed to influence decision-making. Best of all, these notifications are crafted with code, ensuring your work is still reproducible, durable, and credible.&lt;/p&gt;
+&lt;p&gt;We’ll demonstrate how this approach provides solutions for data quality monitoring, detecting and alerting on anomalies, and can even automate routine (but precisely formatted) KPI reporting.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA-JDS Webinar Series: Data Science in Action in Response to the Outbreak of COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200417asa-jds-webinar-series-data-science-in-action-in-response-to-the-outbreak-of-covid-19/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200417asa-jds-webinar-series-data-science-in-action-in-response-to-the-outbreak-of-covid-19/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Replay links available on website&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Curating a COVID-19 data repository and forecasting county-level death counts in the United States&lt;/strong&gt;&lt;br&gt;
+07/24/2020,  Dr. Bin Yu, University of California, Berkeley&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The COVID-19 Forecast Hub: using statistics and data science to support decision-making in a pandemic&lt;/strong&gt;&lt;br&gt;
+07/17/2020, Dr. Nicholas Reich, University of Massachusetts, Amherst&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Semiparametric Bayesian inference for the transmission dynamics of COVID-19 with a state-space model&lt;/strong&gt;&lt;br&gt;
+07/10/2020, Dr. Yuan Ji, University of Chicago&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The opportunities and challenges of healthcare systems in the COVID-19 era&lt;/strong&gt;&lt;br&gt;
+06/26/2020, Dr. Kimia Ghobadi, Johns Hopkins University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A statistical transmission model for COVID-19 outbreak with adjustment of external factors&lt;/strong&gt;&lt;br&gt;
+06/19/2020, Dr. Yifan Zhu, Fred Hutchinson Cancer Research Center&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistics and modeling in response to COVID-19 at NIAID&lt;/strong&gt;&lt;br&gt;
+06/12/2020, Dr. Dean Follmann, National Institute of Allergy and Infectious Diseases&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A biostatistician&amp;rsquo;s encounter with COVID-19 in New York City&lt;/strong&gt;&lt;br&gt;
+06/05/2020, Dr. Usha Govindarajulu, Icahn School of Medicine at Mount Sinai&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Can the reported COVID-19 data tell us the truth? Scrutinizing the data from the measurement error models perspective&lt;/strong&gt;&lt;br&gt;
+05/29/2020, Dr. Grace Yi, University of Western Ontario&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Predictions, role of interventions and implications of a national lockdown on the COVID-19 outbreak in India&lt;/strong&gt;&lt;br&gt;
+05/22/2020, COV-IND-19 Study Group ( (Dr. Bhramar Mukherjee, University of Michigan; Dr. Debashree Ray, Johns Hopkins University; Rupam Bhattacharyya, University of Michigan; and Maxwell Salvatore, University of Michigan)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;COVID-19: Analytic studies and opportunities for outside of epidemiology&lt;/strong&gt;&lt;br&gt;
+05/15/2020, Dr. David Corliss, Peace-Work&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Estimation of incubation period distribution of COVID-19 using disease onset forward time: A novel cross-sectional and forward follow-up study&lt;/strong&gt;&lt;br&gt;
+05/08/2020, Dr. Jing Qin, National Institute of Allergy and Infectious Diseases (NIAID)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;COVID19 US dashboard: Spatiotemporal dynamics, nowcasting and forecasting of COVID-19 in the United States&lt;/strong&gt;&lt;br&gt;
+05/01/2020, Dr. Lily Wang, Iowa State University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tracking reproductivity of COVID-19 pandemic with varying coefficient epidemiological models&lt;/strong&gt;&lt;br&gt;
+04/24/2020, Dr. Song Xi Chen, Peking University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;An epidemiological forecast model to assess the effect of social distancing on flattening the coronavirus curve in the USA&lt;/strong&gt;&lt;br&gt;
+04/17/2020, Dr. Peter X.K. Song University of Michigan&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

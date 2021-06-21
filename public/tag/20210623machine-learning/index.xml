@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210623machine-learning/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210623machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 10:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210623machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>ASA SLDS Webinar: Calibrating Machine Learning Prediction Models</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210623asa-slds-webinar-calibrating-machine-learning-prediction-models/</link>
+      <pubDate>Wed, 23 Jun 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210623asa-slds-webinar-calibrating-machine-learning-prediction-models/</guid>
+      <description>&lt;p&gt;Statistical prediction models for estimating probabilities have gained popularity in applied research. An adaptation to a new population can be achieved by calibrating the model to the characteristics of the target population, and numerous calibration techniques exist. In this presentation, I will provide a review of the different calibration approaches used in classical statistics and in machine learning for two-class probability estimation. I will present results of a comprehensive analysis using both simulated and real data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Introduction to Machine Learning </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210615isi-short-course-introduction-to-machine-learning/</link>
+      <pubDate>Tue, 15 Jun 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210615isi-short-course-introduction-to-machine-learning/</guid>
+      <description>&lt;p&gt;This course describes nonparametric regression, including the additive model and its generalizations, also the LASSO, and LARS.  Then it proceeds to classification (SVMs, random forests, boosting). The Curse of Dimensionality is described in both contexts.  Bagging and stacking are covered. There is some coverage of cluster analysis, and some text analytics.  The emphasis is upon the strengths and weaknesses of the tools, and guidance on when a particular method should be used.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

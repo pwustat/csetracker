@@ -40,15 +40,15 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
-  conference = "/conference/:year:month:day:slug/"
+  conference = "/conference/:year:month:day:slug"
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
   #authors = "/author/:slug/"
-  webinar = "/webinar/:year:month:day:slug/"
-  resource = "/resource/:year:month:day:slug/"
-  course = "/course/:year:month:day:slug/"
-  tags = "/tag/:year:month:day:slug/"
-  categories = "/category/:year:month:day:slug/"
-  publication_types = "/publication-type/:year:month:day:slug/"
+  webinar = "/webinar/:year:month:day:slug"
+  resource = "/resource/:year:month:day:slug"
+  course = "/course/:year:month:day:slug"
+  tags = "/tag/:year:month:day:slug"
+  categories = "/category/:year:month:day:slug"
+  publication_types = "/publication-type/:year:month:day:slug"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]

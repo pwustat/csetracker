@@ -5,12 +5,75 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 08:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 13:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>Airborne Transmission of the Virus SARS-CoV-2</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210624airborne-transmission-of-the-virus-sars-cov-2/</link>
+      <pubDate>Thu, 24 Jun 2021 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210624airborne-transmission-of-the-virus-sars-cov-2/</guid>
+      <description>&lt;p&gt;Scientists realized soon after the detection of the SARS-CoV-2 virus that airborne transmission, which is by inhalation of small airborne virus laden particles (often called aerosols), generated during human respiratory activities was the main mode of the spread of the infection. The prevailing theory of infection transmission, that it was via the direct contact with much bigger particles (often called droplets), leading to distancing at 6 feet arose from work by Flugge in 1897 and later theory by Well-Riley. Immediately upon the detection of the virus, Dr. Morawska and other aerosol experts recognized that the virus may be transmitted by much smaller particles than recognized by Flugge, over longer distances (as far as 60 feet and further) and lingering longer in the air. This is a major change in understanding and public health implications of virus transmission. WHO guidance was modified to reflect the possibility of virus transmission over longer distances and lingering longer in the air. It is expected that this will lead to changes in public health policy regarding mask usage, and ventilation of buildings and other areas people may gather.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISSI Online Seminar Series: Confident Directional Selective Inference, from Multiple Comparisons with the Best to Precision Medicine</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210624issi-online-seminar-series-confident-directional-selective-inference-from-multiple-comparisons-with-the-best-to-precision-medicine/</link>
+      <pubDate>Thu, 24 Jun 2021 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210624issi-online-seminar-series-confident-directional-selective-inference-from-multiple-comparisons-with-the-best-to-precision-medicine/</guid>
+      <description>&lt;p&gt;MCB (multiple comparisons with the best, 1981, 1984), comparing treatments to the best without knowing which one is the best, can be considered an early example of selective inference. With the thinking that &amp;ldquo;there is only one true best&amp;rdquo;, the relevance of MCB to this presentation is it led to the Partitioning Principle, which is essential for deriving confidence sets for stepwise tests. Inference based on confidence sets control the directional error rate, inference based on tests of equalities may not.&lt;/p&gt;
+&lt;p&gt;The FDA gave Accelerated Approval to Aduhelm^{TM} (aducanumab) for Alzheimer&amp;rsquo;s Disease (AD) on 8 June 2021, based on its reduction of beta-amyloid plaque (a surrogate biomarker endpoint). When clinical efficacy of a treatment for the overall population is not shown, genome-wide association studies (GWAS) are often used to discover SNPs that might predict efficacy in subgroups. In the process of working on GWAS with real data, we came to realization that, if one causal SNP makes its zero-null hypothesis false, then all other zero-null hypotheses are statistically false as well. While the majority of no-association null hypotheses might well be true biologically, statistically they are false (if one is false) in GWAS. I will indeed illustrate this with a causal SNP for the ApoE gene which is involved in the clearance of beta-amyloid plaque in AD. We suggest our confidence interval CE4 approach instead.&lt;/p&gt;
+&lt;p&gt;Targeted therapies such as OPDIVO and TECENTRIQ naturally have patient subgroups, already defined by the extent to which the drug target is present or absent in them, subgroups that may derive differential efficacy. An additional danger of testing equality nulls in the presence of subgroups is that the illusory logical relationships among efficacy in subgroups and their mixtures created by exact quality nulls leads to too drastic a stepwise multiplicity reduction, resulting in inflated directional error rates, as I will explain. Instead, Partition Tests, which would be called Confident Direction methods in the language of Tukey, might be safer to use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA SLDS Webinar: Calibrating Machine Learning Prediction Models</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210623asa-slds-webinar-calibrating-machine-learning-prediction-models/</link>
+      <pubDate>Wed, 23 Jun 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210623asa-slds-webinar-calibrating-machine-learning-prediction-models/</guid>
+      <description>&lt;p&gt;Statistical prediction models for estimating probabilities have gained popularity in applied research. An adaptation to a new population can be achieved by calibrating the model to the characteristics of the target population, and numerous calibration techniques exist. In this presentation, I will provide a review of the different calibration approaches used in classical statistics and in machine learning for two-class probability estimation. I will present results of a comprehensive analysis using both simulated and real data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Statistics in Epidemiology Webinar: Pursuit of COVID Vaccine Approval Based on an Immune Marker Surrogate Endpoint</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622asa-statistics-in-epidemiology-webinar-pursuit-of-covid-vaccine-approval-based-on-an-immune-marker-surrogate-endpoint/</link>
+      <pubDate>Tue, 22 Jun 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622asa-statistics-in-epidemiology-webinar-pursuit-of-covid-vaccine-approval-based-on-an-immune-marker-surrogate-endpoint/</guid>
+      <description>&lt;p&gt;An objective of randomized, placebo-controlled efficacy trials of COVID-19 vaccines is to develop evidence for whether and how antibody biomarkers can be appropriately used as surrogate endpoints for accelerating approval and increasing distribution of effective vaccines. I will summarize the COVID-19 Prevention Trial Network’s harmonized statistical analysis plan for generating this evidence based on the analysis of several phase 3 trials. The statistical methods include causal inference methods within the principal stratification, controlled effects, stochastic interventional effects, and mediation frameworks. The webinar seeks to describe the distinct contributions of the different methods and a strategy for synthesizing the set of results. The webinar also considers how the analyses can account for the genetic sequences of the SARS-CoV-2 viruses, which may impact vaccine efficacy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cytel Webinar: Using Robust Bayesian Priors to Borrow Information from Historical Adult Trials for a Clinical Trial in Pediatric Multiple Sclerosis</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622cytel-webinar-using-robust-bayesian-priors-to-borrow-information-from-historical-adult-trials-for-a-clinical-trial-in-pediatric-multiple-sclerosis/</link>
+      <pubDate>Tue, 22 Jun 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622cytel-webinar-using-robust-bayesian-priors-to-borrow-information-from-historical-adult-trials-for-a-clinical-trial-in-pediatric-multiple-sclerosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating R into your Clinical Legacy Workflows</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622incorporating-r-into-your-clinical-legacy-workflows/</link>
+      <pubDate>Tue, 22 Jun 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622incorporating-r-into-your-clinical-legacy-workflows/</guid>
+      <description>&lt;p&gt;What you will learn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How can two enterprise organizations collaborate on open source pharma projects?&lt;/li&gt;
+&lt;li&gt;What are the organizational changes required for adopting open source tooling?&lt;/li&gt;
+&lt;li&gt;How can open source tools augment and improve propriety tooling?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>FDA Sentinel Webinar: Measure What You Treasure – The Challenges and Opportunities of Collecting Real World Endpoints </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622fda-sentinel-webinar-measure-what-you-treasure-the-challenges-and-opportunities-of-collecting-real-world-endpoints/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622fda-sentinel-webinar-measure-what-you-treasure-the-challenges-and-opportunities-of-collecting-real-world-endpoints/</guid>
+      <description>&lt;p&gt;The high quality capture of real world endpoints is vitally important to the growing use, acceptance, and utility of real world data. This presentation will discuss the opportunities, challenges, and potential remedies to this complex problem.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Bayesian Detection of Potential Safety Signal from Blinded Clinical Trial Data</title>
@@ -363,17 +426,20 @@ In this year’s Spring Symposium, we will discuss efficient Covid-19 vaccine tr
 &lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3160412&amp;amp;sessionid=1&amp;amp;key=1929B8F3F563638562684BBA1B94BEF0&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;5/25/2021: Information Borrowing in Clinical Trials: Methods for Basket Trials and External Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5/25/2021: Information Borrowing in Clinical Trials: Methods for Basket Trials and External Data&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3142848&amp;amp;sessionid=1&amp;amp;key=A9D8F90D859FDD4C0B302215306E5EC9&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;6/1/2021: Review of Adaptive Phase II Basket Trial Designs in East Bayes&lt;/strong&gt;&lt;br&gt;
 &lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3160414&amp;amp;sessionid=1&amp;amp;key=30D8B435E7CB53330197867CB2946152&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;6/8/2021: Leveraging External Control Data for Clinical Trials with Time-to-Event Endpoints&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6/8/2021: Leveraging External Control Data for Clinical Trials with Time-to-Event Endpoints&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3142854&amp;amp;sessionid=1&amp;amp;key=43F18A126FB63CF47D1F98F398672305&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;6/15/2021: Bayesian Inference Using Poisson-Gamma Model Under Non-Proportional Hazards&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6/15/2021: Bayesian Inference Using Poisson-Gamma Model Under Non-Proportional Hazards&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=3160482&amp;amp;sessionid=1&amp;amp;key=E1B11F1518E7962566D16D13EB2C194E&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;6/22/2021: Using Robust Bayesian Priors to Borrow Information from Historical Adult Trials for a Clinical Trial in Pediatric Multiple Sclerosis&lt;/strong&gt;&lt;/p&gt;

@@ -48,13 +48,16 @@ speaker: Peter Thall (M.D. Anderson Cancer Center) | Kyle Wathen (Cytel) | Rajat
 [Replay](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3160412&sessionid=1&key=1929B8F3F563638562684BBA1B94BEF0&regTag=&V2=false&sourcepage=register)
 
 - **5/25/2021: Information Borrowing in Clinical Trials: Methods for Basket Trials and External Data**  
+[Replay](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3142848&sessionid=1&key=A9D8F90D859FDD4C0B302215306E5EC9&regTag=&V2=false&sourcepage=register)
 
 - **6/1/2021: Review of Adaptive Phase II Basket Trial Designs in East Bayes**  
 [Replay](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3160414&sessionid=1&key=30D8B435E7CB53330197867CB2946152&regTag=&V2=false&sourcepage=register)
 
 - **6/8/2021: Leveraging External Control Data for Clinical Trials with Time-to-Event Endpoints**  
+[Replay](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3142854&sessionid=1&key=43F18A126FB63CF47D1F98F398672305&regTag=&V2=false&sourcepage=register)
 
 - **6/15/2021: Bayesian Inference Using Poisson-Gamma Model Under Non-Proportional Hazards**  
+[Replay](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3160482&sessionid=1&key=E1B11F1518E7962566D16D13EB2C194E&regTag=&V2=false&sourcepage=register)
 
 - **6/22/2021: Using Robust Bayesian Priors to Borrow Information from Historical Adult Trials for a Clinical Trial in Pediatric Multiple Sclerosis**  
 

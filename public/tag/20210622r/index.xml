@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210622r/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210622r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jun 2021 07:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210622r/</link>
+    </image>
+    
+    <item>
+      <title>Incorporating R into your Clinical Legacy Workflows</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622incorporating-r-into-your-clinical-legacy-workflows/</link>
+      <pubDate>Tue, 22 Jun 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622incorporating-r-into-your-clinical-legacy-workflows/</guid>
+      <description>&lt;p&gt;What you will learn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How can two enterprise organizations collaborate on open source pharma projects?&lt;/li&gt;
+&lt;li&gt;What are the organizational changes required for adopting open source tooling?&lt;/li&gt;
+&lt;li&gt;How can open source tools augment and improve propriety tooling?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>R in Pharma</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201013r-in-pharma/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201013r-in-pharma/</guid>
+      <description>&lt;p&gt;The 2020 R/Pharma conference was held as a virtual event between October 13th and 15th October. Over 1000 people from 26 countries registered for the main conference. In addition, 11 workshops were held the week before the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
