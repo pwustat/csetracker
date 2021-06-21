@@ -29,6 +29,49 @@
     </item>
     
     <item>
+      <title>IDDI Webinar: Estimands in Oncology – Are We Censoring for the Right Reason?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701iddi-webinar-estimands-in-oncology-are-we-censoring-for-the-right-reason/</link>
+      <pubDate>Thu, 01 Jul 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701iddi-webinar-estimands-in-oncology-are-we-censoring-for-the-right-reason/</guid>
+      <description>&lt;p&gt;The estimands framework, introduced in the ICH E9 (R1) guideline, facilitates discussions during design of clinical trials to ensure alignment between the key scientific question of interest, analysis and interpretation. In the context of oncology solid tumor randomized studies, commonly performed analyses of progression-free survival (PFS) will be reviewed, with a critical eye on which question they address, using the estimands terminology. The estimands framework will not necessarily change common analysis methods within oncology, but will describe in detail how intercurrent events (such as subsequent therapy) will be taken into account and increase transparency on the treatment effect being evaluated.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Literacy in Health Research in the Age of Machine Learning and Artificial Intelligence</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210629statistical-literacy-in-health-research-in-the-age-of-machine-learning-and-artificial-intelligence/</link>
+      <pubDate>Tue, 29 Jun 2021 02:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210629statistical-literacy-in-health-research-in-the-age-of-machine-learning-and-artificial-intelligence/</guid>
+      <description>&lt;p&gt;In recent years there has been rapid growth in the use of machine learning (ML) and artificial intelligence (AI) to analyse the vast amounts of data being generated in all areas of society. ML and AI approaches are increasingly being employed in health research, and sometimes are even explicitly called for by funders. While ML and AI may offer advantages over traditional statistical methods for certain tasks, they tend to use complex algorithms and are often regarded as analytical “black boxes”. Hence these novel methods pose new challenges of statistical literacy for producers and consumers of health research. Such challenges may be compounded by an underlying lack of communication and understanding between the statistics and ML/AI communities. Are statisticians slow to embrace the potential of ML and AI methods, and guilty of trying to protect their role in collaborative research in the face of competition from other fields? Or are they rightly concerned about the fundamentals of robust, reproducible and interpretable research being forgotten in the clamour for applying fashionable methods understood by few? This meeting will explore issues in statistical literacy raised by the growth of ML and AI in health research.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Cure Models - Methods, Applications, and Implementation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210629isi-short-course-cure-models-methods-applications-and-implementation/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210629isi-short-course-cure-models-methods-applications-and-implementation/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €100&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This course will provide a comprehensive introduction to cure models, including basics of the cure models as well as many recent developments related to the methodological issues and software implementations of cure models for right-censored time-to-event data subject to non-informative censoring. The course will feature real-world examples from clinical trials and population-based studies and a detailed introduction to R packages, SAS macros, and WinBUGS programs to fit some cure models. Applications of cure models in other disciplines will be discussed. This course will be useful for statistical researchers and graduate students, and practitioners in other disciplines to have a thorough review of modern cure model methodology and to seek appropriate cure models in applications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Precision Medicine - A Statistical Perspective on Estimating the Best Treatment Strategy </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210628isi-short-course-precision-medicine-a-statistical-perspective-on-estimating-the-best-treatment-strategy/</link>
+      <pubDate>Mon, 28 Jun 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210628isi-short-course-precision-medicine-a-statistical-perspective-on-estimating-the-best-treatment-strategy/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Evidence-based medicine relies on using data to provide recommendations for effective treatment or prevention decisions. However, in many settings, effects may be heterogeneous across individuals, and within individuals over time. Healthcare providers are faced with the daunting task of making sequential therapeutic decisions having seen few patients with a given clinical history. Adaptive treatment strategies (ATS) operationalize the sequential decision-making process in the precision medicine paradigm, offering statisticians principled estimation tools that can be used to incorporate patient’s characteristics into a clinical decision-making framework so as to adapt the type, dosage or timing of intervention according to patients’ evolving needs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yale Summer Course in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210628yale-summer-course-in-clinical-trials/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210628yale-summer-course-in-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Register by June 27; Registration fee: $450&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Participants will gain knowledge of the key components of clinical trials including but not limited to trial phase and design, randomization schemes, selection of outcome and appropriate statistical analysis including sample size and power considerations, ethics, and regulatory affairs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>DIA 2021 Global Annual Meeting</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210627dia-2021-global-annual-meeting/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
@@ -74,9 +117,10 @@
     <item>
       <title>ISI Short Course: Communicating Health Data - The COVID-19 Experience</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210624isi-short-course-communicating-health-data-the-covid-19-experience/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Jun 2021 05:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210624isi-short-course-communicating-health-data-the-covid-19-experience/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Two-day course on June 24 and July 1; Registration fee: €100&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The course  is an  introduction to effectively communicating, to general audiences,  complex statistical modelling and estimation related to Covid-19 data.  The instruction will be at a beginner level. The 6 hours course is split in 2 days and will cover “Basics of effective communication to a general audience” on day 1  and  “Introduction to estimation and  modelling of covid-19 data: prevalence, incidence, epi-curves, transmissibility and reproduction numbers” on day 2.  Classes  will include  stop&amp;amp;go discussion upon broadcasting of video-recorded interviews with experts and professionals  in media monitoring and communication of health data. A student assignment is scheduled at the end of day 1 lessons with feedback on day 2 for shared learning.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -165,7 +209,8 @@ In this presentation, we will discuss some recent developments in machine learni
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210618isi-short-course-bootstrap-methods-and-permutation-tests/</link>
       <pubDate>Fri, 18 Jun 2021 05:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210618isi-short-course-bootstrap-methods-and-permutation-tests/</guid>
-      <description>&lt;p&gt;We begin with a graphical approach to bootstrapping and permutation testing, illuminating basic statistical concepts of standard errors, confidence intervals, p-values and significance tests.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We begin with a graphical approach to bootstrapping and permutation testing, illuminating basic statistical concepts of standard errors, confidence intervals, p-values and significance tests.&lt;/p&gt;
 &lt;p&gt;We consider a variety of statistics (mean, trimmed mean, regression, etc.), and a number of sampling situations (one-sample, two-sample, stratified, finite-population), stressing the common techniques that apply in these situations. We’ll look at applications from a variety of fields, including telecommunications, finance, and biopharm.&lt;/p&gt;
 &lt;p&gt;These methods let us do confidence intervals and hypothesis tests when formulas are not available, so we can do better statistics, e.g. use robust methods like medians, trimmed means, or robust regression. They can help clients understand statistical variability. And some of the methods are more accurate than standard methods.&lt;/p&gt;</description>
     </item>

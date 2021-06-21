@@ -6,7 +6,7 @@ slug: isi-short-course-bootstrap-methods-and-permutation-tests
 categories: []
 tags: []
 type: course
-url_register: ~
+url_register: https://www.isi-web.org/events/courses/short-2021/bootstrap-methods-and-permutation-tests
 url_freeregister: ~
 url_slides: ~
 url_code: ~
@@ -36,6 +36,7 @@ summary: ~
 abstract: ~
 speaker: Tim Hesterberg (Google)
 ---
+<span style="color: salmon;">*Registration fee: €80*</span>
 <!--more-->
 We begin with a graphical approach to bootstrapping and permutation testing, illuminating basic statistical concepts of standard errors, confidence intervals, p-values and significance tests.  
 

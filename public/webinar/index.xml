@@ -5,12 +5,28 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 13:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 08:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>IDDI Webinar: Estimands in Oncology – Are We Censoring for the Right Reason?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701iddi-webinar-estimands-in-oncology-are-we-censoring-for-the-right-reason/</link>
+      <pubDate>Thu, 01 Jul 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701iddi-webinar-estimands-in-oncology-are-we-censoring-for-the-right-reason/</guid>
+      <description>&lt;p&gt;The estimands framework, introduced in the ICH E9 (R1) guideline, facilitates discussions during design of clinical trials to ensure alignment between the key scientific question of interest, analysis and interpretation. In the context of oncology solid tumor randomized studies, commonly performed analyses of progression-free survival (PFS) will be reviewed, with a critical eye on which question they address, using the estimands terminology. The estimands framework will not necessarily change common analysis methods within oncology, but will describe in detail how intercurrent events (such as subsequent therapy) will be taken into account and increase transparency on the treatment effect being evaluated.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Literacy in Health Research in the Age of Machine Learning and Artificial Intelligence</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210629statistical-literacy-in-health-research-in-the-age-of-machine-learning-and-artificial-intelligence/</link>
+      <pubDate>Tue, 29 Jun 2021 02:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210629statistical-literacy-in-health-research-in-the-age-of-machine-learning-and-artificial-intelligence/</guid>
+      <description>&lt;p&gt;In recent years there has been rapid growth in the use of machine learning (ML) and artificial intelligence (AI) to analyse the vast amounts of data being generated in all areas of society. ML and AI approaches are increasingly being employed in health research, and sometimes are even explicitly called for by funders. While ML and AI may offer advantages over traditional statistical methods for certain tasks, they tend to use complex algorithms and are often regarded as analytical “black boxes”. Hence these novel methods pose new challenges of statistical literacy for producers and consumers of health research. Such challenges may be compounded by an underlying lack of communication and understanding between the statistics and ML/AI communities. Are statisticians slow to embrace the potential of ML and AI methods, and guilty of trying to protect their role in collaborative research in the face of competition from other fields? Or are they rightly concerned about the fundamentals of robust, reproducible and interpretable research being forgotten in the clamour for applying fashionable methods understood by few? This meeting will explore issues in statistical literacy raised by the growth of ML and AI in health research.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Airborne Transmission of the Virus SARS-CoV-2</title>
