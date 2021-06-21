@@ -10,7 +10,7 @@ tags:
 type: webinar
 url_register: ~
 url_freeregister: ~
-url_slides: ./DACTPerM_Chuanwu Zhang_06082021_Final.pptx
+url_slides: slides/DACTPerM_Chuanwu Zhang_06082021_Final.pptx
 url_video: no
 url_agenda: ~
 url_website: ~

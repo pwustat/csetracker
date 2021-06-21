@@ -10,7 +10,7 @@ tags:
 type: webinar
 url_register: ~
 url_freeregister: https://members.psiweb.org/Core_Content_PSI/Events/Event_Display.aspx?EventKey=248
-url_slides: ./2021-06-02-20210601_clin_eng.pdf
+url_slides: slides/2021-06-02-20210601_clin_eng.pdf
 url_video: https://www.psiweb.org/vod/item/psi-eiwg-webinar-estimands-in-oncology---how-and-why
 url_agenda: ~
 url_website: https://www.psiweb.org/events/event-item/2021/06/01/default-calendar/psi-eiwg-webinar-estimands-in-oncology---how-and-why
