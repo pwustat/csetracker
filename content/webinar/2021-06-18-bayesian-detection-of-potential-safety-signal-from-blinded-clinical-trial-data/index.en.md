@@ -12,7 +12,7 @@ url_freeregister: ~
 url_slides: ~
 url_video: no
 url_agenda: ~
-url_website: www.bayesianscientific.org/kol-lecture-series
+url_website: http://www.bayesianscientific.org/kol-lecture-series/
 url_audio: ~
 url_code: ~
 url_pdf: ~
