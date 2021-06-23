@@ -5,12 +5,65 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>2021 Women in Statistics and Data Science Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202110062021-women-in-statistics-and-data-science-conference/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202110062021-women-in-statistics-and-data-science-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: August 19, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The 2021 Women in Statistics and Data Science Conference aims to bring together hundreds of statistical practitioners and data scientists. WSDS 2021 will highlight the achievements and career interests of women in statistics and data science. Senior, mid-level, and junior stars representing industrial, academic, and government communities will unite to present their life’s work and share their perspectives on the role of women in today’s statistics and data science fields. Through formal sessions and informal networking opportunities, the conference will empower and challenge women statisticians and biostatisticians to do the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Share knowledge by offering technical talks about important, modern, and cutting-edge research&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Build community by encouraging discussions establishing fruitful multi-disciplinary collaborations, supporting mentoring relationships, and sharing strategies for resolving problems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grow influence by providing advice for establishing and sustaining successful careers, showcasing the accomplishments of successful women professionals, and supporting the development of leadership skills&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: August 16, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association.&lt;/p&gt;
+&lt;p&gt;Each year, the conference lasts three days, with invited sessions co-chaired by statisticians from industry, academia, and the FDA and short courses on related topics offered the first day of the workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Global Clinical Trial Disclosure and Data Transparency Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 22, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Learn about the latest requirements in clinical trial disclosure and data transparency, share best practices, and engage in in-depth discussions on hot topics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss best practices to achieve good compliance&lt;/li&gt;
+&lt;li&gt;Assess the operational challenges and considerations in executing Innovative Trial Designs&lt;/li&gt;
+&lt;li&gt;Discuss the interplay between clinical data disclosure and transparency requirements&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ICSA 2021 Applied Statistics Symposium</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210912icsa-2021-applied-statistics-symposium/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210912icsa-2021-applied-statistics-symposium/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 15, 2021; Member $100, Non-Member $130&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This will be the 30th annual symposium for the International Chinese Statistical Association (ICSA). The theme of this year’s conference is Leading with Statistics and Innovation.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2021 Joint Statistical Meetings (JSM)</title>
@@ -21,11 +74,61 @@
     </item>
     
     <item>
+      <title>ASA Traveling Course: Introduction to Data Science,  Machine Learning and Deep Learning (in R and Python)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210806asa-traveling-course-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
+      <pubDate>Fri, 06 Aug 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210806asa-traveling-course-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
+      <description>&lt;p&gt;This short course will provide an overview of using R and Python for some of the most popular machine learning and deep learning models in real-world data science applications in the cloud environment. The sessions will step through the basic theoretical concepts behind those models and mainly focus on applications. Students will learn the motivation and use cases of these models through hands-on exercises.&lt;/p&gt;
+&lt;p&gt;The main topics of the course include: big data cloud environment, tree-based models, regularization methods, feedforward neural network, convolutional neural network, and recurrent neural network.&lt;/p&gt;
+&lt;p&gt;The course syllabus, program, and materials are available on the website &lt;a href=&#34;https://course2021.scientistcafe.com/&#34;&gt;https://course2021.scientistcafe.com/&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021 SIAM (Society for Industrial and Applied Mathematics) Annual Meeting (AN21)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107192021-siam-society-for-industrial-and-applied-mathematics-annual-meeting-an21/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107192021-siam-society-for-industrial-and-applied-mathematics-annual-meeting-an21/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 5, 2021; Member $175, Non-Member $315&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2021 UW Biostatistics Online Summer Institutes</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jun 18, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI Journal Club: The Use of External Controls in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210706psi-journal-club-the-use-of-external-controls-in-clinical-trials/</link>
+      <pubDate>Tue, 06 Jul 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210706psi-journal-club-the-use-of-external-controls-in-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Chris Harbron (Roche):&lt;/strong&gt; &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2120&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The use of external controls: To what extent can it currently be recommended?&lt;/a&gt;&lt;br&gt;
+Authors: Hans Ulrich Burger, Christoph Gerlinger, Chris Harbron, Armin Koch, Martin Posch, Justine Rochon and Anja Schiel
+Pharmaceutical Statistics. 20 21;1– 15&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Margaret Gamalo (Pfizer):&lt;/strong&gt; &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pst.1879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Propensity score matched augmented controls in randomized clinical trials: A case study&lt;/a&gt;&lt;br&gt;
+Authors: Junjing Lin, Margaret Gamalo‐Siebers and Ram Tiwari
+Pharmaceutical Statistics. 2018;17: 629–647&lt;/p&gt;
+&lt;p&gt;For each of these published papers there will be a 20 minute presentation by the author followed by a 10 minute discussion.&lt;/p&gt;
+&lt;p&gt;Papers will be made available to view prior to the meeting and presentation slides will be available a week before the JC. Journal subscribers can access papers at any time.  Audio recordings will be available shortly after the JC to download from the PSI website.&lt;/p&gt;
+&lt;p&gt;The meetings are open to both PSI and non-PSI members.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>useR! 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210705user-2021/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210705user-2021/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration Deadline: June 25, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data for AI - Patient Safety, Laboratory Interoperability, and SHIELD </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701data-for-ai-patient-safety-laboratory-interoperability-and-shield/</link>
+      <pubDate>Thu, 01 Jul 2021 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701data-for-ai-patient-safety-laboratory-interoperability-and-shield/</guid>
+      <description>&lt;p&gt;Laboratory data is critical to patient safety and essential for a wide variety of uses from public health surveillance to research.  Despite the fact that laboratory data has been digitalized for decades, aggregation is difficult because of problems with semantic interoperability. SHIELD (Systemic Harmonization and Interoperability Enhancement for Lab Data) is a public-private partner with over 70 partners devoted to establishing a national system for “describing the same test the same way, every time.”  Gregory will set out current barriers to laboratory interoperability and the SHIELD Strategic Planning Effort that is currently underway.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -5,12 +5,65 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
     </image>
+    
+    <item>
+      <title>2021 Women in Statistics and Data Science Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202110062021-women-in-statistics-and-data-science-conference/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202110062021-women-in-statistics-and-data-science-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: August 19, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The 2021 Women in Statistics and Data Science Conference aims to bring together hundreds of statistical practitioners and data scientists. WSDS 2021 will highlight the achievements and career interests of women in statistics and data science. Senior, mid-level, and junior stars representing industrial, academic, and government communities will unite to present their life’s work and share their perspectives on the role of women in today’s statistics and data science fields. Through formal sessions and informal networking opportunities, the conference will empower and challenge women statisticians and biostatisticians to do the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Share knowledge by offering technical talks about important, modern, and cutting-edge research&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Build community by encouraging discussions establishing fruitful multi-disciplinary collaborations, supporting mentoring relationships, and sharing strategies for resolving problems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grow influence by providing advice for establishing and sustaining successful careers, showcasing the accomplishments of successful women professionals, and supporting the development of leadership skills&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: August 16, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association.&lt;/p&gt;
+&lt;p&gt;Each year, the conference lasts three days, with invited sessions co-chaired by statisticians from industry, academia, and the FDA and short courses on related topics offered the first day of the workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Global Clinical Trial Disclosure and Data Transparency Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 22, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Learn about the latest requirements in clinical trial disclosure and data transparency, share best practices, and engage in in-depth discussions on hot topics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss best practices to achieve good compliance&lt;/li&gt;
+&lt;li&gt;Assess the operational challenges and considerations in executing Innovative Trial Designs&lt;/li&gt;
+&lt;li&gt;Discuss the interplay between clinical data disclosure and transparency requirements&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ICSA 2021 Applied Statistics Symposium</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210912icsa-2021-applied-statistics-symposium/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210912icsa-2021-applied-statistics-symposium/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 15, 2021; Member $100, Non-Member $130&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This will be the 30th annual symposium for the International Chinese Statistical Association (ICSA). The theme of this year’s conference is Leading with Statistics and Innovation.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2021 Joint Statistical Meetings (JSM)</title>
@@ -21,11 +74,27 @@
     </item>
     
     <item>
+      <title>2021 SIAM (Society for Industrial and Applied Mathematics) Annual Meeting (AN21)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107192021-siam-society-for-industrial-and-applied-mathematics-annual-meeting-an21/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107192021-siam-society-for-industrial-and-applied-mathematics-annual-meeting-an21/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 5, 2021; Member $175, Non-Member $315&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2021 UW Biostatistics Online Summer Institutes</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jun 18, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>useR! 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210705user-2021/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210705user-2021/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration Deadline: June 25, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

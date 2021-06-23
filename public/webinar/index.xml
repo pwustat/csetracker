@@ -5,12 +5,36 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 08:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 08:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>PSI Journal Club: The Use of External Controls in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210706psi-journal-club-the-use-of-external-controls-in-clinical-trials/</link>
+      <pubDate>Tue, 06 Jul 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210706psi-journal-club-the-use-of-external-controls-in-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Chris Harbron (Roche):&lt;/strong&gt; &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2120&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The use of external controls: To what extent can it currently be recommended?&lt;/a&gt;&lt;br&gt;
+Authors: Hans Ulrich Burger, Christoph Gerlinger, Chris Harbron, Armin Koch, Martin Posch, Justine Rochon and Anja Schiel
+Pharmaceutical Statistics. 20 21;1– 15&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Margaret Gamalo (Pfizer):&lt;/strong&gt; &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pst.1879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Propensity score matched augmented controls in randomized clinical trials: A case study&lt;/a&gt;&lt;br&gt;
+Authors: Junjing Lin, Margaret Gamalo‐Siebers and Ram Tiwari
+Pharmaceutical Statistics. 2018;17: 629–647&lt;/p&gt;
+&lt;p&gt;For each of these published papers there will be a 20 minute presentation by the author followed by a 10 minute discussion.&lt;/p&gt;
+&lt;p&gt;Papers will be made available to view prior to the meeting and presentation slides will be available a week before the JC. Journal subscribers can access papers at any time.  Audio recordings will be available shortly after the JC to download from the PSI website.&lt;/p&gt;
+&lt;p&gt;The meetings are open to both PSI and non-PSI members.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data for AI - Patient Safety, Laboratory Interoperability, and SHIELD </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701data-for-ai-patient-safety-laboratory-interoperability-and-shield/</link>
+      <pubDate>Thu, 01 Jul 2021 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701data-for-ai-patient-safety-laboratory-interoperability-and-shield/</guid>
+      <description>&lt;p&gt;Laboratory data is critical to patient safety and essential for a wide variety of uses from public health surveillance to research.  Despite the fact that laboratory data has been digitalized for decades, aggregation is difficult because of problems with semantic interoperability. SHIELD (Systemic Harmonization and Interoperability Enhancement for Lab Data) is a public-private partner with over 70 partners devoted to establishing a national system for “describing the same test the same way, every time.”  Gregory will set out current barriers to laboratory interoperability and the SHIELD Strategic Planning Effort that is currently underway.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>IDDI Webinar: Estimands in Oncology – Are We Censoring for the Right Reason?</title>
