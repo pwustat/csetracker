@@ -13,7 +13,7 @@ url_pdf: ~
 url_video: ~
 url_website: ~
 url_agenda: ~
-location: ~
+location: Virtual
 address:
   street: ~
   city: ~

@@ -34,7 +34,7 @@ projects: []
 summary: ~
 abstract: ~
 ---
-<span style="color: salmon;">*Early registration Deadline: July 15, 2021; Member $100, Non-Member $130*</span>
+<span style="color: salmon;">*Early registration Deadline: July 15, 2021; Member $100, Nonmember $130*</span>
 
 <!--more-->
 This will be the 30th annual symposium for the International Chinese Statistical Association (ICSA). The theme of this year’s conference is Leading with Statistics and Innovation.

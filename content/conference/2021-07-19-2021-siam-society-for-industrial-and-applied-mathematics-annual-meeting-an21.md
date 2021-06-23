@@ -34,6 +34,6 @@ projects: []
 summary: ~
 abstract: ~
 ---
-<span style="color: salmon;">*Early registration Deadline: July 5, 2021; Member $175, Non-Member $315*</span>
+<span style="color: salmon;">*Early registration Deadline: July 5, 2021; Member $175, Nonmember $315*</span>
 
 <!--more-->

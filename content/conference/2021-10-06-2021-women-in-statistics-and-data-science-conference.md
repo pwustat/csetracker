@@ -34,7 +34,7 @@ projects: []
 summary: ~
 abstract: ~
 ---
-<span style="color: salmon;">*Early registration Deadline: August 19, 2021*</span>
+<span style="color: salmon;">*Early registration Deadline: August 19, 2021; ASA member $335, Nonmember $435*</span>
 
 <!--more-->
 The 2021 Women in Statistics and Data Science Conference aims to bring together hundreds of statistical practitioners and data scientists. WSDS 2021 will highlight the achievements and career interests of women in statistics and data science. Senior, mid-level, and junior stars representing industrial, academic, and government communities will unite to present their life’s work and share their perspectives on the role of women in today’s statistics and data science fields. Through formal sessions and informal networking opportunities, the conference will empower and challenge women statisticians and biostatisticians to do the following:  
