@@ -23,7 +23,7 @@ address:
   postcode: ~
   country: ~
 date_end: '2021-08-06T13:30:00-07:00'
-all_day: yes
+all_day: no
 publishDate: '2021-06-23T12:53:57-07:00'
 authors: []
 featured: no
@@ -37,6 +37,7 @@ summary: ~
 abstract: ~
 speaker: Hui Lin (Google) | Ming Li (Amazon)
 ---
+<span style="color: salmon;">*Registration fee: $35*</span>
 <!--more-->
 This short course will provide an overview of using R and Python for some of the most popular machine learning and deep learning models in real-world data science applications in the cloud environment. The sessions will step through the basic theoretical concepts behind those models and mainly focus on applications. Students will learn the motivation and use cases of these models through hands-on exercises.   
 

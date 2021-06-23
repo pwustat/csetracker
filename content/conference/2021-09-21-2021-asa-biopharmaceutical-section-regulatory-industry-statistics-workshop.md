@@ -34,7 +34,7 @@ projects: []
 summary: ~
 abstract: ~
 ---
-<span style="color: salmon;">*Early registration Deadline: August 16, 2021*</span>
+<span style="color: salmon;">*Early registration Deadline: August 16, 2021; ASA BIOP Member $225, Non-Member $300*</span>
 
 <!--more-->
 The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association.  
