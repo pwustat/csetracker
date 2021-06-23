@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.cytel.com/bayesian-webinar-series-registration
 url_slides: ~
-url_video: no
+url_video: https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3160486&sessionid=1&key=522EAB17335B161429D25A61CEECB6C2&regTag=&V2=false&sourcepage=register
 url_agenda: ~
 url_website: ~
 url_audio: ~
