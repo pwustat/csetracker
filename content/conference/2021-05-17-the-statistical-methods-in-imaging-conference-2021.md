@@ -4,7 +4,6 @@ author: ''
 date: '2021-05-17'
 slug: the-statistical-methods-in-imaging-conference-2021
 categories:
-  - Statistics
 tags:
   - Imaging
 type: conference

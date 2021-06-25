@@ -53,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</loc>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/202107072021-uw-biostatistics-online-summer-institutes/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -290,11 +290,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20210615isi-short-course-introduction-to-machine-learning/</loc>
     <lastmod>2021-06-15T05:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202106132021-wnar-annual-meeting/</loc>
-    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -548,11 +543,6 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210517statistics/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
@@ -718,7 +708,7 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</loc>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -839,6 +829,11 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210325sample-size-re-estimation/</loc>
+    <lastmod>2021-03-25T09:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210325statistics/</loc>
     <lastmod>2021-03-25T09:00:00-08:00</lastmod>
   </url>
   
@@ -1153,7 +1148,7 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</loc>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   

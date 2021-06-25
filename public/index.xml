@@ -94,9 +94,9 @@
     
     <item>
       <title>2021 UW Biostatistics Online Summer Institutes</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/202107072021-uw-biostatistics-online-summer-institutes/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107072021-uw-biostatistics-online-summer-institutes/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/202107072021-uw-biostatistics-online-summer-institutes/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jun 18, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
@@ -423,14 +423,6 @@ In this presentation, we will discuss some recent developments in machine learni
       <pubDate>Tue, 15 Jun 2021 05:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210615isi-short-course-introduction-to-machine-learning/</guid>
       <description>&lt;p&gt;This course describes nonparametric regression, including the additive model and its generalizations, also the LASSO, and LARS.  Then it proceeds to classification (SVMs, random forests, boosting). The Curse of Dimensionality is described in both contexts.  Bagging and stacking are covered. There is some coverage of cluster analysis, and some text analytics.  The emphasis is upon the strengths and weaknesses of the tools, and guidance on when a particular method should be used.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2021 WNAR Annual Meeting</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106132021-wnar-annual-meeting/</link>
-      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106132021-wnar-annual-meeting/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1135,9 +1127,9 @@ d. Generalization: Convergence rates of DNNs for different regression and classi
     
     <item>
       <title>13th Annual University of Pennsylvania Conference on Statistical Issues in Clinical Trials</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Presentation slides can be downloaded from the website&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
@@ -1899,9 +1891,9 @@ November 9, 2020&lt;br&gt;
     
     <item>
       <title>Annual Real World Evidence Conference: Applying Lessons Learned from RWE in the Time of COVID-19 to the Future</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</link>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future/</guid>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference/</guid>
       <description>&lt;p&gt;COVID-19 has disrupted the evidence-generation paradigm, resulting in the expanded use of novel technologies, data, and evidence. These new advancements not only improve clinical care and medical product development to fight the pandemic, but also have the potential to inform the future of drug development more broadly. This meeting will explore how COVID-19 has accelerated decision-maker understanding and use of real-world data (RWD) and real-world evidence (RWE) and its application in a post-COVID-19 environment.&lt;/p&gt;
 </description>
     </item>

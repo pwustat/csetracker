@@ -2,14 +2,9 @@
 title: 'Annual Real World Evidence Conference: Applying Lessons Learned from RWE in the Time of COVID-19 to the Future'
 author: ''
 date: '2020-10-01'
-slug: annual-real-world-evidence-conference-applying-lessons-learned-from-rwe-in-the-time-of-covid-19-to-the-future
+slug: annual-real-world-evidence-conference
 categories:
-  - Real-World Evidence
 tags:
-  - COVID-19
-  - RWE
-  - Real-World Evidence
-  - Duke-Margolis
 type: conference
 register: ~
 register_url: ~

@@ -3,9 +3,8 @@ title: 13th Annual University of Pennsylvania Conference on Statistical Issues i
   Clinical Trials
 author: ''
 date: '2021-04-12'
-slug: 13th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials
+slug: 13th-annual-university-of-pennsylvania-conference-on-statistical-issues
 categories:
-  - Clinical Trial
 tags: []
 type: conference
 url_register: https://upenn.irisregistration.com/Site/SICT2021
