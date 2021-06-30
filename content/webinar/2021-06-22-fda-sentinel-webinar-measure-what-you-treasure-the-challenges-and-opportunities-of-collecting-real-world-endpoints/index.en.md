@@ -8,9 +8,9 @@ tags:
   - Real-World Evidence
 type: webinar
 url_register: ~
-url_freeregister: https://partners.zoom.us/webinar/register/WN_6IbTzFYaQ6C0FGOXg3o9FQ
-url_slides: ~
-url_video: no
+url_freeregister: 
+url_slides: slides\Sentinel_Presentation_RealWorldEndpoints.pdf
+url_video: https://www.youtube.com/watch?v=7Gq0RKI0mVA
 url_agenda: ~
 url_website: ~
 url_audio: ~

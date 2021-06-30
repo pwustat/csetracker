@@ -8,9 +8,9 @@ tags:
   - R
 type: webinar
 url_register: ~
-url_freeregister: https://www.rstudio.com/registration/incorporating-r-into-your-clinical-legacy-workflows/
+url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.rstudio.com/resources/webinars/incorporating-r-into-your-clinical-legacy-workflows/
 url_agenda: ~
 url_website: ~
 url_audio: ~

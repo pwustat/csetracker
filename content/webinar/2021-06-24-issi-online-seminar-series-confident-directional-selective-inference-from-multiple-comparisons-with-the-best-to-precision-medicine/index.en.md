@@ -11,7 +11,7 @@ url_register: ~
 url_freeregister: ~
 url_dial: https://www.google.com/url?q=https%3A%2F%2Fberkeley.zoom.us%2Fj%2F99278296389&sa=D&sntz=1&usg=AFQjCNFv11cMURerto1Q_AOGh0vyntHaNg
 url_slides: ~
-url_video: no
+url_video: https://drive.google.com/file/d/1cCUis_4q5xuQ9QO0_NyC1l7dXFGeNbTJ/view
 url_agenda: ~
 url_website: https://sites.google.com/view/selective-inference-seminar
 url_audio: ~

@@ -18,6 +18,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+url_video: https://phastar.com/events/phastar-knowledge-center
 url_freeregister: https://www.eventbrite.co.uk/e/phastar-life-science-summit-tickets-141362445881
 url_website: https://phastar.com/events/virtual-life-science-summit-2021
 url_agenda: https://phastar.com/life-science-summit-agenda
