@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.niss.org/events/webinar-series-mathematical-foundations-data-science-40
 url_slides: ~
-url_video: no
+url_video: https://psu.zoom.us/rec/play/dBdTOcfk_AMsXm1DxruJWIt5DOtXFjT8-9OoXpqzh3yzyf3jn-o80JEogfKpAreaZmccU-PW3w5m54rk.qpJ6td5U-i2icP04?startTime=1624027774000&_x_zm_rtaid=eoPyP2lKSL-jDXuFcgbMqw.1625077068656.20e0eb31ca631ba047046fc89df2f2ee&_x_zm_rhtaid=660
 url_agenda: ~
 url_website: ~
 url_audio: ~

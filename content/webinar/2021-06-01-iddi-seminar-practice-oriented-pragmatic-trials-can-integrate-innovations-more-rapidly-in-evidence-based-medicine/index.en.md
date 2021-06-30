@@ -1,6 +1,5 @@
 ---
-title: 'IDDI Seminar: Practice-Oriented Pragmatic Trials can Integrate Innovations
-  More Rapidly in Evidence-Based Medicine'
+title: 'IDDI Seminar: Practice-Oriented Pragmatic Trials can Integrate Innovations More Rapidly in Evidence-Based Medicine'
 author: ''
 date: '2021-06-01T08:00:00-07:00'
 slug: iddi-seminar-practice-oriented-pragmatic-trials-can-integrate-innovations-more-rapidly-in-evidence-based-medicine
@@ -8,11 +7,11 @@ categories: []
 tags: []
 type: webinar
 url_register: ~
-url_freeregister: https://register.gotowebinar.com/register/4811519373015043853
+url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.iddi.com/resources/scientific-webinars/practice-oriented-pragmatic-trials-can-integrate-innovations-more-rapidly-in-evidence-based-medicine/
 url_agenda: ~
-url_website: https://www.iddi.com/resources/scientific-webinars/practice-oriented-pragmatic-trials-can-integrate-innovations-more-rapidly-in-evidence-based-medicine/
+url_website: ~
 url_audio: ~
 url_code: ~
 url_pdf: ~

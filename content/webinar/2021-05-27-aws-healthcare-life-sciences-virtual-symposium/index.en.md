@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://pages.awscloud.com/NAMER-field-IND-HCLS-Virtual-Symposium-2021-reg-event.html?nc1=h_ls
 url_slides: ~
-url_video: no
+url_video: https://healthcare-resources.awscloud.com/healthcare-life-sciences-virtual-symposium-2021-on-demand
 url_agenda: ~
 url_website: ~
 url_audio: ~

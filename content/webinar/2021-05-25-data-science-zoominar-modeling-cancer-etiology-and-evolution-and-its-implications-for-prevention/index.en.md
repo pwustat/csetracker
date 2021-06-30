@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://dfci.zoom.us/webinar/register/WN_2mDLKG6EQyOptNC_IKN5Yg
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=b93rlZOoFMs
 url_agenda: ~
 url_website: https://ds.dfci.harvard.edu/event/data-science-zoominar-mathematical-modeling-and-cancer-prevention/
 url_audio: ~
