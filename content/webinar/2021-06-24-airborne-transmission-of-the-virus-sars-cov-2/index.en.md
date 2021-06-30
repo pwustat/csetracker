@@ -9,7 +9,7 @@ tags:
 type: webinar
 url_register: ~
 url_freeregister: https://psu.zoom.us/webinar/register/WN_jsrhbC5ESi-5przgjOZnlA
-url_slides: slides\COPSS NISS June 2021_LM.pdf
+url_slides: https://www.niss.org/sites/default/files/COPSS%20NISS%20June%202021_LM.pdf
 url_video: https://www.youtube.com/watch?v=7fSS32qtJZU
 url_agenda: ~
 url_website: https://www.niss.org/news/details-discussed-concerning-airborne-nature-covid-19-spread-infection%C2%A0

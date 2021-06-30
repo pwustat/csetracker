@@ -1,5 +1,5 @@
 ---
-title: 'FDA Sentinel Webinar: Measure What You Treasure – The Challenges and Opportunities of Collecting Real World Endpoints '
+title: 'FDA Sentinel Webinar: Measure What You Treasure - The Challenges and Opportunities of Collecting Real World Endpoints '
 author: ''
 date: '2021-06-22'
 slug: fda-sentinel-webinar-measure-what-you-treasure-the-challenges-and-opportunities-of-collecting-real-world-endpoints
@@ -9,10 +9,10 @@ tags:
 type: webinar
 url_register: ~
 url_freeregister: 
-url_slides: slides\Sentinel_Presentation_RealWorldEndpoints.pdf
+url_slides: https://www.sentinelinitiative.org/sites/default/files/documents/Sentinel_Presentation_RealWorldEndpoints.pdf
 url_video: https://www.youtube.com/watch?v=7Gq0RKI0mVA
 url_agenda: ~
-url_website: ~
+url_website: https://www.sentinelinitiative.org/news-events/meetings-workshops-trainings/measure-what-you-treasure-challenges-and-opportunities
 url_audio: ~
 url_code: ~
 url_pdf: ~
