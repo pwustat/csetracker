@@ -7,9 +7,9 @@ categories: []
 tags: []
 type: webinar
 url_register: ~
-url_freeregister: https://zoom.us/webinar/register/WN_MLOqHopFSoWYgceT711yTQ
+url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.psiweb.org/vod/item/psi-journal-club-webinar-the-use-of-external-controls-in-clinical-trials
 url_agenda: ~
 url_website: https://psiweb.org/events/event-item/2021/07/06/default-calendar/psi-journal-club-the-use-of-external-controls-in-clinical-trials
 url_audio: ~

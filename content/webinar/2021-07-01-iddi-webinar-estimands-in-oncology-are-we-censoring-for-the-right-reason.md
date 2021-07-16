@@ -7,9 +7,9 @@ categories: []
 tags: []
 type: webinar
 url_register: ~
-url_freeregister: https://register.gotowebinar.com/register/7212909943410971919
+url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=ezoyo7W0iYc
 url_agenda: ~
 url_website: https://www.iddi.com/resources/scientific-webinars/estimands/
 url_audio: ~

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Master Protocol | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210805master-protocol/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210805master-protocol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Master Protocol</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 09:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Master Protocol</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210805master-protocol/</link>
+    </image>
+    
+    <item>
+      <title>A Bayesian phase I/II platform design for co-developing drug combination therapies for multiple indications</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210805a-bayesian-phase-i-ii-platform-design-for-co-developing-drug-combination-therapies-for-multiple-indications/</link>
+      <pubDate>Thu, 05 Aug 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210805a-bayesian-phase-i-ii-platform-design-for-co-developing-drug-combination-therapies-for-multiple-indications/</guid>
+      <description>&lt;p&gt;It is increasingly common to combine a new targeted or immunotherapy agent with the cancer-specific standard of care to treat different types of cancers. We propose a master-protocol-based, Bayesian phase I/II platform design to co-develop combination (BPCC) therapies in multiple cancers. Under the BPCC design, only a single master protocol is needed, and the drug is evaluated in different cancers in a concurrent or staggered fashion. For each cancer, we jointly model dose-toxicity and -efficacy relationships and employ Bayesian hierarchical models to borrow information across them for more efficient cancer-specific decision making. To account for the characteristic of targeted or immunotherapy agents that their efficacy may not monotonically increase with the dose, and often plateau at high doses, we use the utility to quantify the risk-benefit tradeoff of the treatment. At each interim, we update the toxicity and efficacy model, as well as the estimate of the utility, based on the observed data across cancers to inform the cancer-specific decision of dose escalation and de-escalation and identify the optimal biological dose for each cancer. Simulation study shows that the BPCC design has desirable operating characteristics, and that it provides an efficient approach to accelerate the development of combination therapies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Advancing Early Stage Oncology Research with Adaptive Designs and Master Protocols</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200929advancing-early-stage-oncology-research-with-adaptive-designs-and-master-protocols/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200929advancing-early-stage-oncology-research-with-adaptive-designs-and-master-protocols/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Improved determination of the maximum tolerated dose, comparing different designs for dose selection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Advantages of basket trial design for finding the most appropriate indication(s)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Current regulatory positions and outlook of the International Council for Harmonization of Technical Requirements for Pharmaceuticals for Human use (ICH)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Operational implications of different designs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

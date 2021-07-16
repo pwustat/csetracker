@@ -5,12 +5,28 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 08:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 09:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>A Bayesian phase I/II platform design for co-developing drug combination therapies for multiple indications</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210805a-bayesian-phase-i-ii-platform-design-for-co-developing-drug-combination-therapies-for-multiple-indications/</link>
+      <pubDate>Thu, 05 Aug 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210805a-bayesian-phase-i-ii-platform-design-for-co-developing-drug-combination-therapies-for-multiple-indications/</guid>
+      <description>&lt;p&gt;It is increasingly common to combine a new targeted or immunotherapy agent with the cancer-specific standard of care to treat different types of cancers. We propose a master-protocol-based, Bayesian phase I/II platform design to co-develop combination (BPCC) therapies in multiple cancers. Under the BPCC design, only a single master protocol is needed, and the drug is evaluated in different cancers in a concurrent or staggered fashion. For each cancer, we jointly model dose-toxicity and -efficacy relationships and employ Bayesian hierarchical models to borrow information across them for more efficient cancer-specific decision making. To account for the characteristic of targeted or immunotherapy agents that their efficacy may not monotonically increase with the dose, and often plateau at high doses, we use the utility to quantify the risk-benefit tradeoff of the treatment. At each interim, we update the toxicity and efficacy model, as well as the estimate of the utility, based on the observed data across cancers to inform the cancer-specific decision of dose escalation and de-escalation and identify the optimal biological dose for each cancer. Simulation study shows that the BPCC design has desirable operating characteristics, and that it provides an efficient approach to accelerate the development of combination therapies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Understanding hypothetical strategies and defining the clinical question of interest</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723understanding-hypothetical-strategies-and-defining-the-clinical-question-of-interest/</link>
+      <pubDate>Fri, 23 Jul 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723understanding-hypothetical-strategies-and-defining-the-clinical-question-of-interest/</guid>
+      <description>&lt;p&gt;More and more clinical trials have started adopting the estimand framework in protocols after the release of the ICH E9(R1) &amp;ldquo;Addendum on Estimands and Sensitivity Analysis in Clinical Trials&amp;rdquo;.  However, there is currently still a lack of clarity on the role of hypothetical strategies. The addendum recognizes that &amp;ldquo;when using the hypothetical strategy, some conditions are likely to be more acceptable for regulatory decision making than others&amp;rdquo;. However, it is still unclear as to what constitutes &amp;ldquo;acceptable hypothetical conditions&amp;rdquo; which could lead to an interpretable treatment effect.  Therefore, it is of great interest to have a diverse group of experts take a deep dive into this topic and help shed light on considerations of hypothetical strategies relevant to the clinical question of interest.  In this webinar, we will have speakers from regulatory agencies and industry to share their perspectives on this interesting topic and also participate in a panel-discussion.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>PSI Journal Club: The Use of External Controls in Clinical Trials</title>
