@@ -93,11 +93,35 @@
     </item>
     
     <item>
+      <title>Applying Operations Research Methods to Trial Design Selection</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210804applying-operations-research-methods-to-trial-design-selection/</link>
+      <pubDate>Wed, 04 Aug 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210804applying-operations-research-methods-to-trial-design-selection/</guid>
+      <description>&lt;p&gt;Nitin will show that Pareto Optimality, a simple and intuitive concept for partial ordering, is very effective in sifting through results of a large number of trial design simulations to identify a set of designs that collectively dominate all other designs for the three criteria of power, cost and duration in an oncology Ph3 trial design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scoring Functions: A New Approach to Trial Design Optimization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210728scoring-functions-a-new-approach-to-trial-design-optimization/</link>
+      <pubDate>Wed, 28 Jul 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210728scoring-functions-a-new-approach-to-trial-design-optimization/</guid>
+      <description>&lt;p&gt;The presentation describes a logical scoring algorithm, as implemented in the new clinical trial simulation software Solara and illustrates its use in facilitating the selection of an optimal study design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Understanding hypothetical strategies and defining the clinical question of interest</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723understanding-hypothetical-strategies-and-defining-the-clinical-question-of-interest/</link>
       <pubDate>Fri, 23 Jul 2021 07:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723understanding-hypothetical-strategies-and-defining-the-clinical-question-of-interest/</guid>
       <description>&lt;p&gt;More and more clinical trials have started adopting the estimand framework in protocols after the release of the ICH E9(R1) &amp;ldquo;Addendum on Estimands and Sensitivity Analysis in Clinical Trials&amp;rdquo;.  However, there is currently still a lack of clarity on the role of hypothetical strategies. The addendum recognizes that &amp;ldquo;when using the hypothetical strategy, some conditions are likely to be more acceptable for regulatory decision making than others&amp;rdquo;. However, it is still unclear as to what constitutes &amp;ldquo;acceptable hypothetical conditions&amp;rdquo; which could lead to an interpretable treatment effect.  Therefore, it is of great interest to have a diverse group of experts take a deep dive into this topic and help shed light on considerations of hypothetical strategies relevant to the clinical question of interest.  In this webinar, we will have speakers from regulatory agencies and industry to share their perspectives on this interesting topic and also participate in a panel-discussion.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Promising Zone Designs for Return on Investment</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210721optimizing-promising-zone-designs-for-return-on-investment/</link>
+      <pubDate>Wed, 21 Jul 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210721optimizing-promising-zone-designs-for-return-on-investment/</guid>
+      <description>&lt;p&gt;The Constraint Promising Zone (CPZ) design, a new innovation on the promising zone design. The CPZ is a design that is easy to implement, and easy for all stakeholders to understand and accept. It is based on the intuitively plausible notion that any additional investment of sample size at an interim analysis should be contingent on a minimal acceptable return on the investment, expressed in terms of guaranteed conditional power.&lt;/p&gt;</description>
     </item>
     
     <item>
