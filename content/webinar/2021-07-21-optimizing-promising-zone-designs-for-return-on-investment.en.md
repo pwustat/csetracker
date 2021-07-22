@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.cytel.com/stat-methods-and-business-principles-optimal-trial-design-selection?utm_campaign=2021%20RWA%20Regulatory&utm_medium=email&_hsenc=p2ANqtz-_GjApl48DzKgcLeRD2yj9jGx-5edXW-puU_1VIkwGc27_Z_Vio6GkkNHnDjx6L6_YTa6qh-Kq7hTls0ksv17_1zX3x_g&_hsmi=141782127&utm_content=141782127&utm_source=hs_email&hsCtaTracking=a6ca62aa-4c6e-44db-8610-a127966da903%7C3d039a05-5473-4250-9a5c-ae6893df0bd2
 url_slides: ~
-url_video: no
+url_video: https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3313311&sessionid=1&key=216793EF55C8D7E50683B9A12C7F5C30&regTag=&V2=false&sourcepage=register
 url_agenda: ~
 url_website: ~
 url_audio: ~

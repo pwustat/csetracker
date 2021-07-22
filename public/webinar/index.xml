@@ -29,11 +29,70 @@
     </item>
     
     <item>
+      <title>Classifying Brain Tumor Types by MRI Scans with Convolutional Neural Network</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210729classifying-brain-tumor-types-by-mri-scans-with-convolutional-neural-network/</link>
+      <pubDate>Thu, 29 Jul 2021 16:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210729classifying-brain-tumor-types-by-mri-scans-with-convolutional-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMA Webinar: How Sponsor Organisations can Prepare for Clinical Trials Information System (CTIS)?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210729ema-webinar-how-sponsor-organisations-can-prepare-for-clinical-trials-information-system-ctis/</link>
+      <pubDate>Thu, 29 Jul 2021 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210729ema-webinar-how-sponsor-organisations-can-prepare-for-clinical-trials-information-system-ctis/</guid>
+      <description>&lt;p&gt;Clinical Trials Information System (CTIS) will act as the single entry point for clinical trials authorisation and supervision in the EEA. CTIS was created as part of the EU Clinical Trials Regulation (Regulation (EU) No 536/2014).&lt;/p&gt;
+&lt;p&gt;This EMA hosted webinar is open to all sponsor organisations, including pharmaceutical companies, contract research organisations, small and medium-sized enterprises (SMEs) and academic organisations.&lt;/p&gt;
+&lt;p&gt;Topics presented during the webinar include how sponsor organisations can prepare for CTIS, how Member States aim to support sponsor preparedness and adoption of CTIS, the role of the Clinical Trial Regulation and how sponsors can best make use of EMA’s CTIS training materials.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reusable, Reproducible, Useful Computational Science in Python</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210728reusable-reproducible-useful-computational-science-in-python/</link>
+      <pubDate>Wed, 28 Jul 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210728reusable-reproducible-useful-computational-science-in-python/</guid>
+      <description>&lt;p&gt;We will cover organization of Python code, packaging with setuptools, installing code in development mode with pip, unit testing with unittest/pytest, linting with black, code quality assurance with flake8, documentation with Sphinx, automation with Tox, continuous integration with GitHub Actions, documentation hosting with ReadTheDocs, implementation of command line interfaces using Click, versioning with bumpversion, archiving on Zenodo, and ultimately, deployment to PyPI. This tutorial will be appropriate for Python programmers of all skill levels and for projects of all sizes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Scoring Functions: A New Approach to Trial Design Optimization</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210728scoring-functions-a-new-approach-to-trial-design-optimization/</link>
       <pubDate>Wed, 28 Jul 2021 08:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210728scoring-functions-a-new-approach-to-trial-design-optimization/</guid>
       <description>&lt;p&gt;The presentation describes a logical scoring algorithm, as implemented in the new clinical trial simulation software Solara and illustrates its use in facilitating the selection of an optimal study design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Webinar: Practical Advice for R in Production, Part 2: How? </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210727rstudio-webinar-practical-advice-for-r-in-production-part-2-how/</link>
+      <pubDate>Tue, 27 Jul 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210727rstudio-webinar-practical-advice-for-r-in-production-part-2-how/</guid>
+      <description>&lt;p&gt;This webinar will be a hands-on workshop where you will learn best practices for securely putting R in production in a way that your IT team would approve of. This includes administering RStudio products, version control with Git, CI/CD pipelines, and even working in containerized environments.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SFASA Student Travel Award Presentations </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723sfasa-student-travel-award-presentations/</link>
+      <pubDate>Fri, 23 Jul 2021 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723sfasa-student-travel-award-presentations/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Presentation Titles:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Swarnadip Ghosh (Stanford):&lt;/strong&gt;
+Scalable Logistic Regression with Crossed Random Effects&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rocky Aikens (Stanford):&lt;/strong&gt;
+Assignment-Control Plots: A Visual Companion for Causal
+Inference Study Design&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brian Neal (San Francisco State)&lt;/strong&gt;
+An Adaptive Multivariate Kernel-Based Test for Association with
+Multiple Quantitative Traits in High-Dimensional Data&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dan Kluger (Stanford)&lt;/strong&gt;
+The Benjamini-Hochberg False Discovery Exceedance under
+Dependence&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hung Tong (San Jose State)&lt;/strong&gt;
+Clustering and Directional Outlier Detection with Missing
+Information&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Suyash Gupta (Stanford)&lt;/strong&gt;
+The s-value: Evaluating Stability with Respect to Distributional
+Shifts&lt;/p&gt;</description>
     </item>
     
     <item>
