@@ -10,7 +10,7 @@ tags:
 type: webinar
 url_register: ~
 url_freeregister: https://rutgers.webex.com/rutgers/onstage/g.php?MTID=ee3293cf6641c147e8c26e24f5238456c
-url_slides: ~
+url_slides: slides/Hypothetical strategies_frank and lei.pptx
 url_video: no
 url_agenda: ~
 url_website: ~
