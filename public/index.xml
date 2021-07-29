@@ -66,6 +66,14 @@
     </item>
     
     <item>
+      <title>RStudio Webinar: Practical Advice for R in Production, Part 2: How? </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210812rstudio-webinar-practical-advice-for-r-in-production-part-2-how/</link>
+      <pubDate>Thu, 12 Aug 2021 10:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210812rstudio-webinar-practical-advice-for-r-in-production-part-2-how/</guid>
+      <description>&lt;p&gt;This webinar will be a hands-on workshop where you will learn best practices for securely putting R in production in a way that your IT team would approve of. This includes administering RStudio products, version control with Git, CI/CD pipelines, and even working in containerized environments.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2021 Joint Statistical Meetings (JSM)</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
@@ -132,14 +140,6 @@
       <pubDate>Wed, 28 Jul 2021 08:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210728scoring-functions-a-new-approach-to-trial-design-optimization/</guid>
       <description>&lt;p&gt;The presentation describes a logical scoring algorithm, as implemented in the new clinical trial simulation software Solara and illustrates its use in facilitating the selection of an optimal study design.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>RStudio Webinar: Practical Advice for R in Production, Part 2: How? </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210727rstudio-webinar-practical-advice-for-r-in-production-part-2-how/</link>
-      <pubDate>Tue, 27 Jul 2021 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210727rstudio-webinar-practical-advice-for-r-in-production-part-2-how/</guid>
-      <description>&lt;p&gt;This webinar will be a hands-on workshop where you will learn best practices for securely putting R in production in a way that your IT team would approve of. This includes administering RStudio products, version control with Git, CI/CD pipelines, and even working in containerized environments.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -1,7 +1,7 @@
 ---
 title: 'RStudio Webinar: Practical Advice for R in Production, Part 2: How? '
 author: ''
-date: '2021-07-27T10:00:00-07:00'
+date: '2021-08-12T10:30:00-07:00'
 slug: rstudio-webinar-practical-advice-for-r-in-production-part-2-how
 categories: []
 tags: []
@@ -15,7 +15,7 @@ url_website: ~
 url_audio: ~
 url_code: ~
 url_pdf: ~
-date_end: '2021-07-27T11:00:00-07:00'
+date_end: '2021-08-12T11:30:00-07:00'
 all_day: no
 publishDate: '2021-07-22T10:36:27-07:00'
 authors: []
