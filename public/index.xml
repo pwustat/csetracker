@@ -74,6 +74,62 @@
     </item>
     
     <item>
+      <title>Shiny Apps from Concept to Production </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210810shiny-apps-from-concept-to-production/</link>
+      <pubDate>Tue, 10 Aug 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210810shiny-apps-from-concept-to-production/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Shepherding your Shiny App from Proof of Concept to Production:&lt;/strong&gt; Marcin Dubel will present Appsilon&amp;rsquo;s preferred workflow for creating production quality Shiny apps. He&amp;rsquo;ll touch on key topics in the app development process that lead to apps which users enjoy and developers find easy to maintain and extend.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Improve Your Code - Best Practices for Durable Code:&lt;/strong&gt; Anna Skrzydło discusses code maintenance, and the strategies you can employ to create enduring code. Avoid future delays and growing pains for your Shiny app by using better coding practices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Scaling &amp;amp; Infrastructure - Why is My Shiny App Slow?:&lt;/strong&gt; Pedro Silva will explore scaling and infrastructure issues common when deploying large scale Shiny apps, and how to overcome them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;UI/UX in Shiny Apps and Live Coding Session (shiny.fluent and shiny.react):&lt;/strong&gt; Kamil Żyła will demonstrate how to use shiny.fluent to build beautiful Shiny apps with Microsoft’s Fluent UI, and explain how to integrate React and Shiny.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Head-to-Head Comparisons Using Real World Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210809head-to-head-comparisons-using-real-world-data/</link>
+      <pubDate>Mon, 09 Aug 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210809head-to-head-comparisons-using-real-world-data/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Cytel Webinar Series on August 9, 16, 23, 26 &amp;amp; 31&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The speakers will present:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Webinar 1: The Time for Causal Inference is Now&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce the concept of head to head comparisons using real world data and present case studies of the approach.&lt;/li&gt;
+&lt;li&gt;Outline the plan of pilot investigations in oncology and cardiovascular disease.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Webinar 2: Design and data source considerations from pilot investigations in CVD&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss the data requirements and the data source to be used in the pilot investigation with the focus on how to assess if the data is sufficient for the purposes of trial emulation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Webinar 3: Study Design Considerations and an update on the pilot investigation in Cancer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide an overview of challenges posed by the design of the ongoing pilot project in which we are leveraging real-world data to explicitly emulate a target trial comparing the efficacy of three different systemic therapies used to treat pancreatic cancer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Webinar 4: Practical Applications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss how Head to Head comparisons using real world data helps:
+Generate efficacy or safety evidence for conditional regulatory approval or post-market assessment.&lt;/li&gt;
+&lt;li&gt;Provide a comparison when network meta analysis is not possible.
+Expand the scope of a randomized trial.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Webinar 5: Target trial emulation using real-world data: head-to-head comparison of antihyperglycemic therapies for type 2 diabetes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss when a randomized trial to compare effectiveness of healthcare interventions can be emulated using real-world data.&lt;/li&gt;
+&lt;li&gt;The target trial framework, which couples causal inference methods to an explicit causal question posed in the form of a protocol for a randomized trial.&lt;/li&gt;
+&lt;li&gt;How this approach helps to avoid common methodological pitfalls encountered in naïve analyses of observational data.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>2021 Joint Statistical Meetings (JSM)</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
