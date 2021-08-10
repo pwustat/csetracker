@@ -23,6 +23,16 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
+    <lastmod>2021-09-16T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210916asa-biop-webinar-putting-pharmacovigilance-into-action/</loc>
+    <lastmod>2021-09-16T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url>
@@ -33,8 +43,23 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
-    <lastmod>2021-08-12T10:30:00-07:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210827causal-inference/</loc>
+    <lastmod>2021-08-27T07:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210827purdue-university-distinguished-theme-seminar-series-2021-on-causal-inference/</loc>
+    <lastmod>2021-08-27T07:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tags/</loc>
+    <lastmod>2021-08-27T07:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210820in-search-of-effective-and-reproducible-clinical-imaging-biomarkers-for-population-health-and-oncology-applications-of-screening-diagnosis-and-prognosis/</loc>
+    <lastmod>2021-08-20T09:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -49,11 +74,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210810shiny-apps-from-concept-to-production/</loc>
-    <lastmod>2021-08-10T09:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tags/</loc>
     <lastmod>2021-08-10T09:00:00-07:00</lastmod>
   </url>
   
@@ -825,11 +845,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401the-pod-of-asclepius/</loc>
     <lastmod>2021-04-01T12:22:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210326causal-inference/</loc>
-    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>

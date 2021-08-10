@@ -5,12 +5,62 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Aug 2021 10:30:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 07:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>ASA BIOP Webinar: Putting Pharmacovigilance into Action</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210916asa-biop-webinar-putting-pharmacovigilance-into-action/</link>
+      <pubDate>Thu, 16 Sep 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210916asa-biop-webinar-putting-pharmacovigilance-into-action/</guid>
+      <description>&lt;p&gt;Every pharmaceutical company collects, analyzes, and reports safety data collected in trials and in the general use on their products to fulfill regulations and detect new signals to keep their product labels up to date. While those actions have an indirect benefit for the patient, to truly help them and their healthcare practitioners it is necessary to go beyond the raw data and translate the information into the benefit to risk context, informing risk management plans and specific mitigation actions that are derived from data. The goal of pharmacovigilance should be to minimize pain and suffering in patients who strive to benefit from the medicine prescribed by their physician. By properly characterizing benefits and risks of medicines in appropriate populations and semi-quantitatively or quantitatively estimating whether and to which extent the benefits outweigh the risks one can create tangible context for regulators, prescribers, and patients. This informs specific action plans for the health care provider to optimize the use of the treatment ensuring the right medicine gets to right patient. We will present our experience on some specific examples derived directly from our joint experience in safety and pharmacovigilance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Purdue University Distinguished Theme Seminar Series 2021 on Causal Inference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210827purdue-university-distinguished-theme-seminar-series-2021-on-causal-inference/</link>
+      <pubDate>Fri, 27 Aug 2021 07:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210827purdue-university-distinguished-theme-seminar-series-2021-on-causal-inference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A seminar series from 7:30 to 8:30 am PST on Aug 27th, Sep 3rd, 10th, 17th, and 24th&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;August 27, Introductory Workshop&lt;/strong&gt;&lt;br&gt;
+Associate Professor Arman Sabbaghi - Department of Statistics, Purdue University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 3, Clutter-Free Causal Inference&lt;/strong&gt;&lt;br&gt;
+Professor Donald B. Rubin - Temple, Tsinghua, and Harvard Universities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 10, Single World Intervention Graphs (SWIGs): A Unification of the Graphical and Counterfactual Approaches to Causality with Applications&lt;/strong&gt;&lt;br&gt;
+Professor James M. Robins - Harvard T.H. Chan School of Public Health&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 17, What is Causal Inference? - A Logical Perspective&lt;/strong&gt;&lt;br&gt;
+Professor Judea Pearl, Samueli School of Engineering, University of California-Los Angeles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 17, Causal Inference and Data Fusion&lt;/strong&gt;&lt;br&gt;
+Professor Elias Bareinboim, Department of Computer Science, Columbia University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 24, Statistical Learning: Causal-oriented and Robust&lt;/strong&gt;&lt;br&gt;
+Professor Peter Bühlmann, Department of Mathematics, ETH Zürich&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dahshu Webinar: In Search of Effective and Reproducible Clinical Imaging Biomarkers for Population Health and Oncology Applications of Screening, Diagnosis and Prognosis</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210820in-search-of-effective-and-reproducible-clinical-imaging-biomarkers-for-population-health-and-oncology-applications-of-screening-diagnosis-and-prognosis/</link>
+      <pubDate>Fri, 20 Aug 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210820in-search-of-effective-and-reproducible-clinical-imaging-biomarkers-for-population-health-and-oncology-applications-of-screening-diagnosis-and-prognosis/</guid>
+      <description>&lt;p&gt;This talk describes a roadmap on three key problems in pancreatic cancer imaging solution: early screening, precision differential diagnosis, and deep prognosis on patient survival prediction. (1) Based on a new self-learning framework, we train the pancreatic ductal adenocarcinoma (PDAC) segmentation model using a larger quantity of patients (≈1,000, four institutions), with a mix of annotated/unannotated venous or multi-phase CT images. Pseudo annotations are generated by combining two teacher models with different PDAC segmentation specialties on unannotated images, and can be further refined by a teaching assistant model that identifies associated vessels around the pancreas. Our approach makes it technically feasible for robust large-scale PDAC screening from multi-institutional multi-phase partially-annotated CT scans. (2) We propose a holistic segmentation-mesh classification network (SMCN) to provide patient-level diagnosis, by fully utilizing the geometry and location information. SMCN learns the pancreas and mass segmentation task and builds an anatomical correspondence-aware organ mesh model by progressively deforming a pancreas prototype on the raw segmentation mask. Our results are comparable to a multimodality clinical test that combines clinical, imaging, and molecular testing for clinical management of patients with cysts. (3) Accurate preoperative prognosis of resectable PDACs for personalized treatment is highly desired in clinical practice. We present a novel deep neural network for the survival prediction of resectable PDAC patients, 3D Contrast-Enhanced Convolutional Long Short-Term Memory network (CE-ConvLSTM), to derive the tumor attenuation signatures from CE-CT imaging studies. Our framework can significantly improve the prediction performances upon existing state-of-the-art survival analysis methods. This deep tumor signature has evidently added values (as a predictive biomarker) to be combined with the existing clinical staging system.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>RStudio Webinar: Practical Advice for R in Production, Part 2: How? </title>
