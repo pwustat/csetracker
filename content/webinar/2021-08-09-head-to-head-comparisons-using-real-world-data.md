@@ -37,11 +37,11 @@ summary: ~
 abstract: ~
 speaker: Devon Boyne (Cytel) | Miguel Hernán (Harvard) | Judsen Schneider (Nashville Biosciences) | Alind Gupta (Cytel) | Radek Wasiak (Cytel)
 ---
-<span style="color: salmon;">*Cytel Webinar Series on August 9, 16, 23, 26 & 31*</span>
+<span style="color: salmon;">*Cytel Webinar Series on August 9, 16, 23, 26 & 31. Replays are available.*</span>
 <!--more-->
 The speakers will present: 
 
-**Webinar 1: The Time for Causal Inference is Now**  
+**Webinar 1: The Time for Causal Inference is Now [[Replay Link]](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3335412&sessionid=1&key=7EE42AA652D3E9E4A5E98E388D759A9B&regTag=&V2=false&sourcepage=register)**  
 - Introduce the concept of head to head comparisons using real world data and present case studies of the approach.  
 - Outline the plan of pilot investigations in oncology and cardiovascular disease.  
 

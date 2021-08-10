@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.de/e/reusable-reproducible-useful-computational-science-in-python-free-tickets-163242263003
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=f6brWkO9OiE
 url_agenda: 
 url_website: ~
 url_audio: ~

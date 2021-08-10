@@ -9,9 +9,9 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.meetup.com/PyDataChi/events/279478657/?isFirstPublish=true
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=-a7IMhEi4_w
 url_agenda: ~
-url_website: ~
+url_website: https://github.com/alau55/Machine-Learning/tree/master/braintumor
 url_audio: ~
 url_code: ~
 url_pdf: ~
