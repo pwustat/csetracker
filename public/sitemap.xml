@@ -43,17 +43,27 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210827causal-inference/</loc>
-    <lastmod>2021-08-27T07:30:00-07:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/</loc>
+    <lastmod>2021-09-10T06:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210827purdue-university-distinguished-theme-seminar-series-2021-on-causal-inference/</loc>
-    <lastmod>2021-08-27T07:30:00-07:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210910causal-inference/</loc>
+    <lastmod>2021-09-10T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20210910guidelines-estimate-propensity-score-and-inverse-probability-of-treatment-weights-when-drawing-causal-inferences/</loc>
+    <lastmod>2021-09-10T06:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tags/</loc>
+    <lastmod>2021-09-10T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210827purdue-university-distinguished-theme-seminar-series-2021-on-causal-inference/</loc>
     <lastmod>2021-08-27T07:30:00-07:00</lastmod>
   </url>
   
@@ -115,11 +125,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/</loc>
-    <lastmod>2021-08-06T10:00:00-07:00</lastmod>
   </url>
   
   <url>
