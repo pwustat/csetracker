@@ -45,13 +45,13 @@ The speakers will present:
 - Introduce the concept of head to head comparisons using real world data and present case studies of the approach.  
 - Outline the plan of pilot investigations in oncology and cardiovascular disease.  
 
-**Webinar 2: Design and data source considerations from pilot investigations in CVD**  
+**Webinar 2: Design and data source considerations from pilot investigations in CVD [[Replay Link]](https://event.on24.com/wcc/r/3335430/D5F8722158B3521E9D3B04B208CFC30D?mode=login)**  
 - Discuss the data requirements and the data source to be used in the pilot investigation with the focus on how to assess if the data is sufficient for the purposes of trial emulation.  
 
-**Webinar 3: Study Design Considerations and an update on the pilot investigation in Cancer**  
+**Webinar 3: Study Design Considerations and an update on the pilot investigation in Cancer [[Replay Link]](https://event.on24.com/wcc/r/3335449/851418F9D50BAE89FDF5831BAB74490A?mode=login)**  
 - Provide an overview of challenges posed by the design of the ongoing pilot project in which we are leveraging real-world data to explicitly emulate a target trial comparing the efficacy of three different systemic therapies used to treat pancreatic cancer.  
 
-**Webinar 4: Practical Applications**  
+**Webinar 4: Practical Applications [[Replay Link]](https://event.on24.com/wcc/r/3335457/9A80F86C4B23DDB0DD861A27FA09B420?mode=login)**  
 - Discuss how Head to Head comparisons using real world data helps:
 Generate efficacy or safety evidence for conditional regulatory approval or post-market assessment.  
 - Provide a comparison when network meta analysis is not possible.

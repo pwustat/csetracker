@@ -139,6 +139,15 @@ Professor Peter Bühlmann, Department of Mathematics, ETH Zürich&lt;/p&gt;
     </item>
     
     <item>
+      <title>RStudio Webinar: Advanced R Markdown &#43; RStudio Connect</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210826rstudio-webinar-advanced-r-markdown-rstudio-connect/</link>
+      <pubDate>Thu, 26 Aug 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210826rstudio-webinar-advanced-r-markdown-rstudio-connect/</guid>
+      <description>&lt;p&gt;R Markdown is an incredible tool for being a more effective data scientist. It lets you share insights in ways that delight end users.&lt;/p&gt;
+&lt;p&gt;In this presentation, Tom Mock will teach you some advanced tips that will let you get the most out of R Markdown. Additionally, RStudio Connect will be highlighted, specifically how it works wonderfully with tools like R Markdown.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA SLDS Webinar: Variable Selection and Architecture Search for Neural Networks</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210824asa-slds-webinar-variable-selection-and-architecture-search-for-neural-networks/</link>
       <pubDate>Tue, 24 Aug 2021 11:00:00 -0700</pubDate>
@@ -212,15 +221,15 @@ Professor Peter Bühlmann, Department of Mathematics, ETH Zürich&lt;/p&gt;
 &lt;li&gt;Introduce the concept of head to head comparisons using real world data and present case studies of the approach.&lt;/li&gt;
 &lt;li&gt;Outline the plan of pilot investigations in oncology and cardiovascular disease.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Webinar 2: Design and data source considerations from pilot investigations in CVD&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Webinar 2: Design and data source considerations from pilot investigations in CVD &lt;a href=&#34;https://event.on24.com/wcc/r/3335430/D5F8722158B3521E9D3B04B208CFC30D?mode=login&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Replay Link]&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Discuss the data requirements and the data source to be used in the pilot investigation with the focus on how to assess if the data is sufficient for the purposes of trial emulation.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Webinar 3: Study Design Considerations and an update on the pilot investigation in Cancer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Webinar 3: Study Design Considerations and an update on the pilot investigation in Cancer &lt;a href=&#34;https://event.on24.com/wcc/r/3335449/851418F9D50BAE89FDF5831BAB74490A?mode=login&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Replay Link]&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Provide an overview of challenges posed by the design of the ongoing pilot project in which we are leveraging real-world data to explicitly emulate a target trial comparing the efficacy of three different systemic therapies used to treat pancreatic cancer.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Webinar 4: Practical Applications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Webinar 4: Practical Applications &lt;a href=&#34;https://event.on24.com/wcc/r/3335457/9A80F86C4B23DDB0DD861A27FA09B420?mode=login&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Replay Link]&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Discuss how Head to Head comparisons using real world data helps:
 Generate efficacy or safety evidence for conditional regulatory approval or post-market assessment.&lt;/li&gt;
