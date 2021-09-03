@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: ~
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/channel/UC-u5x4FV67BnpBGigKHBeXg/featured
 url_agenda: https://www.stat.purdue.edu/theme_seminar_2021/program.html
 url_website: ~
 url_audio: ~

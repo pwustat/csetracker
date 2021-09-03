@@ -9,7 +9,7 @@ tags:
 type: webinar
 url_register: ~
 url_freeregister: ~
-url_slides: ~
+url_slides: http://www.bayesianscientific.org/wp-content/uploads/2021/08/Payne_KOL_Bayesian_Model_Averaging_of_Longitudinal_Dose_Response_Models.pdf
 url_video: no
 url_agenda: ~
 url_website: ~
