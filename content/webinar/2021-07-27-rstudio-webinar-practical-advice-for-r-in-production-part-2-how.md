@@ -7,9 +7,9 @@ categories: []
 tags: []
 type: webinar
 url_register: ~
-url_freeregister: https://www.rstudio.com/registration/practical-advice-for-r-in-production-2/
+url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.rstudio.com/resources/webinars/practical-advice-for-r-in-production-2-how/
 url_agenda: ~
 url_website: ~
 url_audio: ~
