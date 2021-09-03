@@ -65,12 +65,81 @@
     </item>
     
     <item>
+      <title>ASA SF Bay Area Chapter Webinar: K-12 Students Summer Project Presentation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210912k-12-students-summer-project-presentation/</link>
+      <pubDate>Sun, 12 Sep 2021 16:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210912k-12-students-summer-project-presentation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Presentations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Demographic and Social Factors Associated with COVID-19 Vaccination Rate in California&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Presenters:&lt;/strong&gt;&lt;br&gt;
+Avelyn Liang, 10th Grade, San Mateo High school&lt;br&gt;
+Elaina Li, 8th Grade, Bowditch Middle School &lt;br&gt;
+&lt;strong&gt;Mentors:&lt;/strong&gt;&lt;br&gt;
+Ray Lin, Ph.D., Principal Statistical Scientist, Department of Biostatistics, Genentech/Roche; President of SFASA&lt;br&gt;
+Priscilla Yen, Ph.D., Biostatistics Manager at Amgen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistical analysis of data on beach pollution in the United States&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;Presenters:&lt;/strong&gt;&lt;br&gt;
+Anna Khodakovskaia, 8th Grade, Lycee  Francais  de San Francisco&lt;br&gt;
+Katherine Tsvirkunova, 12th Grade, Carlmont High School&lt;br&gt;
+&lt;strong&gt;Mentor:&lt;/strong&gt;&lt;br&gt;
+Tao He, Ph.D., Assistant Professor, Department of Mathematics, San Francisco State University; Past President of SFASA&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Breast Cancer Prediction Using Statistical Models&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Presenter:&lt;/strong&gt;
+Anwen Huang, 12th Grade, Lynbrook High School&lt;br&gt;
+&lt;strong&gt;Mentor:&lt;/strong&gt;&lt;br&gt;
+Ron Yu, Ph.D., Senior Director of Biostatistics, Gilead Sciences; Director of Public Relations of SFASA&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Impact of COVID-19 on Recology Waste Disposal Trends&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Presenter:&lt;/strong&gt; 
+Weiran Wang, 11th Grade, Aragon High School&lt;br&gt;
+&lt;strong&gt;Mentor:&lt;/strong&gt;
+Jerry Ping, Ph.D., Director of Biostatistics at Pharmacyclics, An Abbvie Company&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>ICSA 2021 Applied Statistics Symposium</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210912icsa-2021-applied-statistics-symposium/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210912icsa-2021-applied-statistics-symposium/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 15, 2021; Member $100, Nonmember $130&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;This will be the 30th annual symposium for the International Chinese Statistical Association (ICSA). The theme of this year’s conference is Leading with Statistics and Innovation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Boston Chapter Short Course: Master Protocol in Drug Development - Methodology and Implementation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210910asa-boston-chapter-short-course-master-protocol-in-drug-development-methodology-and-implementation/</link>
+      <pubDate>Fri, 10 Sep 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210910asa-boston-chapter-short-course-master-protocol-in-drug-development-methodology-and-implementation/</guid>
+      <description>&lt;p&gt;The scientific communities are in great need to develop innovative trial designs that can incorporate multiple treatments and/or multiple diseases. Such designs provide results for multiple complex hypotheses of clinical interest and reduce the cost and timeline of development. There has been increasing interest in adopting master protocols to expedite clinical development programs. Master protocol have the potential to drive tremendous efficiencies in the development of new therapeutics or vaccines. These trials, in general, are more efficient and less costly than to perform trials individually. These efficiencies can be operational and/or statistical in nature. The master protocol is defined as one overarching protocol that would answer multiple questions or hypotheses. It includes a wide variety of designs with one potential treatment and different disease/population (basket design), multiple potential treatment and one disease (umbrella design), and multiple potential treatment along with multiple disease/population (platform design). In addition, master protocols are adaptive to include early stopping for efficacy or futility, sample size adjustment, dropping an arm, changing randomization ratio, and introducing a new treatment arm during trial. Further statistical efficiency can be gained by use of a shared control. In rare or difficult to enroll populations, a master protocol offers the opportunity to steer important new therapies into a standing clinical trials infrastructure, potentially expediting the availability of badly needed new therapies.&lt;/p&gt;
+&lt;p&gt;The short course will provide an overview of the master protocol along with statistical and operational aspects. This will cover methodology, general design framework and strategies, sample size calculation, and necessary steps for protocol implementation. In addition, we will share through case studies on practical points to consider when running master protocols.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Outline&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview of master protocol: definitions, terminology, and general framework&lt;/li&gt;
+&lt;li&gt;Statistical considerations&lt;/li&gt;
+&lt;li&gt;Operational considerations&lt;/li&gt;
+&lt;li&gt;Practical implementation: study protocol, DSMB&lt;/li&gt;
+&lt;li&gt;Case Study&lt;/li&gt;
+&lt;li&gt;Regulatory guidance: US and rest of the world&lt;/li&gt;
+&lt;li&gt;Summary and discussion&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Traveling Course (Hosted by Connecticut Chapter): Guidelines for using State-of-the-Art Methods to Estimate Propensity Score and Inverse Probability of Treatment Weights When Drawing Causal Inferences </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210910asa-traveling-course-hosted-by-connecticut-chapter-causal-inferences/</link>
+      <pubDate>Fri, 10 Sep 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210910asa-traveling-course-hosted-by-connecticut-chapter-causal-inferences/</guid>
+      <description>&lt;p&gt;The estimation of causal effects is one of the primary activities of most longitudinal research studies. For example, analysts might want to understand whether a particular substance abuse treatment program is effective for its clients, whether school-based substance prevention actually reduces substance use, whether interventions can improve the quality and efficiency of mental health care, or whether incentives can increase military recruiting or the retention of service members. Controlled experiments are held as the gold standard for estimating such effects. However, experiments are often infeasible for many reasons and only observational data, in which participation in a program or intervention is out of the control of the researchers, are available for analysis.&lt;/p&gt;
+&lt;p&gt;This short course will provide an introduction to causal modeling using the potential outcomes framework and use of propensity score weights in the estimation of causal effects from observational data. The course will also provide step-by-step guidelines on how to estimate and perform diagnostic checks of propensity score weights for evaluations examining the relative effectiveness of two interventions. The course will also discuss methods for assessing the sensitivity of finding to unobserved covariates. Attendees will gain hands on experience estimating propensity score weights, evaluating the quality of those weights, and utilizing the weights for estimating intervention effects. The course can provide demonstrations of available software in R, SAS, Stata and Shiny (as needed) for fitting the models and opportunities for conducting analyses. The primary goals of the course are for attendees to have an understanding of how to implement propensity score weighting using state-of-art-methods and insights into some of the practical issues that evaluating the quality of propensity score weights involve.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -81,6 +150,71 @@
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;2021 ASA Connecticut Chapter Traveling Course. Register by September 6.&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The estimation of causal effects is one of the primary activities of most longitudinal research studies. For example, analysts might want to understand whether a particular substance abuse treatment program is effective for its clients, whether school-based substance prevention actually reduces substance use, whether interventions can improve the quality and efficiency of mental health care, or whether incentives can increase military recruiting or the retention of service members. Controlled experiments are held as the gold standard for estimating such effects. However, experiments are often infeasible for many reasons and only observational data, in which participation in a program or intervention is out of the control of the researchers, are available for analysis.&lt;/p&gt;
 &lt;p&gt;This short course will provide an introduction to causal modeling using the potential outcomes framework and use of propensity score weights in the estimation of causal effects from observational data. The course will also provide step-by-step guidelines on how to estimate and perform diagnostic checks of propensity score weights for evaluations examining the relative effectiveness of two interventions. The course will also discuss methods for assessing the sensitivity of finding to unobserved covariates. Attendees will gain hands on experience estimating propensity score weights, evaluating the quality of those weights, and utilizing the weights for estimating intervention effects. The course can provide demonstrations of available software in R, SAS, Stata and Shiny (as needed) for fitting the models and opportunities for conducting analyses. The primary goals of the course are for attendees to have an understanding of how to implement propensity score weighting using state-of-art-methods and insights into some of the practical issues that evaluating the quality of propensity score weights involve.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Traveling Course (Hosted by Central Indiana Chapter): Guidelines for using State-of-the-Art Methods to Estimate Propensity Score and Inverse Probability of Treatment Weights When Drawing Causal Inferences </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210908asa-traveling-course-central-indiana-chapter-guidelines-to-estimate-propensity-score-and-inverse-probability-of-treatment-weights/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210908asa-traveling-course-central-indiana-chapter-guidelines-to-estimate-propensity-score-and-inverse-probability-of-treatment-weights/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; September 8 and 9, 2021, 6:00-9:00am PST &lt;span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Short Course: An Introduction to R for Non-Programmers </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210907asa-short-course-an-introduction-to-r-for-non-programmers/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210907asa-short-course-an-introduction-to-r-for-non-programmers/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;This will be a three-part webinar presentation from 8-10am PST on September 7th, 8th, and 9th. ASA members: $85; non-members: $135 &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Outline:&lt;/strong&gt;&lt;br&gt;
+Day 1: 9/7/21: 11 AM EST&lt;br&gt;
+Hour 1: R is a Big Fancy Calculator - Topics include vectors, matrices, and math operations.&lt;br&gt;
+Hour 2: Computing Things Quickly - Topics include functions and computing linear regression.&lt;/p&gt;
+&lt;p&gt;Day 2: 9/8/21: 11 AM EST&lt;br&gt;
+Hour 1: Dealing with Data - Topics include objects, object types, and data frames.&lt;br&gt;
+Hour 2: Plotting Data Part 1 - Topics include scatterplots, color, and titles.&lt;/p&gt;
+&lt;p&gt;Day 3: 9/10/21: 11 AM EST&lt;br&gt;
+Hour 1: Plotting Data Part 2 - Topics include histograms and combining plots.&lt;br&gt;
+Hour 2: R Packages for Visualization, Discussion, and Questions - Topics include R packages and other resources available. This time will also be allotted for specific questions from the participants. If there is extra time, additional topics such as ggplot2 may be introduced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Objectives:&lt;/strong&gt;&lt;br&gt;
+By the end of the course, participants will have been introduced to introductory R programming. The material presented will provide the foundations to understand more complicated R functionalities. The material provides the basic knowledge to understand programming at a more general level with the use of text editors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Content and Instructional Methods:&lt;/strong&gt;&lt;br&gt;
+The course will have slides for the content. However, many hands on examples are done throughout the course. Generally speaking, each hour will end with an example which summarizes the content for that hour. Participants will have an opportunity to work together to solve the example. The hour ends with presenting a solution to the example provided.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Designs for Optimal Dose Determination in I-O and Cell Therapy</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210903adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy/</link>
+      <pubDate>Fri, 03 Sep 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210903adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy/</guid>
+      <description>&lt;p&gt;This event is part of the Fifth Boston Pharmaceutical Symposium.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How Data Science is Transforming Healthcare </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210902how-data-science-is-transforming-healthcare/</link>
+      <pubDate>Thu, 02 Sep 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210902how-data-science-is-transforming-healthcare/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Key Takeaways:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Understand what is the current state of healthcare and summarize the main barriers that are slowing down its data transformation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identify the main verticals of value data transformation can provide the healthcare sector&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Understand the various data science use cases underpinning scalable data transformation in healthcare&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Advancing the Development of Pediatric Therapeutics (Adept 7) Complex Innovative Trial Design</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210901advancing-the-development-of-pediatric-therapeutics-adept-7-complex-innovative-trial-design/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210901advancing-the-development-of-pediatric-therapeutics-adept-7-complex-innovative-trial-design/</guid>
+      <description></description>
     </item>
     
     <item>
