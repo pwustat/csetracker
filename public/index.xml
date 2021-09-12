@@ -33,6 +33,49 @@
     </item>
     
     <item>
+      <title>2021 Myles Hollander Distinguished Lecture: We used a Bandit Algorithm to Personalize But Did It Work?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202109242021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work/</link>
+      <pubDate>Fri, 24 Sep 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202109242021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work/</guid>
+      <description>&lt;p&gt;Reinforcement Learning Algorithms provide an attractive suite of online learning methods for personalizing interventions in Digital Health. However after a reinforcement learning algorithm has been run in a clinical study, how do we assess whether personalization occurred? We might find users for whom it appears that the algorithm has indeed learned in which contexts the user is more responsive to a particular intervention.  But could this have happened completely by chance? We discuss some first approaches to addressing these questions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Biostatistics and SARS-CoV-2: research, policymaking, and communication </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210921biostatistics-and-sars-cov-2-research-policymaking-and-communication/</link>
+      <pubDate>Tue, 21 Sep 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210921biostatistics-and-sars-cov-2-research-policymaking-and-communication/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;During the webinar, the participant will:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be exposed in an intuitive and non-technical way to statistical and epidemiological tools and technique useful in monitoring and managing the COVID-19 pandemic&lt;/li&gt;
+&lt;li&gt;Get insight into the multidisciplinary nature of pandemic response&lt;/li&gt;
+&lt;li&gt;Get insight in the interplay between scientists, policy makers, media, and the public opinion&lt;/li&gt;
+&lt;li&gt;Become familiar with important lessons learned for the future, starting from the current pandemic, and occasionally from past pandemics, such as the Spanish Flu&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>University of Cambridge MRC Biostatistics Unit Workshop: Current and Future Trends in Multiple Hypothesis Testing</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210921university-of-cambridge-mrc-biostatistics-unit-workshop-current-and-future-trends-in-multiple-hypothesis-testing/</link>
+      <pubDate>Tue, 21 Sep 2021 05:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210921university-of-cambridge-mrc-biostatistics-unit-workshop-current-and-future-trends-in-multiple-hypothesis-testing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Session 1: Career-young statistician presentations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.30pm – 2.30pm&lt;/p&gt;
+&lt;p&gt;Talks from:&lt;/p&gt;
+&lt;p&gt;Anna Hutchinson (MRC Biostatistics Unit, University of Cambridge) - Speaking on Leveraging auxiliary data in high-dimensional association testing using conditional false discovery rates&lt;br&gt;
+Ziyu Xu (Carnegie Mellon University) - Speaking on Dynamic algorithms for online multiple testing&lt;br&gt;
+Marie Perrot-Dockès (IUT de Paris, Université de Paris) - Speaking on Post hoc false discovery proportion inference under a Hidden Markov Model&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session 2: Multiple testing in academia and industry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2.40pm – 4.10pm&lt;/p&gt;
+&lt;p&gt;Invited talks from:&lt;/p&gt;
+&lt;p&gt;Frank Bretz (Novartis) – Speaking on Multiple testing in clinical trials&lt;br&gt;
+Ruth Heller (Tel-Aviv University) – Speaking on Optimal multiple testing procedures&lt;br&gt;
+Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple testing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Session 3: Panel discussion and Q&amp;amp;A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4.15pm – 5pm&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2021 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
@@ -43,11 +86,57 @@
     </item>
     
     <item>
+      <title>17th Applied Statistics 2021 International Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021092017th-applied-statistics-2021-international-conference/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021092017th-applied-statistics-2021-international-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duke-FDA Public Workshop: Pharmacodynamic Biomarkers for Biosimilar Development and Approval</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210920duke-fda-public-workshop-pharmacodynamic-biomarkers-for-biosimilar-development-and-approval/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210920duke-fda-public-workshop-pharmacodynamic-biomarkers-for-biosimilar-development-and-approval/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Workshop Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss the current and potential future state of leveraging PD biomarkers for biosimilar development and approval&lt;/li&gt;
+&lt;li&gt;Summarize FDA’s initiatives to advance biosimilar development&lt;/li&gt;
+&lt;li&gt;Describe stakeholders’ experience with PD biomarkers in biosimilar development&lt;/li&gt;
+&lt;li&gt;Explain research efforts to promote a broader application of PD biomarkers in biosimilar development&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>DahShu Webinar: Single Arm Trials with a Synthetic Control Arm Built from RWD </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</link>
+      <pubDate>Fri, 17 Sep 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</guid>
+      <description>&lt;p&gt;Randomized clinical trials (RCT) are the gold standard for approvals by regulatory agencies. However, RCT&amp;rsquo;s are increasingly time consuming, expensive, and laborious with a multitude of bottlenecks involving volunteer recruitment, patient truancy, and adverse events. An alternative that fast tracks clinical trials without compromising quality of scientific results is desirable to more rapidly bring therapies to consumers. We propose a model-based approach using nonparametric Bayesian common atoms models for patient baseline covariates. This specific class of models has two critical advantages in this context: (i) The models have full prior support, i.e., allow to approximate arbitrary distributions without unreasonable restrictions or shrinkage in specific parametric families; (ii) inference naturally facilitates a reweighting scheme to achieve equivalent populations. We prove equivalence of the synthetic and other patient cohorts using an independent separate verification. Failure to classify a merged data set using a flexible statistical learning method such as random forests, support vector machines etc. proves equivalence. We implement the proposed approach in two motivating case studies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210917psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210917psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;September 17th and 24th, 2021. Registration Fee: £115 + VAT&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA BIOP Webinar: Putting Pharmacovigilance into Action</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210916asa-biop-webinar-putting-pharmacovigilance-into-action/</link>
       <pubDate>Thu, 16 Sep 2021 07:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210916asa-biop-webinar-putting-pharmacovigilance-into-action/</guid>
       <description>&lt;p&gt;Every pharmaceutical company collects, analyzes, and reports safety data collected in trials and in the general use on their products to fulfill regulations and detect new signals to keep their product labels up to date. While those actions have an indirect benefit for the patient, to truly help them and their healthcare practitioners it is necessary to go beyond the raw data and translate the information into the benefit to risk context, informing risk management plans and specific mitigation actions that are derived from data. The goal of pharmacovigilance should be to minimize pain and suffering in patients who strive to benefit from the medicine prescribed by their physician. By properly characterizing benefits and risks of medicines in appropriate populations and semi-quantitatively or quantitatively estimating whether and to which extent the benefits outweigh the risks one can create tangible context for regulators, prescribers, and patients. This informs specific action plans for the health care provider to optimize the use of the treatment ensuring the right medicine gets to right patient. We will present our experience on some specific examples derived directly from our joint experience in safety and pharmacovigilance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID Vaccine Efficacy Trial Designs, Open Questions and Statistical Challenges </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210914covid-vaccine-efficacy-trial-designs-open-questions-and-statistical-challenges/</link>
+      <pubDate>Tue, 14 Sep 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210914covid-vaccine-efficacy-trial-designs-open-questions-and-statistical-challenges/</guid>
+      <description></description>
     </item>
     
     <item>
