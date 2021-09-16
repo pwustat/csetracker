@@ -130,6 +130,26 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
     </item>
     
     <item>
+      <title>DIA IDSWG KOL Lecture: Covariate-adaptive Randomization - New Procedures and Inference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dia-idswg-kol-lecture-covariate-adaptive-randomization-new-procedures-and-inference/</link>
+      <pubDate>Fri, 17 Sep 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dia-idswg-kol-lecture-covariate-adaptive-randomization-new-procedures-and-inference/</guid>
+      <description>&lt;p&gt;Covariate balance is one of the most important concerns for successful comparative
+studies (about causal effects), such as causal inference, online A/B testing and clinical
+trials. However, chance imbalance may still exist in traditional randomized experiments,
+and are substantial increasing in big data. In this talk, we discuss several new adaptive
+designs and their advantages. The proposed methods show substantial advantages over
+the traditional methods in terms of the covariate balance and computational time.&lt;/p&gt;
+&lt;p&gt;Since the randomization inevitably uses the covariate information when forming balanced
+treatment assignments, the validity of classical statistical inference following such
+randomization is often unclear in literature. We derived the theoretical properties of
+statistical inference post general covariate-adjusted randomization under the linear model
+framework. More important, we explicitly unveil the relationship between covariateadjusted designs and inference properties. We apply the proposed general theory to
+commonly used procedures and compare their performance analytically. These results
+open a new door to understand and analyze comparative studies based on covariateadjusted randomization.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210917psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation/</link>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
