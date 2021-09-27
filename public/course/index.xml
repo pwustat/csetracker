@@ -5,12 +5,64 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Sep 2021 10:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 02:45:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
     </image>
+    
+    <item>
+      <title>PSI Training Course: R for Clinical Trial Statisticians</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211101psi-training-course-r-for-clinical-trial-statisticians/</link>
+      <pubDate>Mon, 01 Nov 2021 02:45:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211101psi-training-course-r-for-clinical-trial-statisticians/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;Every Monday or Tuesday in November. Early-bird registration ends on Oct 1.&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Traveling Short Course (NYC Metro Area Chapter): Introduction to Data Science, Machine Learning and Deep Learning in R and Python</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211023asa-traveling-short-course-nyc-metro-area-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
+      <pubDate>Sat, 23 Oct 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211023asa-traveling-short-course-nyc-metro-area-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Traveling Short Course (Boston Chapter): Introduction to Data Science, Machine Learning and Deep Learning in R and Python </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211009asa-traveling-short-course-boston-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
+      <pubDate>Sat, 09 Oct 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211009asa-traveling-short-course-boston-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;This course will be held on two consecutive Saturdays, October 9 and 16&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;AI has manifested itself in all areas of our lives and is one of the most exciting and fast-growing fields of research and application in the world of data science. This course will provide an overview of using R and Python for some of the most popular machine learning and deep learning models in real-world data science applications in the cloud environment. The sessions will step through the basic theoretical concepts behind those models and mainly focus on applications. You will learn the motivation and use cases of these models through hands-on exercises. This short course&amp;rsquo;s main topics are: big data cloud environment, tree-based models, regularization methods, feedforward neural network, convolutional neural network, and recurrent neural network.&lt;/p&gt;
+&lt;p&gt;This course is designed for audiences with a statistics education background, and it bridges the gap between traditional statisticians and data scientists. No software download or installation is needed, and everything is done through the internet browser with hands-on sessions in Databrick&amp;rsquo;s cloud environment and Colab. This is a 7-hour remote course, and it will be delivered online with two 3.5-hour sessions on two days.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Virtual Traveling Course: Item Response Theory </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211008asa-virtual-traveling-course-item-response-theory/</link>
+      <pubDate>Fri, 08 Oct 2021 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211008asa-virtual-traveling-course-item-response-theory/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A 2-day course on Oct 8 and 9&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Foundations – A Hands-on Introduction</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211005machine-learning-foundations-a-hands-on-introduction/</link>
+      <pubDate>Tue, 05 Oct 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211005machine-learning-foundations-a-hands-on-introduction/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A 3-day course on Oct 5-7&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Outline:&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Day 1: 10/5/21:&lt;/strong&gt;  &lt;br&gt;
+Hour 1: The Philosophy of Machine and Statistical Learning- Topics include differences between Machine and Statistical Learning in goals, interpretation, and presentation.&lt;br&gt;
+Hour 2: Linear Regression - Topics include linear and multiple regression from the perspective of a Machine Learning Analyst.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Day 2: 10/6/21:&lt;/strong&gt;&lt;br&gt;
+Hour 1: Support Vector Machines - Topics include support vector machines and various kernels such as the polynomial kernel.&lt;br&gt;
+Hour 2: Resampling Methods - Topics include random splits and cross-validation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Day 3: 10/7/21:&lt;/strong&gt;&lt;br&gt;
+Hour 1: Tree-Based Methods – Topics include regression and classification trees.&lt;br&gt;
+Hour 2: LASSO, Discussion, and Questions - Topic is the least absolute shrinkage and selection operator (LASSO). This time will also be allotted for specific questions from the participants. If there is extra time, additional topics such as neural networks may be introduced.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ASA Boston Chapter Short Course: Master Protocol in Drug Development - Methodology and Implementation</title>

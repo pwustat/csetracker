@@ -5,12 +5,164 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
     </image>
+    
+    <item>
+      <title>Precision Medicine World Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220126precision-medicine-world-conference/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220126precision-medicine-world-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Sep 30, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Diagnostics and Personalized Medicine Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211208diagnostics-and-personalized-medicine-conference/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211208diagnostics-and-personalized-medicine-conference/</guid>
+      <description>&lt;p&gt;Diagnostics are important for the detection and prevention of disease, determination of treatment effectiveness, and improvement in overall health outcomes. As diagnostics can be used to develop an individualized treatment plan or predict a toxicity associated with a particular therapeutic, they are intimately associated with the field of personalized medicine. The ability to enhance patient care using personalized medicines has prompted pharmaceutical companies to increase their interest in the targeted therapy space. In fact, over the past 6 years, personalized medicines have represented more than 20 percent of FDA’s newly approved therapeutic molecular entities. Additionally, the diagnostic landscape is changing, with the advent of novel technologies and sequencing methods, and an increased focus on the role of software and novel algorithms.&lt;/p&gt;
+&lt;p&gt;As development accelerates, we can expect a growing need for clarity regarding regulatory submissions. For example, the co-development of a companion diagnostic to identify patients that will benefit from a new innovative treatment may present a regulatory challenge for companies wanting to bring them to market simultaneously via an accelerated approval pathway. Also, the need for rapid development of reliable diagnostics may cause companies to continually turn to regulators about the data necessary for approval.&lt;/p&gt;
+&lt;p&gt;At the NEW 2021 DIA Diagnostics and Personalized Medicine Conference, we will have an open dialogue about the challenges and trends in the development of diagnostics and personalized medicines today. Attendees will receive industry and regulatory perspectives on pathways for approval in the US and globally, the impact of potential legislative and regulatory changes, overcoming challenges in development, lessons learned from the COVID-19 diagnostic experience, and utilizing the patient voice.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Annual NeurIPS conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206annual-neurips-conference/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206annual-neurips-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 77th Annual Deming Conference on Applied Statistics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206the-77th-annual-deming-conference-on-applied-statistics/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206the-77th-annual-deming-conference-on-applied-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of R in Official Statistics (uRos2021)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211124use-of-r-in-official-statistics-uros2021/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211124use-of-r-in-official-statistics-uros2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eastern Asia Chapter of the International Society for Bayesian Analysis (EAC-ISBA) 2021 Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211114eac-isba-2021-conference/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211114eac-isba-2021-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twelfth American Conference on Pharmacometrics (ACoP12)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211108twelfth-american-conference-on-pharmacometrics-acop12/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211108twelfth-american-conference-on-pharmacometrics-acop12/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: August 31, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Master Protocols and Complex Innovative Design</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211104master-protocols-and-complex-innovative-design/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211104master-protocols-and-complex-innovative-design/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Sep 9, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The evolution of clinical trial designs has accelerated since the onset of the pandemic to meet patient and logistical need. While elements of randomized control trials remain a gold standard, clinical trials continue to transform, building on innovations in study design and statistical approaches, as well as regulatory flexibilities, with the promise of bringing new medicines to patients more quickly than ever.&lt;/p&gt;
+&lt;p&gt;Supported by advancement in clinical trail operations, development of digital technologies along with strong partnerships and collaborations amongst key stakeholders, clinical trials are poised to reach more people and add efficiency to clinical drug development. Master protocol and complex innovative designs continue to provide frameworks that hold enormous promise for engaging patients more productively, increasing overall efficiency and improving successful outcomes.&lt;/p&gt;
+&lt;p&gt;DIA’s Master Protocols and Complex Innovative Design Meeting will bring together a truly multidisciplinary group of experts in clinical trial planning, execution, and analysis to share and discuss both the common and unique challenges and opportunities in the adoption of master protocols and complex innovative design. Join industry, patient, regulatory agency, other government, and NGO representatives to examine the growing body of knowledge, experience, and resources available to better meet patient needs through successful implementation of innovation in clinical trial designs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bay area Biotech-pharma Statistics Workshop (BBSW) 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annual PQG (Program in Quantitative Genomics) Conference: From COVID-19 Genomics to Spread, Vaccine, and Therapy</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028annual-pqg-program-in-quantitative-genomics-conference-from-covid-19-genomics-to-spread-vaccine-and-therapy/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028annual-pqg-program-in-quantitative-genomics-conference-from-covid-19-genomics-to-spread-vaccine-and-therapy/</guid>
+      <description>&lt;p&gt;Coronavirus disease 2019 (COVID-19), caused by the Severe Acute Respiratory Syndrome Coron-aVirus 2 (SARS-CoV-2), has spread to over 200 countries across all habitable continents, resulting in hundreds of millions of cases and millions of deaths.  Although significant progress has been made on understanding the genetic and genomic underpinning of the disease and developing therapeutics and vaccines, numerous challenges need to be addressed. Examples includes the emergence of virus variants, how they spread, how the immune system responds, the impact of new variants on vaccines, the roles of host genetics and physiology on determining the disease infection and clinical course of the disease progression, and the long-term effects of the disease. The 2021 PQG conference will focus on the quantitative methods and experimental strategies to address these critical challenges in COVID-19 genomics.&lt;/p&gt;
+&lt;p&gt;Specifically, the conference will be centered on the following three topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SESSION I: Viral Genomics and Phylogenetics&lt;/li&gt;
+&lt;li&gt;SESSION II: SarsCov2 and the Host&lt;/li&gt;
+&lt;li&gt;SESSION III: Vaccine Genomics and Virology&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Technology in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211027digital-technology-in-clinical-trials/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211027digital-technology-in-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Sep 30, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Digital technology is transforming the drug development process. The rise of wearable and mobile technologies along with cloud technology, Artificial Intelligence and related platforms, now enable the collection of frequent, specific, and multidimensional data throughout the length of trials. These technologies have the potential to enable innovative trial designs, improve the patient experience, act as recruitment and retention tools, and establish novel end points in clinical studies.&lt;/p&gt;
+&lt;p&gt;With these technologies, large amounts of data are collected. How to best address evaluating fit-for-purpose, standardization, ethical concerns, and regulatory approaches, are key issues to address in the digital era.&lt;/p&gt;
+&lt;p&gt;DIA’s Digital Technology in Clinical Trials Conference will bring together thought leaders from regulatory agencies, biotech, pharma, patients, and academia to discuss the latest advances, challenges, and forward-thinking approaches for implementing digital technology to improve clinical trials. While the conference will focus on the impact of digitalization in clinical trials today, we will make time to explore future applications and how they may enable the clinical trials of tomorrow.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>28th Annual Biopharmaceutical Applied Statistics Symposium</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021102528th-annual-biopharmaceutical-applied-statistics-symposium/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021102528th-annual-biopharmaceutical-applied-statistics-symposium/</guid>
+      <description>&lt;p&gt;BASS has been serving the statistical, biopharmaceutical, and medical research communities for the past 25 years.  It provides a forum for distinguished researchers and scholars in academia, government agencies, and industries to conduct knowledge sharing, idea exchange, and productive discussions of the most up-to-date innovative research and applications to medical and health-care to enhance the health of the general public. BASS also provides financial support to graduate students studying biostatistics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DIA Real-World Evidence Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211025dia-real-world-evidence-conference/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211025dia-real-world-evidence-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Sep 30, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In a market that is constantly adapting and adjusting to the needs of the healthcare field, real-world evidence (RWE) is increasingly becoming important for regulatory and reimbursement decision-making. RWE, in relation to the real-world data that is collected in combination with the advancement of artificial intelligence-based analytics platforms, has led to the real-time analysis of data to better understand and gain insights on disease, approaches to treatment, and how to substantiate coverage decisions. Historically used for post-market safety monitoring, RWE is now becoming integrated throughout the product development lifecycle. DIA’s Real-World Evidence Conference will explore new and innovative applications of RWE and deliver cutting-edge insights through successful use cases, case examples, and practical applications on how stakeholders are leveraging RWE to advance healthcare knowledge and decision-making.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Ken Kennedy AI &amp; Data Science Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211025the-ken-kennedy-ai-data-science-conference/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211025the-ken-kennedy-ai-data-science-conference/</guid>
+      <description>&lt;p&gt;Data science is rapidly evolving as an essential interdisciplinary field, where advances often result from combinations of ideas from several disciplines. This annual conference is for professionals and practitioners working in machine learning, deep learning, data mining, artificial intelligence, or big data problems broadly. Recognizing that discovery and innovation happens at interfaces of disciplines and communities, the conference aims to bring together a diverse set of people from multiple communities spanning academia and industry.&lt;/p&gt;
+&lt;p&gt;The conference will strike a balance between applied and fundamental data science, and academia and industry. This combination of research and application discussion will create a venue for networking, collaboration, and partnership building.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MLconf2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211015mlconf2021/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211015mlconf2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerging Data Science Methods for Complex Biomedical and Cyber Data Workshop</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211014emerging-data-science-methods-for-complex-biomedical-and-cyber-data-workshop/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211014emerging-data-science-methods-for-complex-biomedical-and-cyber-data-workshop/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>International Conference on Advances in Interdisciplinary Statistics and Combinatorics 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211008aisc-2021/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211008aisc-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2021 Women in Statistics and Data Science Conference</title>
@@ -30,6 +182,15 @@
 &lt;p&gt;Grow influence by providing advice for establishing and sustaining successful careers, showcasing the accomplishments of successful women professionals, and supporting the development of leadership skills&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design &amp; Analysis of Experiments (DAE) 2021 Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211005design-analysis-of-experiments-dae-2021-conference/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211005design-analysis-of-experiments-dae-2021-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Every Tuesdays, Wednesdays, and Thursdays of October 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;DAE 2021 is the 11th event in the DAE conference series. It will focus on emerging areas of research in experimental design, as well as novel innovations in traditional areas. A salient feature of the DAE series is pairing of senior and junior researchers for mentoring purposes and DAE 2021 will follow this tradition in a virtual mode.&lt;/p&gt;</description>
     </item>
     
     <item>

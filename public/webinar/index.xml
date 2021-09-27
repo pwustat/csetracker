@@ -5,7 +5,7 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 14:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Nov 2021 10:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
@@ -13,17 +13,93 @@
     </image>
     
     <item>
-      <title>Adventures in Statistics Lecture Series by Professor Donald A. Berry</title>
+      <title>DFCI Frontiers in Biostatistics: A Bayesian Phase I/II Trial Design for Immunotherapy </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211109dfci-frontiers-in-biostatistics-a-bayesian-phase-i-ii-trial-design-for-immunotherapy/</link>
+      <pubDate>Tue, 09 Nov 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211109dfci-frontiers-in-biostatistics-a-bayesian-phase-i-ii-trial-design-for-immunotherapy/</guid>
+      <description>&lt;p&gt;Immunotherapy is an innovative treatment approach that stimulates a patient’s immune system to fight cancer. It demonstrates characteristics distinct from conventional chemotherapy and stands to revolutionize cancer treatment. We propose a Bayesian phase I/II dose-finding design that incorporates the unique features of immunotherapy by simultaneously considering three outcomes: immune response, toxicity and efficacy. The objective is to identify the biologically optimal dose, defined as the dose with the highest desirability in the risk-benefit tradeoff. An Emax model is utilized to describe the marginal distribution of the immune response. Conditional on the immune response, we jointly model toxicity and efficacy using a latent variable approach. Using the accumulating data, we adaptively randomize patients to experimental doses based on the continuously updated model estimates. A simulation study shows that our proposed design has good operating characteristics in terms of selecting the target dose and allocating patients to the target dose.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Historical Data Borrowing – Methods and Case Studies Review by DIA NEED </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</link>
+      <pubDate>Fri, 22 Oct 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Design and Implementation of Interim and Final Analyses in the Sham-Controlled Double Blind Randomized Phase III Studies in Spinal Muscular Atrophy </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022novel-design-and-implementation-of-interim-and-final-analyses-in-the-sham-controlled-double-blind-randomized-phase-iii-studies-in-spinal-muscular-atrophy/</link>
+      <pubDate>Fri, 22 Oct 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022novel-design-and-implementation-of-interim-and-final-analyses-in-the-sham-controlled-double-blind-randomized-phase-iii-studies-in-spinal-muscular-atrophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint PSI, EFSPI and ASA BIOP Webinar - Complex Innovative Designs</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021joint-psi-efspi-asa-biop-webinar-complex-innovative-designs/</link>
+      <pubDate>Thu, 21 Oct 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021joint-psi-efspi-asa-biop-webinar-complex-innovative-designs/</guid>
+      <description>&lt;p&gt;PSI, the European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) and the Biopharmaceutical Section of the American Statistical Association (ASA) are jointly organising a webinar on Complex Innovative Designs (CID) in practice.  Speakers from regulatory authorities and industry will present on their experience, which will include the following aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview of the FDA Complex Innovative Trial Design pilot program and the applications received to date together with details on some of them&lt;/li&gt;
+&lt;li&gt;Overview of the FDA guidance on interacting on Complex Innovative Trial Designs&lt;/li&gt;
+&lt;li&gt;Detailed case study of a clinical trial in children which was evaluated within FDA’s CID pilot program, applying borrowing of information from external trials in adults&lt;/li&gt;
+&lt;li&gt;Overview of statistical and regulatory considerations on master protocols, focusing on Phase III confirmatory trials.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Webinar: Hiring Great Data Science Teams</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012rstudio-webinar-hiring-great-data-science-teams/</link>
+      <pubDate>Tue, 12 Oct 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012rstudio-webinar-hiring-great-data-science-teams/</guid>
+      <description>&lt;p&gt;In this panel webinar, you will hear from leaders at RStudio, Pandora, Beam Dental, &amp;amp; Amwell, about what it takes to hire for a successful data science team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Their experiences and perspective on hiring to build great data science teams&lt;/li&gt;
+&lt;li&gt;How their teams prioritizes skills and experience in new positions&lt;/li&gt;
+&lt;li&gt;How they think about skill assessment&lt;/li&gt;
+&lt;li&gt;Their advice to data scientists just getting started&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Methods for Covid-19: Webinar on long COVID</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012statistical-methods-for-covid-19-webinar-on-long-covid/</link>
+      <pubDate>Tue, 12 Oct 2021 04:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012statistical-methods-for-covid-19-webinar-on-long-covid/</guid>
+      <description>&lt;p&gt;The RSS Official Statistics Section, in collaboration with the Health Statistics User Group (HSUG), has been running a series of webinars on statistical methods for COVID-19, aimed at sharing experiences and approaches across the UK. This series of webinars focuses on statistical methods in relation to COVID 19 statistics. At each webinar we aim to share experiences across the 4 Nations.&lt;/p&gt;
+&lt;p&gt;The sixth in this series of webinars will focus on long COVID.&lt;/p&gt;
+&lt;p&gt;A recording of the webinar will be available after the event on &lt;a href=&#34;http://www.statsusernet.org.uk&#34;&gt;www.statsusernet.org.uk&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adventures in Statistics Lecture Series by Professor Donald A. Berry </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928adventures-in-statistics-lecture-series-by-professor-donald-a-berry/</link>
       <pubDate>Tue, 28 Sep 2021 14:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928adventures-in-statistics-lecture-series-by-professor-donald-a-berry/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A seminar series on Sep 28th, Oct 26th, and Nov 30th&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sep 28&lt;/strong&gt;&lt;br&gt;
-From multi-armed bandit strategies to designs for phase 3 adaptive Bayesian platform clinical trials&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Oct 26&lt;/strong&gt;&lt;br&gt;
-How regulators and journals came to accept and perhaps even embrace adaptive Bayesian clinical trials&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nov 30&lt;/strong&gt;&lt;br&gt;
-Adaptive Bayesian platform trials and the role of regulators in promoting clinical trials with “complex innovative designs”&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A seminar series on Sep 28, Oct 26, and Nov 30&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A three-part lecture series focused on Bayesian adaptive clinical trials over time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Part One – From multi-armed bandit strategies to designs for phase 3 adaptive Bayesian platform clinical trials. 9/28/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Part Two – How regulators and journals came to accept and perhaps even embrace adaptive Bayesian clinical trials. 10/26/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Part Three – Adaptive Bayesian platform trials and the role of regulators in promoting clinical trials with “complex innovative designs.” 11/30/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA SLDS Webinar: Happier Version Control with Git and GitHub </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928asa-slds-webinar-happier-version-control-with-git-and-github/</link>
+      <pubDate>Tue, 28 Sep 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928asa-slds-webinar-happier-version-control-with-git-and-github/</guid>
+      <description>&lt;p&gt;Git is the industry-standard platform for version control, and GitHub is the online platform for managing git projects. I will give a broad overview of the git application and GitHub platform, with specific applications illustrated with Rstudio. Following the book, &amp;ldquo;Happy git with R&amp;rdquo; by Jenny Bryan, I will show how to set up a GitHub account and connect it to Rstudio, create Rstudio projects that use git for version checking, and manage these projects using GitHub. I will demonstrate key verbs in the git language, including adding files to be committed, committing changes to files, and pushing changes into GitHub. I will also show elementary examples of collaboration with GitHub.&lt;/p&gt;</description>
     </item>
     
     <item>
