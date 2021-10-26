@@ -8,7 +8,7 @@ tags: []
 type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.com/e/sdasa-q4-webinar-adaptive-2-in-1-design-and-extensions-tickets-182039684597
-url_slides: ./2in1_SDASA_2021.pdf
+url_slides: slides/2in1_SDASA_2021.pdf
 url_video: no
 url_agenda: ~
 url_website: ~
