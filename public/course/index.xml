@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 02:45:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 06:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
     </image>
+    
+    <item>
+      <title>State-of-the-Art Strategies for Addressing Selection Bias When Comparing Two or More Treatment Groups</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211105state-of-the-art-strategies-for-addressing-selection-bias/</link>
+      <pubDate>Fri, 05 Nov 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211105state-of-the-art-strategies-for-addressing-selection-bias/</guid>
+      <description>&lt;p&gt;&lt;em&gt;ASA Wisconsin Chapter Traveling Course&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>PSI Training Course: R for Clinical Trial Statisticians</title>
