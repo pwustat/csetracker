@@ -131,6 +131,14 @@
     </item>
     
     <item>
+      <title>Master Protocols: The Next Iteration - What Past Lessons Tell Us About Designing New Trial</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211025master-protocols-the-next-iteration-what-past-lessons-tell-us-about-designing-new-trial/</link>
+      <pubDate>Mon, 25 Oct 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211025master-protocols-the-next-iteration-what-past-lessons-tell-us-about-designing-new-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>28th Annual Biopharmaceutical Applied Statistics Symposium</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021102528th-annual-biopharmaceutical-applied-statistics-symposium/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
@@ -165,6 +173,18 @@
     </item>
     
     <item>
+      <title>Adaptive 2-in-1 Design and Extensions </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022adaptive-2-in-1-design-and-extensions/</link>
+      <pubDate>Fri, 22 Oct 2021 14:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022adaptive-2-in-1-design-and-extensions/</guid>
+      <description>&lt;p&gt;&lt;em&gt;ASA San Diego Chapter Webinar&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The 2-in-1 adaptive design allows seamless expansion of an ongoing Phase 2 trial into a Phase 3 trial to expedite a drug development program. Under a mild assumption that is expected to generally hold in practice, the trial can be tested at the full alpha level with or without expansion. The endpoint used for expansion decision can be the same as or different from the primary endpoints, and there is no restriction on the expansion bar. Due to its flexibility and robustness, it has drawn immediate attention to academic researchers and industry practitioners. The design has been substantially extended in the literature and successfully implemented in multiple trials.&lt;/p&gt;
+&lt;p&gt;In this presentation, we will discuss about decision on the expansion bar as well as various extensions of the 2-in-1 design.&lt;/p&gt;
+&lt;p&gt;A live Q&amp;amp;A and networking will follow after the presentation.&lt;/p&gt;
+&lt;p&gt;Reference: Chen, C., Anderson, K., Mehrotra, D. V., Rubin, E. H., &amp;amp; Tse, A. (2018). A 2-in-1 adaptive phase 2/3 design for expedited oncology drug development. Contemporary clinical trials, 64, 238-242.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Historical Data Borrowing – Methods and Case Studies Review by DIA NEED </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</link>
       <pubDate>Fri, 22 Oct 2021 09:00:00 -0700</pubDate>
@@ -181,6 +201,57 @@
     </item>
     
     <item>
+      <title>NIC-ASA and ICSA Midwest Chapter Joint Fall Meeting</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</link>
+      <pubDate>Fri, 22 Oct 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</guid>
+      <description>&lt;p&gt;Agenda and Program is as follows:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8:00 to 8:10&lt;/strong&gt;   Opening Remarks, Li Wang from AbbVie and James Myles from Astellas&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8:10 to 9:10&lt;/strong&gt;   Keynote Speaker: Dr. Yaning Wang, former Director of Division of Pharmacometrics, Center for Drug Evaluation and Research, FDA, Current CEO of Lang Lai Pharma (45 mins, 15 mins Q&amp;amp;A)
+&amp;ldquo;Misconceptions and Facts about Aducanumab Approval&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9:10 – 9:15 break&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9:15 to 10:45 Session 1, Lung Transplant Real-World Evidence Submission: A Case Study&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Astellas: Richard Croy, David Nimke, Josie Wolfram&lt;/li&gt;
+&lt;li&gt;Chronic Disease Research Group: Tim Weaver&lt;/li&gt;
+&lt;li&gt;FDA: Taehyun (Ryan) Jung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;10:45 – 10:50 break&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:50 – 12:20pm Session 2, Machine Learning Methods for Risk Prediction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Leveraging longitudinal and multi-modal EHR in Clinical Predictions&amp;rdquo; Yifan Peng (Cornell University)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Comparison of the State-of-the-Art Neural Network Survival Models and Pooled Cohort Equations on Cardiovascular Disease Risk Prediction&amp;rdquo; Yu Deng (Northwestern University)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Deep Neural Network with a Smooth Monotonic Output Layer for Dynamic Risk Prediction&amp;rdquo; Zhiyang Zhou (University of Manitoba)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:20 to 1pm Lunch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:00 to 2:30pm Session 3, Innovative Trial Designs&lt;/strong&gt;&lt;br&gt;
+BOIN12: Bayesian Optimal Interval Phase I/II Trial Design for Utility-Based Dose Finding in Immunotherapy and Targeted Therapies Ying Yuan (University of Texas MD Anderson Cancer Center)&lt;/p&gt;
+&lt;p&gt;Simultaneous False-Regulatory Error Rates in Master Protocols with Shared Control: False Discovery Rate Perspective. Jingjing Ye (BeiGene)&lt;/p&gt;
+&lt;p&gt;Practical Response Adaptive Randomization Designs with Efficient Inference Procedures Tianyu Zhan (AbbVie)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:30pm – 2:35pm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:35pm – 4:05pm Session 4, Innovative Design and Analysis for Time to Event Trials&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Time-to-event Bayesian optimal interval design to accelerate dose-finding accounting for toxicity grades&amp;rdquo; Qing Xia  (University of Kansas Medical Center)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Handling Death as an Intercurrent Event in Time to Recovery Analysis in COVID-19 Treatment Clinical Trials&amp;rdquo; Hong Li (AbbVie)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Bayesian Interim Decision Strategy in Phase III Time-To-Event Study&amp;rdquo; David Ipe (AbbVie)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4:05pm – 4:10pm Closing Remark&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BBSW 2021 October Meetup: Endpoints and Statistical Methods in Alzheimer’s Disease </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021bbsw-2021-october-meetup/</link>
+      <pubDate>Thu, 21 Oct 2021 16:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021bbsw-2021-october-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase I trials in oncology: Pros and cons of current designs</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021phase-i-trials-in-oncology-pros-and-cons-of-current-designs/</link>
+      <pubDate>Thu, 21 Oct 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021phase-i-trials-in-oncology-pros-and-cons-of-current-designs/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IDDI webinar&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Joint PSI, EFSPI and ASA BIOP Webinar - Complex Innovative Designs</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021joint-psi-efspi-asa-biop-webinar-complex-innovative-designs/</link>
       <pubDate>Thu, 21 Oct 2021 06:00:00 -0700</pubDate>
@@ -192,6 +263,33 @@
 &lt;li&gt;Detailed case study of a clinical trial in children which was evaluated within FDA’s CID pilot program, applying borrowing of information from external trials in adults&lt;/li&gt;
 &lt;li&gt;Overview of statistical and regulatory considerations on master protocols, focusing on Phase III confirmatory trials.&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Treatment-free Survival as a Novel Outcome Measure of Immuno-oncology-based Therapy</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211019treatment-free-survival/</link>
+      <pubDate>Tue, 19 Oct 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211019treatment-free-survival/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Frontiers in Biostatistics by Dana-Farber Cancer Institute&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Master Protocols: Trends in Bayesian Basket Studies</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211018trends-in-bayesian-basket-studies/</link>
+      <pubDate>Mon, 18 Oct 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211018trends-in-bayesian-basket-studies/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A webinar series on master protocol by Cytel&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Possible Hazards of Proportional Hazards Models</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211015possible-hazards-of-proportional-hazards-models/</link>
+      <pubDate>Fri, 15 Oct 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211015possible-hazards-of-proportional-hazards-models/</guid>
+      <description>&lt;p&gt;&lt;em&gt;ASA North Carolina Chapter Webinar&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Cox proportional hazard (PH) model is widely used to determine the effects of risk factors and treatments on survival time of subjects that might be right censored. The selection of covariates may depend crucially on the specific form of the chosen conditional hazard model, which is often assumed to be PH, accelerated failure time (AFT), or proportional odds (PO). However, through empirical and theoretical
+examples show that none of these semiparametric models allow for the crossing of the survival functions and hence such strong assumptions may adversely affect the selection of variables. Moreover, the most commonly
+used PH assumption may also be violated when there is a delayed effect of the risk factors. A sequence of Bernstein polynomials based model is instead presented which provides (i) a smooth estimator of the conditional hazard function and is shown to be a unique solution of a strictly convex optimization problem; making it computationally attractive, (ii) a model that encompasses PH structure, and (iii) large sample properties including consistency and convergence rates established under a set of mild regularity conditions. Empirical results based on several simulated data scenarios indicate that the superior performances of the model and thereby shown to avoid possible hazards of the proportional hazard like assumptions.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -211,6 +309,29 @@
     </item>
     
     <item>
+      <title>PSI Training Course: Repeated Measured and Mixed Models</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211014psi-training-course-repeated-measured-and-mixed-models/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211014psi-training-course-repeated-measured-and-mixed-models/</guid>
+      <description>&lt;p&gt;Repeated measures of patients through time and other clustered data are common in randomised clinical trials and associated observational studies. Measurements taken from the same patient (or from the same cluster) are likely to be correlated, so that the assumption that all responses will be identically distributed and independent from each other will not hold. Ignoring within-cluster correlation will result in bias in the estimate of the treatment effect standard error and therefore, incorrect confidence intervals and hypothesis tests. In some situations it can also result in bias in the treatment estimate itself. Using a range of worked examples, this course will explain how to analyse repeated measures and other clustered data, with an emphasis on estimating treatment effects using the appropriate covariance structure between measurements.&lt;/p&gt;
+&lt;p&gt;This course is presented through recorded lectures and online practical sessions using SAS code. It is suitable for statisticians working on clinical trials, who already have a good understanding of linear and generalised linear models.&lt;/p&gt;
+&lt;p&gt;Topics covered include:&lt;br&gt;
+• Conditional models for continuous hierarchical data&lt;br&gt;
+• Conditional models for continuous longitudinal data&lt;br&gt;
+• Marginal models (GEE) for continuous longitudinal data&lt;br&gt;
+• Discrete data&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>An Overview of Data Monitoring Committees (DMCs) / Data Safety Monitoring Boards (DSMBs)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012an-overview-of-dmc/</link>
+      <pubDate>Tue, 12 Oct 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012an-overview-of-dmc/</guid>
+      <description>&lt;p&gt;&lt;em&gt;ASA Statistical Programmers and Analysts (SSPA) Section Webinar&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Clinical trials are experiments performed on human volunteers to evaluate a candidate intervention to a control. Randomizing participants to an intervention arm is the gold standard to causally assess the benefit-to-risk ratio.  While clinical trials require appropriate design considerations and pre-specification of analytic methods, interim monitoring of study recruitment, retention, safety, and efficacy are essential to preserve trial integrity.  To this end, a Data Monitoring Committee (DMC, also referred to as a Data Safety Monitoring Board/Committee, DSMB/DSMC) typically comprised of 3-5 experts, including clinicians and a (bio)statistician, serves to safeguard trial participants, assess benefit-to-risk, and provide recommendations to the sponsor (e.g., pharmaceutical company or government institution) based on accumulating trial data.  Statisticians play critical roles on the DMC, the sponsor&amp;rsquo;s study team, and as an independent statistician (receives and summarizes unblinded data for DMC review).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>RStudio Webinar: Hiring Great Data Science Teams</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012rstudio-webinar-hiring-great-data-science-teams/</link>
       <pubDate>Tue, 12 Oct 2021 09:00:00 -0700</pubDate>
@@ -222,6 +343,14 @@
 &lt;li&gt;How they think about skill assessment&lt;/li&gt;
 &lt;li&gt;Their advice to data scientists just getting started&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Master Protocols in a Global Health Context</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012master-protocols-in-a-global-health-context/</link>
+      <pubDate>Tue, 12 Oct 2021 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012master-protocols-in-a-global-health-context/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A webinar series on master protocol by Cytel&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -2193,6 +2322,14 @@ Nonmembers: $35&lt;/p&gt;
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210211bias-and-randomization-1980-2020-2060/</guid>
       <description>&lt;p&gt;Learn on history of bias and randomization in oncology clinical trials and how to think about what constitutes persuasive evidence of treatment efficacy and safety.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio::global 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210121rstudio-global-2021/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210121rstudio-global-2021/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.rstudio.com/2021/03/16/r-in-pharma-with-procogia-x-session-recordings-are-now-available/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Additional recordings&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

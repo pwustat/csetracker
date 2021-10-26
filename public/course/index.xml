@@ -29,6 +29,20 @@
     </item>
     
     <item>
+      <title>PSI Training Course: Repeated Measured and Mixed Models</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211014psi-training-course-repeated-measured-and-mixed-models/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211014psi-training-course-repeated-measured-and-mixed-models/</guid>
+      <description>&lt;p&gt;Repeated measures of patients through time and other clustered data are common in randomised clinical trials and associated observational studies. Measurements taken from the same patient (or from the same cluster) are likely to be correlated, so that the assumption that all responses will be identically distributed and independent from each other will not hold. Ignoring within-cluster correlation will result in bias in the estimate of the treatment effect standard error and therefore, incorrect confidence intervals and hypothesis tests. In some situations it can also result in bias in the treatment estimate itself. Using a range of worked examples, this course will explain how to analyse repeated measures and other clustered data, with an emphasis on estimating treatment effects using the appropriate covariance structure between measurements.&lt;/p&gt;
+&lt;p&gt;This course is presented through recorded lectures and online practical sessions using SAS code. It is suitable for statisticians working on clinical trials, who already have a good understanding of linear and generalised linear models.&lt;/p&gt;
+&lt;p&gt;Topics covered include:&lt;br&gt;
+• Conditional models for continuous hierarchical data&lt;br&gt;
+• Conditional models for continuous longitudinal data&lt;br&gt;
+• Marginal models (GEE) for continuous longitudinal data&lt;br&gt;
+• Discrete data&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA Traveling Short Course (Boston Chapter): Introduction to Data Science, Machine Learning and Deep Learning in R and Python </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211009asa-traveling-short-course-boston-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
       <pubDate>Sat, 09 Oct 2021 08:00:00 -0700</pubDate>

@@ -8,10 +8,10 @@ tags: []
 type: webinar
 url_register: ~
 url_freeregister: https://mdacc.zoom.us/webinar/register/WN_Q3Aj9WznQhq9-e1XsWmrRA?_x_zm_rtaid=j_0BPRHVQD625_nRaWkUDg.1632713682155.26b0e871c21af70aae1362b4dd87621d&_x_zm_rhtaid=991
-url_slides: ~
-url_video: no
+url_slides: ./MDACC Webinar Sept 2021.pdf
+url_video: https://openworks.mdanderson.org/biostatistics_adventures/1/
 url_agenda: ~
-url_website: ~
+url_website: https://openworks.mdanderson.org/biostatistics_adventures/
 url_audio: ~
 url_code: ~
 url_pdf: ~

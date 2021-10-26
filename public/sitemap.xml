@@ -88,6 +88,21 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211025master-protocols/</loc>
+    <lastmod>2021-10-25T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211025master-protocols-the-next-iteration-what-past-lessons-tell-us-about-designing-new-trial/</loc>
+    <lastmod>2021-10-25T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tags/</loc>
+    <lastmod>2021-10-25T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/2021102528th-annual-biopharmaceutical-applied-statistics-symposium/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -108,6 +123,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022adaptive-2-in-1-design-and-extensions/</loc>
+    <lastmod>2021-10-22T14:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</loc>
     <lastmod>2021-10-22T09:00:00-07:00</lastmod>
   </url>
@@ -118,8 +138,48 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</loc>
+    <lastmod>2021-10-22T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021bbsw-2021-october-meetup/</loc>
+    <lastmod>2021-10-21T16:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021phase-i-trials-in-oncology-pros-and-cons-of-current-designs/</loc>
+    <lastmod>2021-10-21T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021joint-psi-efspi-asa-biop-webinar-complex-innovative-designs/</loc>
     <lastmod>2021-10-21T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211019immuno-oncology/</loc>
+    <lastmod>2021-10-19T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211019survival/</loc>
+    <lastmod>2021-10-19T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211019treatment-free-survival/</loc>
+    <lastmod>2021-10-19T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211018trends-in-bayesian-basket-studies/</loc>
+    <lastmod>2021-10-18T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211015possible-hazards-of-proportional-hazards-models/</loc>
+    <lastmod>2021-10-15T09:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -133,8 +193,23 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20211014psi-training-course-repeated-measured-and-mixed-models/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012an-overview-of-dmc/</loc>
+    <lastmod>2021-10-12T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012rstudio-webinar-hiring-great-data-science-teams/</loc>
     <lastmod>2021-10-12T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012master-protocols-in-a-global-health-context/</loc>
+    <lastmod>2021-10-12T08:30:00-07:00</lastmod>
   </url>
   
   <url>
@@ -239,11 +314,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210914covid-19/</loc>
-    <lastmod>2021-09-14T10:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tags/</loc>
     <lastmod>2021-09-14T10:00:00-07:00</lastmod>
   </url>
   
@@ -510,11 +580,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210624airborne-transmission-of-the-virus-sars-cov-2/</loc>
     <lastmod>2021-06-24T13:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210624survival/</loc>
-    <lastmod>2021-06-24T10:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -1270,6 +1335,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210211bias-and-randomization-1980-2020-2060/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20210121rstudio-global-2021/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>

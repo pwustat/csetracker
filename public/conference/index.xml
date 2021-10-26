@@ -141,6 +141,41 @@
     </item>
     
     <item>
+      <title>NIC-ASA and ICSA Midwest Chapter Joint Fall Meeting</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</link>
+      <pubDate>Fri, 22 Oct 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</guid>
+      <description>&lt;p&gt;Agenda and Program is as follows:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8:00 to 8:10&lt;/strong&gt;   Opening Remarks, Li Wang from AbbVie and James Myles from Astellas&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8:10 to 9:10&lt;/strong&gt;   Keynote Speaker: Dr. Yaning Wang, former Director of Division of Pharmacometrics, Center for Drug Evaluation and Research, FDA, Current CEO of Lang Lai Pharma (45 mins, 15 mins Q&amp;amp;A)
+&amp;ldquo;Misconceptions and Facts about Aducanumab Approval&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9:10 – 9:15 break&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9:15 to 10:45 Session 1, Lung Transplant Real-World Evidence Submission: A Case Study&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Astellas: Richard Croy, David Nimke, Josie Wolfram&lt;/li&gt;
+&lt;li&gt;Chronic Disease Research Group: Tim Weaver&lt;/li&gt;
+&lt;li&gt;FDA: Taehyun (Ryan) Jung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;10:45 – 10:50 break&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:50 – 12:20pm Session 2, Machine Learning Methods for Risk Prediction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Leveraging longitudinal and multi-modal EHR in Clinical Predictions&amp;rdquo; Yifan Peng (Cornell University)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Comparison of the State-of-the-Art Neural Network Survival Models and Pooled Cohort Equations on Cardiovascular Disease Risk Prediction&amp;rdquo; Yu Deng (Northwestern University)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Deep Neural Network with a Smooth Monotonic Output Layer for Dynamic Risk Prediction&amp;rdquo; Zhiyang Zhou (University of Manitoba)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:20 to 1pm Lunch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:00 to 2:30pm Session 3, Innovative Trial Designs&lt;/strong&gt;&lt;br&gt;
+BOIN12: Bayesian Optimal Interval Phase I/II Trial Design for Utility-Based Dose Finding in Immunotherapy and Targeted Therapies Ying Yuan (University of Texas MD Anderson Cancer Center)&lt;/p&gt;
+&lt;p&gt;Simultaneous False-Regulatory Error Rates in Master Protocols with Shared Control: False Discovery Rate Perspective. Jingjing Ye (BeiGene)&lt;/p&gt;
+&lt;p&gt;Practical Response Adaptive Randomization Designs with Efficient Inference Procedures Tianyu Zhan (AbbVie)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:30pm – 2:35pm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:35pm – 4:05pm Session 4, Innovative Design and Analysis for Time to Event Trials&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Time-to-event Bayesian optimal interval design to accelerate dose-finding accounting for toxicity grades&amp;rdquo; Qing Xia  (University of Kansas Medical Center)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Handling Death as an Intercurrent Event in Time to Recovery Analysis in COVID-19 Treatment Clinical Trials&amp;rdquo; Hong Li (AbbVie)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Bayesian Interim Decision Strategy in Phase III Time-To-Event Study&amp;rdquo; David Ipe (AbbVie)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4:05pm – 4:10pm Closing Remark&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>MLconf2021</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211015mlconf2021/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
@@ -517,6 +552,14 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</guid>
       <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
 &lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio::global 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210121rstudio-global-2021/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210121rstudio-global-2021/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.rstudio.com/2021/03/16/r-in-pharma-with-procogia-x-session-recordings-are-now-available/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Additional recordings&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
