@@ -58,13 +58,33 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202111062021-nextgen-data-science-day-dsd-conference/</loc>
+    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202111053rd-annual-health-data-science-symposium-at-harvard/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20211104master-protocols-and-complex-innovative-design/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211103natural-language-processing-for-clinical-trial-analytics/</loc>
+    <lastmod>2021-11-03T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20211102r-pharma-2021/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,8 +103,23 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028pydata-global-2021/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211027applied-data-science-for-predictive-time-series-analytics/</loc>
+    <lastmod>2021-10-27T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20211027digital-technology-in-clinical-trials/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211026response-assessment-in-cancer-clinical-trials/</loc>
+    <lastmod>2021-10-26T07:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -1485,6 +1520,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201027clinical-trials-for-and-despite-covid-19/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202010232020-annual-health-data-science-symposium-at-harvard/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>

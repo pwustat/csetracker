@@ -79,6 +79,22 @@
     </item>
     
     <item>
+      <title>2021 NextGen Data Science Day (DSD) Conference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202111062021-nextgen-data-science-day-dsd-conference/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202111062021-nextgen-data-science-day-dsd-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3rd Annual Health Data Science Symposium at Harvard</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202111053rd-annual-health-data-science-symposium-at-harvard/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202111053rd-annual-health-data-science-symposium-at-harvard/</guid>
+      <description>&lt;p&gt;Smartphones, Wearables, and Health&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Master Protocols and Complex Innovative Design</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211104master-protocols-and-complex-innovative-design/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
@@ -90,10 +106,27 @@
     </item>
     
     <item>
+      <title>Natural Language Processing for Clinical Trial Analytics </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211103natural-language-processing-for-clinical-trial-analytics/</link>
+      <pubDate>Wed, 03 Nov 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211103natural-language-processing-for-clinical-trial-analytics/</guid>
+      <description>&lt;p&gt;It’s well-known that clinical trials are one of the most expensive parts of the drug development process. Addressable bottlenecks include improving access to knowledge for protocol design such as site selection, assessment schedules, eligibility criteria, and more. As well as clinical trial design, data extraction from clinical literature is also useful for other applications such as competitive intelligence.&lt;/p&gt;
+&lt;p&gt;Such extraction, usually done manually, is often tedious and error-prone. Linguamatics NLP is a valuable technology for extracting and synthesizing the high value information that is found in unstructured text. In this webinar, we will discuss the benefits of text analytics and natural language processing over internal and external clinical trial data to optimize clinical trial design and gain knowledge from legacy data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Bay area Biotech-pharma Statistics Workshop (BBSW) 2021</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R/Pharma 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211102r-pharma-2021/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211102r-pharma-2021/</guid>
       <description></description>
     </item>
     
@@ -120,6 +153,24 @@
     </item>
     
     <item>
+      <title>PyData Global 2021</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028pydata-global-2021/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028pydata-global-2021/</guid>
+      <description>&lt;p&gt;The PyData Global Online Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a virtual forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.&lt;/p&gt;
+&lt;p&gt;This three-day online event consists of talks, tutorials, and discussions to bring attendees the latest project features along with cutting edge use cases.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Applied Data Science for Predictive Time Series Analytics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211027applied-data-science-for-predictive-time-series-analytics/</link>
+      <pubDate>Wed, 27 Oct 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211027applied-data-science-for-predictive-time-series-analytics/</guid>
+      <description>&lt;p&gt;&lt;em&gt;ASA SLDS Webinar&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Predictive time series analytics forms a key capability in realizing the vision of trustworthy and performant AI systems in a wide range of application domains from autonomous driving to cloud-native computing systems. Time series data helps capture rich temporal phenomena such as anomalous data trends or faulty system behavior, yet is challenging to analyze due to its high volume and complexity. This talk will highlight some of these challenges with real-world examples and introduce a selection of novel data science tools and techniques for tackling them in practice.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Digital Technology in Clinical Trials</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211027digital-technology-in-clinical-trials/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
@@ -128,6 +179,14 @@
 &lt;p&gt;Digital technology is transforming the drug development process. The rise of wearable and mobile technologies along with cloud technology, Artificial Intelligence and related platforms, now enable the collection of frequent, specific, and multidimensional data throughout the length of trials. These technologies have the potential to enable innovative trial designs, improve the patient experience, act as recruitment and retention tools, and establish novel end points in clinical studies.&lt;/p&gt;
 &lt;p&gt;With these technologies, large amounts of data are collected. How to best address evaluating fit-for-purpose, standardization, ethical concerns, and regulatory approaches, are key issues to address in the digital era.&lt;/p&gt;
 &lt;p&gt;DIA’s Digital Technology in Clinical Trials Conference will bring together thought leaders from regulatory agencies, biotech, pharma, patients, and academia to discuss the latest advances, challenges, and forward-thinking approaches for implementing digital technology to improve clinical trials. While the conference will focus on the impact of digitalization in clinical trials today, we will make time to explore future applications and how they may enable the clinical trials of tomorrow.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Response Assessment in Cancer Clinical Trials </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211026response-assessment-in-cancer-clinical-trials/</link>
+      <pubDate>Tue, 26 Oct 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211026response-assessment-in-cancer-clinical-trials/</guid>
+      <description>&lt;p&gt;Overall survival or progression-free survival are considered gold standard primary endpoints in Phase III cancer trials but their use in earlier trials has been limited due to the long follow-up time required in most diseases. Instead response to treatment, defined as a certain amount of shrinkage in the sum of tumor sizes, is commonly used in Phase Ib and II settings. Despite this common use, definition of response is very challenging, in particular dealing with multiple lesions, determining the cutoff in shrinkage, the time of response assessment, dealing with new lesions and measurement error due to reader-to-reader variability. The correlation with clinical outcomes and survival is not always as strong as one would expect for a myriad of these reasons. We will present our joint work in this field with a history of 20 years, pointing out to improvements in the field as well as the remaining challenges.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -2648,6 +2707,14 @@ Ram C. Tiwari, Ph.D. Head of Statistical Methodology, Bristol Myers Squibb&lt;br
 &lt;li&gt;the impact the pandemic is having on clinical trials in several fields, including oncology and cardiology.&lt;/li&gt;
 &lt;li&gt;practical issues pertaining to trial design and conduct, including for data capture, data management, statistical analysis, and patient follow-up, all of which affected by the current crisis.&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020 Annual Health Data Science Symposium at Harvard</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202010232020-annual-health-data-science-symposium-at-harvard/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202010232020-annual-health-data-science-symposium-at-harvard/</guid>
+      <description></description>
     </item>
     
     <item>
