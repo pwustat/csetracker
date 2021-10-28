@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://ncsu.zoom.us/meeting/register/tJUtcO2prT4sG9ait0X8o_zeMBrKlBW16pbE
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=azqKYjSYiPY
 url_agenda: ~
 url_website: ~
 url_audio: ~

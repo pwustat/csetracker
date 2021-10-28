@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RWE | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211022rwe/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20211022rwe/index.xml" rel="self" type="application/rss+xml" />
+    <description>RWE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 09:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>RWE</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211022rwe/</link>
+    </image>
+    
+    <item>
+      <title>Historical Data Borrowing – Methods and Case Studies Review by DIA NEED </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</link>
+      <pubDate>Fri, 22 Oct 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In life-threatening/rare diseases, randomized controlled trial often runs into feasibility and even ethical issue. Single-arm interventional trial with historical control (HC) as the comparator, highlighted in the recent FDA Real World Evidence (RWE) framework, provides an alternative approach to assess the effectiveness of the investigative therapy in these challenging scenarios. A roadmap of using HC in clinical trials by DIA NEED team will be introduced and then followed by the discussions on statistical methodologies commonly used with HC. In the end, a few selected NDA/BLA filing cases, where HC was used as the comparator in the pivotal trials, will be presented, providing some practical guidance on incorporating historical data from the stage of trial design to the stage of data analysis. Our main findings and recommendation are published at Orphanet Journal of Rare Diseases in 2020.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Non-Randomized Studies and Utilization of Real-World Evidence</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201217non-randomized-studies-and-utilization-of-real-world-evidence/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201217non-randomized-studies-and-utilization-of-real-world-evidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head-to-Head Comparison Using Real-World Data: Study Design Considerations and an Update on the Pilot Investigation in Cancer</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head-to-head Comparisons using Real-World Data: Design and Data Source Considerations from Pilot Investigations in Cardiovascular Disease</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head-to-Head Comparisons using Real World Data: The Time for Causal Inference is Now</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

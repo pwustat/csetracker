@@ -71,7 +71,8 @@
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</link>
       <pubDate>Fri, 22 Oct 2021 09:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In life-threatening/rare diseases, randomized controlled trial often runs into feasibility and even ethical issue. Single-arm interventional trial with historical control (HC) as the comparator, highlighted in the recent FDA Real World Evidence (RWE) framework, provides an alternative approach to assess the effectiveness of the investigative therapy in these challenging scenarios. A roadmap of using HC in clinical trials by DIA NEED team will be introduced and then followed by the discussions on statistical methodologies commonly used with HC. In the end, a few selected NDA/BLA filing cases, where HC was used as the comparator in the pivotal trials, will be presented, providing some practical guidance on incorporating historical data from the stage of trial design to the stage of data analysis. Our main findings and recommendation are published at Orphanet Journal of Rare Diseases in 2020.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -259,6 +260,15 @@ open a new door to understand and analyze comparative studies based on covariate
     </item>
     
     <item>
+      <title>Design Considerations in COVID-19 Master Protocols -- ACTIV-2 Trial</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917design-considerations-in-covid-19-master-protocols-activ-2-trial/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917design-considerations-in-covid-19-master-protocols-activ-2-trial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Part of Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ACTIV-2 is a major international platform trial led by the NIH-funded AIDS Clinical Trials  Group.  It was designed in response to the COVID-19 pandemic and has evaluated several candidate agents for the treatment of non-hospitalized people with symptomatic COVID-19, with the aim of reducing hospitalizations and deaths.  The design incorporates novel design features including the sharing of placebo control groups, potentially with different placebos for each candidate agent, and a seamless transition from phase 2 to phase 3 evaluation.  I will discuss the design and implementation of this complex trial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA BIOP Webinar: Putting Pharmacovigilance into Action</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210916asa-biop-webinar-putting-pharmacovigilance-into-action/</link>
       <pubDate>Thu, 16 Sep 2021 07:00:00 -0700</pubDate>
@@ -320,7 +330,15 @@ Jerry Ping, Ph.D., Director of Biostatistics at Pharmacyclics, An Abbvie Company
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210903adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy/</link>
       <pubDate>Fri, 03 Sep 2021 06:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210903adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy/</guid>
-      <description>&lt;p&gt;This event is part of the Fifth Boston Pharmaceutical Symposium.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Immuno-oncology (I-O) and cell therapy, the frontier of cancer treatment, is a rapidly developing area that brings new opportunities to patients. It is critical to identify optimal dose and patient populations in early phase of trials thus improving the probability of success in pivotal trials. Given the complex mechanism interacting with immune system and patient heterogeneity, the conventional oncology dose finding design may not serve the purpose. For example, it is questionable to believe the monotone relationship between dose level and safety/efficacy, which will likely result in inappropriate dose selection using designs with monotone assumption. Additionally, considering the immune system pathway, designs ignoring the heterogeneity of the patient populations may provide misleading dose decisions, which could be either unsafe or lead to selection mistakes for targeted population.&lt;/p&gt;
+&lt;p&gt;This seminar will provide a review and discussion of innovative designs for optimal dose determination in I-O and Cell Therapy from the following perspectives&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dose finding focusing on DLT&lt;/li&gt;
+&lt;li&gt;Dose finding considering late onset toxicity&lt;/li&gt;
+&lt;li&gt;Dose finding in basket trials with borrowing scheme&lt;/li&gt;
+&lt;li&gt;Optimal dose identification design incorporating both safety and efficacy endpoints&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -594,6 +612,29 @@ Shifts&lt;/p&gt;</description>
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Elena Polverejan &amp;amp; Vladimir Dragalin (2020) &lt;strong&gt;Aligning Treatment Policy Estimands and Estimators—A Simulation Study in Alzheimer’s Disease&lt;/strong&gt;, &lt;em&gt;Statistics in Biopharmaceutical Research&lt;/em&gt;, 12:2, 142-154, DOI: &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/19466315.2019.1689845&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1080/19466315.2019.1689845&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Use of Real World Data/Real World Evidence in Clinical Development</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723use-of-real-world-data-real-world-evidence-in-clinical-development/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723use-of-real-world-data-real-world-evidence-in-clinical-development/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In recent years, the rapid increase in the volume, variety, and accessibility of digitized RWD and RWE has presented unprecedented opportunities for the use of RWD and RWE throughout the drug product lifecycle. We believe RWD and RWE will be leading the statistical innovation in healthcare industry and regulatory decision making for the next decades. In clinical development, RWD and RWE have the potential to improve the planning and execution of clinical trials and create a virtual control arm for a single arm for accelerated approval and label expansion. From the product lifecycle perspective, effective insights gleaned from RWE bring about informative relative benefits of drugs, comparative effectiveness, price optimization, and new indications.  Aiming to present a wide range of RWE applications throughout the lifecycle of drug product development, we have written a book &amp;ldquo;Real-World Evidence in Drug Development and Evaluation&amp;rdquo; which was published in February 2021. At the 2021 Boston Pharma Symposium, we are excited to share with researchers Chapter 4 – External Control Using RWE and Historical Data in Clinical Development. This seminar will discuss the recent case studies that adopted RWD and RWE in the clinical development and evaluation from the following perspectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Utilize synthetic control to support single arm study&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utilize natural history study for rare disease development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utilize RWD/historical data for label expansion&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Practical considerations of using RWD/historical data in the clinical development&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
