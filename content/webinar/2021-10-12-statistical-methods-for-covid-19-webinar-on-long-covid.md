@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://rss.org.uk/training-events/events/events-2021/sections/statistical-methods-for-covid-19-webinar-on-long-c/
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=YgTLod3T4Mc
 url_agenda: ~
 url_website: ~
 url_audio: ~

@@ -5,12 +5,12 @@ author: ''
 date: '2021-09-17T09:00:00-07:00'
 slug: dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd
 categories: []
-tags: []
+tags: [recorded]
 type: webinar
 url_register: ~
 url_freeregister: https://dahshu.wildapricot.org/event-4478369
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=Dg39g5rAQ68
 url_agenda: ~
 url_website: ~
 url_audio: ~

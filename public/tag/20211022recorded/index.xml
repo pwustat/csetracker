@@ -22,12 +22,98 @@
     </item>
     
     <item>
+      <title>Joint PSI, EFSPI and ASA BIOP Webinar - Complex Innovative Designs</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021joint-psi-efspi-asa-biop-webinar-complex-innovative-designs/</link>
+      <pubDate>Thu, 21 Oct 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021joint-psi-efspi-asa-biop-webinar-complex-innovative-designs/</guid>
+      <description>&lt;p&gt;PSI, the European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) and the Biopharmaceutical Section of the American Statistical Association (ASA) are jointly organising a webinar on Complex Innovative Designs (CID) in practice.  Speakers from regulatory authorities and industry will present on their experience, which will include the following aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview of the FDA Complex Innovative Trial Design pilot program and the applications received to date together with details on some of them&lt;/li&gt;
+&lt;li&gt;Overview of the FDA guidance on interacting on Complex Innovative Trial Designs&lt;/li&gt;
+&lt;li&gt;Detailed case study of a clinical trial in children which was evaluated within FDA’s CID pilot program, applying borrowing of information from external trials in adults&lt;/li&gt;
+&lt;li&gt;Overview of statistical and regulatory considerations on master protocols, focusing on Phase III confirmatory trials.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Webinar: Hiring Great Data Science Teams</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012rstudio-webinar-hiring-great-data-science-teams/</link>
+      <pubDate>Tue, 12 Oct 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012rstudio-webinar-hiring-great-data-science-teams/</guid>
+      <description>&lt;p&gt;In this panel webinar, you will hear from leaders at RStudio, Pandora, Beam Dental, &amp;amp; Amwell, about what it takes to hire for a successful data science team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Their experiences and perspective on hiring to build great data science teams&lt;/li&gt;
+&lt;li&gt;How their teams prioritizes skills and experience in new positions&lt;/li&gt;
+&lt;li&gt;How they think about skill assessment&lt;/li&gt;
+&lt;li&gt;Their advice to data scientists just getting started&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adventures in Statistics Lecture Series by Professor Donald A. Berry </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928adventures-in-statistics-lecture-series-by-professor-donald-a-berry/</link>
+      <pubDate>Tue, 28 Sep 2021 14:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928adventures-in-statistics-lecture-series-by-professor-donald-a-berry/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A seminar series on Sep 28, Oct 26, and Nov 30&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A three-part lecture series focused on Bayesian adaptive clinical trials over time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Part One – From multi-armed bandit strategies to designs for phase 3 adaptive Bayesian platform clinical trials. 9/28/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Part Two – How regulators and journals came to accept and perhaps even embrace adaptive Bayesian clinical trials. 10/26/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Part Three – Adaptive Bayesian platform trials and the role of regulators in promoting clinical trials with “complex innovative designs.” 11/30/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021 Myles Hollander Distinguished Lecture: We used a Bandit Algorithm to Personalize But Did It Work?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202109242021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work/</link>
+      <pubDate>Fri, 24 Sep 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202109242021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work/</guid>
+      <description>&lt;p&gt;Reinforcement Learning Algorithms provide an attractive suite of online learning methods for personalizing interventions in Digital Health. However after a reinforcement learning algorithm has been run in a clinical study, how do we assess whether personalization occurred? We might find users for whom it appears that the algorithm has indeed learned in which contexts the user is more responsive to a particular intervention.  But could this have happened completely by chance? We discuss some first approaches to addressing these questions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Biostatistics and SARS-CoV-2: research, policymaking, and communication </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210921biostatistics-and-sars-cov-2-research-policymaking-and-communication/</link>
+      <pubDate>Tue, 21 Sep 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210921biostatistics-and-sars-cov-2-research-policymaking-and-communication/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;During the webinar, the participant will:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be exposed in an intuitive and non-technical way to statistical and epidemiological tools and technique useful in monitoring and managing the COVID-19 pandemic&lt;/li&gt;
+&lt;li&gt;Get insight into the multidisciplinary nature of pandemic response&lt;/li&gt;
+&lt;li&gt;Get insight in the interplay between scientists, policy makers, media, and the public opinion&lt;/li&gt;
+&lt;li&gt;Become familiar with important lessons learned for the future, starting from the current pandemic, and occasionally from past pandemics, such as the Spanish Flu&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>DahShu Webinar: Single Arm Trials with a Synthetic Control Arm Built from RWD </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</link>
+      <pubDate>Fri, 17 Sep 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</guid>
+      <description>&lt;p&gt;Randomized clinical trials (RCT) are the gold standard for approvals by regulatory agencies. However, RCT&amp;rsquo;s are increasingly time consuming, expensive, and laborious with a multitude of bottlenecks involving volunteer recruitment, patient truancy, and adverse events. An alternative that fast tracks clinical trials without compromising quality of scientific results is desirable to more rapidly bring therapies to consumers. We propose a model-based approach using nonparametric Bayesian common atoms models for patient baseline covariates. This specific class of models has two critical advantages in this context: (i) The models have full prior support, i.e., allow to approximate arbitrary distributions without unreasonable restrictions or shrinkage in specific parametric families; (ii) inference naturally facilitates a reweighting scheme to achieve equivalent populations. We prove equivalence of the synthetic and other patient cohorts using an independent separate verification. Failure to classify a merged data set using a flexible statistical learning method such as random forests, support vector machines etc. proves equivalence. We implement the proposed approach in two motivating case studies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Design Considerations in COVID-19 Master Protocols -- ACTIV-2 Trial</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917design-considerations-in-covid-19-master-protocols-activ-2-trial/</link>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917design-considerations-in-covid-19-master-protocols-activ-2-trial/</guid>
       <description>&lt;p&gt;&lt;em&gt;Part of Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;ACTIV-2 is a major international platform trial led by the NIH-funded AIDS Clinical Trials  Group.  It was designed in response to the COVID-19 pandemic and has evaluated several candidate agents for the treatment of non-hospitalized people with symptomatic COVID-19, with the aim of reducing hospitalizations and deaths.  The design incorporates novel design features including the sharing of placebo control groups, potentially with different placebos for each candidate agent, and a seamless transition from phase 2 to phase 3 evaluation.  I will discuss the design and implementation of this complex trial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID Vaccine Efficacy Trial Designs, Open Questions and Statistical Challenges </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210914covid-vaccine-efficacy-trial-designs-open-questions-and-statistical-challenges/</link>
+      <pubDate>Tue, 14 Sep 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210914covid-vaccine-efficacy-trial-designs-open-questions-and-statistical-challenges/</guid>
+      <description></description>
     </item>
     
     <item>

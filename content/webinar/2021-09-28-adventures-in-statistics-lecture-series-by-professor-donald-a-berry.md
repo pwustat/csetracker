@@ -4,7 +4,7 @@ author: ''
 date: '2021-09-28T14:00:00-07:00'
 slug: adventures-in-statistics-lecture-series-by-professor-donald-a-berry
 categories: []
-tags: []
+tags: [recorded]
 type: webinar
 url_register: ~
 url_freeregister: https://mdacc.zoom.us/webinar/register/WN_Q3Aj9WznQhq9-e1XsWmrRA?_x_zm_rtaid=j_0BPRHVQD625_nRaWkUDg.1632713682155.26b0e871c21af70aae1362b4dd87621d&_x_zm_rhtaid=991

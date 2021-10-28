@@ -4,12 +4,12 @@ author: ''
 date: '2021-10-12T09:00:00-07:00'
 slug: rstudio-webinar-hiring-great-data-science-teams
 categories: []
-tags: []
+tags: [recorded]
 type: webinar
 url_register: ~
-url_freeregister: https://www.rstudio.com/resources/webinars/hiring-great-data-science-teams/
+url_freeregister: 
 url_slides: ~
-url_video: no
+url_video: https://www.rstudio.com/resources/webinars/hiring-great-data-science-teams/
 url_agenda: ~
 url_website: ~
 url_audio: ~

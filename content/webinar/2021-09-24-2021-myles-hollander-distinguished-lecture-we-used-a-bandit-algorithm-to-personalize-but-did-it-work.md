@@ -4,14 +4,14 @@ author: ''
 date: '2021-09-24T07:00:00-07:00'
 slug: 2021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work
 categories: []
-tags: []
+tags: [recorded]
 type: webinar
 url_register: ~
 url_freeregister: https://stat.fsu.edu/HollanderLecture
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=oyRLar5wbgk
 url_agenda: ~
-url_website: ~
+url_website: https://stat.fsu.edu/HollanderLecture
 url_audio: ~
 url_code: ~
 url_pdf: ~

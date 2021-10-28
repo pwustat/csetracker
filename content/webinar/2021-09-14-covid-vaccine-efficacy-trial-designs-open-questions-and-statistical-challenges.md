@@ -6,11 +6,12 @@ slug: covid-vaccine-efficacy-trial-designs-open-questions-and-statistical-challe
 categories: []
 tags:
   - COVID-19
+  - recorded
 type: webinar
 url_register: ~
 url_freeregister: https://dfci.zoom.us/webinar/register/WN_rXNyw63KT7GDsuH9Q-E5Bg
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=3zxqc6FSje4
 url_agenda: ~
 url_website: https://ds.dfci.harvard.edu/event/frontiers-in-biostatistics-holly-janes/
 url_audio: ~

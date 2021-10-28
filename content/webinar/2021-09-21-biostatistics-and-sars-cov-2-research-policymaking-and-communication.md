@@ -4,12 +4,12 @@ author: ''
 date: '2021-09-21T08:00:00-07:00'
 slug: biostatistics-and-sars-cov-2-research-policymaking-and-communication
 categories: []
-tags: []
+tags: [recorded]
 type: webinar
 url_register: ~
 url_freeregister: https://www.iddi.com/news/news-events/biostatistics-and-sars-cov-2/
 url_slides: ~
-url_video: no
+url_video: https://www.iddi.com/news/news-events/biostatistics-and-sars-cov-2/
 url_agenda: ~
 url_website: ~
 url_audio: ~
