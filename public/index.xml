@@ -21,6 +21,29 @@
     </item>
     
     <item>
+      <title>Survival Analysis Based on the Restricted Mean Survival Time – An Alternative to the Proportional Hazards Model</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211210survival-analysis-based-on-the-restricted-mean-survival-time-an-alternative-to-the-proportional-hazards-model/</link>
+      <pubDate>Fri, 10 Dec 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211210survival-analysis-based-on-the-restricted-mean-survival-time-an-alternative-to-the-proportional-hazards-model/</guid>
+      <description>&lt;p&gt;Since Professor Sir David Cox proposed the hazard ratio (HR) and its inference procedure in 1972, the HR has been routinely used for quantifying the treatment effect on time to event endpoint. The Cox regression model has also been commonly used for the association and prediction analysis. While an ideal summary measure for the treatment effect should be model-free to avoid the model misspecification at the analysis, the HR is not such a measure.  Indeed, there are very few model-free measures for time to event endpoint. The most popular one is either based on the median failure time or the event rate at a specific time point. Both measures are “local” and cannot catch the short- or long-term survival profile.&lt;/p&gt;
+&lt;p&gt;In the past few years, issues of utilizing HR have been extensively discussed. The validity of the HR estimate depends on a strong model assumption; that is, the ratio of two hazard functions is constant over time. When the proportion hazards assumption is not met, the HR estimate is difficult, if not impossible to interpret. In fact, the parameter for which the empirical HR estimates is not a simple weighted average of the HR over time and it generally depends on the censoring distributions. This is highly undesirable. Moreover, even when the proportional hazards assumption is plausible, the physical/clinical interpretation of a single ratio such as the HR estimate between two groups cannot be easily translated into the clinical utility of a new treatment in the absence of a reference hazard level.&lt;/p&gt;
+&lt;p&gt;In this short course, Tian will illustrate issues of the HR and present an alternative, that is, the t-year mean survival time (restricted mean survival time, RMST). It is the mean event-free time up to a specific time point, say, t-year. The RMST was introduced in the statistical literature in 1949, but has not gotten much attention until recently. Here is the list of the topics we will discuss in this short course.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Issues of Hazard Ratio (HR)&lt;/li&gt;
+&lt;li&gt;Restricted mean survival time (RMST)&lt;/li&gt;
+&lt;li&gt;Power comparison between RMST-based test and HR-based tests&lt;/li&gt;
+&lt;li&gt;Empirical choice of a truncation time for RMST&lt;/li&gt;
+&lt;li&gt;Study design based on RMST&lt;/li&gt;
+&lt;li&gt;RMST for stratified analysis of survival data&lt;/li&gt;
+&lt;li&gt;RMST to non-inferiority trials&lt;/li&gt;
+&lt;li&gt;RMST to quantify long-term survival benefit&lt;/li&gt;
+&lt;li&gt;RMST to assess duration of response&lt;/li&gt;
+&lt;li&gt;RMST in the presence of competing risks&lt;/li&gt;
+&lt;li&gt;RMST for recurrent event time data&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Diagnostics and Personalized Medicine Conference</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211208diagnostics-and-personalized-medicine-conference/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
