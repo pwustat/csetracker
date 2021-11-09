@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211111artificial-intelligence/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20211111artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 11:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Artificial Intelligence</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211111artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Mathematical Challenges for Machine Learning and Artificial Intelligence</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211111mathematical-challenges-for-machine-learning-and-artificial-intelligence/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211111mathematical-challenges-for-machine-learning-and-artificial-intelligence/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;National Academies Symposium&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;During the symposium, speakers will discuss how statistical theory helps build in protections for black box machine learning models, new approaches for making sense of high-dimensional and heterogenous data, novel methods for understanding causality, and future research opportunities in deep learning.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

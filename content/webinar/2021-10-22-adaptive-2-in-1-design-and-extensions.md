@@ -37,7 +37,7 @@ summary: ~
 abstract: ~
 speaker: ~
 ---
-*ASA San Diego Chapter Webinar*
+<span style="color: salmon;">*ASA San Diego Chapter Webinar*</span>
 <!--more-->
 The 2-in-1 adaptive design allows seamless expansion of an ongoing Phase 2 trial into a Phase 3 trial to expedite a drug development program. Under a mild assumption that is expected to generally hold in practice, the trial can be tested at the full alpha level with or without expansion. The endpoint used for expansion decision can be the same as or different from the primary endpoints, and there is no restriction on the expansion bar. Due to its flexibility and robustness, it has drawn immediate attention to academic researchers and industry practitioners. The design has been substantially extended in the literature and successfully implemented in multiple trials.  
 

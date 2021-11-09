@@ -5,7 +5,7 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Nov 2021 10:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Nov 2021 11:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
@@ -13,11 +13,88 @@
     </image>
     
     <item>
+      <title>Data Science Outside of Tech </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211116data-science-outside-of-tech/</link>
+      <pubDate>Tue, 16 Nov 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211116data-science-outside-of-tech/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Statistical Learning and Data Science Section Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;People pursuing data science careers default for Tech companies without considering the more classic industries like agriculture, manufacturing, supply chain, etc. In this talk, I&amp;rsquo;ll share my personal journey transitioning from Tech into AgTech and highlight the challenges many data scientists face who do this transition. I&amp;rsquo;ll close with why data science in these classic industries may be more appealing than opportunities in Tech.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Incorporating Short-term Endpoints for Adaptive Subgroup Enrichment Design with Sample Size Re-estimation </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211116incorporating-short-term-endpoints-for-adaptive-subgroup-enrichment-design-with-sample-size-re-estimation/</link>
+      <pubDate>Tue, 16 Nov 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211116incorporating-short-term-endpoints-for-adaptive-subgroup-enrichment-design-with-sample-size-re-estimation/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA-BI-NESS Statistics Webinar Series #28&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Adaptive subgroup enrichment design is an efficient design framework that allows accelerated development for investigational treatments while also having flexibility in population selection within the course of the trial. The adaptive decision at the interim analysis is commonly made based on the conditional probability of trial success. However, one of the critical challenges for such adaptive designs is immature data for interim decisions, particularly in the targeted subgroup with a limited sample size at the first stage of the trial. In this paper, we improve the interim decision making by incorporating information from surrogate endpoints when estimating conditional power at the interim analysis, by predicting the primary treatment effect based on the observed surrogate endpoint and prior knowledge or historical data about the relationship between endpoints. Modified conditional power is developed for both selecting the patient population to be enrolled after the interim analysis and sample size re-estimation. In the simulation study, our proposed design shows a higher chance to make desirable interim decisions and achieves higher overall power, while controlling the overall type I error. This performance is robust over drift of prior knowledge from the true relationship between two endpoints. We also demonstrate the application of our proposed design in two case studies in oncology and vaccine trials.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Combating Non-uniformity in Matrix Completion through Weights </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211112combating-non-uniformity-in-matrix-completion-through-weights/</link>
+      <pubDate>Fri, 12 Nov 2021 14:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211112combating-non-uniformity-in-matrix-completion-through-weights/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;San Francisco Bay Area Chapter of American Statistical Association (SFASA) Virtual Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Matrix completion is a modern missing data problem where the object of interest is a highdimensional and often low-rank matrix. In this talk, I will discuss the application of weighting methods to deal with non-uniform missingness in matrix completion problems. I will highlight some unique challenges associated with inverse probability weighting (IPW)—a standard weighting approach—under matrix completion settings. Then I will introduce our most recent work on matrix completion under general non-uniform missing structures. We draw insight from covariate-balancing methods developed for treatment effect estimations and break away from the IPW framework. By controlling an upper bound of a novel balancing error, we construct weights that can actively adjust for the non-uniformity in the empirical risk without explicitly modeling the observation probabilities. The recovered matrix based on the proposed weighted empirical risk enjoys appealing theoretical guarantees. In particular, the proposed method achieves a stronger guarantee than existing work in terms of the scaling with respect to the observation probabilities, under asymptotically heterogeneous missing settings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Operating under Uncertainty – Disease Surveillance of COVID-19</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211112operating-under-uncertainty-disease-surveillance-of-covid-19/</link>
+      <pubDate>Fri, 12 Nov 2021 12:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211112operating-under-uncertainty-disease-surveillance-of-covid-19/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Columbus Chapter Fall Speaker Event&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New England Rare Disease Statistics (NERDS) Workshop 2021 Webinar Series: Session #2: Master Protocols </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211112new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-2-master-protocols/</link>
+      <pubDate>Fri, 12 Nov 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211112new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-2-master-protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical Challenges for Machine Learning and Artificial Intelligence</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211111mathematical-challenges-for-machine-learning-and-artificial-intelligence/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211111mathematical-challenges-for-machine-learning-and-artificial-intelligence/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;National Academies Symposium&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;During the symposium, speakers will discuss how statistical theory helps build in protections for black box machine learning models, new approaches for making sense of high-dimensional and heterogenous data, novel methods for understanding causality, and future research opportunities in deep learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drugs, Data and Me – Bayesian Integrative Approaches to Enable Precision Medicine </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211111drugs-data-and-me-bayesian-integrative-approaches-to-enable-precision-medicine/</link>
+      <pubDate>Thu, 11 Nov 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211111drugs-data-and-me-bayesian-integrative-approaches-to-enable-precision-medicine/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;The Statistics Former Students Network (SFSN) of Texas A&amp;amp;M University Webinarr&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>DFCI Frontiers in Biostatistics: A Bayesian Phase I/II Trial Design for Immunotherapy </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211109dfci-frontiers-in-biostatistics-a-bayesian-phase-i-ii-trial-design-for-immunotherapy/</link>
       <pubDate>Tue, 09 Nov 2021 10:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211109dfci-frontiers-in-biostatistics-a-bayesian-phase-i-ii-trial-design-for-immunotherapy/</guid>
       <description>&lt;p&gt;Immunotherapy is an innovative treatment approach that stimulates a patient’s immune system to fight cancer. It demonstrates characteristics distinct from conventional chemotherapy and stands to revolutionize cancer treatment. We propose a Bayesian phase I/II dose-finding design that incorporates the unique features of immunotherapy by simultaneously considering three outcomes: immune response, toxicity and efficacy. The objective is to identify the biologically optimal dose, defined as the dose with the highest desirability in the risk-benefit tradeoff. An Emax model is utilized to describe the marginal distribution of the immune response. Conditional on the immune response, we jointly model toxicity and efficacy using a latent variable approach. Using the accumulating data, we adaptively randomize patients to experimental doses based on the continuously updated model estimates. A simulation study shows that our proposed design has good operating characteristics in terms of selecting the target dose and allocating patients to the target dose.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Design with Bayesian Informed Interim Decisions </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211109adaptive-design-with-bayesian-informed-interim-decisions/</link>
+      <pubDate>Tue, 09 Nov 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211109adaptive-design-with-bayesian-informed-interim-decisions/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Cytel CMO Webinar Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stepping up and Crossing over – Designing Efficient Cluster Randomised Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211108stepping-up-and-crossing-over-designing-efficient-cluster-randomised-trials/</link>
+      <pubDate>Mon, 08 Nov 2021 15:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211108stepping-up-and-crossing-over-designing-efficient-cluster-randomised-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;MATRIX Monthly Online Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Although individually randomised trials are the gold standard for assessing the impact of new treatments on the outcomes of individuals, they aren’t always possible. In many situations, including when treatments are applied at the group (or “cluster”) level, cluster randomised trials must instead be conducted. Such designs are less efficient than individually randomised trials: larger numbers of participants are required than for equivalent individually randomised trials. Longitudinal cluster randomised trials can claw back some lost efficiency, by instructing clusters to switch between treatments during the trial. Stepped wedge trials are a particular type of longitudinal cluster randomised trial design that has seen a rapid rise in popularity in recent years. In this talk I’ll discuss work investigating the statistical aspects of stepped wedge trials that points the way towards less burdensome and more efficient “incomplete” variants. This work highlights the fact that in stepped wedge designs, not all observations are created equal.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -59,7 +136,7 @@
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022adaptive-2-in-1-design-and-extensions/</link>
       <pubDate>Fri, 22 Oct 2021 14:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022adaptive-2-in-1-design-and-extensions/</guid>
-      <description>&lt;p&gt;&lt;em&gt;ASA San Diego Chapter Webinar&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA San Diego Chapter Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The 2-in-1 adaptive design allows seamless expansion of an ongoing Phase 2 trial into a Phase 3 trial to expedite a drug development program. Under a mild assumption that is expected to generally hold in practice, the trial can be tested at the full alpha level with or without expansion. The endpoint used for expansion decision can be the same as or different from the primary endpoints, and there is no restriction on the expansion bar. Due to its flexibility and robustness, it has drawn immediate attention to academic researchers and industry practitioners. The design has been substantially extended in the literature and successfully implemented in multiple trials.&lt;/p&gt;
 &lt;p&gt;In this presentation, we will discuss about decision on the expansion bar as well as various extensions of the 2-in-1 design.&lt;/p&gt;
 &lt;p&gt;A live Q&amp;amp;A and networking will follow after the presentation.&lt;/p&gt;
@@ -71,7 +148,7 @@
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</link>
       <pubDate>Fri, 22 Oct 2021 09:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;In life-threatening/rare diseases, randomized controlled trial often runs into feasibility and even ethical issue. Single-arm interventional trial with historical control (HC) as the comparator, highlighted in the recent FDA Real World Evidence (RWE) framework, provides an alternative approach to assess the effectiveness of the investigative therapy in these challenging scenarios. A roadmap of using HC in clinical trials by DIA NEED team will be introduced and then followed by the discussions on statistical methodologies commonly used with HC. In the end, a few selected NDA/BLA filing cases, where HC was used as the comparator in the pivotal trials, will be presented, providing some practical guidance on incorporating historical data from the stage of trial design to the stage of data analysis. Our main findings and recommendation are published at Orphanet Journal of Rare Diseases in 2020.&lt;/p&gt;</description>
     </item>
     
