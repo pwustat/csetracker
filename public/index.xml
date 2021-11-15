@@ -78,6 +78,75 @@
     </item>
     
     <item>
+      <title>New England Rare Disease Statistics (NERDS) Workshop 2021 Webinar Series: Session #3: External or Historical Data </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-3/</link>
+      <pubDate>Fri, 19 Nov 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimands from Trial Planning to Publication in Medical Journals – The ETHOS trial </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119estimands-from-trial-planning-to-publication-in-medical-journals-the-ethos-trial/</link>
+      <pubDate>Fri, 19 Nov 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119estimands-from-trial-planning-to-publication-in-medical-journals-the-ethos-trial/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;PSI EIWG Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Building on the previous webinar series we will present a refresher on the key elements of the estimand framework and use the ETHOS study to illustrate the estimand framework and to highlight the different options that may be of interest to different stakeholders. The background and disease context of the case will be described, the important events (termed intercurrent events) occurring in the trial will be described and three estimands will be showcased. It will then be explored how best to communicate the estimands in medical journals.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimands, Estimators, and Estimates – Aligning Target of Estimation, Method of Estimation, and Sensitivity Analysis, with Application to the COVID-19 Pandemic</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119estimands-estimators-and-estimates-aligning-target-of-estimation-method-of-estimation-and-sensitivity-analysis-with-application-to-the-covid-19-pandemic/</link>
+      <pubDate>Fri, 19 Nov 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119estimands-estimators-and-estimates-aligning-target-of-estimation-method-of-estimation-and-sensitivity-analysis-with-application-to-the-covid-19-pandemic/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: free; IBS members: $65; Non-members: $85&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The ICH E9(R1) Addendum on &amp;lsquo;Estimands and Sensitivity Analysis in Clinical Trials&amp;rsquo; introduced a framework to align planning, design, conduct, analysis, and interpretation of clinical trials. When defining the clinical question of interest, clarity is needed about &amp;lsquo;intercurrent events&amp;rsquo; that affect either the interpretation or the existence of the measurements associated with the clinical question of interest, such as discontinuation of assigned treatment, use of an additional or alternative treatment and terminal events such as death. The description of an estimand should reflect the clinical question of interest in respect of these intercurrent events, and the Addendum introduces strategies to reflect different questions of interest that might be posed. The choice of strategies can influence how more conventional attributes of a trial are reflected when describing the clinical question, for example the treatments, population or the variable (endpoint) of interest.&lt;/p&gt;
+&lt;p&gt;In this seminar we briefly introduce the estimand framework according to the ICH E9(R1) Addendum and describe various strategies for addressing intercurrent events when defining the clinical question of interest. We then reflect on the experience and lessons learned of implementing the Addendum through an internal cross-functional and cross-divisional working group that encompasses various estimand initiatives. Next, we discuss in detail the hypothetical estimand strategy, where a scenario is envisaged in which the intercurrent event would not occur. The Addendum acknowledges that a wide variety of hypothetical scenarios can be envisaged, but it also clarifies that some scenarios are likely to be of more clinical or regulatory interest than others. We share our experiences and try to provide some guidance on their use in clinical trial practice. Finally, we demonstrate how the estimand framework can usefully be applied to clinical trials impacted by the COVID-19 pandemic to address potential pandemic-related trial disruptions and embed them in the context of study objectives and design elements. We introduce different hypothetical estimand strategies and review various causal inference and missing data methods such as multiple imputation and (augmented) inverse probability weighting for the estimation step. To clarify, we describe the features of a stylized trial in neuroscience, and how it may have been impacted by the pandemic. This stylized trial will then be re-visited by discussing the changes to the estimand and the estimator to account for pandemic disruptions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FDA Workshop on Best Practices for Development and Application of Disease Progression Models</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119fda-workshop-on-best-practices-for-development-and-application-of-disease-progression-models/</link>
+      <pubDate>Fri, 19 Nov 2021 06:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119fda-workshop-on-best-practices-for-development-and-application-of-disease-progression-models/</guid>
+      <description>&lt;p&gt;This workshop will bring together stakeholders from academia, industry, and regulatory agencies in a virtual setting to discuss the best practices for developing disease progression models and their application to support drug development decisions, share experiences and case studies that highlight the opportunities and limitations in the development and application of disease progression models including models for natural history of disease and clinical trial simulations, and discuss the knowledge gaps and research needed to advance the development and use of disease progression models.&lt;/p&gt;
+&lt;p&gt;Some topics of discussion include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Role of disease models in drug development and regulatory review&lt;/li&gt;
+&lt;li&gt;Lessons learned from past experiences of applying disease models in drug development&lt;/li&gt;
+&lt;li&gt;Best practice considerations for disease modeling to support drug development and regulatory decisions&lt;/li&gt;
+&lt;li&gt;Best practice considerations for clinical trial simulations based on disease progression/natural history models to support drug development and regulatory decisions&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Challenges in Biobank-scale Brain Imaging Genetics </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211117challenges-in-biobank-scale-brain-imaging-genetics/</link>
+      <pubDate>Wed, 17 Nov 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211117challenges-in-biobank-scale-brain-imaging-genetics/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Mental Health Statistics Section Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Recently the UK Biobank study has conducted brain magnetic resonance imaging (MRI) scans of over 40,000 participants. In addition, publicly available imaging genetic datasets also emerge from several other independent studies. We collected massive individual-level MRI data from different data resources, harmonized image processing procedures, and conducted the largest genetic studies so far for various neuroimaging traits from different structural and functional modalities. In this talk, we showcase novel clinical findings from our analyses, such as the shared genetic influences among brain structures, functions, and the genetic overlaps with a wide spectrum of clinical outcomes. We also discuss challenges we have faced when analyzing these biobank-scale datasets and highlight opportunities for future research. This presentation is based on a series of works with members in the BIG-S2 lab of the University of North Carolina at Chapel Hill. Our results can be easily browsed through the Brain Imaging Genetics Knowledge Portal (BIGKP) (&lt;a href=&#34;https://bigkp.org/&#34;&gt;https://bigkp.org/&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using R &amp; Python to Augment Tableau </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211117using-r-python-to-augment-tableau/</link>
+      <pubDate>Wed, 17 Nov 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211117using-r-python-to-augment-tableau/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;RStudio Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Many organizations rely on Tableau to do visual analytics at scale. But how do you bridge the gap between open source data science and proprietary business tools? Is it possible to be successful using both? Solita is a Tableau gold partner and has helped many organizations get data driven using Tableau. In this webinar Solita will showcase how they have successfully combined the strengths of RStudio and Tableau at one of Sweden’s largest government agencies. Join us to learn how to get the best out of Tableau and RStudio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modern Approaches to Subgroup Identification </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211117modern-approaches-to-subgroup-identification/</link>
+      <pubDate>Wed, 17 Nov 2021 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211117modern-approaches-to-subgroup-identification/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;PSI Sub Group SIG Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In this webinar we look at some recent advances in statistical methods for identifying treatment effect heterogeneity in clinical trials. This ranges from identifying baseline biomarkers likely to influence the treatment effect (ranking) to provide novel biomarker &amp;lsquo;signatures&amp;rsquo; (subgroups) with associated estimated enhanced effect (Individual Treatment Effects). Some practical issues ranges from overfitting risks, biases, and confounding of prognostic and predictive effects. Modern methods aim to overcome such potential difficulties while remaining flexible, and offer a structured approach to the problem (aiming to avoid the notorious &amp;lsquo;data dredging&amp;rsquo;). The novel techniques are often tree based and/or penalized regression, i.e., with a machine learning flavour. Sometimes the aim of the analysis is to predict the individual optimal treatment allocation given baseline biomarker data (Individual Treatment Rules). Efficient Visualization of relationships in the data is also of importance in the practical applications. The talks will highlight and discuss such aspects and will also reflect typical aspects discussed within the EFSPI/PSI Subgroup Special Interest Group. (While this event is not intended as a formal course, it will still serve as an introduction and overview to the area, as well as covering some more technically challenging material for the more experienced participant).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Data Science Outside of Tech </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211116data-science-outside-of-tech/</link>
       <pubDate>Tue, 16 Nov 2021 11:00:00 -0700</pubDate>
