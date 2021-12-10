@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://psiweb.org/events/event-item/2021/11/19/default-calendar/psi-eiwg-webinar-estimands-from-trial-planning-to-publication-in-medical-journals-the-ethos-trial
 url_slides: ~
-url_video: no
+url_video: https://www.psiweb.org/vod/item/psi-eiwg-webinar-estimands-from-trial-planning-to-publication-in-medical-journals-the-ethos-trial
 url_agenda: ~
 url_website: ~
 url_audio: ~
