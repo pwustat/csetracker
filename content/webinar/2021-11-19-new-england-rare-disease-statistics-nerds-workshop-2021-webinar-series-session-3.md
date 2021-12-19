@@ -1,6 +1,5 @@
 ---
-title: 'New England Rare Disease Statistics (NERDS) Workshop 2021 Webinar Series:
-  Session #3: External or Historical Data '
+title: '2021 NERDS Webinar Series Session #3: External or Historical Data '
 author: ''
 date: '2021-11-19T11:00:00-07:00'
 slug: new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-3
@@ -10,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://nerds.nestat.org/registration.php
 url_slides: ~
-url_video: no
+url_video: https://pfizerevents.webex.com/pfizerevents/lsr.php?RCID=9751f999b6e7501612d45d58f3112b80
 url_agenda: ~
 url_website: https://nerds.nestat.org/schedule.html
 url_audio: ~

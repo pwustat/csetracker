@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>A Four-Step Strategy for Handling Missing Outcome Data in Randomised Trials Affected by a Pandemic</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211216a-four-step-strategy-for-handling-missing-outcome-data-in-randomised-trials-affected-by-a-pandemic/</link>
+      <pubDate>Thu, 16 Dec 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211216a-four-step-strategy-for-handling-missing-outcome-data-in-randomised-trials-affected-by-a-pandemic/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;PHASTAR Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sweatshops, Smallpox, and Statistics – Florence Kelley in 1890s Chicago </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211214sweatshops-smallpox-and-statistics-florence-kelley-in-1890s-chicago/</link>
+      <pubDate>Tue, 14 Dec 2021 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211214sweatshops-smallpox-and-statistics-florence-kelley-in-1890s-chicago/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Georgia Chapter Winter Lecture Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Survival Analysis Based on the Restricted Mean Survival Time – An Alternative to the Proportional Hazards Model</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211210survival-analysis-based-on-the-restricted-mean-survival-time-an-alternative-to-the-proportional-hazards-model/</link>
       <pubDate>Fri, 10 Dec 2021 10:00:00 -0700</pubDate>
@@ -44,6 +60,23 @@
     </item>
     
     <item>
+      <title>An Adaptive-Flavored Group Sequential Design with Connection to Conditional Error</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211210an-adaptive-flavored-group-sequential-design-with-connection-to-conditional-error/</link>
+      <pubDate>Fri, 10 Dec 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211210an-adaptive-flavored-group-sequential-design-with-connection-to-conditional-error/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;DIA Innovative Design Scientific Working Group (IDSWG) KOL Lecture&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Major Statistical Challenges in Count Data Analysis</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211209major-statistical-challenges-in-count-data-analysis/</link>
+      <pubDate>Thu, 09 Dec 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211209major-statistical-challenges-in-count-data-analysis/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Philadelphia Chapter Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Count data plays an important role in biomedical and clinical research, especially nowadays with the rapid biomedical technique progresses including next generation sequencing. However, using routine statistical model to analyze counts, such as Poisson model, often results in biased or even misleading conclusions. Primary challenges when applying Poisson model to count data include over-dispersion and zero-inflation, which are commonly encountered in practice. In addition, the repeated measures and incomplete observations in modern clinical trials and survey studies add to complexity. This talk will review these challenges in count data analysis and recent methodology progresses made by the speaker&amp;rsquo;s group. In addition, the application of counting process method to the cutting-edge single-molecule localization microscopy image analysis and recently developed innovative statistical methods will also be introduced.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Diagnostics and Personalized Medicine Conference</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211208diagnostics-and-personalized-medicine-conference/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
@@ -51,6 +84,60 @@
       <description>&lt;p&gt;Diagnostics are important for the detection and prevention of disease, determination of treatment effectiveness, and improvement in overall health outcomes. As diagnostics can be used to develop an individualized treatment plan or predict a toxicity associated with a particular therapeutic, they are intimately associated with the field of personalized medicine. The ability to enhance patient care using personalized medicines has prompted pharmaceutical companies to increase their interest in the targeted therapy space. In fact, over the past 6 years, personalized medicines have represented more than 20 percent of FDA’s newly approved therapeutic molecular entities. Additionally, the diagnostic landscape is changing, with the advent of novel technologies and sequencing methods, and an increased focus on the role of software and novel algorithms.&lt;/p&gt;
 &lt;p&gt;As development accelerates, we can expect a growing need for clarity regarding regulatory submissions. For example, the co-development of a companion diagnostic to identify patients that will benefit from a new innovative treatment may present a regulatory challenge for companies wanting to bring them to market simultaneously via an accelerated approval pathway. Also, the need for rapid development of reliable diagnostics may cause companies to continually turn to regulators about the data necessary for approval.&lt;/p&gt;
 &lt;p&gt;At the NEW 2021 DIA Diagnostics and Personalized Medicine Conference, we will have an open dialogue about the challenges and trends in the development of diagnostics and personalized medicines today. Attendees will receive industry and regulatory perspectives on pathways for approval in the US and globally, the impact of potential legislative and regulatory changes, overcoming challenges in development, lessons learned from the COVID-19 diagnostic experience, and utilizing the patient voice.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Algorithms, from Theory to Practice </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207monte-carlo-algorithms-from-theory-to-practice/</link>
+      <pubDate>Tue, 07 Dec 2021 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207monte-carlo-algorithms-from-theory-to-practice/</guid>
+      <description>&lt;p&gt;Monte Carlo algorithms have completely revolutionised statistical computation, allowing previously intractable models to be solved easily. In particular, Markov chain Monte Carlo (MCMC) algorithms have facilitated the application of Bayesian inference in a multitude of settings. One reason for their success is their strong theoretical foundations, which allow us to validate the basic algorithms, provide numerous extensions and generalisations, clarify different options and tunings, and evaluate the results. This talk will present some simple dynamic graphical examples to illustrate the workings of MCMC. It will emphasise the impact and importance of various theoretical MCMC issues including ergodicity, qualitative and quantitative convergence rates, optimal scalings, and adaptive MCMC. It will not assume any previous MCMC background, and is designed to be accessible to everyone.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cancer on the Way to Mars</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207cancer-on-the-way-to-mars/</link>
+      <pubDate>Tue, 07 Dec 2021 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207cancer-on-the-way-to-mars/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;DFCI Frontiers in Biostatistics Monthly Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Edwards Lifesciences 2021 Annual Seminar with Professor Stuart Pocock </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207edwards-lifesciences-2021-annual-seminar-with-professor-stuart-pocock/</link>
+      <pubDate>Tue, 07 Dec 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207edwards-lifesciences-2021-annual-seminar-with-professor-stuart-pocock/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Day 1: Trial Report Critique &amp;amp; Benefit-Risk Assessment (&lt;a href=&#34;https://teams.microsoft.com/registration/lXn-yPAG30uPKgyKeYZIDQ,dvSEFJqi0k-rPuZNyudHeA,FtvML6L-k0uCi4Lx_Cd7dQ,uYcnVP4yfEO8UNBFUOGY8w,YschvCmULUGPSyf0DovX1Q,X9rzW350MUqRNX2aHad1QQ?mode=read&amp;amp;tenantId=c8fe7995-06f0-4bdf-8f2a-0c8a7986480d&amp;amp;skipauthstrap=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration link for Day 1&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Day 2: Composite Endpoint and Win Ratio Method (&lt;a href=&#34;https://teams.microsoft.com/registration/lXn-yPAG30uPKgyKeYZIDQ,dvSEFJqi0k-rPuZNyudHeA,FtvML6L-k0uCi4Lx_Cd7dQ,VG-2D3UA_UqyAqnU29F88g,EurS7ksqfUiSYPkyJc03Xw,NF0PPAWqtkODnEICotIu2Q?mode=read&amp;amp;tenantId=c8fe7995-06f0-4bdf-8f2a-0c8a7986480d&amp;amp;skipauthstrap=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration link for Day 2&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Should We Trust Statistics about Covid? </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207should-we-trust-statistics-about-covid/</link>
+      <pubDate>Tue, 07 Dec 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207should-we-trust-statistics-about-covid/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Harvard Data Science Initiative 5th Anniversary Keynote Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The current pandemic has emphasised the key role that statistics play in understanding what is going on around us.  But how reliable are all these numbers?  How much should we trust what we hear and read?  When do statistics become misinformation?  I will look at the way that statistics can be used to try and persuade audiences to think or act in a certain way, including some utter data disasters, and contrast this with efforts to make communication &amp;lsquo;trustworthy&amp;rsquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical Methods for Indirect Comparison with RWD Studies with Survival Endpoint under Non-proportional Hazards</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207statistical-methods-for-indirect-comparison-with-rwd-studies-with-survival-endpoint-under-non-proportional-hazards/</link>
+      <pubDate>Tue, 07 Dec 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211207statistical-methods-for-indirect-comparison-with-rwd-studies-with-survival-endpoint-under-non-proportional-hazards/</guid>
+      <description>&lt;p&gt;The time-to-event endpoint is an important data type used in real-world data (RWD) studies. The non-proportional hazards (NPH) patterns and the confounding bias induced by lacking randomization are two main obstacles when dealing with time-to-event outcomes in RWD studies. Previous methods have been proposed to adjust for
+either NPH patterns or confounding bias, but no previous work has discussed the simultaneous adjustments for both of them. We proposed a propensity score stratified Fleming-Harrington weighted Cox model, which incorporates the propensity score stratification adjustment into the Fleming-Harrington weighted Cox model. The proposed method could adjust for both observed confounding bias and NPH patterns, and it is easy to implement and has robust performance in the simulation setting
+under different scenarios.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Short Course: Unmeasured Confounding in Real World Data Analysis – Strategies and Analytics for Sensitivity Analyses </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211207unmeasured-confounding-in-real-world-data-analysis-strategies-and-analytics-for-sensitivity-analyses/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211207unmeasured-confounding-in-real-world-data-analysis-strategies-and-analytics-for-sensitivity-analyses/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA members: $55; Non-members: $80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -67,6 +154,59 @@
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206the-77th-annual-deming-conference-on-applied-statistics/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>2021 SFASA Holiday Celebration </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202112032021-sfasa-holiday-celebration/</link>
+      <pubDate>Fri, 03 Dec 2021 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202112032021-sfasa-holiday-celebration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021 NERDS Webinar Series Session #4: Composite Endpoints</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202112032021-nerds-webinar-series-session-4-composite-endpoints/</link>
+      <pubDate>Fri, 03 Dec 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202112032021-nerds-webinar-series-session-4-composite-endpoints/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Generalized Pairwise Comparisons for Rare Diseases&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Global Tests for Multiple Endpoints in Rare Disease Clinical Trials&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Combining Mixed Endpoint Types for Totality of Evidence Analyses&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Seat at the Table – The Key Role of Biostatistics and Data Science in the COVID-19 Pandemic </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211203a-seat-at-the-table-the-key-role-of-biostatistics-and-data-science-in-the-covid-19-pandemic/</link>
+      <pubDate>Fri, 03 Dec 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211203a-seat-at-the-table-the-key-role-of-biostatistics-and-data-science-in-the-covid-19-pandemic/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Texas A&amp;amp;M University Statistics Formers Students Network (SFSN) Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Assessing Activity in Early-Phase Trials in Oncology – Current Designs for Expansion Cohorts and Phase 2</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211202assessing-activity-in-early-phase-trials-in-oncology/</link>
+      <pubDate>Thu, 02 Dec 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211202assessing-activity-in-early-phase-trials-in-oncology/</guid>
+      <description>&lt;p&gt;In this webinar, our goal is to review different types of Bayesian and frequentist designs that may be used for expansion cohorts in phase 1 trials and in single-arm and randomized phase 2 trials in oncology.&lt;/p&gt;
+&lt;p&gt;– We will start by reviewing the recent evolution and general trends in the design of early-phase trials to investigate the activity of targeted agents and immunotherapy.&lt;br&gt;
+– We will then summarize the most salient features of Bayesian and frequentist designs in this setting.&lt;br&gt;
+– Finally, we will cover different statistical caveats, including early consideration of randomization, issues related to sample-size calculation and the efficient use of biomarkers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Decision on Multiple Endpoints in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211202optimizing-decision-on-multiple-endpoints-in-clinical-trials/</link>
+      <pubDate>Thu, 02 Dec 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211202optimizing-decision-on-multiple-endpoints-in-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Cytel CMO Webinar Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -133,7 +273,7 @@
     </item>
     
     <item>
-      <title>New England Rare Disease Statistics (NERDS) Workshop 2021 Webinar Series: Session #3: External or Historical Data </title>
+      <title>2021 NERDS Webinar Series Session #3: External or Historical Data </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-3/</link>
       <pubDate>Fri, 19 Nov 2021 11:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211119new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-3/</guid>
@@ -220,6 +360,14 @@
     </item>
     
     <item>
+      <title>Bayesian Trials in Drug Development: Multidisciplinary Round Table</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211115bayesian-trials-in-drug-development-multidisciplinary-round-table/</link>
+      <pubDate>Mon, 15 Nov 2021 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211115bayesian-trials-in-drug-development-multidisciplinary-round-table/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Cytel CMO Webinar Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Eastern Asia Chapter of the International Society for Bayesian Analysis (EAC-ISBA) 2021 Conference</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211114eac-isba-2021-conference/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
@@ -245,7 +393,7 @@
     </item>
     
     <item>
-      <title>New England Rare Disease Statistics (NERDS) Workshop 2021 Webinar Series: Session #2: Master Protocols </title>
+      <title>2021 NERDS Webinar Series Session #2: Composite Endpoints: Master Protocols </title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211112new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-2-master-protocols/</link>
       <pubDate>Fri, 12 Nov 2021 11:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211112new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-2-master-protocols/</guid>
@@ -318,6 +466,18 @@
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202111062021-nextgen-data-science-day-dsd-conference/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>2021 NERDS Webinar Series Session #1: Real World Evidence and Real World Data (Intro)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202111052021-nerds-webinar-series-session-1-real-world-evidence-and-real-world-data-intro/</link>
+      <pubDate>Fri, 05 Nov 2021 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202111052021-nerds-webinar-series-session-1-real-world-evidence-and-real-world-data-intro/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Practical Experience in Utilizing Real-World and Clinical Trial Data for Assessing Treatment Effects&lt;/li&gt;
+&lt;li&gt;Designing a Registrational Study with Real World Data as a Synthetic Control Arm&lt;/li&gt;
+&lt;li&gt;Bayesian Divide-and-Conquer Propensity Score Based Approaches for Leveraging Real World Data in Single Arm Clinical Trials&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>

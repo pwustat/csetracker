@@ -1,5 +1,5 @@
 ---
-title: 'New England Rare Disease Statistics (NERDS) Workshop 2021 Webinar Series: Session #2: Master Protocols '
+title: '2021 NERDS Webinar Series Session #2: Composite Endpoints: Master Protocols '
 author: ''
 date: '2021-11-12T11:00:00-07:00'
 slug: new-england-rare-disease-statistics-nerds-workshop-2021-webinar-series-session-2-master-protocols
