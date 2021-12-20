@@ -6,7 +6,7 @@ slug: the-time-for-causal-inference-is-now
 categories:
   - Causal Inference
 tags:
-  - RWE
+  - Real-World Evidence
   - Causal Inference
 type: webinar
 url_register: ~

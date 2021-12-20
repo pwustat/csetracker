@@ -6,7 +6,7 @@ slug: a-bayesian-phase-i-ii-platform-design-for-co-developing-drug-combination-t
 categories: []
 tags:
   - Bayesian
-  - Master Protocol
+  - Master Protocols
 type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.com/e/biop-a-bayesian-phase-iii-platform-design-tickets-162578922935

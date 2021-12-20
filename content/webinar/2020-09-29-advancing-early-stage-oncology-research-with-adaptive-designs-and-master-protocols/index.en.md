@@ -7,7 +7,7 @@ categories:
   - Clinical Trial
 tags:
   - Adaptive Designs
-  - Master Protocol
+  - Master Protocols
   - Oncology
 type: webinar
 url_register: ~

@@ -6,7 +6,7 @@ slug: covid-vaccine-efficacy-trial-designs-open-questions-and-statistical-challe
 categories: []
 tags:
   - COVID-19
-  - recorded
+  - Vaccine
 type: webinar
 url_register: ~
 url_freeregister: https://dfci.zoom.us/webinar/register/WN_rXNyw63KT7GDsuH9Q-E5Bg

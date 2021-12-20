@@ -4,7 +4,8 @@ author: ''
 date: '2021-07-23'
 slug: use-of-real-world-data-real-world-evidence-in-clinical-development
 categories: []
-tags: [recorded]
+tags: 
+  - Real-World Evidence
 type: webinar
 url_register: ~
 url_freeregister: ~

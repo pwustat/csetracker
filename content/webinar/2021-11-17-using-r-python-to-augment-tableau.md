@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.rstudio.com/registration/using-r-and-python-to-augment-tableau/
 url_slides: ~
-url_video: no
+url_video: https://www.rstudio.com/resources/webinars/using-r-and-python-to-augment-tableau/
 url_agenda: ~
 url_website: ~
 url_audio: ~

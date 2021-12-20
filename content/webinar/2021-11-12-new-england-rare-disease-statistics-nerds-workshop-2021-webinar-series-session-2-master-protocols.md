@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://nerds.nestat.org/registration.php
 url_slides: ~
-url_video: no
+url_video: https://nerds.nestat.org/session2-recording.html
 url_agenda: ~
 url_website: https://nerds.nestat.org/schedule.html
 url_audio: ~

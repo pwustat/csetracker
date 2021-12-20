@@ -6,7 +6,7 @@ slug: design-and-data-source-considerations-from-pilot-investigations-in-cardiov
 categories:
   - Causal Inference
 tags:
-  - RWE
+  - Real-World Evidence
   - Causal Inference
 type: webinar
 url_register: ~

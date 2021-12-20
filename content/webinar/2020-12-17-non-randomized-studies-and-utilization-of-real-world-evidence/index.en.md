@@ -6,7 +6,7 @@ slug: non-randomized-studies-and-utilization-of-real-world-evidence
 categories:
   - Clinical Trial
 tags:
-  - RWE
+  - Real-World Evidence
 type: webinar
 url_register: ~
 url_freeregister: ~

@@ -6,7 +6,7 @@ slug: study-design-considerations-and-an-update-on-the-pilot-investigation-in-ca
 categories:
   - Causal Inference
 tags:
-  - RWE
+  - Real-World Evidence
   - Causal Inference
 type: webinar
 url_register: ~

@@ -3,8 +3,11 @@ title: 'Joint PSI, EFSPI and ASA BIOP Webinar - Complex Innovative Designs'
 author: ''
 date: '2021-10-21T06:00:00-07:00'
 slug: joint-psi-efspi-asa-biop-webinar-complex-innovative-designs
-categories: []
-tags: [recorded]
+categories: 
+tags: 
+  - Innovative Designs
+  - PSI
+  - ASA
 type: webinar
 url_register: ~
 url_freeregister: https://www.psiweb.org/events/event-item/2021/10/21/default-calendar/joint-psi-efspi-asa-biop-webinar-complex-innovative-designs

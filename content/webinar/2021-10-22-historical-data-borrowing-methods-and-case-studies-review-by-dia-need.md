@@ -5,8 +5,7 @@ date: '2021-10-22T09:00:00-07:00'
 slug: historical-data-borrowing-methods-and-case-studies-review-by-dia-need
 categories: []
 tags:   
-  - RWE
-  - recorded
+  - Real-World Evidence
 type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.com/e/historical-data-borrowing-methods-and-case-studies-review-by-dia-need-tickets-161825597719

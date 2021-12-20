@@ -4,7 +4,10 @@ author: ''
 date: '2021-09-03T06:00:00-07:00'
 slug: adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy
 categories: []
-tags: [recorded]
+tags: 
+  - Adaptive Designs
+  - Dose Finding
+  - Immuno-Oncology
 type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.com/e/adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy-tickets-161824480377

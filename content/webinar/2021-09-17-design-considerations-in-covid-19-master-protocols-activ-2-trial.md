@@ -4,7 +4,9 @@ author: ''
 date: '2021-09-17'
 slug: design-considerations-in-covid-19-master-protocols-activ-2-trial
 categories: []
-tags: [recorded]
+tags: 
+  - COVID-19
+  - Master Protocols
 type: webinar
 url_register: ~
 url_freeregister: ~

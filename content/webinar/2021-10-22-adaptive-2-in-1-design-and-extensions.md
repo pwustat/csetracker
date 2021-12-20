@@ -4,7 +4,8 @@ author: ''
 date: '2021-10-22T14:00:00-07:00'
 slug: adaptive-2-in-1-design-and-extensions
 categories: []
-tags: []
+tags: 
+  - Adaptive Designs
 type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.com/e/sdasa-q4-webinar-adaptive-2-in-1-design-and-extensions-tickets-182039684597

@@ -393,12 +393,7 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211022recorded/</loc>
-    <lastmod>2021-10-22T09:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211022rwe/</loc>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211022real-world-evidence/</loc>
     <lastmod>2021-10-22T09:00:00-07:00</lastmod>
   </url>
   
@@ -423,7 +418,22 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211021asa/</loc>
+    <lastmod>2021-10-21T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211021innovative-designs/</loc>
+    <lastmod>2021-10-21T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211021joint-psi-efspi-asa-biop-webinar-complex-innovative-designs/</loc>
+    <lastmod>2021-10-21T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211021psi/</loc>
     <lastmod>2021-10-21T06:00:00-07:00</lastmod>
   </url>
   
@@ -470,6 +480,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012an-overview-of-dmc/</loc>
     <lastmod>2021-10-12T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20211012data-science/</loc>
+    <lastmod>2021-10-12T09:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -523,6 +538,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210928platform-trials/</loc>
+    <lastmod>2021-09-28T14:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928asa-slds-webinar-happier-version-control-with-git-and-github/</loc>
     <lastmod>2021-09-28T10:00:00-07:00</lastmod>
   </url>
@@ -533,7 +553,22 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210924bandit-algorithm/</loc>
+    <lastmod>2021-09-24T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210924reinforcement-learning/</loc>
+    <lastmod>2021-09-24T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210921biostatistics-and-sars-cov-2-research-policymaking-and-communication/</loc>
+    <lastmod>2021-09-21T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210921covid-19/</loc>
     <lastmod>2021-09-21T08:00:00-07:00</lastmod>
   </url>
   
@@ -558,7 +593,17 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210917dahshu/</loc>
+    <lastmod>2021-09-17T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</loc>
+    <lastmod>2021-09-17T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210917synthetic-control/</loc>
     <lastmod>2021-09-17T09:00:00-07:00</lastmod>
   </url>
   
@@ -588,7 +633,7 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210914covid-19/</loc>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210914vaccine/</loc>
     <lastmod>2021-09-14T10:00:00-07:00</lastmod>
   </url>
   
@@ -629,6 +674,11 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210903adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy/</loc>
+    <lastmod>2021-09-03T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210903dose-finding/</loc>
     <lastmod>2021-09-03T06:00:00-07:00</lastmod>
   </url>
   
@@ -719,11 +769,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210805a-bayesian-phase-i-ii-platform-design-for-co-developing-drug-combination-therapies-for-multiple-indications/</loc>
-    <lastmod>2021-08-05T09:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210805master-protocol/</loc>
     <lastmod>2021-08-05T09:00:00-07:00</lastmod>
   </url>
   
@@ -899,11 +944,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622fda-sentinel-webinar-measure-what-you-treasure-the-challenges-and-opportunities-of-collecting-real-world-endpoints/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210622real-world-evidence/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -1089,11 +1129,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210602asa/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -1564,11 +1599,6 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/category/20210226career-development/</loc>
-    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/tag/20210226psi/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url>
   

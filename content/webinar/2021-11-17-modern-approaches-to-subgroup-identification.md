@@ -8,8 +8,8 @@ tags: []
 type: webinar
 url_register: ~
 url_freeregister: https://psiweb.org/events/event-item/2021/11/17/default-calendar/psi-sub-group-sig-webinar-modern-approaches-to-subgroup-identification
-url_slides: ~
-url_video: no
+url_slides: https://www.psiweb.org/vod/item/psi-subgroup-analysis-sig-webinar-modern-approaches-to-subgroup-identification
+url_video: https://www.psiweb.org/vod/item/psi-subgroup-analysis-sig-webinar-modern-approaches-to-subgroup-identification
 url_agenda: ~
 url_website: ~
 url_audio: ~
