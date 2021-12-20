@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.com/e/data-collection-and-integration-to-enhance-public-health-registration-156146370999
 url_slides: ~
-url_video: no
+url_video: https://www.nationalacademies.org/event/06-10-2021/data-collection-and-integration-to-enhance-public-health-making-sense-of-a-patchwork-of-data
 url_agenda: ~
 url_website: ~
 url_audio: ~

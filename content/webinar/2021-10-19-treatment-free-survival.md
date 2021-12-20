@@ -11,7 +11,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://ds.dfci.harvard.edu/event/frontiers-in-biostatistics-meredith-regan/
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=n2V55zP-tao&list=PLSRWKxVvK3_PeqpsGqiufajQ5lNfkbEpr
 url_agenda: ~
 url_website: ~
 url_audio: ~

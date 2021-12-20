@@ -35,7 +35,7 @@ address:
   country: ~
 summary: ~
 abstract: ~
-speaker: ~
+speaker: Qing Li (Takeda)
 ---
 *Part of the Fifth Boston Pharmaceutical Symposium*
 <!--more-->

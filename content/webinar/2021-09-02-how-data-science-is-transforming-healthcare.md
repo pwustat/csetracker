@@ -7,9 +7,9 @@ categories: []
 tags: []
 type: webinar
 url_register: ~
-url_freeregister: https://www.datacamp.com/webinars/how-data-science-is-transforming-healthcare
+url_freeregister: ~
 url_slides: ~
-url_video: no
+url_video: https://www.datacamp.com/resources/webinars/data-science-is-transforming-healthcare
 url_agenda: ~
 url_website: ~
 url_audio: ~

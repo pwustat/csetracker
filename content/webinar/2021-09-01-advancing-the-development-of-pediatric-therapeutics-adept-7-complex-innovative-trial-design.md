@@ -8,8 +8,8 @@ tags: []
 type: webinar
 url_register: ~
 url_freeregister: https://cersi.umd.edu/event/16424/advancing-the-development-of-pediatric-therapeutics-adept-7
-url_slides: ~
-url_video: no
+url_slides: https://www.fda.gov/drugs/news-events-human-drugs/fda-m-cersi-advancing-development-pediatric-therapeutics-complex-innovative-trial-design-public#event-materials
+url_video: https://www.fda.gov/drugs/news-events-human-drugs/fda-m-cersi-advancing-development-pediatric-therapeutics-complex-innovative-trial-design-public#event-materials
 url_agenda: ~
 url_website: ~
 url_audio: ~

@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.com/e/novel-design-and-implementation-of-interim-and-final-analyses-tickets-161826087183
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=AnTy43_4Kvw
 url_agenda: ~
 url_website: https://community.amstat.org/bostonchapter/upcoming-events/fifth-annual-boston-pharmaceutical-symposium2
 url_audio: ~
@@ -38,4 +38,5 @@ summary: ~
 abstract: ~
 speaker: Peng Sun (Biogen)
 ---
+<span style="color: salmon;">*Part of the Fifth Boston Pharmaceutical Symposium*</span>
 <!--more-->

@@ -57,7 +57,7 @@ Generate efficacy or safety evidence for conditional regulatory approval or post
 - Provide a comparison when network meta analysis is not possible.
 Expand the scope of a randomized trial.  
 
-**Webinar 5: Target trial emulation using real-world data: head-to-head comparison of antihyperglycemic therapies for type 2 diabetes**  
+**Webinar 5: Target trial emulation using real-world data: head-to-head comparison of antihyperglycemic therapies for type 2 diabetes [[Replay Link]](https://event.on24.com/wcc/r/3335460/BB9B6631F1F0CB7D5948AE5509FF10FC?mode=login)**  
 - Discuss when a randomized trial to compare effectiveness of healthcare interventions can be emulated using real-world data.  
 - The target trial framework, which couples causal inference methods to an explicit causal question posed in the form of a protocol for a randomized trial.  
 - How this approach helps to avoid common methodological pitfalls encountered in naïve analyses of observational data.  
