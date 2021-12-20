@@ -12,7 +12,7 @@ type: webinar
 url_register: ~
 url_freeregister: ~
 url_slides: ~
-url_video: https://zoom.us/rec/share/Zad8zd_jofovN_MsFjv-Z_AHdWYsSRpGvoqivehjNeeChyGukWqvckGCd7f8YzGF.LbBCW8Yv4g7-vWQS
+url_video: https://www.youtube.com/watch?v=gh9g513i2BY
 url_audio: ~
 url_code: ~
 url_pdf: ~
@@ -34,11 +34,10 @@ address:
   region: ~
   postcode: ~
   country: ~
-summary: "Recording passcode: 6cleDgX+"
+summary: ~
 abstract: ~
 speaker: Bethany Wolf (Medical University of South Carolina)
 ---
 <!--more-->
-**Recording passcode**: 6cleDgX+  
 
 In this talk, Dr. Wolf will provide an overview of common machine learning methods (e.g. ensemble methods, support vector machines and neural networks) and discuss currently implemented importance measures that provide semi-quantitative measures of associations between variables and outcome.
