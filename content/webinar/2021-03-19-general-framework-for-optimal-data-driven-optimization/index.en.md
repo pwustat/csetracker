@@ -11,7 +11,7 @@ type: webinar
 url_register: ~
 url_freeregister: ~
 url_slides: ~
-url_video: https://urlisolation.com/browser?url=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%253A%252F%252Fpsu.zoom.us%252Fj%252F95512102924%26sa%3DD%26sntz%3D1%26usg%3DAFQjCNG3ZpCPbVTkStkJO6ZXhY5qlgywSw&traceToken=1615914332;gilead_hosted;https:/niss.us11.list-manage.com&clickId=B1123483-E5B6-47EB-BB8B-F1A5509948CD
+url_video: https://psu.mediaspace.kaltura.com/media/Online+Seminar+on+Mathematical+Foundations+of+Data+Science/1_hsv3474w?st=765
 url_agenda: ~
 url_website: https://sites.google.com/view/seminarmathdatascience/home?authuser=0
 url_audio: ~
