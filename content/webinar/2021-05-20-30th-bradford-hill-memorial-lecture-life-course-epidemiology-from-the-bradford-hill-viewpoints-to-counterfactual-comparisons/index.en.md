@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: ~
 url_slides: ~
-url_video: no
+url_video: https://lshtm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c01c5d62-1e23-4049-9f25-ad2f0091b9ca
 url_agenda: ~
 url_website: https://www.rss.org.uk/training-events/events/events-2021/rss-events/30th-bradford-hill-memorial-lecture/
 url_audio: ~

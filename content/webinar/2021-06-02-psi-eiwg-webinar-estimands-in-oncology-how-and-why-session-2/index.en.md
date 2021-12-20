@@ -1,5 +1,5 @@
 ---
-title: 'PSI EIWG Webinar: Estimands in Oncology - How and Why (Session 2)'
+title: 'PSI EIWG Webinar: Estimands in Oncology - How and Why'
 author: ''
 date: '2021-06-02T07:00:00-07:00'
 slug: psi-eiwg-webinar-estimands-in-oncology-how-and-why-session-2

@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://collaboration.fda.gov/grandrounds051321/event/registration.html
 url_slides: ~
-url_video: no
+url_video: https://collaboration.fda.gov/pbq6126oijaa/
 url_agenda: ~
 url_website: https://www.fda.gov/science-research/fda-grand-rounds/project-orbis-global-collaborative-oncology-review-program-05132021-05132021
 url_audio: ~

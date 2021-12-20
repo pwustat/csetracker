@@ -1,6 +1,5 @@
 ---
-title: 'Frontiers in Biostatistics Seminar: The Use of External Control Data for Predictions
-  and Interim Analyses in Clinical Trials'
+title: 'Frontiers in Biostatistics Seminar: The Use of External Control Data for Predictions and Interim Analyses in Clinical Trials'
 author: ''
 date: '2021-06-08T10:00:00-07:00'
 slug: frontiers-in-biostatistics-seminar-the-use-of-external-control-data-for-predictions-and-interim-analyses-in-clinical-trials
@@ -10,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: http://bit.ly/FIBJune21
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=g-OhGgsa6As&list=PLSRWKxVvK3_PeqpsGqiufajQ5lNfkbEpr
 url_agenda: ~
 url_website: https://ds.dfci.harvard.edu/event/frontiers-in-biostatistics-lorenzo-trippa/
 url_audio: ~

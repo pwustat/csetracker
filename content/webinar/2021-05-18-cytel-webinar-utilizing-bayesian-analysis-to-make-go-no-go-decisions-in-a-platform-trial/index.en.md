@@ -60,4 +60,4 @@ speaker: Peter Thall (M.D. Anderson Cancer Center) | Kyle Wathen (Cytel) | Rajat
 [Replay](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&mode=login&eventid=3160482&sessionid=1&key=E1B11F1518E7962566D16D13EB2C194E&regTag=&V2=false&sourcepage=register)
 
 - **6/22/2021: Using Robust Bayesian Priors to Borrow Information from Historical Adult Trials for a Clinical Trial in Pediatric Multiple Sclerosis**  
-
+[Replay](https://event.on24.com/wcc/r/3160486/522EAB17335B161429D25A61CEECB6C2?mode=login)

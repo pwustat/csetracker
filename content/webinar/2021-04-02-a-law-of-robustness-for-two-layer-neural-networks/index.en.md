@@ -11,7 +11,7 @@ type: webinar
 url_register: ~
 url_freeregister: ~
 url_slides: ~
-url_video: https://psu.zoom.us/rec/share/dMFrGeG4SzELWwPNPo4Ty4LvMF2SUVcda9zzxeAze3W3K_RUV1nCzQdrciQ7dQbm.m5uu63zXCVi_Gshd?startTime=1617374825000
+url_video: ~
 url_agenda: ~
 url_website: https://sites.google.com/view/seminarmathdatascience/home/talks/sebastien-bubeck-april-2nd
 url_audio: ~

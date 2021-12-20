@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://rss.org.uk/training-events/events/events-2021/sections/fireside-chat-with-kaggle-founder-anthony-goldbloo/
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=C5yXmfgXUxg
 url_agenda: ~
 url_website: ~
 url_audio: ~

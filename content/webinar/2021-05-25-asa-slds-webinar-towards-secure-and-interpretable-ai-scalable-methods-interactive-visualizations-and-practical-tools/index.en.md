@@ -11,7 +11,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.eventbrite.com/e/may-slds-webinar-tickets-153659679237
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=r1UM6IAqw5M
 url_agenda: ~
 url_website: ~
 url_audio: ~
