@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DahShu | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210917dahshu/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210917dahshu/index.xml" rel="self" type="application/rss+xml" />
+    <description>DahShu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Sep 2021 09:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>DahShu</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210917dahshu/</link>
+    </image>
+    
+    <item>
+      <title>DahShu Webinar: Single Arm Trials with a Synthetic Control Arm Built from RWD </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</link>
+      <pubDate>Fri, 17 Sep 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</guid>
+      <description>&lt;p&gt;Randomized clinical trials (RCT) are the gold standard for approvals by regulatory agencies. However, RCT&amp;rsquo;s are increasingly time consuming, expensive, and laborious with a multitude of bottlenecks involving volunteer recruitment, patient truancy, and adverse events. An alternative that fast tracks clinical trials without compromising quality of scientific results is desirable to more rapidly bring therapies to consumers. We propose a model-based approach using nonparametric Bayesian common atoms models for patient baseline covariates. This specific class of models has two critical advantages in this context: (i) The models have full prior support, i.e., allow to approximate arbitrary distributions without unreasonable restrictions or shrinkage in specific parametric families; (ii) inference naturally facilitates a reweighting scheme to achieve equivalent populations. We prove equivalence of the synthetic and other patient cohorts using an independent separate verification. Failure to classify a merged data set using a flexible statistical learning method such as random forests, support vector machines etc. proves equivalence. We implement the proposed approach in two motivating case studies.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

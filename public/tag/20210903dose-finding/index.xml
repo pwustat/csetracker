@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dose Finding | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210903dose-finding/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210903dose-finding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dose Finding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Sep 2021 06:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Dose Finding</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210903dose-finding/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Designs for Optimal Dose Determination in I-O and Cell Therapy</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210903adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy/</link>
+      <pubDate>Fri, 03 Sep 2021 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210903adaptive-designs-for-optimal-dose-determination-in-i-o-and-cell-therapy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Immuno-oncology (I-O) and cell therapy, the frontier of cancer treatment, is a rapidly developing area that brings new opportunities to patients. It is critical to identify optimal dose and patient populations in early phase of trials thus improving the probability of success in pivotal trials. Given the complex mechanism interacting with immune system and patient heterogeneity, the conventional oncology dose finding design may not serve the purpose. For example, it is questionable to believe the monotone relationship between dose level and safety/efficacy, which will likely result in inappropriate dose selection using designs with monotone assumption. Additionally, considering the immune system pathway, designs ignoring the heterogeneity of the patient populations may provide misleading dose decisions, which could be either unsafe or lead to selection mistakes for targeted population.&lt;/p&gt;
+&lt;p&gt;This seminar will provide a review and discussion of innovative designs for optimal dose determination in I-O and Cell Therapy from the following perspectives&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dose finding focusing on DLT&lt;/li&gt;
+&lt;li&gt;Dose finding considering late onset toxicity&lt;/li&gt;
+&lt;li&gt;Dose finding in basket trials with borrowing scheme&lt;/li&gt;
+&lt;li&gt;Optimal dose identification design incorporating both safety and efficacy endpoints&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

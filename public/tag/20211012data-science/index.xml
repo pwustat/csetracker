@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211012data-science/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20211012data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Oct 2021 09:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Science</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211012data-science/</link>
+    </image>
+    
+    <item>
+      <title>RStudio Webinar: Hiring Great Data Science Teams</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012rstudio-webinar-hiring-great-data-science-teams/</link>
+      <pubDate>Tue, 12 Oct 2021 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211012rstudio-webinar-hiring-great-data-science-teams/</guid>
+      <description>&lt;p&gt;In this panel webinar, you will hear from leaders at RStudio, Pandora, Beam Dental, &amp;amp; Amwell, about what it takes to hire for a successful data science team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Their experiences and perspective on hiring to build great data science teams&lt;/li&gt;
+&lt;li&gt;How their teams prioritizes skills and experience in new positions&lt;/li&gt;
+&lt;li&gt;How they think about skill assessment&lt;/li&gt;
+&lt;li&gt;Their advice to data scientists just getting started&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

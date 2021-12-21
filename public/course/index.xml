@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 10:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 01:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
     </image>
+    
+    <item>
+      <title>PSI Training Course: Use of Historical Data in Clinical Trials: An Evidence Synthesis Approach</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220124psi-training-course-use-of-historical-data-in-clinical-trials-an-evidence-synthesis-approach/</link>
+      <pubDate>Mon, 24 Jan 2022 01:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220124psi-training-course-use-of-historical-data-in-clinical-trials-an-evidence-synthesis-approach/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;From Jan 24 to 27; Members £340, Non-members £465&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Survival Analysis Based on the Restricted Mean Survival Time – An Alternative to the Proportional Hazards Model</title>
