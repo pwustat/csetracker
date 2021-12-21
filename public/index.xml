@@ -37,11 +37,45 @@
     </item>
     
     <item>
+      <title>RSS-NI Webinar: Most powerful inference after model selection</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220202rss-ni-webinar-most-powerful-inference-after-model-selection/</link>
+      <pubDate>Wed, 02 Feb 2022 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220202rss-ni-webinar-most-powerful-inference-after-model-selection/</guid>
+      <description>&lt;p&gt;Classical-textbook-inference assumes that a model that is used for inference is correct and given before the analysis. Statistical practice, however, includes variable selection and model selection steps before arriving at the inference part. When confidence intervals or hypothesis tests are to be constructed for parameters in a selected model, most likely misspecified, the classical formulas no longer apply in the sense that computed p-values via classical formulas are smaller than they actually are and confidence intervals are too narrow for the intended nominal coverage. The main starting point of selective inference is to condition on the event of having selected the model that one wishes to use for inference. As a tool for valid inference in this talk confidence distributions are used, conditional on the event of having selected a model. Under some assumptions, uniformly most powerful post-selection confidence curves are obtained.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2022 ASA Conference on Statistical Practice</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202202012022-asa-conference-on-statistical-practice/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202202012022-asa-conference-on-statistical-practice/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 4, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Data &amp; AI: Lessons From the Field in Building Your MLOps Strategy </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220127enterprise-data-ai-lessons-from-the-field-in-building-your-mlops-strategy/</link>
+      <pubDate>Thu, 27 Jan 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220127enterprise-data-ai-lessons-from-the-field-in-building-your-mlops-strategy/</guid>
+      <description>&lt;p&gt;As machine learning expands and larger organizations begin deploying across bigger teams, the need to efficiently operationalize becomes critical for enterprises. In our discussions with leading organizations utilizing ML like The RealReal and Uber, we have compiled real-world case studies and organizational best practices for MLOps in the enterprise.&lt;/p&gt;
+&lt;p&gt;Join us for a discussion where we&amp;rsquo;ll explore the benefits of MLOps and discuss when and how to deploy MLOps in your ML. We&amp;rsquo;ll review three real world case studies that will answer key questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When to start implementing in MLOps?&lt;/li&gt;
+&lt;li&gt;How to start implementing in MLOps?&lt;/li&gt;
+&lt;li&gt;How to measure the value of your MLOps strategy&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI Webinar: Tipping Point Analyses - Introduction &amp; Case Studies</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220126psi-webinar-tipping-point-analyses-introduction-case-studies/</link>
+      <pubDate>Wed, 26 Jan 2022 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220126psi-webinar-tipping-point-analyses-introduction-case-studies/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Members free, Non-members £20&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Tipping point sensitivity analysis for time-to-event: a case study in belimumab&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this presentation I will illustrate one way of implementing a tipping point analysis (TPA) for a time-to-event endpoint to assess the robustness of results to the censoring-at-random assumption. The method is based on multiple imputation and it assumes the hazard rate post-censoring changes. A grid of values reflecting such changes is considered to vary the hazard rate post-censoring independently for each treatment arm. The (experimental, control) pairs of post-censoring hazard rate changes form the TPA scenarios. Within each of the TPA scenarios, participants who are censored are imputed a time to the event of interest and are administratively censored if the imputed time exceeds the length of the follow-up. Results are combined across imputed datasets using Rubin’s rules. Finally, the plausibility of the scenarios where the results tip is discussed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Practical use of Tipping Point Analysis in regulatory submissions of clinical trials&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The tipping point analysis (TPA) approach has gained popularity recently as an approach for performing the sensitivity analysis under the missing not at random (MNAR) assumption. This presentation will review why TPA gets popular in clinical trial submissions, its implementation for binary endpoints for time-independent imputation and time-dependent imputation, general procedure of TPA implementation for continuous endpoints, and Interpretation of TPA result based on clinical input. The presentation then shows six real examples of FDA statistical review of submitted NDA/BLAs (all in public domain) that use TPA as sensitivity analysis to illustrate the practical use of this method in real trials and important consideration points from the regulatory perspective.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -58,6 +92,22 @@
       <pubDate>Mon, 24 Jan 2022 01:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220124psi-training-course-use-of-historical-data-in-clinical-trials-an-evidence-synthesis-approach/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;From Jan 24 to 27; Members £340, Non-members £465&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DFCI Frontiers in Biostatistics Webinar: Studies on COVID-19 and Cancer using National Real-World VA Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220111dfci-frontiers-in-biostatistics-webinar-studies-on-covid-19-and-cancer-using-national-real-world-va-data/</link>
+      <pubDate>Tue, 11 Jan 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220111dfci-frontiers-in-biostatistics-webinar-studies-on-covid-19-and-cancer-using-national-real-world-va-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enterprise Data &amp; AI - How Shopify Applies ML for Anomaly Detection and Forecasting At Scale</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220106enterprise-data-ai-how-shopify-applies-ml-for-anomaly-detection-and-forecasting-at-scale/</link>
+      <pubDate>Thu, 06 Jan 2022 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220106enterprise-data-ai-how-shopify-applies-ml-for-anomaly-detection-and-forecasting-at-scale/</guid>
+      <description>&lt;p&gt;At Shopify, we have over 1.7 million merchants across over 175 countries, with hundreds of millions of consumers shopping at their stores. We’re focused on leveraging the scale of our data to not only empower Shopify, but to create new experiences for our merchants that are impossible without data. In our daily operations at Shopify, we are highly data informed. Some of the ways we’re leveraging advanced analytics is by building an anomaly detection engine that allows us to process over hundreds of thousands of metric/segment combinations in a very accessible way. In her talk, Dr. Hilal will share key tips on how you can apply machine learning for anomaly detection and forecasting at scale.&lt;/p&gt;</description>
     </item>
     
     <item>
