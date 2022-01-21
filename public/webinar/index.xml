@@ -5,7 +5,7 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 05:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Feb 2022 12:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
@@ -13,11 +13,43 @@
     </image>
     
     <item>
+      <title>SFASA Virtual Seminar: A new framework for understanding the closed testing procedures with proof and an example of testing multiple hypotheses in clinical trial design</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220204sfasa-virtual-seminar-a-new-framework-for-understanding-the-closed-testing-procedures-with-proof-and-an-example/</link>
+      <pubDate>Fri, 04 Feb 2022 12:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220204sfasa-virtual-seminar-a-new-framework-for-understanding-the-closed-testing-procedures-with-proof-and-an-example/</guid>
+      <description>&lt;p&gt;Closed testing procedures (CTPs) were originally proposed by Marcus, Peritz, and Gabriel (1976). CTPs were developed to provide a multiple testing framework that ensures strong control of the type 1 error rate. Many of the most common methods used when evaluating multiple endpoints in clinical trials (e.g., Holms, Hochberg, Hommel, graphical methods etc.) can be recast as CTPs. In this talk I attempt to make the closure principle more tangible by using a new algebra-based formulation of the closed testing framework. This approach attempts to ensure that each step in the derivations and proofs clearly follows from the previous steps. Through this approach, we build toward a better understanding of the versatility and usefulness of the foundational principle underlying all CTPs. We provide a framework for understanding how the closure principle controls the type 1 error rate and what we believe to be an accessible proof of how the closure principle strongly controls the family-wise error rate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>RSS-NI Webinar: Most powerful inference after model selection</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220202rss-ni-webinar-most-powerful-inference-after-model-selection/</link>
       <pubDate>Wed, 02 Feb 2022 05:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220202rss-ni-webinar-most-powerful-inference-after-model-selection/</guid>
       <description>&lt;p&gt;Classical-textbook-inference assumes that a model that is used for inference is correct and given before the analysis. Statistical practice, however, includes variable selection and model selection steps before arriving at the inference part. When confidence intervals or hypothesis tests are to be constructed for parameters in a selected model, most likely misspecified, the classical formulas no longer apply in the sense that computed p-values via classical formulas are smaller than they actually are and confidence intervals are too narrow for the intended nominal coverage. The main starting point of selective inference is to condition on the event of having selected the model that one wishes to use for inference. As a tool for valid inference in this talk confidence distributions are used, conditional on the event of having selected a model. Under some assumptions, uniformly most powerful post-selection confidence curves are obtained.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA 2022 Privacy Day Webinar: New Developments in Synthetic Data Generation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220128asa-2022-privacy-day-webinar-new-developments-in-synthetic-data-generation/</link>
+      <pubDate>Fri, 28 Jan 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220128asa-2022-privacy-day-webinar-new-developments-in-synthetic-data-generation/</guid>
+      <description>&lt;p&gt;Synthetic data methods are used to generate microdata that protect confidentiality of the data units by replacing observed values with simulated ones. For this webinar, we bring together researchers currently working on novel synthetic data methods and applications in different areas including clinical data and official statistics. These talks will provide a glimpse of just a few ways in which synthetic data can be leveraged to increase public access to information from sensitive data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BBSW January Meet-up: Data Sciences in Clinical Diagnostics </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220127bbsw-january-meet-up-data-sciences-in-clinical-diagnostics/</link>
+      <pubDate>Thu, 27 Jan 2022 16:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220127bbsw-january-meet-up-data-sciences-in-clinical-diagnostics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA SLDS Webinar: Data Privacy </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220127asa-slds-webinar-data-privacy/</link>
+      <pubDate>Thu, 27 Jan 2022 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220127asa-slds-webinar-data-privacy/</guid>
+      <description>&lt;p&gt;Limited access to large-scale, high-quality, and multi-source data is one of the key obstacles to deploying modern machine learning models, which is partly due to the reluctance of information exchange out of privacy concerns. Recent studies have found that data privacy has the potential to grow into a gigantic industry, because of the increasing demand of data sharing, fast development of AI software and platforms, and the vast adoption of data-related regulations and policies. In this talk, we will provide a broad overview regarding the status quo of data privacy, and render more details in differential privacy, one of the state-of-the-art data protection techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,6 +76,30 @@
 &lt;p&gt;In this presentation I will illustrate one way of implementing a tipping point analysis (TPA) for a time-to-event endpoint to assess the robustness of results to the censoring-at-random assumption. The method is based on multiple imputation and it assumes the hazard rate post-censoring changes. A grid of values reflecting such changes is considered to vary the hazard rate post-censoring independently for each treatment arm. The (experimental, control) pairs of post-censoring hazard rate changes form the TPA scenarios. Within each of the TPA scenarios, participants who are censored are imputed a time to the event of interest and are administratively censored if the imputed time exceeds the length of the follow-up. Results are combined across imputed datasets using Rubin’s rules. Finally, the plausibility of the scenarios where the results tip is discussed.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. Practical use of Tipping Point Analysis in regulatory submissions of clinical trials&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The tipping point analysis (TPA) approach has gained popularity recently as an approach for performing the sensitivity analysis under the missing not at random (MNAR) assumption. This presentation will review why TPA gets popular in clinical trial submissions, its implementation for binary endpoints for time-independent imputation and time-dependent imputation, general procedure of TPA implementation for continuous endpoints, and Interpretation of TPA result based on clinical input. The presentation then shows six real examples of FDA statistical review of submitted NDA/BLAs (all in public domain) that use TPA as sensitivity analysis to illustrate the practical use of this method in real trials and important consideration points from the regulatory perspective.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adventures in Statistics Lecture Series (II) by Professor Donald A. Berry</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220125adventures-in-statistics-lecture-series-ii-by-professor-donald-a-berry/</link>
+      <pubDate>Tue, 25 Jan 2022 14:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220125adventures-in-statistics-lecture-series-ii-by-professor-donald-a-berry/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A lecture series on January 25, February 22, March 29 &amp;amp; April 26, 2022&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DahShu Webinar: Statistical Analysis of Single-Cell RNA-seq Data with Multiple Samples</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220121dahshu-webinar-statistical-analysis-of-single-cell-rna-seq-data-with-multiple-samples/</link>
+      <pubDate>Fri, 21 Jan 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220121dahshu-webinar-statistical-analysis-of-single-cell-rna-seq-data-with-multiple-samples/</guid>
+      <description>&lt;p&gt;As single-cell RNA-seq (scRNA-seq) is increasingly used in biomedical research, scRNA-seq datasets with multiple patient samples become common. In this talk, I will introduce our recent research on analyzing multi-sample scRNA-seq data. I will introduce TreeCorTreat, an open source R package that uses a tree-based correlation screen to help explore and visualize the association between samples’ phenotype and their transcriptomic features at multiple cell type resolutions. I will also introduce Lamian, a statistical framework for differential pseudotime analysis with multiple samples. I will demonstrate these tools using both simulation and real data including an integrative analysis of COVID-19 single-cell RNA-seq data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Use of External Data in Randomized Clinical Trials </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220121use-of-external-data-in-randomized-clinical-trials/</link>
+      <pubDate>Fri, 21 Jan 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220121use-of-external-data-in-randomized-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;DIA Bayesian Scientific Working Group (BSWG) KOL Lecture Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
