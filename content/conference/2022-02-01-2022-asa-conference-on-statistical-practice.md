@@ -13,7 +13,7 @@ url_pdf: ~
 url_video: ~
 url_website: https://ww2.amstat.org/meetings/csp/2022/registration.cfm
 url_agenda: ~
-location: New Orleans, LA
+location: Virtual
 address:
   street: ~
   city: ~
