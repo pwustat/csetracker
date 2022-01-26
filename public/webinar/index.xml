@@ -5,12 +5,24 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Feb 2022 12:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 07:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>EU-PEARL Webinar: Non-concurrent Controls in Platform Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224eu-pearl-webinar-non-concurrent-controls-in-platform-trials/</link>
+      <pubDate>Thu, 24 Feb 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224eu-pearl-webinar-non-concurrent-controls-in-platform-trials/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;EU-PEARL perspective on use of non-concurrent control data  in integrated research platforms&lt;/li&gt;
+&lt;li&gt;Positions and experiences with using non-concurrent control data  in platform studies shared by an expert panel from regulatory, academic and industry statisticians&lt;/li&gt;
+&lt;li&gt;Panel discussion on selected questions concerning non-concurrent control data&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>SFASA Virtual Seminar: A new framework for understanding the closed testing procedures with proof and an example of testing multiple hypotheses in clinical trial design</title>

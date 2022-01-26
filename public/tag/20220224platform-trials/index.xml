@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Platform Trials | CSE Tracker</title>
+    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20220224platform-trials/</link>
+      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20220224platform-trials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Platform Trials</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 07:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Platform Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20220224platform-trials/</link>
+    </image>
+    
+    <item>
+      <title>EU-PEARL Webinar: Non-concurrent Controls in Platform Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224eu-pearl-webinar-non-concurrent-controls-in-platform-trials/</link>
+      <pubDate>Thu, 24 Feb 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224eu-pearl-webinar-non-concurrent-controls-in-platform-trials/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;EU-PEARL perspective on use of non-concurrent control data  in integrated research platforms&lt;/li&gt;
+&lt;li&gt;Positions and experiences with using non-concurrent control data  in platform studies shared by an expert panel from regulatory, academic and industry statisticians&lt;/li&gt;
+&lt;li&gt;Panel discussion on selected questions concerning non-concurrent control data&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adventures in Statistics Lecture Series by Professor Donald A. Berry </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928adventures-in-statistics-lecture-series-by-professor-donald-a-berry/</link>
+      <pubDate>Tue, 28 Sep 2021 14:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210928adventures-in-statistics-lecture-series-by-professor-donald-a-berry/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A seminar series on Sep 28, Oct 26, and Nov 30&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A three-part lecture series focused on Bayesian adaptive clinical trials over time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Part One – From multi-armed bandit strategies to designs for phase 3 adaptive Bayesian platform clinical trials. 9/28/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Part Two – How regulators and journals came to accept and perhaps even embrace adaptive Bayesian clinical trials. 10/26/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Part Three – Adaptive Bayesian platform trials and the role of regulators in promoting clinical trials with “complex innovative designs.” 11/30/2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
