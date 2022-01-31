@@ -33,11 +33,44 @@
     </item>
     
     <item>
+      <title>Assessing Treatment Efficacy in Early-Phase Oncology Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220203assessing-treatment-efficacy-in-early-phase-oncology-trials/</link>
+      <pubDate>Thu, 03 Feb 2022 12:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220203assessing-treatment-efficacy-in-early-phase-oncology-trials/</guid>
+      <description>&lt;p&gt;In this webinar, we will:&lt;/p&gt;
+&lt;p&gt;– Present a historical overview of efficacy assessment in early-phase trials&lt;br&gt;
+– Highlight some recent regulatory trends in that respect&lt;br&gt;
+– Discuss the tension between the clinically appealing and statistically sound methods to assess the efficacy of novel treatments in phase 1 trials, single-arm phase 2 trials, and randomized phase 2 trials&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>RSS-NI Webinar: Most powerful inference after model selection</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220202rss-ni-webinar-most-powerful-inference-after-model-selection/</link>
       <pubDate>Wed, 02 Feb 2022 05:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220202rss-ni-webinar-most-powerful-inference-after-model-selection/</guid>
       <description>&lt;p&gt;Classical-textbook-inference assumes that a model that is used for inference is correct and given before the analysis. Statistical practice, however, includes variable selection and model selection steps before arriving at the inference part. When confidence intervals or hypothesis tests are to be constructed for parameters in a selected model, most likely misspecified, the classical formulas no longer apply in the sense that computed p-values via classical formulas are smaller than they actually are and confidence intervals are too narrow for the intended nominal coverage. The main starting point of selective inference is to condition on the event of having selected the model that one wishes to use for inference. As a tool for valid inference in this talk confidence distributions are used, conditional on the event of having selected a model. Under some assumptions, uniformly most powerful post-selection confidence curves are obtained.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IQVIA Webinar: Adaptive Trial Design – Better Development Decisions Using Adaptive Trials </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220201iqvia-webinar-adaptive-trial-design-better-development-decisions-using-adaptive-trials/</link>
+      <pubDate>Tue, 01 Feb 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220201iqvia-webinar-adaptive-trial-design-better-development-decisions-using-adaptive-trials/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;3 Key take-aways&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The added value of adaptive trial designs can be measured&lt;/li&gt;
+&lt;li&gt;Adaptive trials quicken decision-making&lt;/li&gt;
+&lt;li&gt;Most trials should have an adaptive component&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Time Series Robust Methods - In the Time and Frequency Domains </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220201time-series-robust-methods-in-the-time-and-frequency-domains/</link>
+      <pubDate>Tue, 01 Feb 2022 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220201time-series-robust-methods-in-the-time-and-frequency-domains/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A two-day webinar hosted on Feb 1st and 3rd, 5 - 7 am PST, by International Association for Statistical Computing (IASC)&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This seminar aims to discuss recent developments in robust estimation in linear time series models, with short and long memory correlation structures, in the presence of additive outliers.  Robust estimators of the auto covariance matrix will be discussed from both time and domain approaches from both theoretical and applied points of view. A variety of application models will be considered for the use of the proposed methodologies, such as multivariate techniques (factor analysis and PCA), time series and mixed models. Real applications will also be discussed.&lt;/p&gt;</description>
     </item>
     
     <item>
