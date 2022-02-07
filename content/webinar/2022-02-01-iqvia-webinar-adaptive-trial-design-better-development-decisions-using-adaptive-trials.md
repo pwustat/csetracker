@@ -11,7 +11,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://event.on24.com/wcc/r/3597832/A8C755D9AB753299FA0CEB9DBE849C5C?partnerref=IQVIA?&utm_campaign=2022_FSPBiosAdapDesi_GBU_RDS_ML&utm_medium=email&utm_source=Eloqua
 url_slides: ~
-url_video: no
+url_video: https://event.on24.com/wcc/r/3597832/A8C755D9AB753299FA0CEB9DBE849C5C?partnerref=IQVIA?&utm_campaign=2022_FSPBiosAdapDesi_GBU_RDS_ML&utm_medium=email&utm_source=Eloqua
 url_agenda: ~
 url_website: ~
 url_audio: ~

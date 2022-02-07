@@ -1,6 +1,5 @@
 ---
-title: A Four-Step Strategy for Handling Missing Outcome Data in Randomised Trials
-  Affected by a Pandemic
+title: A Four-Step Strategy for Handling Missing Outcome Data in Randomised Trials Affected by a Pandemic
 author: CSE
 date: '2021-12-16T08:00:00-07:00'
 slug: a-four-step-strategy-for-handling-missing-outcome-data-in-randomised-trials-affected-by-a-pandemic
@@ -10,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://phastar.com/missing-data-during-a-pandemic
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=Ivkj9jhARR4
 url_agenda: ~
 url_website: ~
 url_audio: ~

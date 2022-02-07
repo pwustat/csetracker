@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.iddi.com/news/news-events/assessing-treatment-efficacy-in-early-phase-oncology-trials/
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=Uovjs0zAtaw
 url_agenda: ~
 url_website: ~
 url_audio: ~

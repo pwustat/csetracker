@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://amstat.zoom.us/webinar/register/WN_DKAtwx78QPmP3ApD7_rnOg
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=sQ6u2R3MBRY
 url_agenda: ~
 url_website: ~
 url_audio: ~
