@@ -100,6 +100,39 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>SFASA Virtual Seminar: On Frequentist and Bayesian Sequential Clinical Trial Designs </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220218sfasa-virtual-seminar-on-frequentist-and-bayesian-sequential-clinical-trial-designs/</link>
+      <pubDate>Fri, 18 Feb 2022 12:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220218sfasa-virtual-seminar-on-frequentist-and-bayesian-sequential-clinical-trial-designs/</guid>
+      <description>&lt;p&gt;Clinical trials usually involve sequential patient entry. When designing a clinical trial, it is often desirable to include a provision for interim analyses of accumulating data with the potential for stopping the trial early. We review frequentist and Bayesian sequential clinical trial designs with a focus on their fundamental and philosophical differences. Frequentist designs utilize repeated significance testing or conditional power to make early stopping decisions. The majority of frequentist designs are concerned with controlling the overall type I error rate of falsely rejecting the null hypothesis at any analysis. On the other hand, Bayesian designs utilize posterior or posterior predictive probabilities for decision- making. The prior and threshold values in a Bayesian design can be chosen to either achieve desirable frequentist operating characteristics or reflect the investigator’s subjective belief. We also comment on the likelihood principle, which is commonly tied with statistical inference and decision-making in sequential clinical trials. A single-arm trial example with normally distributed outcomes is used throughout to illustrate some frequentist and Bayesian designs. Numerical studies are conducted to assess these designs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>McGill Biostatistics Seminar: Recent Experiences Conducting Trials using Bayesian Response Adaptive Randomization </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220216mcgill-biostatistics-seminar-recent-experiences-conducting-trials-using-bayesian-response-adaptive-randomization/</link>
+      <pubDate>Wed, 16 Feb 2022 15:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220216mcgill-biostatistics-seminar-recent-experiences-conducting-trials-using-bayesian-response-adaptive-randomization/</guid>
+      <description>&lt;p&gt;I will discuss my experiences coordinating two recent clinical trials in out-of-hospital cardiac arrest that used Bayesian response adaptive randomization designs, and present some methodological innovations to improve implementation and understand the potential benefit these designs offer. I will discuss the ACCESS trial (Clinicaltrials.gov ID: NCT03119571), which sought to compare the efficacy of two standards or care: direct admission to the cardiac catheter laboratory versus the ICU; and the ARREST trial (NCT03880565), which sought to evaluate the efficacy of in-transit ECMO-facilitated resuscitation versus standard Advanced Cardiac Life Support (ACLS) resuscitation. My experiences with these trials motivated methodological research into alternative prior choices and randomization techniques that improve type I error control and reduce the risk of enrolling a substantial proportion of participants to an inferior treatment arm. Building upon this research, we proposed and investigated comparing a set of potential designs in terms of the expected number of failures among the cohort most acutely affected by the choice of design; namely, persons who would participate in the trial if it were open to enrollment at the time they become eligible. I plan to discuss the details and take-aways from this line of research&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>McGill Biostatistics Seminar: Multi-Study Approaches for Assessing Reproducibility </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220209mcgill-biostatistics-seminar-multi-study-approaches-for-assessing-reproducibility/</link>
+      <pubDate>Wed, 09 Feb 2022 12:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220209mcgill-biostatistics-seminar-multi-study-approaches-for-assessing-reproducibility/</guid>
+      <description>&lt;p&gt;Biostatistics and computational biology are increasingly facing the urgent challenge of efficiently dealing with a large amount of experimental data. In particular, high-throughput assays are transforming the study of biology, as they generate a rich, complex, and diverse collection of high-dimensional data sets. Through compelling statistical analysis, these large data sets lead to discoveries, advances and knowledge that were never accessible before, via compelling statistical analysis. Building such systematic knowledge is a cumulative process which requires analyses that integrate multiple sources, studies, and technologies. The increased availability of ensembles of studies on related clinical populations, technologies, and genomic features poses four categories of important multi-study statistical questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To what extent is biological signal reproducibly shared across different studies?&lt;/li&gt;
+&lt;li&gt;How can this global signal be extracted?&lt;/li&gt;
+&lt;li&gt;How can we detect and quantify local signals that may be masked by strong 
+global signals?&lt;/li&gt;
+&lt;li&gt;How do these global and local signals manifest differently in different data types?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We will answer these four questions by introducing novel classes of methodologies for the joint analysis of different studies. The goal is to separately identify and estimate 1) common factors reproduced across 
+multiple studies, and 2) study-specific factors. We present different medical and biological applications. In all the cases, we clarify the benefits of a joint analysis compared to the standard methods.Our methods could accelerate the pace at which we can combine unsupervised analysis across different studies, and understand the cross-study reproducibility of signal in multivariate data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA Biopharmaceutical Section Webinar: Durability of Covid-19 Vaccines</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220209asa-biopharmaceutical-section-webinar-durability-of-covid-19-vaccines/</link>
       <pubDate>Wed, 09 Feb 2022 08:00:00 -0700</pubDate>
