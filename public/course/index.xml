@@ -5,12 +5,32 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 01:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 05:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
     </image>
+    
+    <item>
+      <title>Basel Biometric Society Training: Machine Learning in Clinical Drug Development</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220221basel-biometric-society-training-machine-learning-in-clinical-drug-development/</link>
+      <pubDate>Mon, 21 Feb 2022 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220221basel-biometric-society-training-machine-learning-in-clinical-drug-development/</guid>
+      <description>&lt;p&gt;There is tremendous interest and excitement surrounding the application of Machine 
+learning (ML) in drug development. ML tools can process information much faster, cheaper 
+and more accurately than any human, and some people expect no less than a change to 
+the clinical drug development paradigm.&lt;br&gt;
+In this seminar, the participants will get up to speed with the opportunities of ML in drug 
+development. The statistical details behind the ideas, the implementation using software 
+(R) as well as the interpretation of the results will be discussed. Any examples will be 
+inspired by real problems.&lt;br&gt;
+Markus Lange and Lorenz Uhlmann (both Novartis) will provide an overview of machine 
+learning and artificial intelligence and its application in the pharmaceutical industry. They 
+will illustrate key elements and principles for building and assessing machine learning 
+methods, discuss different types of algorithms (e.g. supervised and unsupervised learning) 
+and provide examples of the types of problems where they might be applied.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>PSI Training Course: Use of Historical Data in Clinical Trials: An Evidence Synthesis Approach</title>
