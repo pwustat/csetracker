@@ -1,5 +1,5 @@
 ---
-title: 'DFCI Frontiers in Biostatistics Seminar: Early Phase Design Considerations for Oncology Drug Development in the Era of Immunotherapy and Targeted Agents'
+title: 'DFCI Frontiers in Biostatistics Seminar: Dose Optimization for Anti-cancer Agents in the Era of Immunotherapy and Targeted Agents'
 author: ''
 date: '2022-02-08T10:00:00-07:00'
 slug: dfci-frontiers-in-biostatistics-seminar-early-phase-design-considerations-for-oncology-drug
@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://ds.dfci.harvard.edu/event/frontiers-in-biostatistics-elizabeth-garrett-meyer/
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=52AMmsnT74U
 url_agenda: ~
 url_website: ~
 url_audio: ~

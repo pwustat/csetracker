@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.statsols.com/webinar/crossover-and-cluster-randomized-trials?utm_campaign=Feb%202022%20%7C%20Crossover%20%26%20Cluster%20Randomized%20Trials&utm_medium=email&_hsmi=202638949&_hsenc=p2ANqtz-_iVNQ5P4QQZ5GyttBFYiXST9fxRoTSxGf8eqzJrw87s4f8WQ6XvwBu9lBEqSGRCSgcszbD286qDUuLW-qBzJUiO2l0kQ&utm_content=202638949&utm_source=hs_email
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=qreGdfgluA0
 url_agenda: ~
 url_website: ~
 url_audio: ~
