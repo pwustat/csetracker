@@ -5,12 +5,36 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 09:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 12:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>SFASA Virtual Seminar: A Unified Decision Framework for Phase I Dose-Finding Designs </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220304sfasa-virtual-seminar-a-unified-decision-framework-for-phase-i-dose-finding-designs/</link>
+      <pubDate>Fri, 04 Mar 2022 12:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220304sfasa-virtual-seminar-a-unified-decision-framework-for-phase-i-dose-finding-designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA San Diego Chapter Virtual Event: Biostatistics in Genomic Life Sciences </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220303asa-san-diego-chapter-virtual-event-biostatistics-in-genomic-life-sciences/</link>
+      <pubDate>Thu, 03 Mar 2022 16:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220303asa-san-diego-chapter-virtual-event-biostatistics-in-genomic-life-sciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Designs &amp; Statistical Innovation – Current Trends in Oncology and Rare Diseases </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220302adaptive-designs-statistical-innovation-current-trends-in-oncology-and-rare-diseases/</link>
+      <pubDate>Wed, 02 Mar 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220302adaptive-designs-statistical-innovation-current-trends-in-oncology-and-rare-diseases/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Designs and Statistical Innovation: Current Trends in Oncology and Rare Diseases</title>
@@ -23,6 +47,44 @@
 &lt;li&gt;Innovative and Exciting Adaptive Study Designs – Recent examples of what, when and how (Natasa Rajicic)&lt;/li&gt;
 &lt;li&gt;Panel – Q/A&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>DFCI Frontiers in Biostatistics Seminar: Considerations for Extracting Real-World Evidence from Real-World Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220301dfci-frontiers-in-biostatistics-seminar-considerations-for-extracting-real-world-evidence-from-real-world-data/</link>
+      <pubDate>Tue, 01 Mar 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220301dfci-frontiers-in-biostatistics-seminar-considerations-for-extracting-real-world-evidence-from-real-world-data/</guid>
+      <description>&lt;p&gt;Opportunities to use real-world data (RWD), including electronic health records (EHR) and medical claims data, have exploded over the past decade. The Covid-19 pandemic has provided a particularly dramatic illustration of the potential value of RWD for advancing medical research as well as the high-risk of bias inherent to many such studies. Using data sources that were not collected for research purposes comes at a cost, and naïve use of these data without considering their complexity and imperfect quality can lead to biased inference. While RWD offer the opportunity to generate timely evidence grounded in real-world populations and clinical practice, issues of information bias and confounding create serious threats to the validity of these studies. The statistician is faced with a quandary: how to effectively utilize RWD to advance research without compromising best practices for principled data analysis. In this talk I will use examples from my research on methods for the analysis of EHR derived-data to illustrate how an understanding of the EHR data generating mechanism can inform selection of appropriate study questions and development and application of statistical methods that minimize the risk of bias. The overarching goal of this presentation is to raise awareness of challenges associated with the analysis of RWD and demonstrate that valid evidence generation can be grounded in an understanding of the scientific context and data generating process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Science Seminar: From Descriptive to Predictive Biology via Single-Cell Multiomics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220228dfci-data-science-seminar-from-descriptive-to-predictive-biology-via-single-cell-multiomics/</link>
+      <pubDate>Mon, 28 Feb 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220228dfci-data-science-seminar-from-descriptive-to-predictive-biology-via-single-cell-multiomics/</guid>
+      <description>&lt;p&gt;As the single-cell field races to characterize each cell type, state, and behavior, the complexity of the computational analysis approaches the complexity of the biological systems. Single cell and imaging technologies now enable unprecedented measurements of state transitions in biological systems, providing high-throughput data that capture tens-of-thousands of measurements on hundreds-of-thousands of samples. Thus, the definition of cell type and state is evolving to encompass the broad range of biological questions now attainable. To answer these questions requires the development of computational tools for integrated multiomics analysis. Merged with statistical and mathematical models, these algorithms will be able to forecast future states of biological systems, going from statistical inferences of phenotypes to time course predictions of the biological systems with dynamic maps. Thus, systems biology for forecasting biological system dynamics from multiomic data represents the future of cell biology empowering a new generation of technology-driven predictive medicine.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DahShu Webinar: Drug Discovery in the Era of Precision Medicine </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220225dahshu-webinar-drug-discovery-in-the-era-of-precision-medicine/</link>
+      <pubDate>Fri, 25 Feb 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220225dahshu-webinar-drug-discovery-in-the-era-of-precision-medicine/</guid>
+      <description>&lt;p&gt;The application of established drug compounds to new therapeutic indications, known as drug repositioning, offers several advantages over traditional drug development, including reduced development costs and shorter paths to approval. The development and availability of large-scale genomic, transcriptomic, and other molecular profiling technologies and publicly available databases, in combination with the deployment of the network concept of drug targets and the power of phenotypic screening, provide an unprecedented opportunity to advance rational drug repositioning based on the ability of single or multiple therapeutic agents to perturb entire molecular networks away from disease states in cell-based and animal models. We have previously developed a systematic computational approach to predict novel therapeutic indications on the basis of comprehensive testing of molecular signatures in drug-disease pairs and have leveraged real world data to in-silico validate the predictions. The computational method provides a systematic approach for repositioning established drugs to treat a wide range of human diseases including IBD, preterm birth, Alzheimer’s disease and most recently COVID-19. In this talk, I will discuss the computational methods that we have developed and applied across extensive molecular datasets in order to speed up the process of drug discovery as well as touch on new clinical datasets that we are incorporating into the pipeline.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pairwise Survival Analysis and Causal Inference for Infectious Disease Epidemiology and Understanding Transmission Dynamics of Emerging Infectious Diseases from Contact-tracing Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220225pairwise-survival-analysis-and-causal-inference-for-infectious-disease-epidemiology/</link>
+      <pubDate>Fri, 25 Feb 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220225pairwise-survival-analysis-and-causal-inference-for-infectious-disease-epidemiology/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: free; IBS members: $65; Non-members: $85&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Eben Kenah&lt;br&gt;
+&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br&gt;
+Pairwise survival analysis and causal inference for infectious disease epidemiology: Causal inference for infectious disease transmission is complicated because outcomes in different individuals are inherently dependent, which leads to interference or spillover of treatment effects. For example, individuals who are not vaccinated are partly protected when individuals around them are vaccinated. An established approach to this problem is to define causal effects in populations (e.g., a vaccination program in a village) and then attempt to measure these directly. An alternative approach is to define causal effects in pairs of individuals and estimate them using methods from pairwise survival analysis. This approach is likely to yield results that generalize more easily between populations, and it allows more detailed mechanistic insight into the effects of interventions. These pairwise causal effects can be used as the basis of epidemic models that allow estimation of the causal effect of an intervention in a population. This approach places greater emphasis on the longitudinal study of transmission in close contact groups than has been evident in the ongoing COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Yang Yang&lt;br&gt;
+&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br&gt;
+Understanding transmission dynamics of emerging infectious diseases from contact-tracing data: Contact-tracing data provide crucial and reliable information for understanding transmissibility, risk drivers and intervention efficacies for newly emerging infectious diseases. Analysis of such data is often challenging mainly due to surveillance bias, missing data and lack of biological understanding, which have been further exacerbated by COVID-19. We examine several of these challenges: (1) diagnostic bias towards symptomatic infections; (2) presymptomatic infectivity, i.e., the latent period is shorter than the incubation period; and (3) reporting bias, where only confirmed cases are reported but uninfected close contacts remain unknown. These issues, if left unaddressed, can lead to erroneous estimation of key epidemiological parameters. I will discuss our experiences in the analysis of household transmission of SARS-CoV-2 in Wuhan, China and nosocomial transmission of MERS-CoV in the Kingdom of Saudi Arabia several. I will introduce some statistical adjustments we have adopted to address the aforementioned challenges.&lt;/p&gt;</description>
     </item>
     
     <item>
