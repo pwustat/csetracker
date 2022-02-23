@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://rss.org.uk/training-events/events/events-2021/rss-events/rss-journal-webinar-multiple-testing/
 url_slides: https://rss.org.uk/training-events/events/webinars/journal-webinar/
-url_video: no
+url_video: https://www.youtube.com/watch?v=wyG0_YxdhjI
 url_agenda: ~
 url_website: ~
 url_audio: ~

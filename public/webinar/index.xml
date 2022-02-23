@@ -26,14 +26,65 @@
     </item>
     
     <item>
-      <title>EU-PEARL Webinar: Non-concurrent Controls in Platform Trials</title>
+      <title>ASA SLDS Webinar: Inference and Machine Learning </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224asa-slds-webinar-inference-and-machine-learning/</link>
+      <pubDate>Thu, 24 Feb 2022 11:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224asa-slds-webinar-inference-and-machine-learning/</guid>
+      <description>&lt;p&gt;Traditional statistical inference and machine learning often appear to be at odds. While simple population models are useful in many contexts, there is increasing interest in using machine learning to uncover complex relationships. This dichotomy has been particularly stark when the scientific quantity of interest is the importance of variables in predicting the response. In this talk, I will discuss a model-agnostic notion of variable importance and general conditions under which valid inference on the true importance can be obtained, even when machine learning-based techniques are used as part of estimation. I will tie this example to general ideas from the literature on causal inference and targeted learning that provide tools for incorporating machine learning into inference on general target parameters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Certara Webinar: What Oncology Drug Developers Should Expect from the FDA’s Project Optimus </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224certara-webinar-what-oncology-drug-developers-should-expect-from-the-fda-s-project-optimus/</link>
+      <pubDate>Thu, 24 Feb 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224certara-webinar-what-oncology-drug-developers-should-expect-from-the-fda-s-project-optimus/</guid>
+      <description>&lt;p&gt;Historically, the dosing strategy for oncology drugs has focused on the maximum tolerated dose. This has resulted in drugs’ pharmacokinetic (PK) profiles, pharmacokinetic/pharmacodynamic (PK/PD) relationships, and clinical target inhibition largely being ignored. Thus, cancer patients often struggle to tolerate their medication doses long-term, requiring dose modifications including dose reductions and holidays. What’s more, for many oncology drugs, their dosing or schedules have been modified to address safety or tolerability issues after regulatory approval.&lt;/p&gt;
+&lt;p&gt;These challenges spurred the FDA’s Oncology Center of Excellence to develop a new guidance called “Project Optimus” to addresses issues relating to dose optimization in clinical trials assessing the safety and efficacy of oncology drugs.&lt;/p&gt;
+&lt;p&gt;What does this shift in dose optimization during drug development mean for the small biotechs that develop more than 80% of novel compounds? And what steps should they take regarding their upcoming clinical trials?&lt;/p&gt;
+&lt;p&gt;During this webinar, Certara’s Dr. Julie Bullock will address:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How Project Optimus may impact clinical trials in the oncology space&lt;/li&gt;
+&lt;li&gt;How the guidance may affect the current oncology drug pipeline&lt;/li&gt;
+&lt;li&gt;Whether it may lead to the FDA making other changes in the oncology clinical trial space&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Clinical Data Flow – The Foundation of a Biostatistics Ecosystem within a Data Universe</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224clinical-data-flow-the-foundation-of-a-biostatistics-ecosystem-within-a-data-universe/</link>
+      <pubDate>Thu, 24 Feb 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224clinical-data-flow-the-foundation-of-a-biostatistics-ecosystem-within-a-data-universe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Event overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The key to making sense of the clinical data universe with so many disparate sources of data available in so many different formats is to create a standards-based data ecosystem.  Making true impact involves building integrated data flow through the ecosystem to support automation and data-driven standardized processes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 Key take-aways&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Understand how data flow is an integral part of transformative biostatistics technologies and processes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;See how clinical data and metadata repositories are married with data flow philosophies to create a biostatistics ecosystem.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Realize how an overlay of standardization and automation on top of the biostatistics ecosystem maximizes end to end efficiencies and first pass quality improvements.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>EU-PEARL Webinar: Non-Concurrent Controls in Platform Trials</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224eu-pearl-webinar-non-concurrent-controls-in-platform-trials/</link>
       <pubDate>Thu, 24 Feb 2022 07:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220224eu-pearl-webinar-non-concurrent-controls-in-platform-trials/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;EU-PEARL perspective on use of non-concurrent control data  in integrated research platforms&lt;/li&gt;
-&lt;li&gt;Positions and experiences with using non-concurrent control data  in platform studies shared by an expert panel from regulatory, academic and industry statisticians&lt;/li&gt;
-&lt;li&gt;Panel discussion on selected questions concerning non-concurrent control data&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;EU-PEARL perspective on use of non-concurrent control data  in integrated research platforms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Positions and experiences with using non-concurrent control data  in platform studies shared by an expert panel from regulatory, academic and industry statisticians&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Panel discussion on selected questions concerning non-concurrent control data&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
