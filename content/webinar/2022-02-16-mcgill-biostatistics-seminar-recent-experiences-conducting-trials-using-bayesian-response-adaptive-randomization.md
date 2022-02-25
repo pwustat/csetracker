@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: ~
 url_slides: ~
-url_video: no
+url_video: https://mcgill-my.sharepoint.com/personal/shirin_golchi_mcgill_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fshirin%5Fgolchi%5Fmcgill%5Fca%2FDocuments%2FBiostat%20seminars%2FWinter2022%2FFeb16%2Emp4&parent=%2Fpersonal%2Fshirin%5Fgolchi%5Fmcgill%5Fca%2FDocuments%2FBiostat%20seminars%2FWinter2022
 url_agenda: ~
 url_website: https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/tmurray-announcement-16feb2022.pdf
 url_audio: ~

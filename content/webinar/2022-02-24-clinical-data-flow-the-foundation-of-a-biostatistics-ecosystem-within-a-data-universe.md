@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://event.on24.com/eventRegistration/EventLobbyServletV2?target=lobby20V2.jsp&eventid=3618445&sessionid=1&partnerref=IQVIA?&format=fhaudio&key=78DB0A6490AFDB0F0BB4344596F1980D&utm_source=Eloqua&utm_medium=email&utm_campaign=2022_FSPBiosDataFlow_GBU_RDS_ML&eventuserid=515477594
 url_slides: ~
-url_video: no
+url_video: https://event.on24.com/wcc/r/3618445/78DB0A6490AFDB0F0BB4344596F1980D?mode=login&email=peiwen.wu@gilead.com
 url_agenda: ~
 url_website: ~
 url_audio: ~
