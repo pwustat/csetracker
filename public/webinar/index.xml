@@ -5,12 +5,35 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 12:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 09:30:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>AI/Machine Learning: Regulation, Development, and Real-World Performance Evaluation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220322ai-machine-learning-regulation-development-and-real-world-performance-evaluation/</link>
+      <pubDate>Tue, 22 Mar 2022 09:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220322ai-machine-learning-regulation-development-and-real-world-performance-evaluation/</guid>
+      <description>&lt;p&gt;The Duke-Margolis Center of Health Policy, together with the support from Food and Drug Administration (FDA) speakers and panelists, will hold a public webinar to spotlight updates and progress made since the release of FDA CDRH’s Artificial Intelligence (AI) Action Plan on January 12, 2021.&lt;/p&gt;
+&lt;p&gt;There will be a fireside chat between Jeff Shuren, FDA’s director of the Center for Devices and Radiological Health (CRDH), and Mark McClellan, director of Duke-Margolis, followed by three panel discussions focused on the following topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;overarching frameworks for regulating and evaluating AI&lt;/li&gt;
+&lt;li&gt;good machine learning practices (GMLP)&lt;/li&gt;
+&lt;li&gt;post-market evaluation of AI/ML SaMD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The webinar will end with a business roundtable discussion on how developers and health care systems are considering these issues.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NISS/Merck Meetup on Statistical and Deep Learning Methods for Biomedical Images</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220315niss-merck-meetup-on-statistical-and-deep-learning-methods-for-biomedical-images/</link>
+      <pubDate>Tue, 15 Mar 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220315niss-merck-meetup-on-statistical-and-deep-learning-methods-for-biomedical-images/</guid>
+      <description>&lt;p&gt;Imaging plays an important role in clinical diagnosis, biomedical research, and pharmaceutical Research &amp;amp; Development. For decades, innovative statistical methods have been applied to various biomedical image modalities. In the past 10 years, deep learning and AI have begun increasingly dominating this field. Currently, biomedical image analysis has become an extremely complex area, because of the diversity both in image modality and the analysis methodology.  This meetup attempts to provide a snapshot of this vital interdisciplinary area with three talks, delivered from speakers with either academic or industrial backgrounds.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>SFASA Virtual Seminar: A Unified Decision Framework for Phase I Dose-Finding Designs </title>

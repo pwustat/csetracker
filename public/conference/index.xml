@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Apr 2022 05:30:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
     </image>
+    
+    <item>
+      <title>35th New England Statistics Symposium: Statistics, the Heart of Data Science</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2022052235th-new-england-statistics-symposium-statistics-the-heart-of-data-science/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2022052235th-new-england-statistics-symposium-statistics-the-heart-of-data-science/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Member $180; Non-member: $200; Online Registration for In-person Participation Deadline: May 9, 2022; Online Registration for Virtual Participation Deadline: May 16, 2022; Short courses will be offered on May 22 and May 23&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>14th Annual University of Pennsylvania Conference on Statistical Issues in Clinical Trials / Subgroup Analysis in Clinical Trials: Opportunities and Challenges</title>
@@ -77,6 +85,23 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220406dia-fda-biostatistics-industry-and-regulator-forum/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Feb 9, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization: 2022 Marvin Zelen Symposium</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220401data-visualization-2022-marvin-zelen-symposium/</link>
+      <pubDate>Fri, 01 Apr 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220401data-visualization-2022-marvin-zelen-symposium/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Free registration&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The growing availability of informative datasets and software tools has led to increased reliance on data visualizations across many industries, academia, and government. News organizations are increasingly embracing data journalism and including effective infographics as part of their reporting, while in research we increasingly rely on data visualization to assess data quality and describe and defend our findings. This year&amp;rsquo;s Zelen symposium brings together data visualization experts and developers of some of the most widely used data visualization software to share their thoughts and ideas with us.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alberto Cairo, University of Miami&lt;/p&gt;
+&lt;p&gt;Amanda Cox, New York Times&lt;/p&gt;
+&lt;p&gt;Jeff Heer, University of Washington&lt;/p&gt;
+&lt;p&gt;Jessica Hullman, Northwestern University&lt;/p&gt;
+&lt;p&gt;Alvitta Ottley, Washington University in St. Louis&lt;/p&gt;
+&lt;p&gt;Lace Padilla, University of California, Merced&lt;/p&gt;
+&lt;p&gt;Hadley Wickham, RStudio&lt;/p&gt;</description>
     </item>
     
     <item>
