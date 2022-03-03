@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://ds.dfci.harvard.edu/event/frontiers-in-biostatistics-using-ehr-to-accelerate-cancer-outcomes-research-without-leaving-valid-inference-behind/
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=mcDO-qTkqc8
 url_agenda: ~
 url_website: ~
 url_audio: ~
