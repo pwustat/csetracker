@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 09:30:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Apr 2022 08:30:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>ASA BIOP Webinar: Estimands: The New Bedrock of Drug Development</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422asa-biop-webinar-estimands-the-new-bedrock-of-drug-development/</link>
+      <pubDate>Fri, 22 Apr 2022 08:30:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422asa-biop-webinar-estimands-the-new-bedrock-of-drug-development/</guid>
+      <description>&lt;p&gt;Estimands are characterized by the following three attributes: Prospective, systematic, and collaborative. Estimands are prospective because we need to be clear at the design stage of a clinical trial about the treatment effect of interest. Estimands are systematic because the E9 addendum offers a structured approach and language to precisely describe the treatment effect of interest. Finally, estimates are collaborative because clinicians and statisticians need to work closely together to describe a treatment effect of interest that is clinically meaningful and can be estimated robustly and with minimal assumptions at trial end. Focusing on this last aspect of collaboration, we share in this presentation our experiences and provide examples to illustrate successful interdisciplinary discussions.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>AI/Machine Learning: Regulation, Development, and Real-World Performance Evaluation</title>

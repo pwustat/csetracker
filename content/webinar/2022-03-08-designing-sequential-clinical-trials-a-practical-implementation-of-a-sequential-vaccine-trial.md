@@ -9,7 +9,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://www.statsols.com/webinar/designing-sequential-clinical-trials
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=wMkDD8gyn9E
 url_agenda: ~
 url_website: ~
 url_audio: ~
