@@ -28,11 +28,62 @@
     </item>
     
     <item>
+      <title>BBSW 2022 March Meetup: FDA Complex Innovative Trial Design (CID) Pilot Program Experiences</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220317bbsw-2022-march-meetup-fda-complex-innovative-trial-design-cid-pilot-program-experiences/</link>
+      <pubDate>Thu, 17 Mar 2022 16:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220317bbsw-2022-march-meetup-fda-complex-innovative-trial-design-cid-pilot-program-experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Webinar: Interpreting Deep Neural Networks towards Trustworthiness </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220315asa-webinar-interpreting-deep-neural-networks-towards-trustworthiness/</link>
+      <pubDate>Tue, 15 Mar 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220315asa-webinar-interpreting-deep-neural-networks-towards-trustworthiness/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA members: $30; non-members: $45&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Recent deep learning models have achieved impressive predictive performance by learning complex functions of many variables, often at the cost of interpretability. In this talk, I will begin with a discussion on defining interpretable machine learning in general and describe our agglomerative contextual decomposition (ACD) method to interpret neural networks. ACD attributes importance to features and feature interactions for individual predictions and has brought insights to NLP/computer vision problems and can be used to directly improve generalization in interesting ways.&lt;/p&gt;
+&lt;p&gt;I will then focus on scientific interpretable machine learning. Building on ACD&amp;rsquo;s extension to the scientifically meaningful frequency domain, an adaptive wavelet distillation (AWD) interpretation method is developed. AWD is shown to be both outperforming deep neural networks and interpretable in two prediction problems from cosmology and cell biology. Finally, I will address the need to quality-control the entire data science life cycle to build any model for trustworthy interpretation and introduce our Predictabiltiy Computability Stability (PCS) framework for such a data science life cycle&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>NISS/Merck Meetup on Statistical and Deep Learning Methods for Biomedical Images</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220315niss-merck-meetup-on-statistical-and-deep-learning-methods-for-biomedical-images/</link>
       <pubDate>Tue, 15 Mar 2022 08:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220315niss-merck-meetup-on-statistical-and-deep-learning-methods-for-biomedical-images/</guid>
       <description>&lt;p&gt;Imaging plays an important role in clinical diagnosis, biomedical research, and pharmaceutical Research &amp;amp; Development. For decades, innovative statistical methods have been applied to various biomedical image modalities. In the past 10 years, deep learning and AI have begun increasingly dominating this field. Currently, biomedical image analysis has become an extremely complex area, because of the diversity both in image modality and the analysis methodology.  This meetup attempts to provide a snapshot of this vital interdisciplinary area with three talks, delivered from speakers with either academic or industrial backgrounds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing Sequential Clinical Trials – A Practical Implementation of a Sequential Vaccine Trial</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220308designing-sequential-clinical-trials-a-practical-implementation-of-a-sequential-vaccine-trial/</link>
+      <pubDate>Tue, 08 Mar 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220308designing-sequential-clinical-trials-a-practical-implementation-of-a-sequential-vaccine-trial/</guid>
+      <description>&lt;p&gt;In this free webinar, you will learn about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sequential Trial Design&lt;br&gt;
+What options are available to you&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interim Monitoring &amp;amp; Sample Size Re-estimation&lt;br&gt;
+The Cui, Hung &amp;amp; Wang method&lt;br&gt;
+The Chen, DeMets &amp;amp; Lan method&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Practical Implementation of Sequential Design&lt;br&gt;
+How to correctly design a Group Sequential Design
+How to make interim adaptations to your Sequential Design&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>DFCI Data Science Seminar: Engineering Protease Activity Sensors For Personalized Detection and Profiling of Cancer </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220307dfci-data-science-seminar-engineering-protease-activity-sensors/</link>
+      <pubDate>Mon, 07 Mar 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220307dfci-data-science-seminar-engineering-protease-activity-sensors/</guid>
+      <description>&lt;p&gt;Precision cancer medicine envisions a world where diagnostic and therapeutic opportunities are intelligently tailored to individual patient needs. Achieving this vision necessitates access to high quality, accurate, and individualized information about disease state. Engineered probes that sense disease activity — dynamically and directly within the body — could provide this information by generating signals that functionally measure the state of one’s disease.&lt;/p&gt;
+&lt;p&gt;In this talk, I will discuss my work in engineering a novel class of nanoscale sensors that directly query tumor microenvironments by measuring the activity of proteases, enzymes directly involved in all functional hallmarks of cancer. I will share how we can leverage the rich, functional data generated by these sensors to design and deploy novel, expressive, and high-fidelity machine learning models to power individualized diagnostic decision-making and noninvasive monitoring. Finally, I show how we can engineer sensors to spatially profile protease activity in situ, demonstrating their ability to discover personalized insights into mechanisms of tumor progression and treatment response and encouraging their translation for precision cancer medicine.&lt;/p&gt;</description>
     </item>
     
     <item>
