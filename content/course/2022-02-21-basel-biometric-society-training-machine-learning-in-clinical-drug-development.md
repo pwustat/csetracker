@@ -8,10 +8,10 @@ tags: []
 type: course
 url_register: ~
 url_freeregister: https://docs.google.com/forms/d/e/1FAIpQLSdBxAHiJWp6tCV5FyAZQj22wgAl3ToaGdiwWu15CdN0ZuBj5g/viewform
-url_slides: ~
+url_slides: https://baselbiometrics.github.io/home/docs/events_past.html#21022022:_Machine_Learning_in_clinical_drug_development
 url_code: ~
 url_pdf: ~
-url_video: ~
+url_video: https://streamingmedia.roche.com/media/t/1_qasjwd4f
 url_website: ~
 url_agenda: ~
 location: ~
