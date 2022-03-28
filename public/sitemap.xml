@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220519usc-computational-biology-symposium-2022/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
     <lastmod>2022-04-22T08:30:00-07:00</lastmod>
   </url>
@@ -43,8 +48,28 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202204012022-marvin-zelen-symposium-data-visualization/</loc>
+    <lastmod>2022-04-01T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220401data-visualization-2022-marvin-zelen-symposium/</loc>
     <lastmod>2022-04-01T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/</loc>
+    <lastmod>2022-03-30T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220330asa-west-tennessee-chapter-workshop-causal-mediation-analyses-workshop/</loc>
+    <lastmod>2022-03-30T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220329basel-biometrics-society-seminar-graphical-approach-to-multiple-test-programs/</loc>
+    <lastmod>2022-03-29T06:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -53,8 +78,58 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220322ai-machine-learning-regulation-development-and-real-world-performance-evaluation/</loc>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220325rcpp-r-and-c-with-dirk-eddelbuettel/</loc>
+    <lastmod>2022-03-25T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220324iddi-webinar-risk-based-fraud-detection-how-centralized-monitoring-can-boost-data-quality/</loc>
+    <lastmod>2022-03-24T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220324joint-modeling-of-longitudinal-and-survival-data/</loc>
+    <lastmod>2022-03-24T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220323the-graham-dunn-seminar-estimands/</loc>
+    <lastmod>2022-03-23T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220323psi-webinar-statistical-challenges-in-gene-therapy-trials/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220323scientific-machine-learning-open-source-software-community-conference/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220322duke-margolis-ai-machine-learning-public-webinar/</loc>
     <lastmod>2022-03-22T09:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220322asa-biopharmaceutical-section-webinar-interactive-safety-graphics/</loc>
+    <lastmod>2022-03-22T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220322psi-rwd-sig-webinar-real-world-evidence-submission-a-case-study-in-lung-transplantation/</loc>
+    <lastmod>2022-03-22T06:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220318rev-bayes-best-friend-markov-or-laplace/</loc>
+    <lastmod>2022-03-18T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202203182022-vancouver-women-in-data-science-conference/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -80,11 +155,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220315niss-merck-meetup-on-statistical-and-deep-learning-methods-for-biomedical-images/</loc>
     <lastmod>2022-03-15T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
