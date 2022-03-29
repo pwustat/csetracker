@@ -10,7 +10,7 @@ type: webinar
 url_register: ~
 url_freeregister: https://register.gotowebinar.com/register/4732919691558516748
 url_slides: ~
-url_video: https://register.gotowebinar.com/recording/recordingView?webinarKey=4732919691558516748&registrantEmail=peiwen.wu%40gilead.com
+url_video: https://www.youtube.com/watch?v=BKaWWsD5Kfg&t=279s
 url_agenda: ~
 url_website: ~
 url_audio: ~
