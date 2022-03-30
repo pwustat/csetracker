@@ -8,8 +8,8 @@ tags: []
 type: webinar
 url_register: ~
 url_freeregister: https://docs.google.com/forms/d/e/1FAIpQLSdC0ei3-k_FNzrFfFtoM4gDXIJJ6BwsvmANLQPlow1XBC-QOA/viewform
-url_slides: ~
-url_video: no
+url_slides: https://baselbiometrics.github.io/home/docs/talks/20220329/2_Glimm_Bretz_Xi.pdf
+url_video: https://baselbiometrics.github.io/home/docs/events_past.html#29032022:_Graphical_approaches_to_multiple_test_problems
 url_agenda: https://baselbiometrics.github.io/home/docs/upcoming/20220329/agenda.pdf
 url_website: ~
 url_audio: ~

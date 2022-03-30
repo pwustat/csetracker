@@ -13,7 +13,7 @@ url_pdf: ~
 url_video: ~
 url_website: https://events.stat.uconn.edu/stat4onc2022/
 url_agenda: ~
-location: ~
+location: Chicago, IL
 address:
   street: ~
   city: ~
