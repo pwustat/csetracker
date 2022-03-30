@@ -145,6 +145,15 @@
     </item>
     
     <item>
+      <title>RSS Webinar: Recent advances in statistical methodology for medical imaging</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220512recent-advances-in-statistical-methodology-for-medical-imaging/</link>
+      <pubDate>Thu, 12 May 2022 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220512recent-advances-in-statistical-methodology-for-medical-imaging/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;RSS members: free; Non-members: £10&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Innovations in imaging modalities and advancements of imaging technologies have improved our ability to diagnose, monitor or treat medical conditions. Recently, automatic registration, segmentation, visualization, classification and quantification of biomarkers have transformed the way we utilise medical images. In this session our speakers will discuss current methodologies and software development in this exciting area.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>The Stat4Onc Annual Symposium</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220504the-stat4onc-annual-symposium/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
@@ -161,12 +170,30 @@
     </item>
     
     <item>
+      <title>Turing/RSS &amp; UKHSA Lab Lecture: Understanding SARS-CoV-2 transmission using a national survey</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220428understanding-sars-cov-2-transmission-using-a-national-survey/</link>
+      <pubDate>Thu, 28 Apr 2022 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220428understanding-sars-cov-2-transmission-using-a-national-survey/</guid>
+      <description>&lt;p&gt;The REal-time Assessment of Community Transmission-1 (REACT-1) study has been tracking the spread of the SARS-CoV-2 virus in England approximately monthly since May 2020 as England’s first wave of infections declined.&lt;/p&gt;
+&lt;p&gt;In this talk, Prof Christl Donnelly will discuss her work on REACT and the critical role community-based surveillance studies play in providing situational awareness and estimates of infection prevalence that are not biased by access to testing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>PSI Webinar: Novel composite estimands and their analysis</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220428psi-webinar-novel-composite-estimands-and-their-analysis/</link>
       <pubDate>Thu, 28 Apr 2022 05:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220428psi-webinar-novel-composite-estimands-and-their-analysis/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;PSI members: free; Non-members: £20&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;When an intercurrent event in itself is considered to be informative about the treatments&#39; effect on patients&#39; outcomes, the intercurrent event is often incorporated into the definition of the variable. The ICH E9 (R1) addendum refers to this as the composite strategy. In this event, speakers will present different composite estimand strategies for clinical trials, the analyses that target these estimands (e.g., trimmed means, rank-based approaches), and regulatory considerations for clinical trials with composite estimands and endpoints. A discussant will reflect on the presentations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RSS Webinar: recent progress in probabilistic modelling of population genetics</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220427recent-progress-in-probabilistic-modelling-of-population-genetics/</link>
+      <pubDate>Wed, 27 Apr 2022 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220427recent-progress-in-probabilistic-modelling-of-population-genetics/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;RSS members: free; Non-members: £10&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From branching processes to the Ewens sampling formula, it is remarkable how models originally from population genetics have also featured prominently in other areas of probability. The aim of this workshop is to present some recent progress in the probabilistic modelling of population genetics as well as various interactions with other areas. Three experts will talk about their recent works. There will also be opportunities for discussion with them.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -194,6 +221,14 @@ Juliane Manitz, Natalia Kan-Dobrosky, Hannes Buchner, Marie-Laure Casadebaig, Ev
 Pharmaceutical Statistics. 2022;21(1):150-162.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stanford Drug Discovery Symposium 2022</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220425stanford-drug-discovery-symposium-2022/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220425stanford-drug-discovery-symposium-2022/</guid>
+      <description></description>
     </item>
     
     <item>
