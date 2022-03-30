@@ -1,5 +1,5 @@
 ---
-title: Bootstrap Methods and Permutation Tests
+title: 'ISI Short Course: Bootstrap Methods and Permutation Tests'
 author: ''
 date: '2022-04-20T08:00:00-07:00'
 slug: bootstrap-methods-and-permutation-tests

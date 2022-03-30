@@ -1,5 +1,5 @@
 ---
-title: An Introductory Course in Competing Risks
+title: 'ISI Short Course: An Introductory Course in Competing Risks'
 author: ''
 date: '2022-04-21T05:00:00-07:00'
 slug: an-introductory-course-in-competing-risks

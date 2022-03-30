@@ -1,5 +1,5 @@
 ---
-title: Recurrent Event Analysis in R with the reReg package
+title: 'ISI Short Course: Recurrent Event Analysis in R with the reReg Package'
 author: ''
 date: '2022-04-12T07:00:00-07:00'
 slug: recurrent-event-analysis-in-r-with-the-rereg-package

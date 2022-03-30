@@ -1,6 +1,5 @@
 ---
-title: Reshaping challenging data to produce insightful graphs - a quick start to
-  using R tidyverse tools
+title: 'ISI Short Course: Reshaping Challenging Data to Produce Insightful Graphs - A Quick Start to Using R Tidyverse Tools'
 author: ''
 date: '2022-04-05T06:00:00-07:00'
 slug: reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools
