@@ -1,5 +1,5 @@
 ---
-title: 'Cure Models: Methods, Applications, and Implementation'
+title: 'ISI Short Course: Cure Models: Methods, Applications, and Implementation'
 author: ''
 date: '2022-04-11T05:00:00-07:00'
 slug: cure-models-methods-applications-and-implementation
