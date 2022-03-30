@@ -5,12 +5,94 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2022 07:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 05:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
     </image>
+    
+    <item>
+      <title>An Introductory Course in Competing Risks</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220421an-introductory-course-in-competing-risks/</link>
+      <pubDate>Thu, 21 Apr 2022 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220421an-introductory-course-in-competing-risks/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction: Survival function and hazard function. Right-censoring and left-truncation. Competing risks. Markov and non-Markov multi-state models. Time-homogeneity and time inhomogeneity. Motivating examples (real data).&lt;/li&gt;
+&lt;li&gt;Competing risks: The competing risks multi-state model. Non-identifiability in the latent failure time model. Cause-specific hazards (transition intensities) and sub-distribution hazards. Cumulative incidence functions. Simulating competing risks data. Nonparametric estimation.&lt;/li&gt;
+&lt;li&gt;Proportional hazards regression models: Proportional cause-specific hazards model. Proportional sub-distribution hazards model.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap Methods and Permutation Tests</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220420bootstrap-methods-and-permutation-tests/</link>
+      <pubDate>Wed, 20 Apr 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220420bootstrap-methods-and-permutation-tests/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We begin with a graphical approach to bootstrapping and permutation testing, illuminating basic statistical concepts of standard errors, confidence intervals, p-values and significance tests.&lt;/p&gt;
+&lt;p&gt;We consider a variety of statistics (mean, trimmed mean, regression, etc.), and a number of sampling situations (one-sample, two-sample, stratified, finite-population), stressing the common techniques that apply in these situations. We’ll look at applications from a variety of fields, including telecommunications, finance, and biopharm.&lt;/p&gt;
+&lt;p&gt;These methods let us do confidence intervals and hypothesis tests when formulas are not available, so we can do better statistics, e.g. use robust methods like medians, trimmed means, or robust regression. They can help clients understand statistical variability. And some of the methods are more accurate than standard methods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Recurrent Event Analysis in R with the reReg package</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220412recurrent-event-analysis-in-r-with-the-rereg-package/</link>
+      <pubDate>Tue, 12 Apr 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220412recurrent-event-analysis-in-r-with-the-rereg-package/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Each hour a different part:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prepare recurrent event data in R with the Recur() function.&lt;/li&gt;
+&lt;li&gt;Exploring recurrent event data with event plots and mean cumulative function with the plotEvent() and mcf() functions.&lt;/li&gt;
+&lt;li&gt;Simulating recurrent event data and fitting regression models with the simSC() and reReg()functions.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cure Models: Methods, Applications, and Implementation</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220411cure-models-methods-applications-and-implementation/</link>
+      <pubDate>Mon, 11 Apr 2022 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220411cure-models-methods-applications-and-implementation/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £100&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This course will cover the following topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Basics of parametric mixture and non-mixture cure models, the EM-based estimation methods, model assessment methods, some existing R packages, and SAS macros for parametric cure models, analysis of real-world data sets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Basics of the semiparametric and nonparametric mixture and non-mixture cure models, the estimation methods, and existing R packages and SAS macros illustrated with real-world data sets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cure models for multivariate, recurrent-event, and competing-risks survival data based on both marginal and random-effects (frailty) approaches.
+Joint models of longitudinal and survival data with a cure fraction for clinical trial data analyses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Statistical testing for the existence and difference of cure rates and also the identifiability and sufficient follow-up issues in cure model estimation.
+New developments in Bayesian methods for cure models and general implementations of Bayesian analysis using BUGS program.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applications of cure models in the population-based cancer survival analysis.
+Statistical issues in the design and analysis of cancer clinical trials with a possible cure fraction and R programs of a suite of tools for applied researchers in clinical trials.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reshaping challenging data to produce insightful graphs - a quick start to using R tidyverse tools</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220405reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</link>
+      <pubDate>Tue, 05 Apr 2022 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220405reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This workshop will be comprised of 4 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moving from an ‘ugly’ spreadsheet to a beautiful data set&lt;/li&gt;
+&lt;li&gt;Exploring the characteristics of an attractive data display&lt;/li&gt;
+&lt;li&gt;Understanding a conceptual model for statistical graphics&lt;/li&gt;
+&lt;li&gt;Generating graphical insights from data&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>ASA West Tennessee Chapter Workshop: Causal Mediation Analyses Workshop</title>

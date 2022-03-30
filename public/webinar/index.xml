@@ -5,7 +5,7 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Apr 2022 08:30:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 10:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
@@ -13,11 +13,74 @@
     </image>
     
     <item>
+      <title>Combining the Three Cultures of Quantitative Decision Making in Drug Development</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220520combining-the-three-cultures-of-quantitative-decision-making-in-drug-development/</link>
+      <pubDate>Fri, 20 May 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220520combining-the-three-cultures-of-quantitative-decision-making-in-drug-development/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: free; Non-members: $85&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In this talk we shall argue that approaches to quantitative decision making can be divided into three areas or cultures: First, approaches based classical statistical thinking that aim to use the tools of statistical inference and experimental design to provide solutions with well understood operating characteristics. Second, those based on modeling to provide a good approximation and then potentially use simulation to propagate uncertainty around a target, leading to a basis for decision making. Finally, those based on machine learning that is often used to reduce complex high dimensional problems and provide the basis for prediction.&lt;/p&gt;
+&lt;p&gt;We shall review problems in a drug development setting using a case-study from a psoriatic arthritis drug development program to illustrate the richness and complexity of data collected during clinical development. Next, we shall show how each of the cultures can provide excellent solutions to certain problems. However, with increased use of data from a variety of sources, there is often a need to combine these three cultures to bring an appropriate solution to a problem. To illustrate this, we shall look at a class of problems where two treatments or options need to be compared but a randomized experiment is not possible. We shall review solutions that combine machine learning, statistical inference and potentially modeling. In addition, we shall review the problem of identifying prognostic and predictive factors using the knockoff approach, which combines control of operating characteristics with realistically complex modeling.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220429increasing-the-reproducibility-and-rigor-of-single-cell-rna-seq-through-the-use-of-statistics-and-data-science/</link>
+      <pubDate>Fri, 29 Apr 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220429increasing-the-reproducibility-and-rigor-of-single-cell-rna-seq-through-the-use-of-statistics-and-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Webinar: Novel composite estimands and their analysis</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220428psi-webinar-novel-composite-estimands-and-their-analysis/</link>
+      <pubDate>Thu, 28 Apr 2022 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220428psi-webinar-novel-composite-estimands-and-their-analysis/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;PSI members: free; Non-members: £20&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When an intercurrent event in itself is considered to be informative about the treatments&#39; effect on patients&#39; outcomes, the intercurrent event is often incorporated into the definition of the variable. The ICH E9 (R1) addendum refers to this as the composite strategy. In this event, speakers will present different composite estimand strategies for clinical trials, the analyses that target these estimands (e.g., trimmed means, rank-based approaches), and regulatory considerations for clinical trials with composite estimands and endpoints. A discussant will reflect on the presentations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DFCI Frontiers in Biostatistics Webinar: Tree-based Ensembling Strategies for Handling Heterogeneous Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426dfci-frontiers-in-biostatistics-webinar-tree-based-ensembling-strategies-for-handling-heterogeneous-data/</link>
+      <pubDate>Tue, 26 Apr 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426dfci-frontiers-in-biostatistics-webinar-tree-based-ensembling-strategies-for-handling-heterogeneous-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Journal Club: Treatment Switching in Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426psi-journal-club-treatment-switching-in-clinical-trials/</link>
+      <pubDate>Tue, 26 Apr 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426psi-journal-club-treatment-switching-in-clinical-trials/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Franz König, &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/pst.2062&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Delayed treatment effects, treatment switching and heterogeneous patient populations: How to design and analyze RCTs in oncology.&lt;/a&gt;
+Robin Ristl, Nicolás M Ballarini, Heiko Götte, Armin Schüler, Martin Posch &amp;amp; Franz König
+Pharmaceutical Statistics.2021;20:129–145.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Juliane Manitz, &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1002/pst.2158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estimands for overall survival in clinical trials with treatment switching in oncology.&lt;/a&gt;
+Juliane Manitz, Natalia Kan-Dobrosky, Hannes Buchner, Marie-Laure Casadebaig, Evgeny Degtyarev, Jyotirmoy Dey et al. 
+Pharmaceutical Statistics. 2022;21(1):150-162.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA BIOP Webinar: Estimands: The New Bedrock of Drug Development</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422asa-biop-webinar-estimands-the-new-bedrock-of-drug-development/</link>
       <pubDate>Fri, 22 Apr 2022 08:30:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422asa-biop-webinar-estimands-the-new-bedrock-of-drug-development/</guid>
       <description>&lt;p&gt;Estimands are characterized by the following three attributes: Prospective, systematic, and collaborative. Estimands are prospective because we need to be clear at the design stage of a clinical trial about the treatment effect of interest. Estimands are systematic because the E9 addendum offers a structured approach and language to precisely describe the treatment effect of interest. Finally, estimates are collaborative because clinicians and statisticians need to work closely together to describe a treatment effect of interest that is clinically meaningful and can be estimated robustly and with minimal assumptions at trial end. Focusing on this last aspect of collaboration, we share in this presentation our experiences and provide examples to illustrate successful interdisciplinary discussions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach for the Analysis of Randomized Clinical Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422a-novel-approach-for-the-analysis-of-randomized-clinical-trials/</link>
+      <pubDate>Fri, 22 Apr 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422a-novel-approach-for-the-analysis-of-randomized-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: free; Non-members: $85&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Randomized clinical trials use either stratified or unstratified randomization. For the former, the stratification factors are typically categorical baseline covariates (region, age group, ECOG status, etc.) that are presumed to influence the clinical endpoint of interest. We caution that uncertainty at the trial design stage can contribute to &amp;ldquo;ineffective&amp;rdquo; stratification and the corresponding stratified analysis can lead to an adversely biased or imprecisely estimated treatment effect, especially for trials designed to assess whether a test treatment prolongs survival relative to a control treatment. To mitigate this non-trivial risk, we show how “effective” stratification can be achieved using a pre-specified treatment-blinded algorithm applied to the clinical trial outcomes, followed by a power-boosting stratified analysis after treatment unblinding. We illustrate the utility of our proposed ‘5-STAR’ approach relative to current practice using a graphical summary of p-values and hazard ratio estimates from 23 real data examples. We also discuss alignment of our novel proposal with FDA guidance on covariate-adjusted analyses, and with related publications by John Tukey, Stuart Pocock, and others. (An R package to implement 5-STAR is available at &lt;a href=&#34;https://github.com/rmarceauwest/fiveSTAR&#34;&gt;https://github.com/rmarceauwest/fiveSTAR&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     
     <item>

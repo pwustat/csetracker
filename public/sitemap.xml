@@ -4,7 +4,67 @@
   
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/</loc>
-    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/</loc>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220627data-science-statistics-visualisation-dssv-2022/</loc>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220626the-16th-international-society-for-bayesian-analysis-isba/</loc>
+    <lastmod>2022-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220620user-2022/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220619icsa-2022-applied-statistics-symposium/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220614quality-and-productivity-research-conference-qprc-2022/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220612psi-2022-conference/</loc>
+    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202206102022-wnar-meeting/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220607symposium-on-data-science-and-statistics/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220606symposium-on-risks-and-opportunities-of-ai-in-clinical-drug-development/</loc>
+    <lastmod>2022-06-06T05:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220531phastar-life-science-summit/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220525the-2022-statistical-methods-in-imaging-smi-conference/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +73,13 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/</loc>
-    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
+    <lastmod>2022-05-20T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220520combining-the-three-cultures-of-quantitative-decision-making-in-drug-development/</loc>
+    <lastmod>2022-05-20T10:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -23,8 +88,38 @@
   </url>
   
   <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/</loc>
-    <lastmod>2022-04-22T08:30:00-07:00</lastmod>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220515ispor-2022-the-future-of-heor-in-patient-driven-digital-healthcare-systems/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220515the-43rd-society-for-clinical-trials-annual-meeting/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220504the-stat4onc-annual-symposium/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220429increasing-the-reproducibility-and-rigor-of-single-cell-rna-seq-through-the-use-of-statistics-and-data-science/</loc>
+    <lastmod>2022-04-29T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220428psi-webinar-novel-composite-estimands-and-their-analysis/</loc>
+    <lastmod>2022-04-28T05:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426dfci-frontiers-in-biostatistics-webinar-tree-based-ensembling-strategies-for-handling-heterogeneous-data/</loc>
+    <lastmod>2022-04-26T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426psi-journal-club-treatment-switching-in-clinical-trials/</loc>
+    <lastmod>2022-04-26T08:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -33,8 +128,38 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422a-novel-approach-for-the-analysis-of-randomized-clinical-trials/</loc>
+    <lastmod>2022-04-22T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/</loc>
+    <lastmod>2022-04-21T05:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220421an-introductory-course-in-competing-risks/</loc>
+    <lastmod>2022-04-21T05:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220420bootstrap-methods-and-permutation-tests/</loc>
+    <lastmod>2022-04-20T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220412recurrent-event-analysis-in-r-with-the-rereg-package/</loc>
+    <lastmod>2022-04-12T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/2022041214th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials-subgroup-analysis-in-clinical-trials-opportunities-and-challenges/</loc>
     <lastmod>2022-04-12T05:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220411cure-models-methods-applications-and-implementation/</loc>
+    <lastmod>2022-04-11T05:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -48,6 +173,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220405reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</loc>
+    <lastmod>2022-04-05T06:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/202204012022-marvin-zelen-symposium-data-visualization/</loc>
     <lastmod>2022-04-01T10:00:00-07:00</lastmod>
   </url>
@@ -55,11 +185,6 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220401data-visualization-2022-marvin-zelen-symposium/</loc>
     <lastmod>2022-04-01T10:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://master--youthful-lamport-190a0e.netlify.app/course/</loc>
-    <lastmod>2022-03-30T07:00:00-07:00</lastmod>
   </url>
   
   <url>
