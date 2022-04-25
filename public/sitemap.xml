@@ -108,8 +108,23 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220503fda-asco-virtual-workshop-getting-the-dose-right-optimizing-dose-selection-strategies-in-oncology/</loc>
+    <lastmod>2022-05-03T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220429sfasa-virtual-seminar-on-the-robustness-of-machine-learning-systems/</loc>
+    <lastmod>2022-04-29T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220429increasing-the-reproducibility-and-rigor-of-single-cell-rna-seq-through-the-use-of-statistics-and-data-science/</loc>
     <lastmod>2022-04-29T09:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/conference/20220429the-20th-annual-asa-connecticut-chapter-mini-conference/</loc>
+    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,6 +138,11 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220427asa-history-of-statistics-sig-webinar-the-rothamsted-school-the-analysis-of-designed-experiments-and-the-legacy-of-fisher-yates-and-nelder/</loc>
+    <lastmod>2022-04-27T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220427recent-progress-in-probabilistic-modelling-of-population-genetics/</loc>
     <lastmod>2022-04-27T05:00:00-07:00</lastmod>
   </url>
@@ -130,6 +150,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426dfci-frontiers-in-biostatistics-webinar-tree-based-ensembling-strategies-for-handling-heterogeneous-data/</loc>
     <lastmod>2022-04-26T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426data-umbrella-webinar-introduction-to-graphql-for-data-scientists/</loc>
+    <lastmod>2022-04-26T09:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -145,6 +170,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422asa-biop-webinar-estimands-the-new-bedrock-of-drug-development/</loc>
     <lastmod>2022-04-22T08:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422some-novel-bayesian-designs-for-late-and-early-phase-clinical-trials/</loc>
+    <lastmod>2022-04-22T08:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -168,8 +198,18 @@
   </url>
   
   <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220413how-novel-methodologies-and-analytics-are-powering-integrated-evidence/</loc>
+    <lastmod>2022-04-13T10:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220412recurrent-event-analysis-in-r-with-the-rereg-package/</loc>
     <lastmod>2022-04-12T07:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220412psi-pre-clinical-sig-webinar-optimal-experimental-design-in-preclinical-dose-response-studies/</loc>
+    <lastmod>2022-04-12T06:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -180,6 +220,11 @@
   <url>
     <loc>https://master--youthful-lamport-190a0e.netlify.app/course/20220411cure-models-methods-applications-and-implementation/</loc>
     <lastmod>2022-04-11T05:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220408dia-idswg-kol-lecture-series-master-protocols/</loc>
+    <lastmod>2022-04-08T08:00:00-07:00</lastmod>
   </url>
   
   <url>

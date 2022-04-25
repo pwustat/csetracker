@@ -32,6 +32,27 @@
     </item>
     
     <item>
+      <title>FDA/ASCO Virtual Workshop: Getting the Dose Right – Optimizing Dose Selection Strategies in Oncology</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220503fda-asco-virtual-workshop-getting-the-dose-right-optimizing-dose-selection-strategies-in-oncology/</link>
+      <pubDate>Tue, 03 May 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220503fda-asco-virtual-workshop-getting-the-dose-right-optimizing-dose-selection-strategies-in-oncology/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Provide a forum for open discussion among academia, industry, regulatory agencies, and patient groups about anticancer agent dose optimization.&lt;/li&gt;
+&lt;li&gt;Discuss how to apply nonclinical, clinical pharmacology, clinical, and statistical evaluations to optimize the dose of anticancer agents.&lt;/li&gt;
+&lt;li&gt;Discuss benefits and challenges related to pre- and post-marketing dose optimization trials.&lt;/li&gt;
+&lt;li&gt;Discuss clinician and patient factors that impact participation in pre- and post-marketing dose optimization trials.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>SFASA Virtual Seminar: On the Robustness of Machine Learning Systems </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220429sfasa-virtual-seminar-on-the-robustness-of-machine-learning-systems/</link>
+      <pubDate>Fri, 29 Apr 2022 12:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220429sfasa-virtual-seminar-on-the-robustness-of-machine-learning-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220429increasing-the-reproducibility-and-rigor-of-single-cell-rna-seq-through-the-use-of-statistics-and-data-science/</link>
       <pubDate>Fri, 29 Apr 2022 09:00:00 -0700</pubDate>
@@ -58,6 +79,14 @@
     </item>
     
     <item>
+      <title>ASA History of Statistics SIG Webinar: The Rothamsted School – The Analysis of Designed Experiments and the Legacy of Fisher, Yates and Nelder</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220427asa-history-of-statistics-sig-webinar-the-rothamsted-school-the-analysis-of-designed-experiments-and-the-legacy-of-fisher-yates-and-nelder/</link>
+      <pubDate>Wed, 27 Apr 2022 12:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220427asa-history-of-statistics-sig-webinar-the-rothamsted-school-the-analysis-of-designed-experiments-and-the-legacy-of-fisher-yates-and-nelder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RSS Webinar: recent progress in probabilistic modelling of population genetics</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220427recent-progress-in-probabilistic-modelling-of-population-genetics/</link>
       <pubDate>Wed, 27 Apr 2022 05:00:00 -0700</pubDate>
@@ -72,6 +101,14 @@
       <pubDate>Tue, 26 Apr 2022 10:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426dfci-frontiers-in-biostatistics-webinar-tree-based-ensembling-strategies-for-handling-heterogeneous-data/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Data Umbrella Webinar: Introduction to GraphQL for Data Scientists</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426data-umbrella-webinar-introduction-to-graphql-for-data-scientists/</link>
+      <pubDate>Tue, 26 Apr 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220426data-umbrella-webinar-introduction-to-graphql-for-data-scientists/</guid>
+      <description>&lt;p&gt;This session will introduce GraphQL, with a focus on the use of GraphQL in data science. We will start with an overview of GraphQL, including the advantages/disadvantages of using GraphQL. Next, we will explore common patterns for building GraphQL APIs. Finally, we will see how GraphQL can be integrated into common data science workflows using Python and Jupyter notebooks.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -102,12 +139,46 @@ Pharmaceutical Statistics. 2022;21(1):150-162.&lt;/p&gt;
     </item>
     
     <item>
+      <title>DIA Bayesian Scientific Working Group KOL Lecture Series: Some Novel Bayesian Designs for Late- and Early-Phase Clinical Trials </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422some-novel-bayesian-designs-for-late-and-early-phase-clinical-trials/</link>
+      <pubDate>Fri, 22 Apr 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422some-novel-bayesian-designs-for-late-and-early-phase-clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Novel Approach for the Analysis of Randomized Clinical Trials</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422a-novel-approach-for-the-analysis-of-randomized-clinical-trials/</link>
       <pubDate>Fri, 22 Apr 2022 07:00:00 -0700</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220422a-novel-approach-for-the-analysis-of-randomized-clinical-trials/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: free; Non-members: $85&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Randomized clinical trials use either stratified or unstratified randomization. For the former, the stratification factors are typically categorical baseline covariates (region, age group, ECOG status, etc.) that are presumed to influence the clinical endpoint of interest. We caution that uncertainty at the trial design stage can contribute to &amp;ldquo;ineffective&amp;rdquo; stratification and the corresponding stratified analysis can lead to an adversely biased or imprecisely estimated treatment effect, especially for trials designed to assess whether a test treatment prolongs survival relative to a control treatment. To mitigate this non-trivial risk, we show how “effective” stratification can be achieved using a pre-specified treatment-blinded algorithm applied to the clinical trial outcomes, followed by a power-boosting stratified analysis after treatment unblinding. We illustrate the utility of our proposed ‘5-STAR’ approach relative to current practice using a graphical summary of p-values and hazard ratio estimates from 23 real data examples. We also discuss alignment of our novel proposal with FDA guidance on covariate-adjusted analyses, and with related publications by John Tukey, Stuart Pocock, and others. (An R package to implement 5-STAR is available at &lt;a href=&#34;https://github.com/rmarceauwest/fiveSTAR&#34;&gt;https://github.com/rmarceauwest/fiveSTAR&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How Novel Methodologies and Analytics are Powering Integrated Evidence </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220413how-novel-methodologies-and-analytics-are-powering-integrated-evidence/</link>
+      <pubDate>Wed, 13 Apr 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220413how-novel-methodologies-and-analytics-are-powering-integrated-evidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Pre-Clinical SIG Webinar: Optimal Experimental Design in Preclinical Dose-Response Studies</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220412psi-pre-clinical-sig-webinar-optimal-experimental-design-in-preclinical-dose-response-studies/</link>
+      <pubDate>Tue, 12 Apr 2022 06:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220412psi-pre-clinical-sig-webinar-optimal-experimental-design-in-preclinical-dose-response-studies/</guid>
+      <description>&lt;p&gt;In practical dose response trials, especially in a cell culture context, experimental designs to establish functional relationships between dose and effect of a substance are generally chosen based on simple rules of thumb. These designs are generally reasonably effective, but not optimal.&lt;/p&gt;
+&lt;p&gt;In this webinar we give an overview over the statistical optimal design approach in this context. We show how optimal designs can be constructed, covering mainly all-purpose designs (D-optimality) but also more specific designs (c-optimality). We introduce a graphical representation. Next, we show how these concepts can be extended to trials aiming to estimate the interaction between two different substances given simultaneously.&lt;/p&gt;
+&lt;p&gt;Finally, we present an R-Shiny application which allows construction of optimal designs in most of these contexts with a minimum of theoretical knowledge.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Master Protocols - Tackling Complex Diseases (and COVID-19!) with Bayesian Adaptive Platform Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220408dia-idswg-kol-lecture-series-master-protocols/</link>
+      <pubDate>Fri, 08 Apr 2022 08:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220408dia-idswg-kol-lecture-series-master-protocols/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;DIA IDSWG KOL Lecture Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
