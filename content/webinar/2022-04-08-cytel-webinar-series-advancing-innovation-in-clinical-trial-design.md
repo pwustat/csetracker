@@ -40,9 +40,9 @@ speaker: ~
 <!--more-->
 - April 8, 6:00-7:30 pm PDT, Bayesian Statistics with Applications in Clinical Trials in the New Era (Yuan Ji) [[**replay**]](https://event.on24.com/wcc/r/3715275/68C3A5ACB6ECF8EC6E98553FC0143AC2?mode=login&email=peiwen.wu@gilead.com)
  
-- April 21, 6:00-7:30 pm PDT, Adaptive design in early phase clinical trials (James Matcham)
+- April 21, 6:00-7:30 pm PDT, Adaptive design in early phase clinical trials (James Matcham) [[**replay**]](https://event.on24.com/wcc/r/3715277/32296171879017FA10CCCBAC0719C412?mode=login&email=peiwen.wu@gilead.com)
 
-- April 29, 12-1 am, PDT, Evolution of Estimand framework and use in clinical trials (Frank Bretz, Jiawei Wei)  
+- April 29, 12-1 am, PDT, Evolution of Estimand framework and use in clinical trials (Frank Bretz, Jiawei Wei) [[**replay**]](https://event.on24.com/wcc/r/3715302/DE7E2F6F4D055B275CD035FDE43C6BEF?mode=login&email=peiwen.wu@gilead.com) 
 	
 - May 12, 6:00-7:30 pm PDT, De-risking the unknown – simulation based clinical trial optimization (Yannis Jemiai)  
 
