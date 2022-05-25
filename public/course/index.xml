@@ -5,12 +5,41 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 05:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
     </image>
+    
+    <item>
+      <title>Medical University of South Carolina (MUSC) Virtual Course: Using R for Bayesian Spatial and Spatio-Temporal Health Modeling </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220531musc-virtual-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220531musc-virtual-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Short course on May 31 &amp;amp; June 1; $500 before 5/20/2022; $800 after 5/20/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;May 31, 2022&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic Concepts of Bayesian methods and disease mapping&lt;/li&gt;
+&lt;li&gt;Bayesian computation: MCMC and alternatives&lt;/li&gt;
+&lt;li&gt;R graphics for spatial Health Data&lt;/li&gt;
+&lt;li&gt;Bayesian Hierarchical Models for disease mapping (BHMs):&lt;br&gt;
+Simple Models: Poisson-gamma: long-normal, convolution&lt;br&gt;
+Variants: Leroux, mixture, BYM2&lt;/li&gt;
+&lt;li&gt;Model goodness of fit&lt;/li&gt;
+&lt;li&gt;Demonstration of risk estimation and using BRugs/OpenBUGS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;June 1, 2022&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nimble&lt;/li&gt;
+&lt;li&gt;CARBayes&lt;/li&gt;
+&lt;li&gt;INLA&lt;/li&gt;
+&lt;li&gt;Space-time modeling with McMC (Nimble)&lt;/li&gt;
+&lt;li&gt;Space-time modeling with INLA&lt;/li&gt;
+&lt;li&gt;Clustering in space and space-time&lt;/li&gt;
+&lt;li&gt;Infectious disease modeling and surveillance&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>ISI Short Course: An Introductory Course in Competing Risks</title>

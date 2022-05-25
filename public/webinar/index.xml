@@ -5,12 +5,73 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 10:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 07:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>ENAR Webinar: Recent Developments in the Analysis of Adaptive Designs and Their Relevance to Platform Trials</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220603enar-webinar-recent-developments-in-the-analysis-of-adaptive-designs-and-their-relevance-to-platform-trials/</link>
+      <pubDate>Fri, 03 Jun 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220603enar-webinar-recent-developments-in-the-analysis-of-adaptive-designs-and-their-relevance-to-platform-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: $0; IBS members: $65; Non-members: $85&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Confirmatory platform trials are recently gaining popularity in the pharmaceutical industry. Several such trials have been initiated in the past years; many of these (such as GBM Agile and PANCAN Precision Promise) are multi-sponsor trials. In contrast to similar master protocol designs (such as basket trials) which are well-established in earlier phases of clinical development, the use of platform trial designs for confirmatory studies is still subject to some debate.&lt;/p&gt;
+&lt;p&gt;In particular, there is currently no consensus on the importance of type I error control. In the spectrum from strict control of the Familywise-error rate control (FWER) across the entire platform to no type I error control at all, few researchers take the extreme positions, but within this range, opinions vary. Among the alternative concepts, compromises such as population-wise and treatment-wise error rate control have been suggested.&lt;/p&gt;
+&lt;p&gt;This talk will discuss some of these concepts. Subsequently, we will consider how type I error rate control can be guaranteed in platform trials when techniques such as response adaptive randomization or permitting new treatments into an ongoing platform trial are used. It turns out that adaptive design methodology can be adapted to such uses, but a power loss cannot be avoided.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Xtalks Webinar: The Added Value of Flow Cytometry in CAR T-Cell Clinical Trials </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220531xtalks-webinar-the-added-value-of-flow-cytometry-in-car-t-cell-clinical-trials/</link>
+      <pubDate>Tue, 31 May 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220531xtalks-webinar-the-added-value-of-flow-cytometry-in-car-t-cell-clinical-trials/</guid>
+      <description>&lt;p&gt;An increasing number of clinical trials show a successful outcome of chimeric antigen receptor (CAR) T-cell therapy for the treatment of hematological malignancies. This has resulted in multiple US Food and Drug Administration (FDA) approvals in the last few years. Flow cytometry has become an important tool in these clinical trials to monitor the presence and expansion of CAR T cells in patients. Immunophenotyping of CAR T cells by flow cytometry has provided valuable information to clinicians which helps to further improve the CAR T-cell therapy.&lt;/p&gt;
+&lt;p&gt;The featured speakers will discuss the role of flow cytometry in identifying the markers expressed on malignant plasma cells, which facilitates the selection of CAR T-cell therapy. Attendees will learn about the aspects of flow cytometry assays in CAR T-cell and plasma cell monitoring in multiple myeloma (MM) trials. In addition, the speakers will discuss the challenges of developing flow cytometry assays for clinical trials.&lt;/p&gt;
+&lt;p&gt;Join this webinar to learn the use of flow cytometry for the monitoring, phenotyping and characterization of CAR T cells in clinical trials.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bay area Biotech-pharma Statistics Workshop (BBSW) May Meetup: Considerations for Blinded Independent Central Review in Oncology Studies </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220526bay-area-biotech-pharma-statistics-workshop-bbsw-may-meetup-considerations-for-blinded-independent-central-review-in-oncology-studies/</link>
+      <pubDate>Thu, 26 May 2022 10:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220526bay-area-biotech-pharma-statistics-workshop-bbsw-may-meetup-considerations-for-blinded-independent-central-review-in-oncology-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA BIOP Section Webinar: From Logic-respecting Efficacy Estimands to Logic-ensuring Analysis Principle in Randomized Clinical Trials with Subgroups</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220526asa-biop-section-webinar-from-logic-respecting-efficacy-estimands/</link>
+      <pubDate>Thu, 26 May 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220526asa-biop-section-webinar-from-logic-respecting-efficacy-estimands/</guid>
+      <description>&lt;p&gt;Differentiating prognostic vs. predictive biomarkers impacts important decision makings for patients and treating physicians in precision medicine. Using hazard ratio (HR) can mistake a purely prognostic biomarker for a predictive one leading to a disheartening possibility of depriving patients of beneficial treatment as demonstrated in the OAK trial. This stems from the illogical issue of HR at population level where marginal HR in the overall population can be larger than those in both subgroups. The subgroup task force within the Oncology Estimand industry-wide working group discussed such issues and proposes the use alternative logic-respecting efficacy estimands such as ratio of medians, ratio and difference of restricted mean survival times and milestone probabilities. These measures are straightforward, easy to interpret and clinically meaningful. More importantly, they will lead to agreement between marginal and conditional efficacy estimates when analyzing real clinical trial data as long as logic-ensuring analysis principle such as Subgroup Mixable Estimation (SME) is followed. Detailed guidance is provided using either parametric or non-parametric approaches. Simultaneous inference can be provided with proper multiplicity adjustment to facilitate joint decision making with user-friendly apps.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Webinar: Recent Advances in Modeling Short and Long Longitudinal Data</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220524asa-webinar-recent-advances-in-modeling-short-and-long-longitudinal-data/</link>
+      <pubDate>Tue, 24 May 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220524asa-webinar-recent-advances-in-modeling-short-and-long-longitudinal-data/</guid>
+      <description>&lt;p&gt;This talk discusses analysis of repeated measures for binary, ordered polytomous, continuous, and semi-continuous outcomes frequently seen in mental health research. The first part of the talk considers panel data with a small number of time points (5-10). A random effects two-part ordinal model is introduced for longitudinal analysis of treatment effects and random intercept cross-lagged modeling (RI-CLPM). The second part of the talk considers intensive longitudinal data with many time points (50-100). Two-level time series analysis (dynamic structural equation modeling; DSEM) is used for modeling of daily cycles by sine-cosine curves as well as two-part modeling of semi-continuous outcomes that have strong floor effects. Examples are drawn from a randomized trial of treatments of alcohol dependence, a study of suicidal ideation and substance abuse, and studies of negative affect and at-risk mood profiles related to depression in adolescents.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Basel Biometric Society (BBS) Spring Seminar: Transforming Drug Development</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220524basel-biometric-society-bbs-spring-seminar-transforming-drug-development/</link>
+      <pubDate>Tue, 24 May 2022 05:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220524basel-biometric-society-bbs-spring-seminar-transforming-drug-development/</guid>
+      <description>&lt;p&gt;The current drug development model is confronted by major challenges including rising clinical trial costs, a tougher competitive landscape, and 
+growing pressure from payers. Consequently, there is an increasing
+awareness that drug development must be fundamentally updated to meet
+these challenges.&lt;/p&gt;
+&lt;p&gt;This seminar first addresses why transformation is needed from a pharma
+development and from an investor perspective. It then discusses three areas 
+of innovation where biostatisticians can play a major role. The seminar will 
+conclude with a panel discussion with all speakers and members from 
+pharma and regulatory authorities.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Combining the Three Cultures of Quantitative Decision Making in Drug Development</title>
