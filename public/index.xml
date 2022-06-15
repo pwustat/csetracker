@@ -46,6 +46,22 @@
     </item>
     
     <item>
+      <title>Dana Farber Cancer Institute Data Science Training Session: Biomarkers in Cancer Research</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220615dana-farber-cancer-institute-data-science-training-session-biomarkers-in-cancer-research/</link>
+      <pubDate>Wed, 15 Jun 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220615dana-farber-cancer-institute-data-science-training-session-biomarkers-in-cancer-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Umbrella Webinar: Short Stories of Data Visualization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220614data-umbrella-webinar-short-stories-of-data-visualization/</link>
+      <pubDate>Tue, 14 Jun 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220614data-umbrella-webinar-short-stories-of-data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The 38th Quality and Productivity Research Conference (QPRC-2022): Data, Statistics and Responsibility</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220614quality-and-productivity-research-conference-qprc-2022/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
@@ -62,11 +78,53 @@
     </item>
     
     <item>
+      <title>ASA San Francisco Bay Area Chapter Virtual Seminar: Presentations by Student Travel Award</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220610asa-san-francisco-bay-area-chapter-virtual-seminar/</link>
+      <pubDate>Fri, 10 Jun 2022 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220610asa-san-francisco-bay-area-chapter-virtual-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2022 WNAR Meeting</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202206102022-wnar-meeting/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202206102022-wnar-meeting/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: WNAR member: $50; Non-member: $150&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cytel HEOR &amp; RWE Webinar Series: Robust Identification and Adjustment for Effect Modifiers in Indirect Treatment Comparisons; When and How?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220609cytel-heor-rwe-webinar-series/</link>
+      <pubDate>Thu, 09 Jun 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220609cytel-heor-rwe-webinar-series/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;June 9th at 7:00am PT:&lt;/strong&gt; Effect Modifiers In Indirect Treatment Comparisons; Steps To Ensure the Unbiased Identification to Inform Decision Making &lt;a href=&#34;https://event.on24.com/wcc/r/3817072/3F74AB3481BA8FC0586272E4A12F7FA1?mode=login&amp;amp;email=peiwen.wu@gilead.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[&lt;strong&gt;replay&lt;/strong&gt;]&lt;/a&gt;&lt;br&gt;
+Andreas Freitag, Associate Director, Research Principal, Health Economics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 16th at 7:00am PT:&lt;/strong&gt; When and How to Adjust for Effect Modifiers in Population-Adjusted Indirect Treatment Comparisons? What Not to Do?&lt;/p&gt;
+&lt;p&gt;Michael Groff, Senior Research Consultant, Health Economics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 23rd at 7:00am PT:&lt;/strong&gt; Network Meta-Interpolation, A Novel Approach to Adjust for Effect Modification in Network Meta-analysis Using Subgroup Analyses; Tunneling through Statistics&lt;/p&gt;
+&lt;p&gt;Ofir Harari, Senior Research Principal, Statistics&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Short Course: Analysis of Composite Time-to-event Outcomes </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220608asa-short-course-analysis-of-composite-time-to-event-outcomes/</link>
+      <pubDate>Wed, 08 Jun 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220608asa-short-course-analysis-of-composite-time-to-event-outcomes/</guid>
+      <description>&lt;p&gt;This course provides an overview of the new statistical methodology for the analysis of composite time-to-event outcomes. These outcomes combine death and (possibly recurrent) nonfatal events, such as hospitalization, tumor progression, or infection, and are routinely used as the primary efficacy endpoint in modern phase-III clinical trials. The traditional approach to composite outcomes focuses on time to the first event, whichever type it is, using standard univariate survival analysis techniques. Recent years have seen a surge of more sophisticated and versatile methods, attracting the attention of both statisticians and practitioners. Examples of such methods include the win ratio (Pocock et al., 2012) and its various extensions, the restricted mean time in favor of treatment (a generalized restricted mean survival time), the event (or loss) rate ratio while alive, generalized semiparametric proportional odds regression models, and so on. They improve upon the traditional time-to-first-event analysis in (1) proper prioritization of death over nonfatal events; (2) fuller utilization of multiple/recurrent events; (3) clear and interpretable definition of effect-size estimands; and (4) flexible modeling of different outcome types. In the meantime, a number of user-friendly R-packages that implement the aforementioned methodology have become available. This short course will provide a survey of these methodological developments, along with some practical guidance on using the associated R-packages for real data analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nQuery Seminar: Sample Size for Statistical Intervals </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220607nquery-seminar-sample-size-for-statistical-intervals/</link>
+      <pubDate>Tue, 07 Jun 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220607nquery-seminar-sample-size-for-statistical-intervals/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to Statistical Intervals and Sample Size&lt;/li&gt;
+&lt;li&gt;Sample Size for Confidence Intervals&lt;/li&gt;
+&lt;li&gt;Sample Size for Prediction and Tolerance Intervals&lt;/li&gt;
+&lt;li&gt;Sample Size for Bayesian Credible Intervals&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>

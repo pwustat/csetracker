@@ -5,12 +5,62 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 07:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 07:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>Dana Farber Cancer Institute Data Science Training Session: Biomarkers in Cancer Research</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220615dana-farber-cancer-institute-data-science-training-session-biomarkers-in-cancer-research/</link>
+      <pubDate>Wed, 15 Jun 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220615dana-farber-cancer-institute-data-science-training-session-biomarkers-in-cancer-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Umbrella Webinar: Short Stories of Data Visualization</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220614data-umbrella-webinar-short-stories-of-data-visualization/</link>
+      <pubDate>Tue, 14 Jun 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220614data-umbrella-webinar-short-stories-of-data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA San Francisco Bay Area Chapter Virtual Seminar: Presentations by Student Travel Award</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220610asa-san-francisco-bay-area-chapter-virtual-seminar/</link>
+      <pubDate>Fri, 10 Jun 2022 13:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220610asa-san-francisco-bay-area-chapter-virtual-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytel HEOR &amp; RWE Webinar Series: Robust Identification and Adjustment for Effect Modifiers in Indirect Treatment Comparisons; When and How?</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220609cytel-heor-rwe-webinar-series/</link>
+      <pubDate>Thu, 09 Jun 2022 07:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220609cytel-heor-rwe-webinar-series/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;June 9th at 7:00am PT:&lt;/strong&gt; Effect Modifiers In Indirect Treatment Comparisons; Steps To Ensure the Unbiased Identification to Inform Decision Making &lt;a href=&#34;https://event.on24.com/wcc/r/3817072/3F74AB3481BA8FC0586272E4A12F7FA1?mode=login&amp;amp;email=peiwen.wu@gilead.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[&lt;strong&gt;replay&lt;/strong&gt;]&lt;/a&gt;&lt;br&gt;
+Andreas Freitag, Associate Director, Research Principal, Health Economics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 16th at 7:00am PT:&lt;/strong&gt; When and How to Adjust for Effect Modifiers in Population-Adjusted Indirect Treatment Comparisons? What Not to Do?&lt;/p&gt;
+&lt;p&gt;Michael Groff, Senior Research Consultant, Health Economics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 23rd at 7:00am PT:&lt;/strong&gt; Network Meta-Interpolation, A Novel Approach to Adjust for Effect Modification in Network Meta-analysis Using Subgroup Analyses; Tunneling through Statistics&lt;/p&gt;
+&lt;p&gt;Ofir Harari, Senior Research Principal, Statistics&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nQuery Seminar: Sample Size for Statistical Intervals </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220607nquery-seminar-sample-size-for-statistical-intervals/</link>
+      <pubDate>Tue, 07 Jun 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220607nquery-seminar-sample-size-for-statistical-intervals/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to Statistical Intervals and Sample Size&lt;/li&gt;
+&lt;li&gt;Sample Size for Confidence Intervals&lt;/li&gt;
+&lt;li&gt;Sample Size for Prediction and Tolerance Intervals&lt;/li&gt;
+&lt;li&gt;Sample Size for Bayesian Credible Intervals&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>ENAR Webinar: Recent Developments in the Analysis of Adaptive Designs and Their Relevance to Platform Trials</title>
