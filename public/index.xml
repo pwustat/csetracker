@@ -46,6 +46,14 @@
     </item>
     
     <item>
+      <title>ASA San Diego Chapter Professional Seminar: Determining Classification Accuracy Goals of Diagnostic Tests Based on Risk Stratification </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220616asa-san-diego-chapter-professional-seminar/</link>
+      <pubDate>Thu, 16 Jun 2022 12:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220616asa-san-diego-chapter-professional-seminar/</guid>
+      <description>&lt;p&gt;We show how to set classification accuracy goals for diagnostic tests based on the test meeting acceptable levels of risk stratification, i.e., the risk of having the disease condition post-test vs. pre-test (predictive value vs. prevalence). For a desired risk stratification, we use Bayes Theorem to determine goals for negative or positive likelihood ratios (NLR, PLR). Goals for specificity (Spec) and sensitivity (Sens) are implied by the NLR and PLR goals, but are less flexible. Because NLR, PLR, Spec, and Sens do not depend on prevalence, goals for them are especially useful for validating tests of low prevalence conditions in moderately-sized case-control studies enriched with subjects having the condition. For comparative diagnostic studies, goals that confer that a test is superior or non-inferior to a comparator are based on approximating risk differences and relative risks by functions of likelihood ratios. Wald confidence intervals are developed to facilitate hypothesis testing. To illustrate, we consider a fetal fibronectin assay for ruling out risk of pre-term birth and two human papillomavirus assays for ruling in cervical cancer. We also provide some examples of how to extract acceptable levels of risk stratification from various guidelines on medical decision making.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Dana Farber Cancer Institute Data Science Training Session: Biomarkers in Cancer Research</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220615dana-farber-cancer-institute-data-science-training-session-biomarkers-in-cancer-research/</link>
       <pubDate>Wed, 15 Jun 2022 07:00:00 -0700</pubDate>
