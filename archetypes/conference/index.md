@@ -21,12 +21,11 @@ address:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: {{ .Date }}
 date_end: 
-all_day: yes
+all_day: no
 
 # Schedule page publish date (NOT event date).
 publishDate: {{ .Date }}
 
-authors: []
 tags: []
 
 # Is this a featured event? (true/false)

@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: webinar
 title: 
-url_register: 
 url_freeregister: 
+url_register: 
 url_slides:
 url_video: false
 url_agenda:
@@ -21,7 +21,6 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: {{ .Date }}
 
-authors: []
 tags: []
 
 # Is this a featured event? (true/false)
@@ -68,4 +67,6 @@ summary:
 abstract:
 speaker:
 ---
+<span style="color: salmon;">*Early registration Deadline: Jan 11, 2021*</span>
+
 <!--more-->
