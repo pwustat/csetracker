@@ -7,4 +7,3 @@ library(servr)
 
 # test
 build_site()
-

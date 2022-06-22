@@ -5,12 +5,36 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>FDA Public Meetings #2: Using Methods from PFDD Guidance 1 and Guidance 2 as Tools for Including Patient Experience Data in Clinical Trials: Lessons Learned about Data Collection and Analysis</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220725fda-public-meetings-2-using-methods-from-pfdd/</link>
+      <pubDate>Mon, 25 Jul 2022 08:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220725fda-public-meetings-2-using-methods-from-pfdd/</guid>
+      <description>&lt;p&gt;Speakers and participants will discuss a range of issues data collection and analysis, focusing on lessons learned and on areas identified as particularly challenging for stakeholders. You may find a link to the referenced guidance documents here: &lt;a href=&#34;http://wcms-internet.fda.gov/drugs/development-approval-process-drugs/fda-patient-focused-drug-development-guidance-series-enhancing-incorporation-patients-voice-medical?utm_medium=email&amp;amp;utm_source=govdelivery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PFDD Methodologic Guidance Documents&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Statistical Learning and Data Science Section Webinar: Production Data Science in Industry - Computational Methods and Opportunities</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220630asa-statistical-learning-and-data-science-section-webinar-production-data-science-in-industry/</link>
+      <pubDate>Thu, 30 Jun 2022 11:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220630asa-statistical-learning-and-data-science-section-webinar-production-data-science-in-industry/</guid>
+      <description>&lt;p&gt;Production data science in investment management is an impactful field where our models interact with capital markets. In this talk, we provide a definition of “production” for data science models, and introduce computational reproducibility and replicability as key considerations that inform production decisions. We describe a representation of model computational workflow using a Directed Acyclic Graph (DAG) that can be used to navigate and research reproducibility and replicability. We also provide a view into how available low-code modeling tools enter these considerations via an example of Markov Chain Monte Carlo (MCMC) implemented for a model used in finance. Finally, we conclude by introducing open research opportunities in the area of increasing automation in data and model selection in production.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FDA Public Meetings #1: Using Methods from PFDD Guidance 1 and Guidance 2 as Tools for Including Patient Experience Data in Clinical Trials: Who to Ask and How to Ask</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220630fda-public-meetings-1-using-methods-from-pfdd-guidance-1-and-guidance-2-as-tools-for-including-patient-experience-data-in-clinical-trials/</link>
+      <pubDate>Thu, 30 Jun 2022 08:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220630fda-public-meetings-1-using-methods-from-pfdd-guidance-1-and-guidance-2-as-tools-for-including-patient-experience-data-in-clinical-trials/</guid>
+      <description>&lt;p&gt;Speakers and participants will discuss a range of issues and best practices related to collecting patient input, selecting data collection methods, and developing sampling plans and strategies. External stakeholders will present examples of how they have used the guidance documents as tool to inform their collection of patient data. You may find a link to the referenced guidance documents here: &lt;a href=&#34;http://wcms-internet.fda.gov/drugs/development-approval-process-drugs/fda-patient-focused-drug-development-guidance-series-enhancing-incorporation-patients-voice-medical?utm_medium=email&amp;amp;utm_source=govdelivery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PFDD Methodologic Guidance Documents&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Data Science, Statistics &amp; Visualisation (DSSV) 2022</title>
@@ -27,6 +51,45 @@
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220626the-16th-international-society-for-bayesian-analysis-isba/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 14, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DahShu Seminar: Machine Learning for Evidence Generation from Real World Longitudinal Patient Electronic Health Records</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220624dahshu-seminar-machine-learning-for-evidence-generation-from-real-world-longitudinal-patient-electronic-health-records/</link>
+      <pubDate>Fri, 24 Jun 2022 09:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220624dahshu-seminar-machine-learning-for-evidence-generation-from-real-world-longitudinal-patient-electronic-health-records/</guid>
+      <description>&lt;p&gt;The recent years have witnessed a surge of interests on mining evidence from electronic health records (EHR) to facilitate various tasks ranging from drug development to policy making. There are many challenges for analyzing EHRs such as complex confounding and population heterogeneity. In this talk, I will introduce several recent research from my lab on addressing these challenges in different disease contexts, and point out potential future directions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IDDI Webinar: Conversation between a Sponsor and a Statistician about Phase II/III Trials in Oncology</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220623iddi-webinar-conversation-between-a-sponsor-and-a-statistician-about-phase-ii-iii-trials-in-oncology/</link>
+      <pubDate>Thu, 23 Jun 2022 09:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220623iddi-webinar-conversation-between-a-sponsor-and-a-statistician-about-phase-ii-iii-trials-in-oncology/</guid>
+      <description>&lt;p&gt;Particularly in oncology, it is often the case that after seeing promising signals in phase I expansion cohorts, Sponsors want to expedite drug development. Merging the exploratory (phase II) and the confirmatory (phase III) phases into a single trial and/or a single protocol is regarded as a way to accelerate approval.&lt;/p&gt;
+&lt;p&gt;Traditionally, group-sequential designs have an established role in randomized trials and allow for safety monitoring as well as early decisions regarding efficacy and futility of the new treatment in phase III studies. More recently, adaptive designs that enable implementation of modifications to key components of the trial design (targeted treatment effect/sample size, treatment groups, population selection) have become popular despite that they require advanced statistical input and come with additional logistical burden.&lt;/p&gt;
+&lt;p&gt;During this webinar, a Sponsor and a Statistician will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Debate about the distinctive features of these approaches, the applicable regulations, the pros and cons of the various approaches.&lt;/li&gt;
+&lt;li&gt;Address methodological questions such as: what does operationally seamless phase II/III mean? What is the difference between a phase II/III and a phase III trial with interim stopping rules? Do all phase II/III studies use an adaptive design?&lt;/li&gt;
+&lt;li&gt;Discuss the information that is accessible to the Sponsor at the end of the phase II and logistical implications of the various approaches.&lt;/li&gt;
+&lt;li&gt;Discuss and illustrate the regulators’ views.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;KEY TAKEAWAYS&lt;/p&gt;
+&lt;p&gt;During this webinar, the participant will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be exposed to the concepts of operationally and inferentially seamless designs, adaptive designs and group-sequential designs&lt;/li&gt;
+&lt;li&gt;Gain insights into the regulatory and operational aspects of such designs&lt;/li&gt;
+&lt;li&gt;Understand the benefits and limitations of various time-saving clinical study designs in relation to information available at the time of study conception&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Basel Biometric Society (BBS) Virtual Seminar: Registry Studies and Health Technology Assessment (HTA)</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220623bbs-registry-studies-and-health-technology/</link>
+      <pubDate>Thu, 23 Jun 2022 06:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220623bbs-registry-studies-and-health-technology/</guid>
+      <description></description>
     </item>
     
     <item>
