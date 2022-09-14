@@ -5,12 +5,101 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Sep 2022 09:00:00 -0700</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/</link>
     </image>
+    
+    <item>
+      <title>FDA Public Webinar on Draft Guidance: Patient-Focused Drug Development: Selecting, Developing, or Modifying Fit-For-Purpose Clinical Outcome Assessments</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220909fda-public-webinar/</link>
+      <pubDate>Fri, 09 Sep 2022 09:00:00 -0700</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220909fda-public-webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Journal Club: Estimating Treatment Effects </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220907psi-journal-club-estimating-treatment-effects/</link>
+      <pubDate>Wed, 07 Sep 2022 08:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220907psi-journal-club-estimating-treatment-effects/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Luo, J, Ruberg, SJ, Qu, Y. Estimating the treatment effect for adherers using multiple imputation. 
+Pharmaceutical Statistics. 2022; 21( 3): 525- 534. doi:&lt;a href=&#34;https://doi.org/10.1002/pst.2184&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1002/pst.2184&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ye, Z, Harrar, SW. Estimation of multivariate treatment effects in contaminated clinical trials. 
+Pharmaceutical Statistics. 2022; 21( 3): 535- 565. doi:&lt;a href=&#34;https://doi.org/10.1002/pst.2185&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1002/pst.2185&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Simulations Plus Webinar: Project Optimus – FDA’s New Dose Optimization &amp; Selection Paradigm in Oncology Drug Development</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220907simulations-plus-webinar/</link>
+      <pubDate>Wed, 07 Sep 2022 08:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220907simulations-plus-webinar/</guid>
+      <description>&lt;p&gt;Dr. Brian P. Booth and Dr. Hao Zhu from the Office of Clinical Pharmacology (OCP) at the FDA will present and discuss Project Optimus, an initiative from the Oncology Center of Excellence (OCE) to reform the dose optimization and dose selection paradigm in oncology drug development. Clinical pharmacology strategy and model-based approach supporting Project Optimus will be discussed with the following outline:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction-Project Optimus&lt;/li&gt;
+&lt;li&gt;Why we need to optimize dose for oncology products&lt;/li&gt;
+&lt;li&gt;Case studies&lt;/li&gt;
+&lt;li&gt;Leveraging what we know&lt;/li&gt;
+&lt;li&gt;The Role of Model-Informed Drug Development (MIDD) in Dose Optimization&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Purdue Department of Statistics 2022 Distinguished Theme Seminar Series: Recent Advances in Statistical Inference</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220902purdue-department-of-statistics-2022-distinguished-theme-seminar-series/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220902purdue-department-of-statistics-2022-distinguished-theme-seminar-series/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 2, 2022, 7:30-8:30am PDT&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=-fVZIiJIbPQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On Dynamics-Informed Blending of Machine Learning and Game Theory (Michael I. Jordan)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 7, 2022, 8:30-9:30am PDT&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=pjhp1moPvO4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conformal Prediction in 2022 (Emmanuel Candes)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 16, 2022, 7:30-8:30am PDT&lt;/strong&gt;&lt;br&gt;
+Miniaturizing Data Defect Correlation: A Versatile Strategy for Handling Non-Probability Samples (Xiao-Li Meng)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;September 23, 2022, 11:30am-12:30pm PDT&lt;/strong&gt;&lt;br&gt;
+Conformal Prediction Beyond Exchangeability (Rina Barber)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Statistical Learning and Data Science Section Webinar: Exploration and Optimization in Deep Reinforcement Learning</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220830asa-statistical-learning-and-data-science-section-webinar/</link>
+      <pubDate>Tue, 30 Aug 2022 11:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220830asa-statistical-learning-and-data-science-section-webinar/</guid>
+      <description>&lt;p&gt;Reinforcement Learning (RL) is a mathematical framework to develop intelligent agents that can learn the optimal behaviour that maximizes the cumulative reward by interacting with the environment. There are numerous successful applications in many fields. Statistics and optimization are becoming important tools for RL. In this talk, we will look at two of our recent developments. In the first example, we employ distributional RL for efficient exploration. In distributional RL, the estimated distribution of value function models both the parametric and intrinsic uncertainties. We propose a novel and efficient exploration method for deep RL that has two components: a decaying schedule to suppress the intrinsic uncertainty and an exploration bonus calculated from the upper quantiles of the learned distribution. In the second example, we study damped Anderson mixing for deep RL. Anderson mixing has been heuristically applied to RL algorithms for accelerating convergence and improving the sampling efficiency of deep RL. Motivated by that, we provide a rigorous mathematical justification for the benefits of Anderson mixing in RL. Our main results establish a connection between Anderson mixing and quasi-Newton methods, prove that Anderson mixing increases the convergence radius of policy iteration schemes by an extra contraction factor, and propose a stabilization strategy. Besides the two examples, we will discuss some current progress and future directions on statistics and optimization in RL.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DIA Bayesian Scientific Working Group (BSWG) KOL Lecture Series: The Epistemological Superiority of Bayesian Inference over Frequentist Inference? </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220826dia-bayesian-scientific-working-group-bswg-kol-lecture/</link>
+      <pubDate>Fri, 26 Aug 2022 08:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220826dia-bayesian-scientific-working-group-bswg-kol-lecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIA Innovative Design Scientific Working Group (IDSWG) KOL Lecture Series: Response and Covariate Adaptive Randomization – Methods and Examples</title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220826dia-innovative-design-scientific-working-group-idswg-kol-lecture-series/</link>
+      <pubDate>Fri, 26 Aug 2022 07:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220826dia-innovative-design-scientific-working-group-idswg-kol-lecture-series/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FDA Public Meetings #2: Using Methods from PFDD Guidance 1 and Guidance 2 as Tools for Including Patient Experience Data in Clinical Trials: Lessons Learned about Data Collection and Analysis</title>

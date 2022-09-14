@@ -5,12 +5,20 @@
     <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
       <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
       <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
     </image>
+    
+    <item>
+      <title>The 12th International Conference on Multiple Comparison Procedures (MCP2022) </title>
+      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220830the-12th-international-conference-on-multiple-comparison-procedures-mcp2022/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220830the-12th-international-conference-on-multiple-comparison-procedures-mcp2022/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: 350 euros&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Data Science, Statistics &amp; Visualisation (DSSV) 2022</title>
