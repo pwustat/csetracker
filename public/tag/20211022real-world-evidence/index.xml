@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Real-World Evidence | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211022real-world-evidence/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20211022real-world-evidence/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20211022real-world-evidence/</link>
+      <atom:link href="/tag/20211022real-world-evidence/index.xml" rel="self" type="application/rss+xml" />
     <description>Real-World Evidence</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 09:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Real-World Evidence</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211022real-world-evidence/</link>
+      <link>/tag/20211022real-world-evidence/</link>
     </image>
     
     <item>
       <title>Historical Data Borrowing – Methods and Case Studies Review by DIA NEED </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</link>
+      <link>/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</link>
       <pubDate>Fri, 22 Oct 2021 09:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</guid>
+      <guid>/webinar/20211022historical-data-borrowing-methods-and-case-studies-review-by-dia-need/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;In life-threatening/rare diseases, randomized controlled trial often runs into feasibility and even ethical issue. Single-arm interventional trial with historical control (HC) as the comparator, highlighted in the recent FDA Real World Evidence (RWE) framework, provides an alternative approach to assess the effectiveness of the investigative therapy in these challenging scenarios. A roadmap of using HC in clinical trials by DIA NEED team will be introduced and then followed by the discussions on statistical methodologies commonly used with HC. In the end, a few selected NDA/BLA filing cases, where HC was used as the comparator in the pivotal trials, will be presented, providing some practical guidance on incorporating historical data from the stage of trial design to the stage of data analysis. Our main findings and recommendation are published at Orphanet Journal of Rare Diseases in 2020.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DahShu Webinar: Single Arm Trials with a Synthetic Control Arm Built from RWD </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</link>
+      <link>/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</link>
       <pubDate>Fri, 17 Sep 2021 09:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</guid>
+      <guid>/webinar/20210917dahshu-webinar-single-arm-trials-with-a-synthetic-control-arm-built-from-rwd/</guid>
       <description>&lt;p&gt;Randomized clinical trials (RCT) are the gold standard for approvals by regulatory agencies. However, RCT&amp;rsquo;s are increasingly time consuming, expensive, and laborious with a multitude of bottlenecks involving volunteer recruitment, patient truancy, and adverse events. An alternative that fast tracks clinical trials without compromising quality of scientific results is desirable to more rapidly bring therapies to consumers. We propose a model-based approach using nonparametric Bayesian common atoms models for patient baseline covariates. This specific class of models has two critical advantages in this context: (i) The models have full prior support, i.e., allow to approximate arbitrary distributions without unreasonable restrictions or shrinkage in specific parametric families; (ii) inference naturally facilitates a reweighting scheme to achieve equivalent populations. We prove equivalence of the synthetic and other patient cohorts using an independent separate verification. Failure to classify a merged data set using a flexible statistical learning method such as random forests, support vector machines etc. proves equivalence. We implement the proposed approach in two motivating case studies.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Use of Real World Data/Real World Evidence in Clinical Development</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723use-of-real-world-data-real-world-evidence-in-clinical-development/</link>
+      <link>/webinar/20210723use-of-real-world-data-real-world-evidence-in-clinical-development/</link>
       <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723use-of-real-world-data-real-world-evidence-in-clinical-development/</guid>
+      <guid>/webinar/20210723use-of-real-world-data-real-world-evidence-in-clinical-development/</guid>
       <description>&lt;p&gt;&lt;em&gt;Part of the Fifth Boston Pharmaceutical Symposium&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In recent years, the rapid increase in the volume, variety, and accessibility of digitized RWD and RWE has presented unprecedented opportunities for the use of RWD and RWE throughout the drug product lifecycle. We believe RWD and RWE will be leading the statistical innovation in healthcare industry and regulatory decision making for the next decades. In clinical development, RWD and RWE have the potential to improve the planning and execution of clinical trials and create a virtual control arm for a single arm for accelerated approval and label expansion. From the product lifecycle perspective, effective insights gleaned from RWE bring about informative relative benefits of drugs, comparative effectiveness, price optimization, and new indications.  Aiming to present a wide range of RWE applications throughout the lifecycle of drug product development, we have written a book &amp;ldquo;Real-World Evidence in Drug Development and Evaluation&amp;rdquo; which was published in February 2021. At the 2021 Boston Pharma Symposium, we are excited to share with researchers Chapter 4 – External Control Using RWE and Historical Data in Clinical Development. This seminar will discuss the recent case studies that adopted RWD and RWE in the clinical development and evaluation from the following perspectives:&lt;/p&gt;
 &lt;ul&gt;
@@ -54,17 +54,17 @@
     
     <item>
       <title>FDA Sentinel Webinar: Measure What You Treasure - The Challenges and Opportunities of Collecting Real World Endpoints </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622fda-sentinel-webinar-measure-what-you-treasure-the-challenges-and-opportunities-of-collecting-real-world-endpoints/</link>
+      <link>/webinar/20210622fda-sentinel-webinar-measure-what-you-treasure-the-challenges-and-opportunities-of-collecting-real-world-endpoints/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210622fda-sentinel-webinar-measure-what-you-treasure-the-challenges-and-opportunities-of-collecting-real-world-endpoints/</guid>
+      <guid>/webinar/20210622fda-sentinel-webinar-measure-what-you-treasure-the-challenges-and-opportunities-of-collecting-real-world-endpoints/</guid>
       <description>&lt;p&gt;The high quality capture of real world endpoints is vitally important to the growing use, acceptance, and utility of real world data. This presentation will discuss the opportunities, challenges, and potential remedies to this complex problem.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ENAR Webinar: Novel Applications of Real-world Data to Support Clinical Trials</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611enar-webinar-novel-applications-of-real-world-data-to-support-clinical-trials/</link>
+      <link>/webinar/20210611enar-webinar-novel-applications-of-real-world-data-to-support-clinical-trials/</link>
       <pubDate>Fri, 11 Jun 2021 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210611enar-webinar-novel-applications-of-real-world-data-to-support-clinical-trials/</guid>
+      <guid>/webinar/20210611enar-webinar-novel-applications-of-real-world-data-to-support-clinical-trials/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ENAR members: free; IBS members: $65; Non-members: $85&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Real-world data (RWD) have played an increasingly important role in healthcare decisions, for example supporting the design, analysis, and contextualization of clinical trials. In this webinar, we invite panelists from industry with backgrounds in statistics, clinical trials, data science, epidemiology, and health outcomes research to discuss novel applications where RWD can be used to support clinical trials.&lt;/p&gt;
 &lt;p&gt;We discuss propensity-score based methods to leverage RWD as an external data source to augment single-arm clinical trials, enhanced extrapolation of long-term clinical trial survival outcomes using electronic health record (EHR)-derived RWD, and enrollment projection for a prospective pragmatic trial design that utilizes RWD. Finally, we tie the three topics together with a panel discussion.&lt;/p&gt;</description>
@@ -72,33 +72,33 @@
     
     <item>
       <title>Distributed Statistical Learning and Inference in EHR and Other Healthcare Datasets</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</link>
+      <link>/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</link>
       <pubDate>Tue, 09 Mar 2021 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</guid>
+      <guid>/webinar/20210309distributed-statistical-learning-and-inference-in-ehr-and-other-healthcare-datasets/</guid>
       <description>&lt;p&gt;The growth of availability and variety of healthcare data sources has provided unique opportunities for data integration and evidence synthesis, which can potentially accelerate knowledge discovery and enable better clinical decision making.  However, many practical and technical challenges, such as data privacy, high-dimensionality and heterogeneity across different datasets, remain to be addressed. In this talk, I will introduce several methods for effective and efficient integration of electronic health records and other healthcare datasets. Specifically, we develop communication-efficient distributed algorithms for jointly analyzing multiple datasets without the need of sharing patient-level data. Our algorithms are able to account for heterogeneity across different datasets. We provide theoretical guarantees for the performance of our algorithms, and examples of implementing the algorithms to real-world clinical research networks.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Non-Randomized Studies and Utilization of Real-World Evidence</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201217non-randomized-studies-and-utilization-of-real-world-evidence/</link>
+      <link>/webinar/20201217non-randomized-studies-and-utilization-of-real-world-evidence/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201217non-randomized-studies-and-utilization-of-real-world-evidence/</guid>
+      <guid>/webinar/20201217non-randomized-studies-and-utilization-of-real-world-evidence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Head-to-Head Comparison Using Real-World Data: Study Design Considerations and an Update on the Pilot Investigation in Cancer</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</link>
+      <link>/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</guid>
+      <guid>/webinar/20200922study-design-considerations-and-an-update-on-the-pilot-investigation-in-cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Health-Related Social Media Can Complement Traditional RWE Approaches to Access Unique Patient Insights</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903how-health-related-social-media-can-complement-traditional-rwe-approaches-to-access-unique-patient-insights/</link>
+      <link>/webinar/20200903how-health-related-social-media-can-complement-traditional-rwe-approaches-to-access-unique-patient-insights/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200903how-health-related-social-media-can-complement-traditional-rwe-approaches-to-access-unique-patient-insights/</guid>
+      <guid>/webinar/20200903how-health-related-social-media-can-complement-traditional-rwe-approaches-to-access-unique-patient-insights/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Examples of health-related social media data sources&lt;/p&gt;
@@ -120,17 +120,17 @@
     
     <item>
       <title>Head-to-head Comparisons using Real-World Data: Design and Data Source Considerations from Pilot Investigations in Cardiovascular Disease</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</link>
+      <link>/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</guid>
+      <guid>/webinar/20200728design-and-data-source-considerations-from-pilot-investigations-in-cardiovascular-disease/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Head-to-Head Comparisons using Real World Data: The Time for Causal Inference is Now</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</link>
+      <link>/webinar/20200707the-time-for-causal-inference-is-now/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200707the-time-for-causal-inference-is-now/</guid>
+      <guid>/webinar/20200707the-time-for-causal-inference-is-now/</guid>
       <description></description>
     </item>
     

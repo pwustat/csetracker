@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>experimental design | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200717experimental-design/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20200717experimental-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20200717experimental-design/</link>
+      <atom:link href="/tag/20200717experimental-design/index.xml" rel="self" type="application/rss+xml" />
     <description>experimental design</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>experimental design</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200717experimental-design/</link>
+      <link>/tag/20200717experimental-design/</link>
     </image>
     
     <item>
       <title>Using Multiple Natural Experimental Designs to Triangulate the Impact of a Policy Change</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200717dahshu/</link>
+      <link>/webinar/20200717dahshu/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200717dahshu/</guid>
+      <guid>/webinar/20200717dahshu/</guid>
       <description>&lt;p&gt;Estimating causal effects is best done using randomized controlled trials. Regrettably, for many policy-relevant questions only observational data are available. In this talk we explore how (i) decomposing a policy into multiple parts, and (ii) leveraging multiple study designs can produce stronger, more defensible causal estimates.&lt;br&gt;
 We explore these statistical concepts through an example from health outcomes research: The feasibility and effectiveness of delaying surgery to transfer patients with acute type A aortic dissection—a catastrophic disease that requires prompt intervention—to higher-volume aortic surgery hospitals is unknown. We investigated the hypothesis that regionalizing care at high-volume hospitals for acute type A aortic dissections will lower mortality. We decomposed this hypothesis into subparts, investigating the isolated effect of transfer and the isolated effect of receiving care at a high-volume versus a low-volume facility. We used a preference-based instrumental variable design to address unmeasured confounding and matching to separate the effect of transfer from volume. We used the carefully deployed instrumental variable design, and contrast it with a decomposed propensity score study design, to gain deeper insights into the elements giving rise to confounding. We also develop a simple, but complete, form of sensitivity analysis to bound the effect of censored observations.&lt;/p&gt;</description>
     </item>

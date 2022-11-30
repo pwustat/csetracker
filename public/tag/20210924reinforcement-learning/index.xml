@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reinforcement Learning | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210924reinforcement-learning/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210924reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20210924reinforcement-learning/</link>
+      <atom:link href="/tag/20210924reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Sep 2021 07:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Reinforcement Learning</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210924reinforcement-learning/</link>
+      <link>/tag/20210924reinforcement-learning/</link>
     </image>
     
     <item>
       <title>2021 Myles Hollander Distinguished Lecture: We used a Bandit Algorithm to Personalize But Did It Work?</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/202109242021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work/</link>
+      <link>/webinar/202109242021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work/</link>
       <pubDate>Fri, 24 Sep 2021 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/202109242021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work/</guid>
+      <guid>/webinar/202109242021-myles-hollander-distinguished-lecture-we-used-a-bandit-algorithm-to-personalize-but-did-it-work/</guid>
       <description>&lt;p&gt;Reinforcement Learning Algorithms provide an attractive suite of online learning methods for personalizing interventions in Digital Health. However after a reinforcement learning algorithm has been run in a clinical study, how do we assess whether personalization occurred? We might find users for whom it appears that the algorithm has indeed learned in which contexts the user is more responsive to a particular intervention.  But could this have happened completely by chance? We discuss some first approaches to addressing these questions.&lt;/p&gt;</description>
     </item>
     

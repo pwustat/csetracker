@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20220621artificial-intelligence/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20220621artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20220621artificial-intelligence/</link>
+      <atom:link href="/tag/20220621artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Artificial Intelligence</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20220621artificial-intelligence/</link>
+      <link>/tag/20220621artificial-intelligence/</link>
     </image>
     
     <item>
       <title>National Academies of Sciences, Engineering, and Medicine (NASEM) Symposium: Interpretable and Explainable AI and Machine Learning</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220621nasem-symposium/</link>
+      <link>/webinar/20220621nasem-symposium/</link>
       <pubDate>Tue, 21 Jun 2022 10:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220621nasem-symposium/</guid>
+      <guid>/webinar/20220621nasem-symposium/</guid>
       <description>&lt;p&gt;Featured Talks:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Mathematical Challenges for Machine Learning and Artificial Intelligence</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211111mathematical-challenges-for-machine-learning-and-artificial-intelligence/</link>
+      <link>/webinar/20211111mathematical-challenges-for-machine-learning-and-artificial-intelligence/</link>
       <pubDate>Thu, 11 Nov 2021 11:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211111mathematical-challenges-for-machine-learning-and-artificial-intelligence/</guid>
+      <guid>/webinar/20211111mathematical-challenges-for-machine-learning-and-artificial-intelligence/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;National Academies Symposium&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;During the symposium, speakers will discuss how statistical theory helps build in protections for black box machine learning models, new approaches for making sense of high-dimensional and heterogenous data, novel methods for understanding causality, and future research opportunities in deep learning.&lt;/p&gt;</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Estimand | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210723estimand/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210723estimand/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20210723estimand/</link>
+      <atom:link href="/tag/20210723estimand/index.xml" rel="self" type="application/rss+xml" />
     <description>Estimand</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 07:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Estimand</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210723estimand/</link>
+      <link>/tag/20210723estimand/</link>
     </image>
     
     <item>
       <title>Understanding hypothetical strategies and defining the clinical question of interest</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723understanding-hypothetical-strategies-and-defining-the-clinical-question-of-interest/</link>
+      <link>/webinar/20210723understanding-hypothetical-strategies-and-defining-the-clinical-question-of-interest/</link>
       <pubDate>Fri, 23 Jul 2021 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210723understanding-hypothetical-strategies-and-defining-the-clinical-question-of-interest/</guid>
+      <guid>/webinar/20210723understanding-hypothetical-strategies-and-defining-the-clinical-question-of-interest/</guid>
       <description>&lt;p&gt;More and more clinical trials have started adopting the estimand framework in protocols after the release of the ICH E9(R1) &amp;ldquo;Addendum on Estimands and Sensitivity Analysis in Clinical Trials&amp;rdquo;.  However, there is currently still a lack of clarity on the role of hypothetical strategies. The addendum recognizes that &amp;ldquo;when using the hypothetical strategy, some conditions are likely to be more acceptable for regulatory decision making than others&amp;rdquo;. However, it is still unclear as to what constitutes &amp;ldquo;acceptable hypothetical conditions&amp;rdquo; which could lead to an interpretable treatment effect.  Therefore, it is of great interest to have a diverse group of experts take a deep dive into this topic and help shed light on considerations of hypothetical strategies relevant to the clinical question of interest.  In this webinar, we will have speakers from regulatory agencies and industry to share their perspectives on this interesting topic and also participate in a panel-discussion.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related publications:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -34,26 +34,26 @@
     
     <item>
       <title>PSI EIWG Webinar: Estimands in Oncology - How and Why</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210602psi-eiwg-webinar-estimands-in-oncology-how-and-why-session-2/</link>
+      <link>/webinar/20210602psi-eiwg-webinar-estimands-in-oncology-how-and-why-session-2/</link>
       <pubDate>Wed, 02 Jun 2021 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210602psi-eiwg-webinar-estimands-in-oncology-how-and-why-session-2/</guid>
+      <guid>/webinar/20210602psi-eiwg-webinar-estimands-in-oncology-how-and-why-session-2/</guid>
       <description>&lt;p&gt;A year on after the final ICH E9 estimands addendum was published, we bring estimands to life. Members of the Estimands in Oncology special interest group will describe how the estimand framework provides a common language to describe the diversity of patient journeys and why it is important to address the right question in clinical trials.&lt;/p&gt;
 &lt;p&gt;You will be guided through a case study and interactively deepen the knowledge to gain hands-on experience in developing estimands. You will be introduced to the background and disease context of the case study, the concept of an estimand, and important clinical events (increased dropout rate and crossover therapy) that occurred in the trial and affected interpretation of the results. Using non-technical language and clear graphical presentation of the concepts, you will experience how the estimand framework provides a common language to describe the diversity of patient journeys and why it is important to address the right question in clinical trials.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PIONEERing estimands in Clinical Research</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210112pioneering-estimands-in-clinical-research/</link>
+      <link>/webinar/20210112pioneering-estimands-in-clinical-research/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210112pioneering-estimands-in-clinical-research/</guid>
+      <guid>/webinar/20210112pioneering-estimands-in-clinical-research/</guid>
       <description>&lt;p&gt;Bringing estimands to life through a real case study. A year on after the final ICH E9 estimands addendum was published, we bring estimands to life from a real example from protocol to press release. Members of the estimands Implementation Working Group (EIWG) will describe the background and study objectives, intercurrent events of interest and chosen estimands in the PIONEER study.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Joint PSI, EFSPI &amp; ASA BIOP Webinar: Estimands</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201105joint-psi-efspi-asa-biop-webinar-estimands/</link>
+      <link>/webinar/20201105joint-psi-efspi-asa-biop-webinar-estimands/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201105joint-psi-efspi-asa-biop-webinar-estimands/</guid>
+      <guid>/webinar/20201105joint-psi-efspi-asa-biop-webinar-estimands/</guid>
       <description>&lt;p&gt;The following aspects are covered:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Experience with proposals submitted to FDA and EMA on implementation of Estimands&lt;/li&gt;
@@ -67,17 +67,17 @@
     
     <item>
       <title>Estimands: Not Just a Statistical Issue</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200813estimands-not-just-a-statistical-issue/</link>
+      <link>/webinar/20200813estimands-not-just-a-statistical-issue/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200813estimands-not-just-a-statistical-issue/</guid>
+      <guid>/webinar/20200813estimands-not-just-a-statistical-issue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimands and Analysis Considerations for Clinical Trials Impacted by COVID-19</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</link>
+      <link>/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</link>
       <pubDate>Thu, 16 Jul 2020 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</guid>
+      <guid>/webinar/20200716estimands-and-analysis-considerations-for-clinical-trials-impacted-by-covid-19/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;The use of the estimand framework to assess and address pandemic-related disruptions&lt;/li&gt;
 &lt;li&gt;Analysis strategies for pandemic-related missing and unobservable values&lt;/li&gt;
@@ -86,9 +86,9 @@
     
     <item>
       <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</link>
+      <link>/webinar/20200610dia/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</guid>
+      <guid>/webinar/20200610dia/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;An overview of how COVID-19 progressed&lt;/li&gt;
 &lt;li&gt;How can pharmaceutical companies be better prepared? Should there be plans and clinical development strategies in place?&lt;/li&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>Estimands in Oncology - A Virtual Panel Discussion</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200524estimands-in-oncology-a-virtual-panel-discussion/</link>
+      <link>/webinar/20200524estimands-in-oncology-a-virtual-panel-discussion/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200524estimands-in-oncology-a-virtual-panel-discussion/</guid>
+      <guid>/webinar/20200524estimands-in-oncology-a-virtual-panel-discussion/</guid>
       <description></description>
     </item>
     

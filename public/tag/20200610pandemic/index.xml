@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pandemic | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200610pandemic/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20200610pandemic/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20200610pandemic/</link>
+      <atom:link href="/tag/20200610pandemic/index.xml" rel="self" type="application/rss+xml" />
     <description>Pandemic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Pandemic</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200610pandemic/</link>
+      <link>/tag/20200610pandemic/</link>
     </image>
     
     <item>
       <title>COVID-19: Pandemic Preparedness and Lessons Learned</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</link>
+      <link>/webinar/20200610dia/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200610dia/</guid>
+      <guid>/webinar/20200610dia/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;An overview of how COVID-19 progressed&lt;/li&gt;
 &lt;li&gt;How can pharmaceutical companies be better prepared? Should there be plans and clinical development strategies in place?&lt;/li&gt;

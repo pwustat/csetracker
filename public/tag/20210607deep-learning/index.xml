@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210607deep-learning/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210607deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20210607deep-learning/</link>
+      <atom:link href="/tag/20210607deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Deep Learning</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210607deep-learning/</link>
+      <link>/tag/20210607deep-learning/</link>
     </image>
     
     <item>
       <title>ISI Short Course: Statistical Theory of Deep Learning </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210607isi-short-course-statistical-theory-of-deep-learning/</link>
+      <link>/course/20210607isi-short-course-statistical-theory-of-deep-learning/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210607isi-short-course-statistical-theory-of-deep-learning/</guid>
+      <guid>/course/20210607isi-short-course-statistical-theory-of-deep-learning/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Course outline&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Motivation: The present great success of Deep Learning&lt;/li&gt;
@@ -32,9 +32,9 @@ d. Generalization: Convergence rates of DNNs for different regression and classi
     
     <item>
       <title>Purdue University: Deep Learning Methods and Theory Webinar Series</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</link>
+      <link>/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</guid>
+      <guid>/webinar/20200828purdue-university-deep-learning-methods-and-theory-webinar-series/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;August 28, &lt;strong&gt;Intuitive Introduction to Deep Learning&lt;/strong&gt;, Professor Lawrence Carin, &lt;a href=&#34;https://www.youtube.com/watch?v=sVca43PstWA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;

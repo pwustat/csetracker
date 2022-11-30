@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MCP-Mod | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200617mcp-mod/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20200617mcp-mod/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20200617mcp-mod/</link>
+      <atom:link href="/tag/20200617mcp-mod/index.xml" rel="self" type="application/rss+xml" />
     <description>MCP-Mod</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>MCP-Mod</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200617mcp-mod/</link>
+      <link>/tag/20200617mcp-mod/</link>
     </image>
     
     <item>
       <title>MCP-Mod: Optimizing Phase II Dose Selection for Continuous and Non-Continuous Endpoints</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200617mcp-mod-optimizing-phase-ii-dose-selection-for-continuous-and-non-continuous-endpoints/</link>
+      <link>/webinar/20200617mcp-mod-optimizing-phase-ii-dose-selection-for-continuous-and-non-continuous-endpoints/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200617mcp-mod-optimizing-phase-ii-dose-selection-for-continuous-and-non-continuous-endpoints/</guid>
+      <guid>/webinar/20200617mcp-mod-optimizing-phase-ii-dose-selection-for-continuous-and-non-continuous-endpoints/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;An introduction to MCP-Mod&lt;/li&gt;
 &lt;li&gt;Why use MCP-Mod for Phase II trials&lt;/li&gt;

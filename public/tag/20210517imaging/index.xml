@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imaging | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210517imaging/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210517imaging/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20210517imaging/</link>
+      <atom:link href="/tag/20210517imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Imaging</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Imaging</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210517imaging/</link>
+      <link>/tag/20210517imaging/</link>
     </image>
     
     <item>
       <title>The Statistical Methods in Imaging Conference 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</link>
+      <link>/conference/20210517the-statistical-methods-in-imaging-conference-2021/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</guid>
+      <guid>/conference/20210517the-statistical-methods-in-imaging-conference-2021/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration ends on May 2, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DahShu Webinar: Automated Image Labeling for Medical Imaging AI</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</link>
+      <link>/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</link>
       <pubDate>Fri, 14 May 2021 09:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</guid>
+      <guid>/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</guid>
       <description>&lt;p&gt;Computer vision application in the medical domain have recently become quite popular. Detecting, localizing, and diagnosing diseases and recognizing structures on MRI, CT, PET, XRay, ultrasound and photographic images is efficiently done by AI. What is rarely discussed, is how these AI systems are made. They require copious amounts of training data consisting of images and human-supplied labels. The labels are marked areas (either rectangles or free-form boundaries) that are attached to a word, e.g. “tumor.” Naturally, only highly qualified professionals are able to provide these labels making the process effortful and expensive. A technique called “active learning” from AI can help with this by reducing the manual effort by 90%. This allows the creation of state-of-the-art AI models for medicine using a significantly smaller budget of time and resources. This talk will present the method with several examples and will argue that this approach is a disruptive shift in medical AI.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ASA Philadelphia Chapter Webinar on Machine learning in Neuroimaging: Applications to Clinical Neuroscience and Neurooncology</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</link>
+      <link>/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</link>
       <pubDate>Thu, 13 May 2021 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</guid>
+      <guid>/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</guid>
       <description>&lt;p&gt;Machine learning has deeply penetrated the neuroimaging field in the past 15 years, by providing a means to construct imaging signatures of normal and pathologic brain states on an individual person basis. In this talk, I will discuss examples from our laboratory’s work on imaging signatures of brain aging and early stages of neurodegenerative diseases, brain development and neuropsychiatric disorders, as well as brain cancer precision diagnostics and estimation of molecular characteristics. I will discuss some challenges, such as disease heterogeneity, integration of data from multiple sites, and derivation of interpretable statistical maps from certain machine learning tools, and will present some of our work in these directions.&lt;/p&gt;</description>
     </item>
     

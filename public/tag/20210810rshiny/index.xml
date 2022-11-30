@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RShiny | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210810rshiny/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210810rshiny/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20210810rshiny/</link>
+      <atom:link href="/tag/20210810rshiny/index.xml" rel="self" type="application/rss+xml" />
     <description>RShiny</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 09:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>RShiny</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210810rshiny/</link>
+      <link>/tag/20210810rshiny/</link>
     </image>
     
     <item>
       <title>Shiny Apps from Concept to Production </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210810shiny-apps-from-concept-to-production/</link>
+      <link>/webinar/20210810shiny-apps-from-concept-to-production/</link>
       <pubDate>Tue, 10 Aug 2021 09:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210810shiny-apps-from-concept-to-production/</guid>
+      <guid>/webinar/20210810shiny-apps-from-concept-to-production/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Shepherding your Shiny App from Proof of Concept to Production:&lt;/strong&gt; Marcin Dubel will present Appsilon&amp;rsquo;s preferred workflow for creating production quality Shiny apps. He&amp;rsquo;ll touch on key topics in the app development process that lead to apps which users enjoy and developers find easy to maintain and extend.&lt;/p&gt;

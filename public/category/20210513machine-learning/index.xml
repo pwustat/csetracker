@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/category/20210513machine-learning/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/category/20210513machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/category/20210513machine-learning/</link>
+      <atom:link href="/category/20210513machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 08:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Machine Learning</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/category/20210513machine-learning/</link>
+      <link>/category/20210513machine-learning/</link>
     </image>
     
     <item>
       <title>ASA Philadelphia Chapter Webinar on Machine learning in Neuroimaging: Applications to Clinical Neuroscience and Neurooncology</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</link>
+      <link>/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</link>
       <pubDate>Thu, 13 May 2021 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</guid>
+      <guid>/webinar/20210513asa-philadelphia-chapter-webinar-on-machine-learning-in-neuroimaging-applications-to-clinical-neuroscience-and-neurooncology/</guid>
       <description>&lt;p&gt;Machine learning has deeply penetrated the neuroimaging field in the past 15 years, by providing a means to construct imaging signatures of normal and pathologic brain states on an individual person basis. In this talk, I will discuss examples from our laboratory’s work on imaging signatures of brain aging and early stages of neurodegenerative diseases, brain development and neuropsychiatric disorders, as well as brain cancer precision diagnostics and estimation of molecular characteristics. I will discuss some challenges, such as disease heterogeneity, integration of data from multiple sites, and derivation of interpretable statistical maps from certain machine learning tools, and will present some of our work in these directions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Illuminating the Black Box: Variable Importance Measures for Interpretable Machine Learning</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210225illuminating-the-black-box-variable-importance-measures-for-interpretable-machine-learning/</link>
+      <link>/webinar/20210225illuminating-the-black-box-variable-importance-measures-for-interpretable-machine-learning/</link>
       <pubDate>Thu, 25 Feb 2021 11:00:00 -0800</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210225illuminating-the-black-box-variable-importance-measures-for-interpretable-machine-learning/</guid>
+      <guid>/webinar/20210225illuminating-the-black-box-variable-importance-measures-for-interpretable-machine-learning/</guid>
       <description>&lt;p&gt;In this talk, Dr. Wolf will provide an overview of common machine learning methods (e.g. ensemble methods, support vector machines and neural networks) and discuss currently implemented importance measures that provide semi-quantitative measures of associations between variables and outcome.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Interpretable Machine Learning &amp; Causal Inference Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201215interpretable-machine-learning-causal-inference-workshop/</link>
+      <link>/webinar/20201215interpretable-machine-learning-causal-inference-workshop/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20201215interpretable-machine-learning-causal-inference-workshop/</guid>
+      <guid>/webinar/20201215interpretable-machine-learning-causal-inference-workshop/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Table 2 Fallacy: Or why interpretation needs more than transparency (Peter Tennant)&lt;/p&gt;

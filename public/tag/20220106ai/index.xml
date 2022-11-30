@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20220106ai/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20220106ai/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20220106ai/</link>
+      <atom:link href="/tag/20220106ai/index.xml" rel="self" type="application/rss+xml" />
     <description>AI</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 08:30:00 -0700</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>AI</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20220106ai/</link>
+      <link>/tag/20220106ai/</link>
     </image>
     
     <item>
       <title>Enterprise Data &amp; AI - How Shopify Applies ML for Anomaly Detection and Forecasting At Scale</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220106enterprise-data-ai-how-shopify-applies-ml-for-anomaly-detection-and-forecasting-at-scale/</link>
+      <link>/webinar/20220106enterprise-data-ai-how-shopify-applies-ml-for-anomaly-detection-and-forecasting-at-scale/</link>
       <pubDate>Thu, 06 Jan 2022 08:30:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20220106enterprise-data-ai-how-shopify-applies-ml-for-anomaly-detection-and-forecasting-at-scale/</guid>
+      <guid>/webinar/20220106enterprise-data-ai-how-shopify-applies-ml-for-anomaly-detection-and-forecasting-at-scale/</guid>
       <description>&lt;p&gt;At Shopify, we have over 1.7 million merchants across over 175 countries, with hundreds of millions of consumers shopping at their stores. We’re focused on leveraging the scale of our data to not only empower Shopify, but to create new experiences for our merchants that are impossible without data. In our daily operations at Shopify, we are highly data informed. Some of the ways we’re leveraging advanced analytics is by building an anomaly detection engine that allows us to process over hundreds of thousands of metric/segment combinations in a very accessible way. In her talk, Dr. Hilal will share key tips on how you can apply machine learning for anomaly detection and forecasting at scale.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data for AI - Patient Safety, Laboratory Interoperability, and SHIELD </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701data-for-ai-patient-safety-laboratory-interoperability-and-shield/</link>
+      <link>/webinar/20210701data-for-ai-patient-safety-laboratory-interoperability-and-shield/</link>
       <pubDate>Thu, 01 Jul 2021 08:30:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210701data-for-ai-patient-safety-laboratory-interoperability-and-shield/</guid>
+      <guid>/webinar/20210701data-for-ai-patient-safety-laboratory-interoperability-and-shield/</guid>
       <description>&lt;p&gt;Laboratory data is critical to patient safety and essential for a wide variety of uses from public health surveillance to research.  Despite the fact that laboratory data has been digitalized for decades, aggregation is difficult because of problems with semantic interoperability. SHIELD (Systemic Harmonization and Interoperability Enhancement for Lab Data) is a public-private partner with over 70 partners devoted to establishing a national system for “describing the same test the same way, every time.”  Gregory will set out current barriers to laboratory interoperability and the SHIELD Strategic Planning Effort that is currently underway.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DahShu Webinar: Automated Image Labeling for Medical Imaging AI</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</link>
+      <link>/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</link>
       <pubDate>Fri, 14 May 2021 09:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</guid>
+      <guid>/webinar/20210514dahshu-webinar-automated-image-labeling-for-medical-imaging-ai/</guid>
       <description>&lt;p&gt;Computer vision application in the medical domain have recently become quite popular. Detecting, localizing, and diagnosing diseases and recognizing structures on MRI, CT, PET, XRay, ultrasound and photographic images is efficiently done by AI. What is rarely discussed, is how these AI systems are made. They require copious amounts of training data consisting of images and human-supplied labels. The labels are marked areas (either rectangles or free-form boundaries) that are attached to a word, e.g. “tumor.” Naturally, only highly qualified professionals are able to provide these labels making the process effortful and expensive. A technique called “active learning” from AI can help with this by reducing the manual effort by 90%. This allows the creation of state-of-the-art AI models for medicine using a significantly smaller budget of time and resources. This talk will present the method with several examples and will argue that this approach is a disruptive shift in medical AI.&lt;/p&gt;</description>
     </item>
     

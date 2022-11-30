@@ -2,118 +2,118 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>/conference/</link>
+      <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/</link>
+      <link>/conference/</link>
     </image>
     
     <item>
       <title>The 12th International Conference on Multiple Comparison Procedures (MCP2022) </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220830the-12th-international-conference-on-multiple-comparison-procedures-mcp2022/</link>
+      <link>/conference/20220830the-12th-international-conference-on-multiple-comparison-procedures-mcp2022/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220830the-12th-international-conference-on-multiple-comparison-procedures-mcp2022/</guid>
+      <guid>/conference/20220830the-12th-international-conference-on-multiple-comparison-procedures-mcp2022/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: 350 euros&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data Science, Statistics &amp; Visualisation (DSSV) 2022</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220627data-science-statistics-visualisation-dssv-2022/</link>
+      <link>/conference/20220627data-science-statistics-visualisation-dssv-2022/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220627data-science-statistics-visualisation-dssv-2022/</guid>
+      <guid>/conference/20220627data-science-statistics-visualisation-dssv-2022/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: May 1st, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Data Science, Statistics &amp;amp; Visualisation (2022) is a mixed (physically and virtually) conference aimed at bringing together researchers and practitioners interested in the interplay of statistics, computer science, and visualization, and to build bridges between these fields for interdisciplinary research. This conference shall create a forum to discuss recent progress and emerging ideas in these different disciplines and encourage informal contacts and discussions among all the participants. Presentations should thus be oriented towards a very wide scientific audience, and can cover topics such as machine learning and statistical learning, the visualisation and verbalization of data, big data infrastructures and analytics, interactive learning, advanced computing, and other important themes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The 16th International Society for Bayesian Analysis (ISBA)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220626the-16th-international-society-for-bayesian-analysis-isba/</link>
+      <link>/conference/20220626the-16th-international-society-for-bayesian-analysis-isba/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220626the-16th-international-society-for-bayesian-analysis-isba/</guid>
+      <guid>/conference/20220626the-16th-international-society-for-bayesian-analysis-isba/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 14, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>useR! 2022</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220620user-2022/</link>
+      <link>/conference/20220620user-2022/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220620user-2022/</guid>
+      <guid>/conference/20220620user-2022/</guid>
       <description>&lt;p&gt;useR! is an annual nonprofit conference organized by R community volunteers and supported by the R Foundation. Attendees include R developers and users who are data scientists, business intelligence specialists, analysts, statisticians from academia and industry, and students. The conferences showcase applications of R software and developments in the software itself, as well as new and updated R packages that provide boundless additional functionality to R. Community contributions form the foundation of useR! conferences.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ICSA 2022 Applied Statistics Symposium</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220619icsa-2022-applied-statistics-symposium/</link>
+      <link>/conference/20220619icsa-2022-applied-statistics-symposium/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220619icsa-2022-applied-statistics-symposium/</guid>
+      <guid>/conference/20220619icsa-2022-applied-statistics-symposium/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 15, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The 38th Quality and Productivity Research Conference (QPRC-2022): Data, Statistics and Responsibility</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220614quality-and-productivity-research-conference-qprc-2022/</link>
+      <link>/conference/20220614quality-and-productivity-research-conference-qprc-2022/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220614quality-and-productivity-research-conference-qprc-2022/</guid>
+      <guid>/conference/20220614quality-and-productivity-research-conference-qprc-2022/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 15, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PSI 2022 Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220612psi-2022-conference/</link>
+      <link>/conference/20220612psi-2022-conference/</link>
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220612psi-2022-conference/</guid>
+      <guid>/conference/20220612psi-2022-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: March 25, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2022 WNAR Meeting</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202206102022-wnar-meeting/</link>
+      <link>/conference/202206102022-wnar-meeting/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202206102022-wnar-meeting/</guid>
+      <guid>/conference/202206102022-wnar-meeting/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: WNAR member: $50; Non-member: $150&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Symposium on Data Science and Statistics</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220607symposium-on-data-science-and-statistics/</link>
+      <link>/conference/20220607symposium-on-data-science-and-statistics/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220607symposium-on-data-science-and-statistics/</guid>
+      <guid>/conference/20220607symposium-on-data-science-and-statistics/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 27, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Symposium on Risks and Opportunities of AI in Clinical Drug Development</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220606symposium-on-risks-and-opportunities-of-ai-in-clinical-drug-development/</link>
+      <link>/conference/20220606symposium-on-risks-and-opportunities-of-ai-in-clinical-drug-development/</link>
       <pubDate>Mon, 06 Jun 2022 05:30:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220606symposium-on-risks-and-opportunities-of-ai-in-clinical-drug-development/</guid>
+      <guid>/conference/20220606symposium-on-risks-and-opportunities-of-ai-in-clinical-drug-development/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 30, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PHASTAR Life Science Summit</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220531phastar-life-science-summit/</link>
+      <link>/conference/20220531phastar-life-science-summit/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220531phastar-life-science-summit/</guid>
+      <guid>/conference/20220531phastar-life-science-summit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2022 Statistical Methods In Imaging (SMI) Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220525the-2022-statistical-methods-in-imaging-smi-conference/</link>
+      <link>/conference/20220525the-2022-statistical-methods-in-imaging-smi-conference/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220525the-2022-statistical-methods-in-imaging-smi-conference/</guid>
+      <guid>/conference/20220525the-2022-statistical-methods-in-imaging-smi-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;In person: $310; Virtual: $80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Duke-Margolis/FDA Virtual Workshop: Translational Science in Drug Development – Surrogate Endpoints, Biomarkers, and More</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220524duke-margolis-fda-virtual-workshop-translational-science-in-drug-development-surrogate-endpoints-biomarkers-and-more/</link>
+      <link>/conference/20220524duke-margolis-fda-virtual-workshop-translational-science-in-drug-development-surrogate-endpoints-biomarkers-and-more/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220524duke-margolis-fda-virtual-workshop-translational-science-in-drug-development-surrogate-endpoints-biomarkers-and-more/</guid>
+      <guid>/conference/20220524duke-margolis-fda-virtual-workshop-translational-science-in-drug-development-surrogate-endpoints-biomarkers-and-more/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Present efforts from FDA, NIH, academia, patient groups, and industry to support surrogate endpoint and other biomarker identification and development for use in therapeutic development and regulatory submissions&lt;/li&gt;
 &lt;li&gt;Provide successful examples of using translational science in the development of therapeutics&lt;/li&gt;
@@ -124,25 +124,25 @@
     
     <item>
       <title>New Advances in Statistics and Data Science Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220524new-advances-in-statistics-and-data-science-conference/</link>
+      <link>/conference/20220524new-advances-in-statistics-and-data-science-conference/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220524new-advances-in-statistics-and-data-science-conference/</guid>
+      <guid>/conference/20220524new-advances-in-statistics-and-data-science-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: $255&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>35th New England Statistics Symposium: Statistics, the Heart of Data Science</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2022052235th-new-england-statistics-symposium-statistics-the-heart-of-data-science/</link>
+      <link>/conference/2022052235th-new-england-statistics-symposium-statistics-the-heart-of-data-science/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2022052235th-new-england-statistics-symposium-statistics-the-heart-of-data-science/</guid>
+      <guid>/conference/2022052235th-new-england-statistics-symposium-statistics-the-heart-of-data-science/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Member $180; Non-member: $200; Online Registration for In-person Participation Deadline: May 9, 2022; Online Registration for Virtual Participation Deadline: May 16, 2022; Short courses will be offered on May 22 and May 23&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Banff International Research Station (BIRS) 5-day Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220522banff-international-research-station-birs-5-day-workshop/</link>
+      <link>/conference/20220522banff-international-research-station-birs-5-day-workshop/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220522banff-international-research-station-birs-5-day-workshop/</guid>
+      <guid>/conference/20220522banff-international-research-station-birs-5-day-workshop/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Emerging Challenges for Statistics and Data Sciences: Complex Data with Missingness, Measurement Errors, and High Dimensionality&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Statistics and newly emerging data science are central pillars to quantitative research in social and biomedical sciences. The era of big data has revolutionized statistics with massive, heterogeneous and complex-featured data sources. It is critical and timely to bring statisticians, computer scientists, and practitioners together to share current research advances in handling novel data analytical challenges including missingness, measurement errors, and high dimensionality. This workshop will help bring researchers together to take a significant step forward in using big data to answer important scientific questions.&lt;/p&gt;
 &lt;p&gt;The Banff International Research Station for Mathematical Innovation and Discovery (BIRS) is a collaborative Canada-US-Mexico venture that provides an environment for creative interaction as well as the exchange of ideas, knowledge, and methods within the Mathematical Sciences, with related disciplines and with industry. BIRS is supported by Canada&amp;rsquo;s Natural Science and Engineering Research Council (NSERC), the U.S. National Science Foundation (NSF), Alberta&amp;rsquo;s Advanced Education and Technology, and Mexico&amp;rsquo;s Consejo Nacional de Ciencia y Tecnología (CONACYT).&lt;/p&gt;</description>
@@ -150,17 +150,17 @@
     
     <item>
       <title>PharmaSUG 2022</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220522pharmasug-2022/</link>
+      <link>/conference/20220522pharmasug-2022/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220522pharmasug-2022/</guid>
+      <guid>/conference/20220522pharmasug-2022/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: $1299&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2022 SORA-TABA Annual Workshop: Regression Diagnostics</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202205192022-sora-taba-annual-workshop-regression-diagnostics/</link>
+      <link>/conference/202205192022-sora-taba-annual-workshop-regression-diagnostics/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202205192022-sora-taba-annual-workshop-regression-diagnostics/</guid>
+      <guid>/conference/202205192022-sora-taba-annual-workshop-regression-diagnostics/</guid>
       <description>&lt;p&gt;&amp;ldquo;Regression diagnostics&amp;rdquo; are methods for determining whether a regression model fit to data adequately represents the data. This workshop will present diagnostics for linear models fit by least squares, for generalized-linear models fit by maximum likelihood, for linear and generalized-linear mixed-effects models, and for linear regression models estimated by instrumental variables.&lt;/p&gt;
 &lt;p&gt;The topics below don&amp;rsquo;t precisely correspond to the eight hours of the workshop; in particular, the earlier topics will likely take more time than the later ones.&lt;/p&gt;
 &lt;ol&gt;
@@ -197,58 +197,58 @@
     
     <item>
       <title>USC Computational Biology Symposium 2022</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220519usc-computational-biology-symposium-2022/</link>
+      <link>/conference/20220519usc-computational-biology-symposium-2022/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220519usc-computational-biology-symposium-2022/</guid>
+      <guid>/conference/20220519usc-computational-biology-symposium-2022/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Mar 31, 2022 ($400); Regular registration: $500&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Celebrating 40 years of quantitative and computational biology at USC and Professor Michael S. Waterman&amp;rsquo;s 80th Birthday&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ISPOR 2022: The Future of HEOR in Patient-Driven Digital Healthcare Systems</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220515ispor-2022-the-future-of-heor-in-patient-driven-digital-healthcare-systems/</link>
+      <link>/conference/20220515ispor-2022-the-future-of-heor-in-patient-driven-digital-healthcare-systems/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220515ispor-2022-the-future-of-heor-in-patient-driven-digital-healthcare-systems/</guid>
+      <guid>/conference/20220515ispor-2022-the-future-of-heor-in-patient-driven-digital-healthcare-systems/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 7, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The 43rd Society for Clinical Trials Annual Meeting: Informing Public Health Policy with Compelling Evidence</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220515the-43rd-society-for-clinical-trials-annual-meeting/</link>
+      <link>/conference/20220515the-43rd-society-for-clinical-trials-annual-meeting/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220515the-43rd-society-for-clinical-trials-annual-meeting/</guid>
+      <guid>/conference/20220515the-43rd-society-for-clinical-trials-annual-meeting/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: April 4th, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Stat4Onc Annual Symposium</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220504the-stat4onc-annual-symposium/</link>
+      <link>/conference/20220504the-stat4onc-annual-symposium/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220504the-stat4onc-annual-symposium/</guid>
+      <guid>/conference/20220504the-stat4onc-annual-symposium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 20th Annual ASA Connecticut Chapter Mini-Conference </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220429the-20th-annual-asa-connecticut-chapter-mini-conference/</link>
+      <link>/conference/20220429the-20th-annual-asa-connecticut-chapter-mini-conference/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220429the-20th-annual-asa-connecticut-chapter-mini-conference/</guid>
+      <guid>/conference/20220429the-20th-annual-asa-connecticut-chapter-mini-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration Fee: $20&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Stanford Drug Discovery Symposium 2022</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220425stanford-drug-discovery-symposium-2022/</link>
+      <link>/conference/20220425stanford-drug-discovery-symposium-2022/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220425stanford-drug-discovery-symposium-2022/</guid>
+      <guid>/conference/20220425stanford-drug-discovery-symposium-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>14th Annual University of Pennsylvania Conference on Statistical Issues in Clinical Trials / Subgroup Analysis in Clinical Trials: Opportunities and Challenges</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2022041214th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials-subgroup-analysis-in-clinical-trials-opportunities-and-challenges/</link>
+      <link>/conference/2022041214th-annual-university-of-pennsylvania-conference-on-statistical-issues/</link>
       <pubDate>Tue, 12 Apr 2022 05:30:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2022041214th-annual-university-of-pennsylvania-conference-on-statistical-issues-in-clinical-trials-subgroup-analysis-in-clinical-trials-opportunities-and-challenges/</guid>
+      <guid>/conference/2022041214th-annual-university-of-pennsylvania-conference-on-statistical-issues/</guid>
       <description>&lt;p&gt;MORNING SESSION&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -297,25 +297,25 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>2022 AACR (American Association for Cancer Research) meeting</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202204082022-aacr-american-association-for-cancer-research-meeting/</link>
+      <link>/conference/202204082022-aacr-american-association-for-cancer-research-meeting/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202204082022-aacr-american-association-for-cancer-research-meeting/</guid>
+      <guid>/conference/202204082022-aacr-american-association-for-cancer-research-meeting/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Deadline for hotel reservation: Feb 25, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DIA/FDA Biostatistics Industry and Regulator Forum</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220406dia-fda-biostatistics-industry-and-regulator-forum/</link>
+      <link>/conference/20220406dia-fda-biostatistics-industry-and-regulator-forum/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220406dia-fda-biostatistics-industry-and-regulator-forum/</guid>
+      <guid>/conference/20220406dia-fda-biostatistics-industry-and-regulator-forum/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Feb 9, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2022 Marvin Zelen Symposium: Data Visualization</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202204012022-marvin-zelen-symposium-data-visualization/</link>
+      <link>/conference/202204012022-marvin-zelen-symposium-data-visualization/</link>
       <pubDate>Fri, 01 Apr 2022 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202204012022-marvin-zelen-symposium-data-visualization/</guid>
+      <guid>/conference/202204012022-marvin-zelen-symposium-data-visualization/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Speakers:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -344,41 +344,41 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>ENAR 2022</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220327enar-2022/</link>
+      <link>/conference/20220327enar-2022/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220327enar-2022/</guid>
+      <guid>/conference/20220327enar-2022/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Feb 15, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Scientific Machine Learning Open Source Software Community Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220323scientific-machine-learning-open-source-software-community-conference/</link>
+      <link>/conference/20220323scientific-machine-learning-open-source-software-community-conference/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220323scientific-machine-learning-open-source-software-community-conference/</guid>
+      <guid>/conference/20220323scientific-machine-learning-open-source-software-community-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2022 Vancouver Women in Data Science Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202203182022-vancouver-women-in-data-science-conference/</link>
+      <link>/conference/202203182022-vancouver-women-in-data-science-conference/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202203182022-vancouver-women-in-data-science-conference/</guid>
+      <guid>/conference/202203182022-vancouver-women-in-data-science-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$15 + fees&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MHRA Good Pharmacovigilance Practice Symposium</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220310mhra-good-pharmacovigilance-practice-symposium/</link>
+      <link>/conference/20220310mhra-good-pharmacovigilance-practice-symposium/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220310mhra-good-pharmacovigilance-practice-symposium/</guid>
+      <guid>/conference/20220310mhra-good-pharmacovigilance-practice-symposium/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;March 10-11, 2022, 4:00-8:45am PST, (£350-£695 + VAT)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>FDA, MHRA, and Health Canada Good Clinical Practice Workshop: Global Clinical Trials – Considerations and Lessons Learned from the Changing Landscape</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220307fda-mhra-and-health-canada-good-clinical-practice-workshop/</link>
+      <link>/conference/20220307fda-mhra-and-health-canada-good-clinical-practice-workshop/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220307fda-mhra-and-health-canada-good-clinical-practice-workshop/</guid>
+      <guid>/conference/20220307fda-mhra-and-health-canada-good-clinical-practice-workshop/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;March 7-9, 2022, 4:30-9:00am PST, (£150-£695 + VAT)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -398,25 +398,25 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>2022 ASA Conference on Statistical Practice</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202202012022-asa-conference-on-statistical-practice/</link>
+      <link>/conference/202202012022-asa-conference-on-statistical-practice/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202202012022-asa-conference-on-statistical-practice/</guid>
+      <guid>/conference/202202012022-asa-conference-on-statistical-practice/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 4, 2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Precision Medicine World Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20220126precision-medicine-world-conference/</link>
+      <link>/conference/20220126precision-medicine-world-conference/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20220126precision-medicine-world-conference/</guid>
+      <guid>/conference/20220126precision-medicine-world-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Sep 30, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Diagnostics and Personalized Medicine Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211208diagnostics-and-personalized-medicine-conference/</link>
+      <link>/conference/20211208diagnostics-and-personalized-medicine-conference/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211208diagnostics-and-personalized-medicine-conference/</guid>
+      <guid>/conference/20211208diagnostics-and-personalized-medicine-conference/</guid>
       <description>&lt;p&gt;Diagnostics are important for the detection and prevention of disease, determination of treatment effectiveness, and improvement in overall health outcomes. As diagnostics can be used to develop an individualized treatment plan or predict a toxicity associated with a particular therapeutic, they are intimately associated with the field of personalized medicine. The ability to enhance patient care using personalized medicines has prompted pharmaceutical companies to increase their interest in the targeted therapy space. In fact, over the past 6 years, personalized medicines have represented more than 20 percent of FDA’s newly approved therapeutic molecular entities. Additionally, the diagnostic landscape is changing, with the advent of novel technologies and sequencing methods, and an increased focus on the role of software and novel algorithms.&lt;/p&gt;
 &lt;p&gt;As development accelerates, we can expect a growing need for clarity regarding regulatory submissions. For example, the co-development of a companion diagnostic to identify patients that will benefit from a new innovative treatment may present a regulatory challenge for companies wanting to bring them to market simultaneously via an accelerated approval pathway. Also, the need for rapid development of reliable diagnostics may cause companies to continually turn to regulators about the data necessary for approval.&lt;/p&gt;
 &lt;p&gt;At the NEW 2021 DIA Diagnostics and Personalized Medicine Conference, we will have an open dialogue about the challenges and trends in the development of diagnostics and personalized medicines today. Attendees will receive industry and regulatory perspectives on pathways for approval in the US and globally, the impact of potential legislative and regulatory changes, overcoming challenges in development, lessons learned from the COVID-19 diagnostic experience, and utilizing the patient voice.&lt;/p&gt;</description>
@@ -424,50 +424,50 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Annual NeurIPS conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206annual-neurips-conference/</link>
+      <link>/conference/20211206annual-neurips-conference/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206annual-neurips-conference/</guid>
+      <guid>/conference/20211206annual-neurips-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 77th Annual Deming Conference on Applied Statistics</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206the-77th-annual-deming-conference-on-applied-statistics/</link>
+      <link>/conference/20211206the-77th-annual-deming-conference-on-applied-statistics/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211206the-77th-annual-deming-conference-on-applied-statistics/</guid>
+      <guid>/conference/20211206the-77th-annual-deming-conference-on-applied-statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual ISPOR Europe 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211130virtual-ispor-europe-2021/</link>
+      <link>/conference/20211130virtual-ispor-europe-2021/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211130virtual-ispor-europe-2021/</guid>
+      <guid>/conference/20211130virtual-ispor-europe-2021/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ISPOR members: $470; Non-members: $625&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The conference theme for Virtual ISPOR Europe 2021 is “Emerging Frontiers and Opportunities: Special Populations and Technologies.” In recent years, rare diseases, digital therapeutics, personalized medicine, cell and gene therapies, and other new therapeutic approaches have stretched our data and methodological capabilities. Furthermore, issues associated with these special populations and technologies have important implications for a range of healthcare decisions, from regulatory pathways to coverage, reimbursement, and shared clinical decision making. Virtual ISPOR Europe 2021 will feature HEOR scientists and stakeholders who work on these key challenges and highlight innovative solutions, advances in HEOR, as well as examples of how partnerships and dialogue with other disciplines are contributing to address these issues.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Use of R in Official Statistics (uRos2021)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211124use-of-r-in-official-statistics-uros2021/</link>
+      <link>/conference/20211124use-of-r-in-official-statistics-uros2021/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211124use-of-r-in-official-statistics-uros2021/</guid>
+      <guid>/conference/20211124use-of-r-in-official-statistics-uros2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eastern Asia Chapter of the International Society for Bayesian Analysis (EAC-ISBA) 2021 Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211114eac-isba-2021-conference/</link>
+      <link>/conference/20211114eac-isba-2021-conference/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211114eac-isba-2021-conference/</guid>
+      <guid>/conference/20211114eac-isba-2021-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Duke/FDA 13th Annual Sentinel Initiative Public Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211108duke-fda-13th-annual-sentinel-initiative-public-workshop/</link>
+      <link>/conference/20211108duke-fda-13th-annual-sentinel-initiative-public-workshop/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211108duke-fda-13th-annual-sentinel-initiative-public-workshop/</guid>
+      <guid>/conference/20211108duke-fda-13th-annual-sentinel-initiative-public-workshop/</guid>
       <description>&lt;p&gt;The Sentinel Initiative was launched in response to the Food and Drug Administration Amendments Act of 2007 (FDAAA) and is comprised of several components including the Sentinel System, the Active Risk Identification and Analysis System, the Biologics Effectiveness and Safety Initiative, and FDA Catalyst. The Food and Drug Administration (FDA) is committed to facilitating stakeholder engagement on approaches to modernize the Sentinel Initiative’s capabilities.&lt;/p&gt;
 &lt;p&gt;The annual public workshop is a gathering of the Sentinel community and leading experts to share recent developments within the Sentinel Initiative, provide training on the Sentinel System’s tools and data infrastructure, and promote engagement and collaboration with patients, industry, academia, and consumers. The 13th Annual Sentinel Initiative Public Workshop will convene on November 8-9, 2021, and is hosted by the Duke-Margolis Center for Health Policy under a cooperative agreement with the FDA. The workshop will be held as a virtual webinar and will provide an opportunity for attendees to discuss recent achievements and developments as well as engage with the broader community of patients, consumers, and scientific stakeholders.&lt;/p&gt;
 &lt;p&gt;This year’s meeting will feature a keynote by FDA’s Dr. Patrizia Cavazzoni, as well as presentations from numerous expert panelists who will provide updates on key Sentinel Initiative developments, milestones, and strategic aims. The discussion will also consider recent activities and applications of the Sentinel Initiative as part of the U.S. FDA’s efforts to protect and promote public health during the COVID-19 pandemic.&lt;/p&gt;</description>
@@ -475,33 +475,33 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Twelfth American Conference on Pharmacometrics (ACoP12)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211108twelfth-american-conference-on-pharmacometrics-acop12/</link>
+      <link>/conference/20211108twelfth-american-conference-on-pharmacometrics-acop12/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211108twelfth-american-conference-on-pharmacometrics-acop12/</guid>
+      <guid>/conference/20211108twelfth-american-conference-on-pharmacometrics-acop12/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: August 31, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2021 NextGen Data Science Day (DSD) Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202111062021-nextgen-data-science-day-dsd-conference/</link>
+      <link>/conference/202111062021-nextgen-data-science-day-dsd-conference/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202111062021-nextgen-data-science-day-dsd-conference/</guid>
+      <guid>/conference/202111062021-nextgen-data-science-day-dsd-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3rd Annual Health Data Science Symposium at Harvard</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202111053rd-annual-health-data-science-symposium-at-harvard/</link>
+      <link>/conference/202111053rd-annual-health-data-science-symposium-at-harvard/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202111053rd-annual-health-data-science-symposium-at-harvard/</guid>
+      <guid>/conference/202111053rd-annual-health-data-science-symposium-at-harvard/</guid>
       <description>&lt;p&gt;Smartphones, Wearables, and Health&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Master Protocols and Complex Innovative Design</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211104master-protocols-and-complex-innovative-design/</link>
+      <link>/conference/20211104master-protocols-and-complex-innovative-design/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211104master-protocols-and-complex-innovative-design/</guid>
+      <guid>/conference/20211104master-protocols-and-complex-innovative-design/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Sep 9, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The evolution of clinical trial designs has accelerated since the onset of the pandemic to meet patient and logistical need. While elements of randomized control trials remain a gold standard, clinical trials continue to transform, building on innovations in study design and statistical approaches, as well as regulatory flexibilities, with the promise of bringing new medicines to patients more quickly than ever.&lt;/p&gt;
 &lt;p&gt;Supported by advancement in clinical trail operations, development of digital technologies along with strong partnerships and collaborations amongst key stakeholders, clinical trials are poised to reach more people and add efficiency to clinical drug development. Master protocol and complex innovative designs continue to provide frameworks that hold enormous promise for engaging patients more productively, increasing overall efficiency and improving successful outcomes.&lt;/p&gt;
@@ -510,25 +510,25 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Bay area Biotech-pharma Statistics Workshop (BBSW) 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</link>
+      <link>/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</guid>
+      <guid>/conference/20211103bay-area-biotech-pharma-statistics-workshop-bbsw-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R/Pharma 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211102r-pharma-2021/</link>
+      <link>/conference/20211102r-pharma-2021/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211102r-pharma-2021/</guid>
+      <guid>/conference/20211102r-pharma-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Annual PQG (Program in Quantitative Genomics) Conference: From COVID-19 Genomics to Spread, Vaccine, and Therapy</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028annual-pqg-program-in-quantitative-genomics-conference-from-covid-19-genomics-to-spread-vaccine-and-therapy/</link>
+      <link>/conference/20211028annual-pqg-program-in-quantitative-genomics-conference-from-covid-19-genomics-to-spread-vaccine-and-therapy/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028annual-pqg-program-in-quantitative-genomics-conference-from-covid-19-genomics-to-spread-vaccine-and-therapy/</guid>
+      <guid>/conference/20211028annual-pqg-program-in-quantitative-genomics-conference-from-covid-19-genomics-to-spread-vaccine-and-therapy/</guid>
       <description>&lt;p&gt;Coronavirus disease 2019 (COVID-19), caused by the Severe Acute Respiratory Syndrome Coron-aVirus 2 (SARS-CoV-2), has spread to over 200 countries across all habitable continents, resulting in hundreds of millions of cases and millions of deaths.  Although significant progress has been made on understanding the genetic and genomic underpinning of the disease and developing therapeutics and vaccines, numerous challenges need to be addressed. Examples includes the emergence of virus variants, how they spread, how the immune system responds, the impact of new variants on vaccines, the roles of host genetics and physiology on determining the disease infection and clinical course of the disease progression, and the long-term effects of the disease. The 2021 PQG conference will focus on the quantitative methods and experimental strategies to address these critical challenges in COVID-19 genomics.&lt;/p&gt;
 &lt;p&gt;Specifically, the conference will be centered on the following three topics:&lt;/p&gt;
 &lt;ul&gt;
@@ -540,18 +540,18 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>PyData Global 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028pydata-global-2021/</link>
+      <link>/conference/20211028pydata-global-2021/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211028pydata-global-2021/</guid>
+      <guid>/conference/20211028pydata-global-2021/</guid>
       <description>&lt;p&gt;The PyData Global Online Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a virtual forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.&lt;/p&gt;
 &lt;p&gt;This three-day online event consists of talks, tutorials, and discussions to bring attendees the latest project features along with cutting edge use cases.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Digital Technology in Clinical Trials</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211027digital-technology-in-clinical-trials/</link>
+      <link>/conference/20211027digital-technology-in-clinical-trials/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211027digital-technology-in-clinical-trials/</guid>
+      <guid>/conference/20211027digital-technology-in-clinical-trials/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Sep 30, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Digital technology is transforming the drug development process. The rise of wearable and mobile technologies along with cloud technology, Artificial Intelligence and related platforms, now enable the collection of frequent, specific, and multidimensional data throughout the length of trials. These technologies have the potential to enable innovative trial designs, improve the patient experience, act as recruitment and retention tools, and establish novel end points in clinical studies.&lt;/p&gt;
 &lt;p&gt;With these technologies, large amounts of data are collected. How to best address evaluating fit-for-purpose, standardization, ethical concerns, and regulatory approaches, are key issues to address in the digital era.&lt;/p&gt;
@@ -560,35 +560,35 @@ hide and seek&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>28th Annual Biopharmaceutical Applied Statistics Symposium</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021102528th-annual-biopharmaceutical-applied-statistics-symposium/</link>
+      <link>/conference/2021102528th-annual-biopharmaceutical-applied-statistics-symposium/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021102528th-annual-biopharmaceutical-applied-statistics-symposium/</guid>
+      <guid>/conference/2021102528th-annual-biopharmaceutical-applied-statistics-symposium/</guid>
       <description>&lt;p&gt;BASS has been serving the statistical, biopharmaceutical, and medical research communities for the past 25 years.  It provides a forum for distinguished researchers and scholars in academia, government agencies, and industries to conduct knowledge sharing, idea exchange, and productive discussions of the most up-to-date innovative research and applications to medical and health-care to enhance the health of the general public. BASS also provides financial support to graduate students studying biostatistics.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DIA Real-World Evidence Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211025dia-real-world-evidence-conference/</link>
+      <link>/conference/20211025dia-real-world-evidence-conference/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211025dia-real-world-evidence-conference/</guid>
+      <guid>/conference/20211025dia-real-world-evidence-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Sep 30, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;In a market that is constantly adapting and adjusting to the needs of the healthcare field, real-world evidence (RWE) is increasingly becoming important for regulatory and reimbursement decision-making. RWE, in relation to the real-world data that is collected in combination with the advancement of artificial intelligence-based analytics platforms, has led to the real-time analysis of data to better understand and gain insights on disease, approaches to treatment, and how to substantiate coverage decisions. Historically used for post-market safety monitoring, RWE is now becoming integrated throughout the product development lifecycle. DIA’s Real-World Evidence Conference will explore new and innovative applications of RWE and deliver cutting-edge insights through successful use cases, case examples, and practical applications on how stakeholders are leveraging RWE to advance healthcare knowledge and decision-making.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Ken Kennedy AI &amp; Data Science Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211025the-ken-kennedy-ai-data-science-conference/</link>
+      <link>/conference/20211025the-ken-kennedy-ai-data-science-conference/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211025the-ken-kennedy-ai-data-science-conference/</guid>
+      <guid>/conference/20211025the-ken-kennedy-ai-data-science-conference/</guid>
       <description>&lt;p&gt;Data science is rapidly evolving as an essential interdisciplinary field, where advances often result from combinations of ideas from several disciplines. This annual conference is for professionals and practitioners working in machine learning, deep learning, data mining, artificial intelligence, or big data problems broadly. Recognizing that discovery and innovation happens at interfaces of disciplines and communities, the conference aims to bring together a diverse set of people from multiple communities spanning academia and industry.&lt;/p&gt;
 &lt;p&gt;The conference will strike a balance between applied and fundamental data science, and academia and industry. This combination of research and application discussion will create a venue for networking, collaboration, and partnership building.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NIC-ASA and ICSA Midwest Chapter Joint Fall Meeting</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</link>
+      <link>/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</link>
       <pubDate>Fri, 22 Oct 2021 06:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</guid>
+      <guid>/conference/20211022nic-asa-and-icsa-midwest-chapter-joint-fall-meeting/</guid>
       <description>&lt;p&gt;Agenda and Program is as follows:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;8:00 to 8:10&lt;/strong&gt;   Opening Remarks, Li Wang from AbbVie and James Myles from Astellas&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;8:10 to 9:10&lt;/strong&gt;   Keynote Speaker: Dr. Yaning Wang, former Director of Division of Pharmacometrics, Center for Drug Evaluation and Research, FDA, Current CEO of Lang Lai Pharma (45 mins, 15 mins Q&amp;amp;A)
@@ -621,33 +621,33 @@ BOIN12: Bayesian Optimal Interval Phase I/II Trial Design for Utility-Based Dose
     
     <item>
       <title>MLconf2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211015mlconf2021/</link>
+      <link>/conference/20211015mlconf2021/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211015mlconf2021/</guid>
+      <guid>/conference/20211015mlconf2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging Data Science Methods for Complex Biomedical and Cyber Data Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211014emerging-data-science-methods-for-complex-biomedical-and-cyber-data-workshop/</link>
+      <link>/conference/20211014emerging-data-science-methods-for-complex-biomedical-and-cyber-data-workshop/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211014emerging-data-science-methods-for-complex-biomedical-and-cyber-data-workshop/</guid>
+      <guid>/conference/20211014emerging-data-science-methods-for-complex-biomedical-and-cyber-data-workshop/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>International Conference on Advances in Interdisciplinary Statistics and Combinatorics 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211008aisc-2021/</link>
+      <link>/conference/20211008aisc-2021/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211008aisc-2021/</guid>
+      <guid>/conference/20211008aisc-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021 Women in Statistics and Data Science Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202110062021-women-in-statistics-and-data-science-conference/</link>
+      <link>/conference/202110062021-women-in-statistics-and-data-science-conference/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202110062021-women-in-statistics-and-data-science-conference/</guid>
+      <guid>/conference/202110062021-women-in-statistics-and-data-science-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: August 19, 2021; ASA member $335, Nonmember $435&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The 2021 Women in Statistics and Data Science Conference aims to bring together hundreds of statistical practitioners and data scientists. WSDS 2021 will highlight the achievements and career interests of women in statistics and data science. Senior, mid-level, and junior stars representing industrial, academic, and government communities will unite to present their life’s work and share their perspectives on the role of women in today’s statistics and data science fields. Through formal sessions and informal networking opportunities, the conference will empower and challenge women statisticians and biostatisticians to do the following:&lt;/p&gt;
 &lt;ul&gt;
@@ -665,18 +665,18 @@ BOIN12: Bayesian Optimal Interval Phase I/II Trial Design for Utility-Based Dose
     
     <item>
       <title>Design &amp; Analysis of Experiments (DAE) 2021 Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20211005design-analysis-of-experiments-dae-2021-conference/</link>
+      <link>/conference/20211005design-analysis-of-experiments-dae-2021-conference/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20211005design-analysis-of-experiments-dae-2021-conference/</guid>
+      <guid>/conference/20211005design-analysis-of-experiments-dae-2021-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Every Tuesdays, Wednesdays, and Thursdays of October 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;DAE 2021 is the 11th event in the DAE conference series. It will focus on emerging areas of research in experimental design, as well as novel innovations in traditional areas. A salient feature of the DAE series is pairing of senior and junior researchers for mentoring purposes and DAE 2021 will follow this tradition in a virtual mode.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>University of Cambridge MRC Biostatistics Unit Workshop: Current and Future Trends in Multiple Hypothesis Testing</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210921university-of-cambridge-mrc-biostatistics-unit-workshop-current-and-future-trends-in-multiple-hypothesis-testing/</link>
+      <link>/conference/20210921university-of-cambridge-mrc-biostatistics-unit-workshop-current-and-future-trends-in-multiple-hypothesis-testing/</link>
       <pubDate>Tue, 21 Sep 2021 05:30:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210921university-of-cambridge-mrc-biostatistics-unit-workshop-current-and-future-trends-in-multiple-hypothesis-testing/</guid>
+      <guid>/conference/20210921university-of-cambridge-mrc-biostatistics-unit-workshop-current-and-future-trends-in-multiple-hypothesis-testing/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Session 1: Career-young statistician presentations&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.30pm – 2.30pm&lt;/p&gt;
 &lt;p&gt;Talks from:&lt;/p&gt;
@@ -695,9 +695,9 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
     
     <item>
       <title>2021 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</link>
+      <link>/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</guid>
+      <guid>/conference/202109212021-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: August 16, 2021; ASA BIOP Member $225, Nonmember $300&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association.&lt;/p&gt;
 &lt;p&gt;Each year, the conference lasts three days, with invited sessions co-chaired by statisticians from industry, academia, and the FDA and short courses on related topics offered the first day of the workshop.&lt;/p&gt;</description>
@@ -705,17 +705,17 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
     
     <item>
       <title>17th Applied Statistics 2021 International Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021092017th-applied-statistics-2021-international-conference/</link>
+      <link>/conference/2021092017th-applied-statistics-2021-international-conference/</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021092017th-applied-statistics-2021-international-conference/</guid>
+      <guid>/conference/2021092017th-applied-statistics-2021-international-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Duke-FDA Public Workshop: Pharmacodynamic Biomarkers for Biosimilar Development and Approval</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210920duke-fda-public-workshop-pharmacodynamic-biomarkers-for-biosimilar-development-and-approval/</link>
+      <link>/conference/20210920duke-fda-public-workshop-pharmacodynamic-biomarkers-for-biosimilar-development-and-approval/</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210920duke-fda-public-workshop-pharmacodynamic-biomarkers-for-biosimilar-development-and-approval/</guid>
+      <guid>/conference/20210920duke-fda-public-workshop-pharmacodynamic-biomarkers-for-biosimilar-development-and-approval/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Workshop Objectives&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Discuss the current and potential future state of leveraging PD biomarkers for biosimilar development and approval&lt;/li&gt;
@@ -727,17 +727,17 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
     
     <item>
       <title>PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210917psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation/</link>
+      <link>/conference/20210917psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation/</link>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210917psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation/</guid>
+      <guid>/conference/20210917psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;September 17th and 24th, 2021. Registration Fee: £115 + VAT&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Global Clinical Trial Disclosure and Data Transparency Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</link>
+      <link>/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</guid>
+      <guid>/conference/20210913global-clinical-trial-disclosure-and-data-transparency-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 22, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Learn about the latest requirements in clinical trial disclosure and data transparency, share best practices, and engage in in-depth discussions on hot topics.&lt;/p&gt;
 &lt;ul&gt;
@@ -749,107 +749,107 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
     
     <item>
       <title>ICSA 2021 Applied Statistics Symposium</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210912icsa-2021-applied-statistics-symposium/</link>
+      <link>/conference/20210912icsa-2021-applied-statistics-symposium/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210912icsa-2021-applied-statistics-symposium/</guid>
+      <guid>/conference/20210912icsa-2021-applied-statistics-symposium/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 15, 2021; Member $100, Nonmember $130&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;This will be the 30th annual symposium for the International Chinese Statistical Association (ICSA). The theme of this year’s conference is Leading with Statistics and Innovation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Statistics in Pharmaceuticals 2021 (SIP 2021)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210827statistics-in-pharmaceuticals-2021-sip-2021/</link>
+      <link>/conference/20210827statistics-in-pharmaceuticals-2021-sip-2021/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210827statistics-in-pharmaceuticals-2021-sip-2021/</guid>
+      <guid>/conference/20210827statistics-in-pharmaceuticals-2021-sip-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021 Joint Statistical Meetings (JSM)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</link>
+      <link>/conference/20210807jsm/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210807jsm/</guid>
+      <guid>/conference/20210807jsm/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration open: May 17; Early registration Deadline: June 15&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2021 SIAM (Society for Industrial and Applied Mathematics) Annual Meeting (AN21)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202107192021-siam-society-for-industrial-and-applied-mathematics-annual-meeting-an21/</link>
+      <link>/conference/202107192021-siam-society-for-industrial-and-applied-mathematics-annual-meeting-an21/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202107192021-siam-society-for-industrial-and-applied-mathematics-annual-meeting-an21/</guid>
+      <guid>/conference/202107192021-siam-society-for-industrial-and-applied-mathematics-annual-meeting-an21/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: July 5, 2021; Member $175, Nonmember $315&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>useR! 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210705user-2021/</link>
+      <link>/conference/20210705user-2021/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210705user-2021/</guid>
+      <guid>/conference/20210705user-2021/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration Deadline: June 25, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DIA 2021 Global Annual Meeting</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210627dia-2021-global-annual-meeting/</link>
+      <link>/conference/20210627dia-2021-global-annual-meeting/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210627dia-2021-global-annual-meeting/</guid>
+      <guid>/conference/20210627dia-2021-global-annual-meeting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021 Nonclinical Biostatistics Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106212021-nonclinical-biostatistics-conference/</link>
+      <link>/conference/202106212021-nonclinical-biostatistics-conference/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106212021-nonclinical-biostatistics-conference/</guid>
+      <guid>/conference/202106212021-nonclinical-biostatistics-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PSI 2021 Online Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210621psi-2021-online-conference/</link>
+      <link>/conference/20210621psi-2021-online-conference/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210621psi-2021-online-conference/</guid>
+      <guid>/conference/20210621psi-2021-online-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021 WNAR Virtual Meeting</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106132021-wnar-virtual-meeting/</link>
+      <link>/conference/202106132021-wnar-virtual-meeting/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106132021-wnar-virtual-meeting/</guid>
+      <guid>/conference/202106132021-wnar-virtual-meeting/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;WNAR members: $50; IBS members: $50; Non-members: $150&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PHASTAR Life Science Summit (PLSS21)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210608phastar-life-science-summit-plss21/</link>
+      <link>/conference/20210608phastar-life-science-summit-plss21/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210608phastar-life-science-summit-plss21/</guid>
+      <guid>/conference/20210608phastar-life-science-summit-plss21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021 Symposium on Data Science &amp; Statistics (SDSS)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</link>
+      <link>/conference/202106022021-symposium-on-data-science-statistics/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202106022021-symposium-on-data-science-statistics/</guid>
+      <guid>/conference/202106022021-symposium-on-data-science-statistics/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration deadline: Apr 7, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>International Indian Statistical Association (IISA) 2021 Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210520international-indian-statistical-association-iisa-2021-conference/</link>
+      <link>/conference/20210520international-indian-statistical-association-iisa-2021-conference/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210520international-indian-statistical-association-iisa-2021-conference/</guid>
+      <guid>/conference/20210520international-indian-statistical-association-iisa-2021-conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>42nd Annual Meeting of Society of Clinical Trials (SCT)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021051742nd-annual-meeting-of-society-of-clinical-trials-sct/</link>
+      <link>/conference/2021051742nd-annual-meeting-of-society-of-clinical-trials-sct/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021051742nd-annual-meeting-of-society-of-clinical-trials-sct/</guid>
+      <guid>/conference/2021051742nd-annual-meeting-of-society-of-clinical-trials-sct/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration deadline: May 10, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Conference highlights include:&lt;/p&gt;
 &lt;ul&gt;
@@ -864,58 +864,58 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
     
     <item>
       <title>ISPOR 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517ispor-2021/</link>
+      <link>/conference/20210517ispor-2021/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517ispor-2021/</guid>
+      <guid>/conference/20210517ispor-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Statistical Methods in Imaging Conference 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</link>
+      <link>/conference/20210517the-statistical-methods-in-imaging-conference-2021/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210517the-statistical-methods-in-imaging-conference-2021/</guid>
+      <guid>/conference/20210517the-statistical-methods-in-imaging-conference-2021/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration ends on May 2, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>International Virtual Conference on Advances in Statistics - Honoring the Contributions of Barry C. Arnold in Statistical Science </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210507international-virtual-conference-on-advances-in-statistics-honoring-the-contributions-of-barry-c-arnold-in-statistical-science/</link>
+      <link>/conference/20210507international-virtual-conference-on-advances-in-statistics-honoring-the-contributions-of-barry-c-arnold-in-statistical-science/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210507international-virtual-conference-on-advances-in-statistics-honoring-the-contributions-of-barry-c-arnold-in-statistical-science/</guid>
+      <guid>/conference/20210507international-virtual-conference-on-advances-in-statistics-honoring-the-contributions-of-barry-c-arnold-in-statistical-science/</guid>
       <description>&lt;p&gt;The conference will feature research topics inspired by the substantial contributions of Professor Barry C. Arnold in areas including ordered data analysis, univariate distribution theory, multivariate distribution theory, goodness-of-fit tests, statistical inference, and statistical applications. The main objective of this conference is to bring together researchers to discuss recent developments and explore future directions on these topics.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>First CANSSI-NISS Health Data Science Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506first-canssi-niss-health-data-science-workshop/</link>
+      <link>/conference/20210506first-canssi-niss-health-data-science-workshop/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506first-canssi-niss-health-data-science-workshop/</guid>
+      <guid>/conference/20210506first-canssi-niss-health-data-science-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 4th Stat4Onc Annual Symposium (2021)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506the-4th-stat4onc-annual-symposium-2021/</link>
+      <link>/conference/20210506the-4th-stat4onc-annual-symposium-2021/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210506the-4th-stat4onc-annual-symposium-2021/</guid>
+      <guid>/conference/20210506the-4th-stat4onc-annual-symposium-2021/</guid>
       <description>&lt;p&gt;Topics for this symposium include big data and genomics, novel dose-finding designs, umbrella/basket designs, drug combinations, immune-based oncology, and engagement of under-representative population in oncology research.&lt;br&gt;
 &lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Mar 31, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PSI One-Day Meeting: Missing Data in Clinical Trials - Past, Present and Future [Part 2]</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210505psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</link>
+      <link>/conference/20210505psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210505psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</guid>
+      <guid>/conference/20210505psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PSI One-Day Meeting: Missing Data in Clinical Trials - Past, Present and Future [Part 1]</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</link>
+      <link>/conference/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</link>
       <pubDate>Tue, 04 May 2021 02:30:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</guid>
+      <guid>/conference/20210504psi-one-day-meeting-missing-data-in-clinical-trials-past-present-and-future/</guid>
       <description>&lt;p&gt;Incomplete datasets due to missing data is an issue that has been, and will be, around for a long time. At this meeting we will present the evolution of missing data approaches, looking at how they have been handled in the past, the current established missing data approaches and the impact of the new ICH E9 R1 addendum on the handling of missing data, focussing in particular on the treatment policy estimand.&lt;/p&gt;
 &lt;p&gt;Key Timings&lt;br&gt;
 04:30 - Introduction &amp;amp; Welcome&lt;br&gt;
@@ -927,17 +927,17 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
     
     <item>
       <title>PSI One-Day Meeting: Non-proportional hazards and applications in immuno-oncology</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210429psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology/</link>
+      <link>/conference/20210429psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology/</link>
       <pubDate>Thu, 29 Apr 2021 03:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210429psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology/</guid>
+      <guid>/conference/20210429psi-one-day-meeting-non-proportional-hazards-and-applications-in-immuno-oncology/</guid>
       <description>&lt;p&gt;Designs of clinical trials with time to event primary endpoints usually rely on hazards being constant over time. A major challenge in immuno-oncology is the delayed onset of benefit with such therapies and the presence of non-proportional hazards. The impact of this needs to be accounted for in sample size calculations, analysis methodology and reporting. In this meeting we will examine possible strategies to handle such features, which may not be fully known when the trial is initiated.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>European Causal Inference Meeting (EuroCIM) 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210423european-causal-inference-meeting-eurocim-2021/</link>
+      <link>/conference/20210423european-causal-inference-meeting-eurocim-2021/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210423european-causal-inference-meeting-eurocim-2021/</guid>
+      <guid>/conference/20210423european-causal-inference-meeting-eurocim-2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Virtual courses (exact times TBD)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;23 April: &amp;ldquo;Introduction to causal inference&amp;rdquo; by Rhian Daniel (Cardiff University)&lt;br&gt;
 18 May: &amp;ldquo;Causal machine learning&amp;rdquo; by Stijn Vansteelandt (Ghent University)&lt;/p&gt;
@@ -950,67 +950,67 @@ Aaditya Ramdas (Carnegie Mellon University) – Speaking on Interactive multiple
     
     <item>
       <title>Duke Industry Statistics Symposium</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210421duke-industry-statistics-symposium/</link>
+      <link>/conference/20210421duke-industry-statistics-symposium/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210421duke-industry-statistics-symposium/</guid>
+      <guid>/conference/20210421duke-industry-statistics-symposium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stanford Drug Discovery Symposium (SDDS) 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210419stanford-drug-discovery-symposium-sdds-2021/</link>
+      <link>/conference/20210419stanford-drug-discovery-symposium-sdds-2021/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210419stanford-drug-discovery-symposium-sdds-2021/</guid>
+      <guid>/conference/20210419stanford-drug-discovery-symposium-sdds-2021/</guid>
       <description>&lt;p&gt;Advances in research and technology now afford us the unique opportunity to develop and test novel diagnostics and therapeutics. This conference takes advantage of the collective experience and expertise of our participants to cover a broad range of policy, research, and venture topics. This symposium provides an invaluable forum for interdisciplinary exchange at the forefront of drug research.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DIA/FDA Biostatistics Industry and Regulator Forum</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</link>
+      <link>/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</guid>
+      <guid>/conference/20210414dia-fda-biostatistics-industry-and-regulator-forum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EMR 2021 Virtual Conference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210413emr-2021-virtual-conference/</link>
+      <link>/conference/20210413emr-2021-virtual-conference/</link>
       <pubDate>Tue, 13 Apr 2021 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210413emr-2021-virtual-conference/</guid>
+      <guid>/conference/20210413emr-2021-virtual-conference/</guid>
       <description>&lt;p&gt;7am-noon on April 13, 20 &amp;amp; 27&lt;/p&gt;
 &lt;p&gt;A major theme will be work on the Covid-19 pandemic, spanning countries in our region (Bulgaria, Cyprus, Greece, Israel, Turkey, United Arab Emirates) and beyond (Belgium, India, Italy, Spain, United Kingdom, United States). There will also be talks on a variety of other topics, including machine learning in healthcare, brain imaging, statistical genetics, precision medicine, species dynamics, survival analysis, causal inference and more.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>13th Annual University of Pennsylvania Conference on Statistical Issues in Clinical Trials</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues/</link>
+      <link>/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues/</guid>
+      <guid>/conference/2021041213th-annual-university-of-pennsylvania-conference-on-statistical-issues/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Presentation slides can be downloaded from the website&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2021 ASA Conference on Statistical Practice</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</link>
+      <link>/conference/20210217csp/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210217csp/</guid>
+      <guid>/conference/20210217csp/</guid>
       <description>&lt;p&gt;The goal of the conference is to provide participants with opportunities to learn new statistical methodologies and best practices in statistical analysis, design, consulting, and statistical programming.&lt;br&gt;
 &lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RStudio::global 2021</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20210121rstudio-global-2021/</link>
+      <link>/conference/20210121rstudio-global-2021/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20210121rstudio-global-2021/</guid>
+      <guid>/conference/20210121rstudio-global-2021/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.rstudio.com/2021/03/16/r-in-pharma-with-procogia-x-session-recordings-are-now-available/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Additional recordings&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Innovations in Bayesian Trials Virtual Symposium</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201108innovations-in-bayesian-trials-virtual-symposium/</link>
+      <link>/conference/20201108innovations-in-bayesian-trials-virtual-symposium/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201108innovations-in-bayesian-trials-virtual-symposium/</guid>
+      <guid>/conference/20201108innovations-in-bayesian-trials-virtual-symposium/</guid>
       <description>&lt;p&gt;This dynamic program will cover a range of topics presented by Bayesian experts in academia, regulatory and industry. The presentations will include: Adaptive design, platform studies, complex innovative designs using Bayesian modeling; Regulatory acceptability of Bayesian designs; Leveraging external information using Bayesian priors.&lt;br&gt;
 &lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Replay links available&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, October 8, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -1060,17 +1060,17 @@ Ram C. Tiwari, Ph.D. Head of Statistical Methodology, Bristol Myers Squibb&lt;br
     
     <item>
       <title>2020 Annual Health Data Science Symposium at Harvard</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/202010232020-annual-health-data-science-symposium-at-harvard/</link>
+      <link>/conference/202010232020-annual-health-data-science-symposium-at-harvard/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/202010232020-annual-health-data-science-symposium-at-harvard/</guid>
+      <guid>/conference/202010232020-annual-health-data-science-symposium-at-harvard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>12th Annual Sentinel Initiative Public Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/2020101412th-annual-sentinel-initiative-public-workshop/</link>
+      <link>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
+      <guid>/conference/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
       <description>&lt;p&gt;The Sentinel Initiative, an active medical product surveillance system, was established in response to the Food and Drug Administration (FDA) Amendments Act of 2007 and has become one of the Agency’s premier evidence generation platforms. The 12th Annual Sentinel Initiative Public Workshop is being convened on October 14, 2020 by the Robert J. Margolis, MD, Center for Health Policy under a cooperative agreement with the FDA. The workshop will be held as a virtual webinar and provides an opportunity to discuss recent achievements and developments and engage with the broader community of patients, consumers, and scientific stakeholders.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1090,18 +1090,18 @@ Objective: The U.S. FDA’s Sentinel Initiative is engaged in numerous activitie
     
     <item>
       <title>R in Pharma</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201013r-in-pharma/</link>
+      <link>/conference/20201013r-in-pharma/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201013r-in-pharma/</guid>
+      <guid>/conference/20201013r-in-pharma/</guid>
       <description>&lt;p&gt;The 2020 R/Pharma conference was held as a virtual event between October 13th and 15th October. Over 1000 people from 26 countries registered for the main conference. In addition, 11 workshops were held the week before the conference.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cytel’s New Horizons Webinar Series</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201005cytel-s-new-horizons-webinar-series/</link>
+      <link>/conference/20201005cytel-s-new-horizons-webinar-series/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201005cytel-s-new-horizons-webinar-series/</guid>
+      <guid>/conference/20201005cytel-s-new-horizons-webinar-series/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: green;&#34;&gt;&lt;em&gt;Replay links available&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1133,43 +1133,43 @@ November 9, 2020&lt;br&gt;
     
     <item>
       <title>Annual Real World Evidence Conference: Applying Lessons Learned from RWE in the Time of COVID-19 to the Future</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference/</link>
+      <link>/conference/20201001annual-real-world-evidence-conference/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20201001annual-real-world-evidence-conference/</guid>
+      <guid>/conference/20201001annual-real-world-evidence-conference/</guid>
       <description>&lt;p&gt;COVID-19 has disrupted the evidence-generation paradigm, resulting in the expanded use of novel technologies, data, and evidence. These new advancements not only improve clinical care and medical product development to fight the pandemic, but also have the potential to inform the future of drug development more broadly. This meeting will explore how COVID-19 has accelerated decision-maker understanding and use of real-world data (RWD) and real-world evidence (RWE) and its application in a post-COVID-19 environment.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop 2020</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</link>
+      <link>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
+      <guid>/conference/20200922asa-biopharmaceutical-section-regulatory-industry-statistics-workshop-2020/</guid>
       <description>&lt;p&gt;The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop is sponsored by the ASA Biopharmaceutical Section in cooperation with the FDA Statistical Association. The conference lasts two days each year, with invited sessions co-chaired by statisticians from industry, academia, and the FDA. In addition, short courses on related topics are offered the day prior to the workshop.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Science Conference on COVID-19</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200828data-science-conference-on-covid-19/</link>
+      <link>/conference/20200828data-science-conference-on-covid-19/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200828data-science-conference-on-covid-19/</guid>
+      <guid>/conference/20200828data-science-conference-on-covid-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Duke MArgolis: Establishing a High-Quality Real-World Data Ecosystem</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200713duke-margolis-establishing-a-high-quality-real-world-data-ecosystem/</link>
+      <link>/conference/20200713duke-margolis-establishing-a-high-quality-real-world-data-ecosystem/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200713duke-margolis-establishing-a-high-quality-real-world-data-ecosystem/</guid>
+      <guid>/conference/20200713duke-margolis-establishing-a-high-quality-real-world-data-ecosystem/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EqffCIVzFt0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Day 1 video&lt;/a&gt;; &lt;a href=&#34;https://www.youtube.com/watch?v=Qm-qD8DTgOE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Day 2 video&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RStudio Conference 2020</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/conference/20200127rstudio-conference/</link>
+      <link>/conference/20200127rstudio-conference/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/conference/20200127rstudio-conference/</guid>
+      <guid>/conference/20200127rstudio-conference/</guid>
       <description></description>
     </item>
     

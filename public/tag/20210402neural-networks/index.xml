@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Networks | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210402neural-networks/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20210402neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20210402neural-networks/</link>
+      <atom:link href="/tag/20210402neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Neural Networks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 08:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Neural Networks</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20210402neural-networks/</link>
+      <link>/tag/20210402neural-networks/</link>
     </image>
     
     <item>
       <title>A Law of Robustness for Two-layer Neural Networks</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</link>
+      <link>/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</link>
       <pubDate>Fri, 02 Apr 2021 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</guid>
+      <guid>/webinar/20210402a-law-of-robustness-for-two-layer-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deciphering Neural Networks through the Lens of Feature Interactions</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</link>
+      <link>/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</link>
       <pubDate>Fri, 26 Feb 2021 12:00:00 -0800</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</guid>
+      <guid>/webinar/20210226deciphering-neural-networks-through-the-lens-of-feature-interactions/</guid>
       <description>&lt;p&gt;Interpreting how neural networks work is a crucial and challenging task in machine learning. In this talk, I will discuss a novel framework, namely neural interaction detector (NID), for interpreting complex neural networks by detecting statistical interactions captured by the neural networks. Furthermore, we can construct a more interpretable generalized additive model that achieve similar prediction performance as the original neural networks. Experiment results on several applications, such as recommender systems, image recognition, sentiment prediction, demonstrate the effectiveness of NID.&lt;/p&gt;</description>
     </item>
     

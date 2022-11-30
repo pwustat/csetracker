@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RNA-seq | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200828rna-seq/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20200828rna-seq/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20200828rna-seq/</link>
+      <atom:link href="/tag/20200828rna-seq/index.xml" rel="self" type="application/rss+xml" />
     <description>RNA-seq</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>RNA-seq</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20200828rna-seq/</link>
+      <link>/tag/20200828rna-seq/</link>
     </image>
     
     <item>
       <title>Demystifying “Drop-Out” in Single Cell RNA-seq</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828demystifying-drop-out-in-single-cell-rna-seq/</link>
+      <link>/webinar/20200828demystifying-drop-out-in-single-cell-rna-seq/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20200828demystifying-drop-out-in-single-cell-rna-seq/</guid>
+      <guid>/webinar/20200828demystifying-drop-out-in-single-cell-rna-seq/</guid>
       <description>&lt;p&gt;Droplet-based single-cell RNA-sequencing (scRNA-seq) methods have changed the landscape of genomics research in complex biological systems by producing single cell resolution data at affordable costs. In the state-of-the-arts protocols, a step called barcoding unique molecular identifiers (UMI) has been introduced to remove amplification bias and further improve data quality. Recent literature suggests that barcoding has led to a different error structure in the count data with much less technical noise. Regardless, many tools do not acknowledge the differences between the read count data and UMI count data, still assuming that both suffer from excessive technical noise. In this presentation, I will make a brief overview of scRNA-seq data analysis pipelines and then present extensive analyses of publicly available UMI data sets that challenge the assumptions of most existing pre-processing tools. Our results suggest that resolving cell-type heterogeneity should be the foremost step of the scRNA-seq analysis pipeline. Normalizing or imputing the data set before resolving the heterogeneity can lead to adversary consequences in downstream analysis. As a result, we provide a new perspective on scRNA-seq data analysis by fully integrating pre-processing and clustering, which was classified as part of the downstream analysis. The proposed procedures have been implemented in software, HIPPO. If time permits, I will also talk about other single cell analysis tools developed in my group, VIPER, an imputation method for SMART-seq data, and dmatch, an alignment tool for multiple scRNA-seq samples batch correction.&lt;/p&gt;</description>
     </item>
     

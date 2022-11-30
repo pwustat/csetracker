@@ -2,178 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/resource/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/resource/index.xml" rel="self" type="application/rss+xml" />
+    <link>/resource/</link>
+      <atom:link href="/resource/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/</link>
+      <link>/resource/</link>
     </image>
     
     <item>
       <title>Statistical Rethinking course (2022) by Richard McElreath</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20220317statistical-rethinking-course-2022-by-richard-mcelreath/</link>
+      <link>/resource/20220317statistical-rethinking-course-2022-by-richard-mcelreath/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20220317statistical-rethinking-course-2022-by-richard-mcelreath/</guid>
+      <guid>/resource/20220317statistical-rethinking-course-2022-by-richard-mcelreath/</guid>
       <description>&lt;p&gt;This course teaches data analysis, but it focuses on scientific models first. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Biopharmaceutical Software Working Group</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609biopharmaceutical-software-working-group/</link>
+      <link>/resource/20210609biopharmaceutical-software-working-group/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609biopharmaceutical-software-working-group/</guid>
+      <guid>/resource/20210609biopharmaceutical-software-working-group/</guid>
       <description>&lt;p&gt;The Working Group is planning to solicit ideas for new software tools with biopharmaceutical applications, set up a network of testers and reviewers, and ultimately cultivate a community focused on the development of software tools for biopharmaceutical statisticians by biopharmaceutical statisticians.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BNP-ISBA</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609bnp-isba/</link>
+      <link>/resource/20210609bnp-isba/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609bnp-isba/</guid>
+      <guid>/resource/20210609bnp-isba/</guid>
       <description>&lt;p&gt;The Bayesian Nonparametric Section of the International Society for Bayesian Analysis&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ISBA - International Society of Bayesian Analysis</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609isba/</link>
+      <link>/resource/20210609isba/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609isba/</guid>
+      <guid>/resource/20210609isba/</guid>
       <description>&lt;p&gt;The primary purpose of the Section is to promote the research, application and dissemination of Bayesian methods and solutions for problems in Biostatistics and Pharmaceutical statistics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Oncology estimand working group</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609oncology-estimand-working-group/</link>
+      <link>/resource/20210609oncology-estimand-working-group/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210609oncology-estimand-working-group/</guid>
+      <guid>/resource/20210609oncology-estimand-working-group/</guid>
       <description>&lt;p&gt;A cross-industry international working group&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title> ASA Biopharm&#39;s Podcast</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401asa-biopharm-s-podcast/</link>
+      <link>/resource/20210401asa-biopharm-s-podcast/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401asa-biopharm-s-podcast/</guid>
+      <guid>/resource/20210401asa-biopharm-s-podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical Significance Podcast</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401practical-significance-podcast/</link>
+      <link>/resource/20210401practical-significance-podcast/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401practical-significance-podcast/</guid>
+      <guid>/resource/20210401practical-significance-podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stats &#43; Stories Podcast</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401stats-stories-podcast/</link>
+      <link>/resource/20210401stats-stories-podcast/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401stats-stories-podcast/</guid>
+      <guid>/resource/20210401stats-stories-podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Pod of Asclepius</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401the-pod-of-asclepius/</link>
+      <link>/resource/20210401the-pod-of-asclepius/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210401the-pod-of-asclepius/</guid>
+      <guid>/resource/20210401the-pod-of-asclepius/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Duke-Margolis Seminars</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326duke-margolis-seminars/</link>
+      <link>/resource/20210326duke-margolis-seminars/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326duke-margolis-seminars/</guid>
+      <guid>/resource/20210326duke-margolis-seminars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foundations of Data Science - Virtual Talk Series</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326foundations-of-data-science-virtual-talk-series/</link>
+      <link>/resource/20210326foundations-of-data-science-virtual-talk-series/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326foundations-of-data-science-virtual-talk-series/</guid>
+      <guid>/resource/20210326foundations-of-data-science-virtual-talk-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>International Seminar on Selective Inference</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326international-seminar-on-selective-inference/</link>
+      <link>/resource/20210326international-seminar-on-selective-inference/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326international-seminar-on-selective-inference/</guid>
+      <guid>/resource/20210326international-seminar-on-selective-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>National Institute of Statistical Sciences (NISS) Meeting Recordings</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326niss-meeting-recordings/</link>
+      <link>/resource/20210326niss-meeting-recordings/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326niss-meeting-recordings/</guid>
+      <guid>/resource/20210326niss-meeting-recordings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Information Processing Systems (NeurIPS) Video Archives</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326neurips-video-archives/</link>
+      <link>/resource/20210326neurips-video-archives/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326neurips-video-archives/</guid>
+      <guid>/resource/20210326neurips-video-archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Causal Inference Seminar</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326online-causal-inference-seminar/</link>
+      <link>/resource/20210326online-causal-inference-seminar/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326online-causal-inference-seminar/</guid>
+      <guid>/resource/20210326online-causal-inference-seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Seminar on  Mathematical Foundations of Data Science</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326online-seminar-on-mathematical-foundations-of-data-science/</link>
+      <link>/resource/20210326online-seminar-on-mathematical-foundations-of-data-science/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326online-seminar-on-mathematical-foundations-of-data-science/</guid>
+      <guid>/resource/20210326online-seminar-on-mathematical-foundations-of-data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Royal Statistical Society (RSS) Video and Audio</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326rss-video-and-audio/</link>
+      <link>/resource/20210326rss-video-and-audio/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326rss-video-and-audio/</guid>
+      <guid>/resource/20210326rss-video-and-audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Royal Statistical Society (RSS) Webinars</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326rss-webinars/</link>
+      <link>/resource/20210326rss-webinars/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326rss-webinars/</guid>
+      <guid>/resource/20210326rss-webinars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RStudio webinars</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326rstudio-webinars/</link>
+      <link>/resource/20210326rstudio-webinars/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326rstudio-webinars/</guid>
+      <guid>/resource/20210326rstudio-webinars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statisticians in the Pharmaceutical Industry (PSI) Video-on-Demand</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326psi-video-on-demand/</link>
+      <link>/resource/20210326psi-video-on-demand/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/resource/20210326psi-video-on-demand/</guid>
+      <guid>/resource/20210326psi-video-on-demand/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/course/index.xml" rel="self" type="application/rss+xml" />
+    <link>/course/</link>
+      <atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
     <description>CSE Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 06:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CSE Tracker</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/</link>
+      <link>/course/</link>
     </image>
     
     <item>
+      <title>ISI Course: Use of External Data in Clinical Trial – Unleashing The Power of Information</title>
+      <link>/course/20221202isi-course-use-of-external-data-in-clinical-trial-unleashing-the-power-of-information/</link>
+      <pubDate>Fri, 02 Dec 2022 06:00:00 +0000</pubDate>
+      <guid>/course/20221202isi-course-use-of-external-data-in-clinical-trial-unleashing-the-power-of-information/</guid>
+      <description>&lt;p&gt;A Bayesian approach provides the formal framework to incorporate external information into the statistical analysis of a clinical trial. There is an intrinsic interest of leveraging all available information for an efficient design and analysis. This allows trials with smaller sample size or with unequal randomization. Examples include early phases drug development, occasionally in phase III trial, and special areas such as medical devices, orphan indications and extrapolation in pediatric studies. Recently, 21st Century Cure Act and PUDUFA VI encourage the use of relevant historical data for efficient design. An appropriate statistical method in this context needs to leverage “borrowing” of information while considering the heterogeneity between historical and current trial. In this short course, I’ll cover different statistical frameworks to incorporate trial external evidence with real life example.&lt;/p&gt;
+&lt;p&gt;The course will begin with introducing the meta-analytic predictive (MAP) framework for borrowing historical data. The MAP approach is based on Bayesian hierarchical model which combines the evidence from different sources. It provides a prediction for the current study based on the available information while accounting for inherent heterogeneity in the data. This approach can be used widely in different applications of clinical trial. These applications will be demonstrated using the R package RBesT, the R Bayesian evidence synthesis tools, which are freely available from CRAN.&lt;/p&gt;
+&lt;p&gt;In the second part of the short course, we focus on the propensity score integrated power prior approach. The power prior is a useful class of informative priors for external control data. The power prior discounts the likelihood of the external control data directly using a power parameter. However, choice of the power parameter is tricky in the real-life applications. An integrated propensity score-based method along with prior power can be useful in this context. A two-stage provides a paradigm for conducting a comparative observational, non-randomized study within the premarket regulatory setting. The power parameters are calculated using trial data and external control divided into homogeneous strata using propensity score.&lt;/p&gt;
+&lt;p&gt;Methodological and practical aspects will be discussed to facilitate real life implementation.&lt;/p&gt;
+&lt;p&gt;Outline&lt;br&gt;
+&lt;strong&gt;I. Introduction: Motivation and general framework&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;II. Overview of available methods&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;III. Meta-analytic Predictive (MAP) Prior&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;a. MAP approach for the analysis of a new trial using historical controls&lt;br&gt;
+b. Design Considerations&lt;br&gt;
+c. Implementation in real-life using RBesT: Case studies&lt;br&gt;
+d. Extension of meta-analytic framework&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IV. Propensity score approaches&lt;/strong&gt;&lt;br&gt;
+a. Score-integrated power prior&lt;br&gt;
+b. Composite likelihood approach&lt;br&gt;
+c. Design and sample size considerations&lt;br&gt;
+d. Real life application&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;V. Regulatory perspective of using trial external information&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;VI. Concluding Remarks and Discussion&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Virtual Short Course (Hosted by Cincinnati Chapter): Adaptive Design</title>
+      <link>/course/20221201asa-virtual-short-course-adaptive-design/</link>
+      <pubDate>Thu, 01 Dec 2022 05:30:00 +0000</pubDate>
+      <guid>/course/20221201asa-virtual-short-course-adaptive-design/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;December 1, 5:30 am-9:00 am; December 2, 5:15 am-8:30 am PST; Cincinnati Chapter members: $30; Non-members: $50&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Clinical trials play a critical role in pharmaceutical drug development. New trial designs often depend on historical data, which, however, may not be accurate for the current study due to changes in study populations, patient heterogeneity, or different medical facilities. As a result, the original plan and study design may need to be adjusted or even altered to accommodate new findings and unexpected interim results. Through carefully thought-out and planned adaptation, the right dose can be identified faster, patients can be treated more effectively, and treatment effects evaluated more efficiently.&lt;/p&gt;
+&lt;p&gt;This short course presented over two mornings will introduce different types of adaptive designs tailored for adaptive dose finding and confirmatory clinical trials. Practical considerations will be illustrated with case studies. Types of adaptive clinical trial designs covered in this course include adaptive dose finding studies using optimal designs to allocate new cohorts of patients based on the accumulated evidence, group sequential designs, blinded and unblinded sample size re-estimation as well as adaptive designs for confirmatory trials with treatment or population selection at interim.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA Traveling Short Course (Hosted by Sacramento Chapter): An Introduction to Second-Generation p-Values and Their Use in Statistical Practice</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220901asa-traveling-short-course/</link>
+      <link>/course/20220901asa-traveling-short-course/</link>
       <pubDate>Thu, 01 Sep 2022 09:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220901asa-traveling-short-course/</guid>
+      <guid>/course/20220901asa-traveling-short-course/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Second-generation p-values were recently proposed to address the well-known imperfections of classical p-values. Their implementation can largely be thought of as codifying ‘good standard practice’ for interpreting and reporting classical p-values. Second-generation p-values maintain the favorable properties of classical p-values while emphasizing scientific relevance to expand their utility, functionality, and applicability. In particular, they can report evidence in favor of the alternative, in favor of the null hypothesis, or neither (inconclusive); they automatically incorporate an adjustment for multiple comparisons and multiple looks; they have lower false discovery rates than classical p-values; and they are easier to interpret. Second-generation p-values have been shown to work well in regularized models. They also lead to significantly improved model selection procedures in linear and generalized linear models. Also, second-generation p-values are non-denominational in the sense that they are readily applied in frequentist, likelihood and Bayesian settings.&lt;/p&gt;
@@ -26,17 +62,17 @@
     
     <item>
       <title>ASA Short Course: Analysis of Composite Time-to-event Outcomes </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220608asa-short-course-analysis-of-composite-time-to-event-outcomes/</link>
+      <link>/course/20220608asa-short-course-analysis-of-composite-time-to-event-outcomes/</link>
       <pubDate>Wed, 08 Jun 2022 09:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220608asa-short-course-analysis-of-composite-time-to-event-outcomes/</guid>
+      <guid>/course/20220608asa-short-course-analysis-of-composite-time-to-event-outcomes/</guid>
       <description>&lt;p&gt;This course provides an overview of the new statistical methodology for the analysis of composite time-to-event outcomes. These outcomes combine death and (possibly recurrent) nonfatal events, such as hospitalization, tumor progression, or infection, and are routinely used as the primary efficacy endpoint in modern phase-III clinical trials. The traditional approach to composite outcomes focuses on time to the first event, whichever type it is, using standard univariate survival analysis techniques. Recent years have seen a surge of more sophisticated and versatile methods, attracting the attention of both statisticians and practitioners. Examples of such methods include the win ratio (Pocock et al., 2012) and its various extensions, the restricted mean time in favor of treatment (a generalized restricted mean survival time), the event (or loss) rate ratio while alive, generalized semiparametric proportional odds regression models, and so on. They improve upon the traditional time-to-first-event analysis in (1) proper prioritization of death over nonfatal events; (2) fuller utilization of multiple/recurrent events; (3) clear and interpretable definition of effect-size estimands; and (4) flexible modeling of different outcome types. In the meantime, a number of user-friendly R-packages that implement the aforementioned methodology have become available. This short course will provide a survey of these methodological developments, along with some practical guidance on using the associated R-packages for real data analysis.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Medical University of South Carolina (MUSC) Virtual Course: Using R for Bayesian Spatial and Spatio-Temporal Health Modeling </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220531musc-virtual-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</link>
+      <link>/course/20220531musc-virtual-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220531musc-virtual-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</guid>
+      <guid>/course/20220531musc-virtual-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Short course on May 31 &amp;amp; June 1; $500 before 5/20/2022; $800 after 5/20/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;May 31, 2022&lt;/p&gt;
 &lt;ul&gt;
@@ -63,9 +99,9 @@ Variants: Leroux, mixture, BYM2&lt;/li&gt;
     
     <item>
       <title>ISI Short Course: An Introductory Course in Competing Risks</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220421an-introductory-course-in-competing-risks/</link>
+      <link>/course/20220421an-introductory-course-in-competing-risks/</link>
       <pubDate>Thu, 21 Apr 2022 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220421an-introductory-course-in-competing-risks/</guid>
+      <guid>/course/20220421an-introductory-course-in-competing-risks/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Introduction: Survival function and hazard function. Right-censoring and left-truncation. Competing risks. Markov and non-Markov multi-state models. Time-homogeneity and time inhomogeneity. Motivating examples (real data).&lt;/li&gt;
@@ -76,9 +112,9 @@ Variants: Leroux, mixture, BYM2&lt;/li&gt;
     
     <item>
       <title>ISI Short Course: Bootstrap Methods and Permutation Tests</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220420bootstrap-methods-and-permutation-tests/</link>
+      <link>/course/20220420bootstrap-methods-and-permutation-tests/</link>
       <pubDate>Wed, 20 Apr 2022 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220420bootstrap-methods-and-permutation-tests/</guid>
+      <guid>/course/20220420bootstrap-methods-and-permutation-tests/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;We begin with a graphical approach to bootstrapping and permutation testing, illuminating basic statistical concepts of standard errors, confidence intervals, p-values and significance tests.&lt;/p&gt;
 &lt;p&gt;We consider a variety of statistics (mean, trimmed mean, regression, etc.), and a number of sampling situations (one-sample, two-sample, stratified, finite-population), stressing the common techniques that apply in these situations. We’ll look at applications from a variety of fields, including telecommunications, finance, and biopharm.&lt;/p&gt;
@@ -87,9 +123,9 @@ Variants: Leroux, mixture, BYM2&lt;/li&gt;
     
     <item>
       <title>ISI Short Course: Recurrent Event Analysis in R with the reReg Package</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220412recurrent-event-analysis-in-r-with-the-rereg-package/</link>
+      <link>/course/20220412recurrent-event-analysis-in-r-with-the-rereg-package/</link>
       <pubDate>Tue, 12 Apr 2022 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220412recurrent-event-analysis-in-r-with-the-rereg-package/</guid>
+      <guid>/course/20220412recurrent-event-analysis-in-r-with-the-rereg-package/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Each hour a different part:&lt;/p&gt;
 &lt;ul&gt;
@@ -101,9 +137,9 @@ Variants: Leroux, mixture, BYM2&lt;/li&gt;
     
     <item>
       <title>ISI Short Course: Cure Models: Methods, Applications, and Implementation</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220411cure-models-methods-applications-and-implementation/</link>
+      <link>/course/20220411cure-models-methods-applications-and-implementation/</link>
       <pubDate>Mon, 11 Apr 2022 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220411cure-models-methods-applications-and-implementation/</guid>
+      <guid>/course/20220411cure-models-methods-applications-and-implementation/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £100&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;This course will cover the following topics:&lt;/p&gt;
 &lt;ul&gt;
@@ -130,9 +166,9 @@ Statistical issues in the design and analysis of cancer clinical trials with a p
     
     <item>
       <title>ISI Short Course: Reshaping Challenging Data to Produce Insightful Graphs - A Quick Start to Using R Tidyverse Tools</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220405reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</link>
+      <link>/course/20220405reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</link>
       <pubDate>Tue, 05 Apr 2022 06:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220405reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</guid>
+      <guid>/course/20220405reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: £80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;This workshop will be comprised of 4 parts:&lt;/p&gt;
 &lt;ul&gt;
@@ -145,9 +181,9 @@ Statistical issues in the design and analysis of cancer clinical trials with a p
     
     <item>
       <title>ASA West Tennessee Chapter Workshop: Causal Mediation Analyses Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220330asa-west-tennessee-chapter-workshop-causal-mediation-analyses-workshop/</link>
+      <link>/course/20220330asa-west-tennessee-chapter-workshop-causal-mediation-analyses-workshop/</link>
       <pubDate>Wed, 30 Mar 2022 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220330asa-west-tennessee-chapter-workshop-causal-mediation-analyses-workshop/</guid>
+      <guid>/course/20220330asa-west-tennessee-chapter-workshop-causal-mediation-analyses-workshop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Introduction to session&lt;/li&gt;
@@ -160,9 +196,9 @@ Statistical issues in the design and analysis of cancer clinical trials with a p
     
     <item>
       <title>Joint Modeling of Longitudinal and Survival Data</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220324joint-modeling-of-longitudinal-and-survival-data/</link>
+      <link>/course/20220324joint-modeling-of-longitudinal-and-survival-data/</link>
       <pubDate>Thu, 24 Mar 2022 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220324joint-modeling-of-longitudinal-and-survival-data/</guid>
+      <guid>/course/20220324joint-modeling-of-longitudinal-and-survival-data/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Lifetime Data Science Section Members: $20; other ASA members: $30; non-members: $45&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The following topics will be covered:&lt;/p&gt;
 &lt;ul&gt;
@@ -183,9 +219,9 @@ Statistical issues in the design and analysis of cancer clinical trials with a p
     
     <item>
       <title>PSI Training Course: Simulation of Clinical Trials using Tidyverse </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220314psi-training-course-simulation-of-clinical-trials-using-tidyverse/</link>
+      <link>/course/20220314psi-training-course-simulation-of-clinical-trials-using-tidyverse/</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220314psi-training-course-simulation-of-clinical-trials-using-tidyverse/</guid>
+      <guid>/course/20220314psi-training-course-simulation-of-clinical-trials-using-tidyverse/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;March 14, 21, 28 &amp;amp; April 4, 2022 (main sessions) and March 17, 24, 31 &amp;amp; April 7, 2022 (drop-in sessions), (PSI members: £360+VAT; non-members: £485+VAT)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;In this course, we introduce a framework for clinical trial simulations that makes extensive use of the tidyverse collection of R packages. The course is punctuated with real-world case studies that demonstrate the versatility of the framework, and the relative ease with which it can be applied in practice. The case studies will cover:&lt;/p&gt;
 &lt;ul&gt;
@@ -200,18 +236,18 @@ Statistical issues in the design and analysis of cancer clinical trials with a p
     
     <item>
       <title>ISI Online Course: Data Science and Predictive Analytics</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220307isi-online-course-data-science-and-predictive-analytics/</link>
+      <link>/course/20220307isi-online-course-data-science-and-predictive-analytics/</link>
       <pubDate>Mon, 07 Mar 2022 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220307isi-online-course-data-science-and-predictive-analytics/</guid>
+      <guid>/course/20220307isi-online-course-data-science-and-predictive-analytics/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;March 7-8, 2022 (7:00-10:00am PST) and March 21, 2022 (8:00-11:00am PST) (120.00 EUR)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The training will provide intermediate to advanced learners with a solid data science foundation to address challenges related to collecting, managing, processing, interrogating, analyzing and interpreting complex health and biomedical datasets using R. Participants will gain skills and acquire a tool-chest of methods, software tools, and protocols that can be applied to a broad spectrum of Big Data problems.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ISI Online Course: Introduction to Machine Learning </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220223isi-online-course-introduction-to-machine-learning/</link>
+      <link>/course/20220223isi-online-course-introduction-to-machine-learning/</link>
       <pubDate>Wed, 23 Feb 2022 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220223isi-online-course-introduction-to-machine-learning/</guid>
+      <guid>/course/20220223isi-online-course-introduction-to-machine-learning/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;On Feb 23 and 25; £100&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Syllabus&lt;/p&gt;
 &lt;ol&gt;
@@ -229,9 +265,9 @@ Statistical issues in the design and analysis of cancer clinical trials with a p
     
     <item>
       <title>Basel Biometric Society Training: Machine Learning in Clinical Drug Development</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220221basel-biometric-society-training-machine-learning-in-clinical-drug-development/</link>
+      <link>/course/20220221basel-biometric-society-training-machine-learning-in-clinical-drug-development/</link>
       <pubDate>Mon, 21 Feb 2022 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220221basel-biometric-society-training-machine-learning-in-clinical-drug-development/</guid>
+      <guid>/course/20220221basel-biometric-society-training-machine-learning-in-clinical-drug-development/</guid>
       <description>&lt;p&gt;There is tremendous interest and excitement surrounding the application of Machine 
 learning (ML) in drug development. ML tools can process information much faster, cheaper 
 and more accurately than any human, and some people expect no less than a change to 
@@ -249,25 +285,25 @@ and provide examples of the types of problems where they might be applied.&lt;/p
     
     <item>
       <title>PSI Training Course: Use of Historical Data in Clinical Trials: An Evidence Synthesis Approach</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220124psi-training-course-use-of-historical-data-in-clinical-trials-an-evidence-synthesis-approach/</link>
+      <link>/course/20220124psi-training-course-use-of-historical-data-in-clinical-trials-an-evidence-synthesis-approach/</link>
       <pubDate>Mon, 24 Jan 2022 01:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220124psi-training-course-use-of-historical-data-in-clinical-trials-an-evidence-synthesis-approach/</guid>
+      <guid>/course/20220124psi-training-course-use-of-historical-data-in-clinical-trials-an-evidence-synthesis-approach/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;From Jan 24 to 27; Members £340, Non-members £465&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ISBS Virtual Short Course: Application of Digital Medicine in Drug Development </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20220121isbs-virtual-short-course-application-of-digital-medicine-in-drug-development/</link>
+      <link>/course/20220121isbs-virtual-short-course-application-of-digital-medicine-in-drug-development/</link>
       <pubDate>Fri, 21 Jan 2022 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20220121isbs-virtual-short-course-application-of-digital-medicine-in-drug-development/</guid>
+      <guid>/course/20220121isbs-virtual-short-course-application-of-digital-medicine-in-drug-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survival Analysis Based on the Restricted Mean Survival Time – An Alternative to the Proportional Hazards Model</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211210survival-analysis-based-on-the-restricted-mean-survival-time-an-alternative-to-the-proportional-hazards-model/</link>
+      <link>/course/20211210survival-analysis-based-on-the-restricted-mean-survival-time-an-alternative-to-the-proportional-hazards-model/</link>
       <pubDate>Fri, 10 Dec 2021 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211210survival-analysis-based-on-the-restricted-mean-survival-time-an-alternative-to-the-proportional-hazards-model/</guid>
+      <guid>/course/20211210survival-analysis-based-on-the-restricted-mean-survival-time-an-alternative-to-the-proportional-hazards-model/</guid>
       <description>&lt;p&gt;Since Professor Sir David Cox proposed the hazard ratio (HR) and its inference procedure in 1972, the HR has been routinely used for quantifying the treatment effect on time to event endpoint. The Cox regression model has also been commonly used for the association and prediction analysis. While an ideal summary measure for the treatment effect should be model-free to avoid the model misspecification at the analysis, the HR is not such a measure.  Indeed, there are very few model-free measures for time to event endpoint. The most popular one is either based on the median failure time or the event rate at a specific time point. Both measures are “local” and cannot catch the short- or long-term survival profile.&lt;/p&gt;
 &lt;p&gt;In the past few years, issues of utilizing HR have been extensively discussed. The validity of the HR estimate depends on a strong model assumption; that is, the ratio of two hazard functions is constant over time. When the proportion hazards assumption is not met, the HR estimate is difficult, if not impossible to interpret. In fact, the parameter for which the empirical HR estimates is not a simple weighted average of the HR over time and it generally depends on the censoring distributions. This is highly undesirable. Moreover, even when the proportional hazards assumption is plausible, the physical/clinical interpretation of a single ratio such as the HR estimate between two groups cannot be easily translated into the clinical utility of a new treatment in the absence of a reference hazard level.&lt;/p&gt;
 &lt;p&gt;In this short course, Tian will illustrate issues of the HR and present an alternative, that is, the t-year mean survival time (restricted mean survival time, RMST). It is the mean event-free time up to a specific time point, say, t-year. The RMST was introduced in the statistical literature in 1949, but has not gotten much attention until recently. Here is the list of the topics we will discuss in this short course.&lt;/p&gt;
@@ -288,41 +324,41 @@ and provide examples of the types of problems where they might be applied.&lt;/p
     
     <item>
       <title>ASA Short Course: Unmeasured Confounding in Real World Data Analysis – Strategies and Analytics for Sensitivity Analyses </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211207unmeasured-confounding-in-real-world-data-analysis-strategies-and-analytics-for-sensitivity-analyses/</link>
+      <link>/course/20211207unmeasured-confounding-in-real-world-data-analysis-strategies-and-analytics-for-sensitivity-analyses/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211207unmeasured-confounding-in-real-world-data-analysis-strategies-and-analytics-for-sensitivity-analyses/</guid>
+      <guid>/course/20211207unmeasured-confounding-in-real-world-data-analysis-strategies-and-analytics-for-sensitivity-analyses/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA members: $55; Non-members: $80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>State-of-the-Art Strategies for Addressing Selection Bias When Comparing Two or More Treatment Groups</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211105state-of-the-art-strategies-for-addressing-selection-bias/</link>
+      <link>/course/20211105state-of-the-art-strategies-for-addressing-selection-bias/</link>
       <pubDate>Fri, 05 Nov 2021 06:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211105state-of-the-art-strategies-for-addressing-selection-bias/</guid>
+      <guid>/course/20211105state-of-the-art-strategies-for-addressing-selection-bias/</guid>
       <description>&lt;p&gt;&lt;em&gt;ASA Wisconsin Chapter Traveling Course&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PSI Training Course: R for Clinical Trial Statisticians</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211101psi-training-course-r-for-clinical-trial-statisticians/</link>
+      <link>/course/20211101psi-training-course-r-for-clinical-trial-statisticians/</link>
       <pubDate>Mon, 01 Nov 2021 02:45:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211101psi-training-course-r-for-clinical-trial-statisticians/</guid>
+      <guid>/course/20211101psi-training-course-r-for-clinical-trial-statisticians/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;Every Monday or Tuesday in November. Early-bird registration ends on Oct 1.&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ASA Traveling Short Course (NYC Metro Area Chapter): Introduction to Data Science, Machine Learning and Deep Learning in R and Python</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211023asa-traveling-short-course-nyc-metro-area-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
+      <link>/course/20211023asa-traveling-short-course-nyc-metro-area-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
       <pubDate>Sat, 23 Oct 2021 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211023asa-traveling-short-course-nyc-metro-area-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
+      <guid>/course/20211023asa-traveling-short-course-nyc-metro-area-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PSI Training Course: Repeated Measured and Mixed Models</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211014psi-training-course-repeated-measured-and-mixed-models/</link>
+      <link>/course/20211014psi-training-course-repeated-measured-and-mixed-models/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211014psi-training-course-repeated-measured-and-mixed-models/</guid>
+      <guid>/course/20211014psi-training-course-repeated-measured-and-mixed-models/</guid>
       <description>&lt;p&gt;Repeated measures of patients through time and other clustered data are common in randomised clinical trials and associated observational studies. Measurements taken from the same patient (or from the same cluster) are likely to be correlated, so that the assumption that all responses will be identically distributed and independent from each other will not hold. Ignoring within-cluster correlation will result in bias in the estimate of the treatment effect standard error and therefore, incorrect confidence intervals and hypothesis tests. In some situations it can also result in bias in the treatment estimate itself. Using a range of worked examples, this course will explain how to analyse repeated measures and other clustered data, with an emphasis on estimating treatment effects using the appropriate covariance structure between measurements.&lt;/p&gt;
 &lt;p&gt;This course is presented through recorded lectures and online practical sessions using SAS code. It is suitable for statisticians working on clinical trials, who already have a good understanding of linear and generalised linear models.&lt;/p&gt;
 &lt;p&gt;Topics covered include:&lt;br&gt;
@@ -334,9 +370,9 @@ and provide examples of the types of problems where they might be applied.&lt;/p
     
     <item>
       <title>ASA Traveling Short Course (Boston Chapter): Introduction to Data Science, Machine Learning and Deep Learning in R and Python </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211009asa-traveling-short-course-boston-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
+      <link>/course/20211009asa-traveling-short-course-boston-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
       <pubDate>Sat, 09 Oct 2021 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211009asa-traveling-short-course-boston-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
+      <guid>/course/20211009asa-traveling-short-course-boston-chapter-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;This course will be held on two consecutive Saturdays, October 9 and 16&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;AI has manifested itself in all areas of our lives and is one of the most exciting and fast-growing fields of research and application in the world of data science. This course will provide an overview of using R and Python for some of the most popular machine learning and deep learning models in real-world data science applications in the cloud environment. The sessions will step through the basic theoretical concepts behind those models and mainly focus on applications. You will learn the motivation and use cases of these models through hands-on exercises. This short course&amp;rsquo;s main topics are: big data cloud environment, tree-based models, regularization methods, feedforward neural network, convolutional neural network, and recurrent neural network.&lt;/p&gt;
 &lt;p&gt;This course is designed for audiences with a statistics education background, and it bridges the gap between traditional statisticians and data scientists. No software download or installation is needed, and everything is done through the internet browser with hands-on sessions in Databrick&amp;rsquo;s cloud environment and Colab. This is a 7-hour remote course, and it will be delivered online with two 3.5-hour sessions on two days.&lt;/p&gt;</description>
@@ -344,17 +380,17 @@ and provide examples of the types of problems where they might be applied.&lt;/p
     
     <item>
       <title>ASA Virtual Traveling Course: Item Response Theory </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211008asa-virtual-traveling-course-item-response-theory/</link>
+      <link>/course/20211008asa-virtual-traveling-course-item-response-theory/</link>
       <pubDate>Fri, 08 Oct 2021 13:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211008asa-virtual-traveling-course-item-response-theory/</guid>
+      <guid>/course/20211008asa-virtual-traveling-course-item-response-theory/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A 2-day course on Oct 8 and 9&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Machine Learning Foundations – A Hands-on Introduction</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20211005machine-learning-foundations-a-hands-on-introduction/</link>
+      <link>/course/20211005machine-learning-foundations-a-hands-on-introduction/</link>
       <pubDate>Tue, 05 Oct 2021 08:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20211005machine-learning-foundations-a-hands-on-introduction/</guid>
+      <guid>/course/20211005machine-learning-foundations-a-hands-on-introduction/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; &lt;em&gt;A 3-day course on Oct 5-7&lt;/em&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Outline:&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Day 1: 10/5/21:&lt;/strong&gt;  &lt;br&gt;
@@ -370,9 +406,9 @@ Hour 2: LASSO, Discussion, and Questions - Topic is the least absolute shrinkage
     
     <item>
       <title>ASA Boston Chapter Short Course: Master Protocol in Drug Development - Methodology and Implementation</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210910asa-boston-chapter-short-course-master-protocol-in-drug-development-methodology-and-implementation/</link>
+      <link>/course/20210910asa-boston-chapter-short-course-master-protocol-in-drug-development-methodology-and-implementation/</link>
       <pubDate>Fri, 10 Sep 2021 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210910asa-boston-chapter-short-course-master-protocol-in-drug-development-methodology-and-implementation/</guid>
+      <guid>/course/20210910asa-boston-chapter-short-course-master-protocol-in-drug-development-methodology-and-implementation/</guid>
       <description>&lt;p&gt;The scientific communities are in great need to develop innovative trial designs that can incorporate multiple treatments and/or multiple diseases. Such designs provide results for multiple complex hypotheses of clinical interest and reduce the cost and timeline of development. There has been increasing interest in adopting master protocols to expedite clinical development programs. Master protocol have the potential to drive tremendous efficiencies in the development of new therapeutics or vaccines. These trials, in general, are more efficient and less costly than to perform trials individually. These efficiencies can be operational and/or statistical in nature. The master protocol is defined as one overarching protocol that would answer multiple questions or hypotheses. It includes a wide variety of designs with one potential treatment and different disease/population (basket design), multiple potential treatment and one disease (umbrella design), and multiple potential treatment along with multiple disease/population (platform design). In addition, master protocols are adaptive to include early stopping for efficacy or futility, sample size adjustment, dropping an arm, changing randomization ratio, and introducing a new treatment arm during trial. Further statistical efficiency can be gained by use of a shared control. In rare or difficult to enroll populations, a master protocol offers the opportunity to steer important new therapies into a standing clinical trials infrastructure, potentially expediting the availability of badly needed new therapies.&lt;/p&gt;
 &lt;p&gt;The short course will provide an overview of the master protocol along with statistical and operational aspects. This will cover methodology, general design framework and strategies, sample size calculation, and necessary steps for protocol implementation. In addition, we will share through case studies on practical points to consider when running master protocols.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Outline&lt;/strong&gt;&lt;/p&gt;
@@ -389,26 +425,26 @@ Hour 2: LASSO, Discussion, and Questions - Topic is the least absolute shrinkage
     
     <item>
       <title>ASA Traveling Course (Hosted by Connecticut Chapter): Guidelines for using State-of-the-Art Methods to Estimate Propensity Score and Inverse Probability of Treatment Weights When Drawing Causal Inferences </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210910asa-traveling-course-hosted-by-connecticut-chapter-causal-inferences/</link>
+      <link>/course/20210910asa-traveling-course-hosted-by-connecticut-chapter-causal-inferences/</link>
       <pubDate>Fri, 10 Sep 2021 06:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210910asa-traveling-course-hosted-by-connecticut-chapter-causal-inferences/</guid>
+      <guid>/course/20210910asa-traveling-course-hosted-by-connecticut-chapter-causal-inferences/</guid>
       <description>&lt;p&gt;The estimation of causal effects is one of the primary activities of most longitudinal research studies. For example, analysts might want to understand whether a particular substance abuse treatment program is effective for its clients, whether school-based substance prevention actually reduces substance use, whether interventions can improve the quality and efficiency of mental health care, or whether incentives can increase military recruiting or the retention of service members. Controlled experiments are held as the gold standard for estimating such effects. However, experiments are often infeasible for many reasons and only observational data, in which participation in a program or intervention is out of the control of the researchers, are available for analysis.&lt;/p&gt;
 &lt;p&gt;This short course will provide an introduction to causal modeling using the potential outcomes framework and use of propensity score weights in the estimation of causal effects from observational data. The course will also provide step-by-step guidelines on how to estimate and perform diagnostic checks of propensity score weights for evaluations examining the relative effectiveness of two interventions. The course will also discuss methods for assessing the sensitivity of finding to unobserved covariates. Attendees will gain hands on experience estimating propensity score weights, evaluating the quality of those weights, and utilizing the weights for estimating intervention effects. The course can provide demonstrations of available software in R, SAS, Stata and Shiny (as needed) for fitting the models and opportunities for conducting analyses. The primary goals of the course are for attendees to have an understanding of how to implement propensity score weighting using state-of-art-methods and insights into some of the practical issues that evaluating the quality of propensity score weights involve.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ASA Traveling Course (Hosted by Central Indiana Chapter): Guidelines for using State-of-the-Art Methods to Estimate Propensity Score and Inverse Probability of Treatment Weights When Drawing Causal Inferences </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210908asa-traveling-course-central-indiana-chapter-guidelines-to-estimate-propensity-score-and-inverse-probability-of-treatment-weights/</link>
+      <link>/course/20210908asa-traveling-course-central-indiana-chapter-guidelines-to-estimate-propensity-score-and-inverse-probability-of-treatment-weights/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210908asa-traveling-course-central-indiana-chapter-guidelines-to-estimate-propensity-score-and-inverse-probability-of-treatment-weights/</guid>
+      <guid>/course/20210908asa-traveling-course-central-indiana-chapter-guidelines-to-estimate-propensity-score-and-inverse-probability-of-treatment-weights/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt; September 8 and 9, 2021, 6:00-9:00am PST &lt;span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ASA Short Course: An Introduction to R for Non-Programmers </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210907asa-short-course-an-introduction-to-r-for-non-programmers/</link>
+      <link>/course/20210907asa-short-course-an-introduction-to-r-for-non-programmers/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210907asa-short-course-an-introduction-to-r-for-non-programmers/</guid>
+      <guid>/course/20210907asa-short-course-an-introduction-to-r-for-non-programmers/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;This will be a three-part webinar presentation from 8-10am PST on September 7th, 8th, and 9th. ASA members: $85; non-members: $135 &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Outline:&lt;/strong&gt;&lt;br&gt;
 Day 1: 9/7/21: 11 AM EST&lt;br&gt;
@@ -428,9 +464,9 @@ The course will have slides for the content. However, many hands on examples are
     
     <item>
       <title>ASA Traveling Course: Introduction to Data Science,  Machine Learning and Deep Learning (in R and Python)</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210806asa-traveling-course-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
+      <link>/course/20210806asa-traveling-course-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</link>
       <pubDate>Fri, 06 Aug 2021 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210806asa-traveling-course-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
+      <guid>/course/20210806asa-traveling-course-introduction-to-data-science-machine-learning-and-deep-learning-in-r-and-python/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: $35&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;This short course will provide an overview of using R and Python for some of the most popular machine learning and deep learning models in real-world data science applications in the cloud environment. The sessions will step through the basic theoretical concepts behind those models and mainly focus on applications. Students will learn the motivation and use cases of these models through hands-on exercises.&lt;/p&gt;
 &lt;p&gt;The main topics of the course include: big data cloud environment, tree-based models, regularization methods, feedforward neural network, convolutional neural network, and recurrent neural network.&lt;/p&gt;
@@ -439,44 +475,44 @@ The course will have slides for the content. However, many hands on examples are
     
     <item>
       <title>2021 UW Biostatistics Online Summer Institutes</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/202107072021-uw-biostatistics-online-summer-institutes/</link>
+      <link>/course/202107072021-uw-biostatistics-online-summer-institutes/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/202107072021-uw-biostatistics-online-summer-institutes/</guid>
+      <guid>/course/202107072021-uw-biostatistics-online-summer-institutes/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jun 18, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ISI Short Course: Cure Models - Methods, Applications, and Implementation</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210629isi-short-course-cure-models-methods-applications-and-implementation/</link>
+      <link>/course/20210629isi-short-course-cure-models-methods-applications-and-implementation/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210629isi-short-course-cure-models-methods-applications-and-implementation/</guid>
+      <guid>/course/20210629isi-short-course-cure-models-methods-applications-and-implementation/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €100&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;This course will provide a comprehensive introduction to cure models, including basics of the cure models as well as many recent developments related to the methodological issues and software implementations of cure models for right-censored time-to-event data subject to non-informative censoring. The course will feature real-world examples from clinical trials and population-based studies and a detailed introduction to R packages, SAS macros, and WinBUGS programs to fit some cure models. Applications of cure models in other disciplines will be discussed. This course will be useful for statistical researchers and graduate students, and practitioners in other disciplines to have a thorough review of modern cure model methodology and to seek appropriate cure models in applications.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ISI Short Course: Precision Medicine - A Statistical Perspective on Estimating the Best Treatment Strategy </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210628isi-short-course-precision-medicine-a-statistical-perspective-on-estimating-the-best-treatment-strategy/</link>
+      <link>/course/20210628isi-short-course-precision-medicine-a-statistical-perspective-on-estimating-the-best-treatment-strategy/</link>
       <pubDate>Mon, 28 Jun 2021 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210628isi-short-course-precision-medicine-a-statistical-perspective-on-estimating-the-best-treatment-strategy/</guid>
+      <guid>/course/20210628isi-short-course-precision-medicine-a-statistical-perspective-on-estimating-the-best-treatment-strategy/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Evidence-based medicine relies on using data to provide recommendations for effective treatment or prevention decisions. However, in many settings, effects may be heterogeneous across individuals, and within individuals over time. Healthcare providers are faced with the daunting task of making sequential therapeutic decisions having seen few patients with a given clinical history. Adaptive treatment strategies (ATS) operationalize the sequential decision-making process in the precision medicine paradigm, offering statisticians principled estimation tools that can be used to incorporate patient’s characteristics into a clinical decision-making framework so as to adapt the type, dosage or timing of intervention according to patients’ evolving needs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Yale Summer Course in Clinical Trials</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210628yale-summer-course-in-clinical-trials/</link>
+      <link>/course/20210628yale-summer-course-in-clinical-trials/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210628yale-summer-course-in-clinical-trials/</guid>
+      <guid>/course/20210628yale-summer-course-in-clinical-trials/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Register by June 27; Registration fee: $450&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Participants will gain knowledge of the key components of clinical trials including but not limited to trial phase and design, randomization schemes, selection of outcome and appropriate statistical analysis including sample size and power considerations, ethics, and regulatory affairs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Survival Outcome Data with High Dimensional Predictors: Methods and Applications</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210624survival-outcome-data-with-high-dimensional-predictors-methods-and-applications/</link>
+      <link>/course/20210624survival-outcome-data-with-high-dimensional-predictors-methods-and-applications/</link>
       <pubDate>Thu, 24 Jun 2021 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210624survival-outcome-data-with-high-dimensional-predictors-methods-and-applications/</guid>
+      <guid>/course/20210624survival-outcome-data-with-high-dimensional-predictors-methods-and-applications/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA members: $40; non-members: $65&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;In the era of precision medicine, survival outcome data with high-throughput covariates and predictors are often collected. These high dimensional data defy classical survival regression models, which are either infeasible to fit or likely to incur low predictability because of overfitting. This short course will introduce various cutting-edge methods that handle survival outcome data with high dimensional predictors. I will cover statistical principles and concepts behind the methods, and will also discuss their applications to the real medical examples.&lt;/p&gt;
 &lt;p&gt;Time permitting, I intend to cover the following topics.&lt;/p&gt;
@@ -491,18 +527,18 @@ The course will have slides for the content. However, many hands on examples are
     
     <item>
       <title>ISI Short Course: Communicating Health Data - The COVID-19 Experience</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210624isi-short-course-communicating-health-data-the-covid-19-experience/</link>
+      <link>/course/20210624isi-short-course-communicating-health-data-the-covid-19-experience/</link>
       <pubDate>Thu, 24 Jun 2021 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210624isi-short-course-communicating-health-data-the-covid-19-experience/</guid>
+      <guid>/course/20210624isi-short-course-communicating-health-data-the-covid-19-experience/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Two-day course on June 24 and July 1; Registration fee: €100&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The course  is an  introduction to effectively communicating, to general audiences,  complex statistical modelling and estimation related to Covid-19 data.  The instruction will be at a beginner level. The 6 hours course is split in 2 days and will cover “Basics of effective communication to a general audience” on day 1  and  “Introduction to estimation and  modelling of covid-19 data: prevalence, incidence, epi-curves, transmissibility and reproduction numbers” on day 2.  Classes  will include  stop&amp;amp;go discussion upon broadcasting of video-recorded interviews with experts and professionals  in media monitoring and communication of health data. A student assignment is scheduled at the end of day 1 lessons with feedback on day 2 for shared learning.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ISI Short Course: Bootstrap Methods and Permutation Tests</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210618isi-short-course-bootstrap-methods-and-permutation-tests/</link>
+      <link>/course/20210618isi-short-course-bootstrap-methods-and-permutation-tests/</link>
       <pubDate>Fri, 18 Jun 2021 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210618isi-short-course-bootstrap-methods-and-permutation-tests/</guid>
+      <guid>/course/20210618isi-short-course-bootstrap-methods-and-permutation-tests/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;We begin with a graphical approach to bootstrapping and permutation testing, illuminating basic statistical concepts of standard errors, confidence intervals, p-values and significance tests.&lt;/p&gt;
 &lt;p&gt;We consider a variety of statistics (mean, trimmed mean, regression, etc.), and a number of sampling situations (one-sample, two-sample, stratified, finite-population), stressing the common techniques that apply in these situations. We’ll look at applications from a variety of fields, including telecommunications, finance, and biopharm.&lt;/p&gt;
@@ -511,9 +547,9 @@ The course will have slides for the content. However, many hands on examples are
     
     <item>
       <title>ISI Short Course: Data Science and Predictive Analytics</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210616isi-short-course-data-science-and-predictive-analytics/</link>
+      <link>/course/20210616isi-short-course-data-science-and-predictive-analytics/</link>
       <pubDate>Wed, 16 Jun 2021 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210616isi-short-course-data-science-and-predictive-analytics/</guid>
+      <guid>/course/20210616isi-short-course-data-science-and-predictive-analytics/</guid>
       <description>&lt;p&gt;The training will provide intermediate to advanced learners with a solid data science foundation to address challenges related to collecting, managing, processing, interrogating, analyzing and interpreting complex health and biomedical datasets using R. Participants will gain skills and acquire a tool-chest of methods, software tools, and protocols that can be applied to a broad spectrum of Big Data problems.&lt;/p&gt;
 &lt;p&gt;Before diving into the mathematical algorithms, statistical computing methods, software tools, and health analytics, we will discuss a number of driving motivational problems. These will ground all the subsequent scientific discussions, data modeling, and computational approaches. The training will involve active-learning and integrate driving motivational challenges with mathematical foundations, computational statistics, and modern scientific inference.&lt;/p&gt;
 &lt;p&gt;Building on open-science principles, training will focus on effective, reliable, reproducible, and transformative data-driven discovery. Trainees will develop scientific intuition, computational skills, and data-wrangling abilities to tackle Big biomedical and advanced health data problems. The instructor will provide well-documented R-scripts and software recipes implementing atomic data-filters, as well as complex end-to-end predictive big data analytics solutions.&lt;/p&gt;</description>
@@ -521,17 +557,17 @@ The course will have slides for the content. However, many hands on examples are
     
     <item>
       <title>ISI Short Course: Introduction to Machine Learning </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210615isi-short-course-introduction-to-machine-learning/</link>
+      <link>/course/20210615isi-short-course-introduction-to-machine-learning/</link>
       <pubDate>Tue, 15 Jun 2021 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210615isi-short-course-introduction-to-machine-learning/</guid>
+      <guid>/course/20210615isi-short-course-introduction-to-machine-learning/</guid>
       <description>&lt;p&gt;This course describes nonparametric regression, including the additive model and its generalizations, also the LASSO, and LARS.  Then it proceeds to classification (SVMs, random forests, boosting). The Curse of Dimensionality is described in both contexts.  Bagging and stacking are covered. There is some coverage of cluster analysis, and some text analytics.  The emphasis is upon the strengths and weaknesses of the tools, and guidance on when a particular method should be used.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ISI Short Course: Statistical Theory of Deep Learning </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210607isi-short-course-statistical-theory-of-deep-learning/</link>
+      <link>/course/20210607isi-short-course-statistical-theory-of-deep-learning/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210607isi-short-course-statistical-theory-of-deep-learning/</guid>
+      <guid>/course/20210607isi-short-course-statistical-theory-of-deep-learning/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Course outline&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Motivation: The present great success of Deep Learning&lt;/li&gt;
@@ -547,26 +583,26 @@ d. Generalization: Convergence rates of DNNs for different regression and classi
     
     <item>
       <title>ISI Short Course: Reshaping Challenging Data to Produce Insightful Graphs - A Quick Start to Using R Tidyverse Tools </title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210604isi-short-course-reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</link>
+      <link>/course/20210604isi-short-course-reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</link>
       <pubDate>Fri, 04 Jun 2021 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210604isi-short-course-reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</guid>
+      <guid>/course/20210604isi-short-course-reshaping-challenging-data-to-produce-insightful-graphs-a-quick-start-to-using-r-tidyverse-tools/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;In this short course, you will learn to read and reshape a dataset from the World Bank, filter observations and select variables to produce an analysis data set and finally to produce figures. Customizing, enhancing and annotating data visualizations follows. R software with be used with functions included the tidyverse suite of packages being highlighted (dplyr, tidyr and ggplot2 in particular).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Medical University of South Carolina (MUSC) Short Course: Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210601medical-university-of-south-carolina-musc-short-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</link>
+      <link>/course/20210601medical-university-of-south-carolina-musc-short-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210601medical-university-of-south-carolina-musc-short-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</guid>
+      <guid>/course/20210601medical-university-of-south-carolina-musc-short-course-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration ends by May 10, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ISI Short Course: Recurrent Event Analysis in R with the reReg Package</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210531isi-short-course-recurrent-event-analysis-in-r-with-the-rereg-package/</link>
+      <link>/course/20210531isi-short-course-recurrent-event-analysis-in-r-with-the-rereg-package/</link>
       <pubDate>Mon, 31 May 2021 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210531isi-short-course-recurrent-event-analysis-in-r-with-the-rereg-package/</guid>
+      <guid>/course/20210531isi-short-course-recurrent-event-analysis-in-r-with-the-rereg-package/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Prepare recurrent event data in R with the Recur() function.&lt;/p&gt;
@@ -582,9 +618,9 @@ d. Generalization: Convergence rates of DNNs for different regression and classi
     
     <item>
       <title>ISI Short Course: An Introductory Course in Competing Risks</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</link>
+      <link>/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</link>
       <pubDate>Fri, 28 May 2021 05:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</guid>
+      <guid>/course/20210528isi-short-course-an-introductory-course-in-competing-risks/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration fee: €80&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -601,41 +637,41 @@ d. Generalization: Convergence rates of DNNs for different regression and classi
     
     <item>
       <title>ASA Traveling Course: Introduction to Structural Equation Modeling with Health-Related Outcome Measures</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210513asa-traveling-course-introduction-to-structural-equation-modeling-with-health-related-outcome-measures/</link>
+      <link>/course/20210513asa-traveling-course-introduction-to-structural-equation-modeling-with-health-related-outcome-measures/</link>
       <pubDate>Thu, 13 May 2021 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210513asa-traveling-course-introduction-to-structural-equation-modeling-with-health-related-outcome-measures/</guid>
+      <guid>/course/20210513asa-traveling-course-introduction-to-structural-equation-modeling-with-health-related-outcome-measures/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Registration Deadline: May 6, 2021 @ 3pm PST; ASA members: $45, non-members: $50&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Competing Frameworks and Methods for Competing Risks Data</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210430competing-frameworks-and-methods-for-competing-risks-data/</link>
+      <link>/course/20210430competing-frameworks-and-methods-for-competing-risks-data/</link>
       <pubDate>Fri, 30 Apr 2021 09:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210430competing-frameworks-and-methods-for-competing-risks-data/</guid>
+      <guid>/course/20210430competing-frameworks-and-methods-for-competing-risks-data/</guid>
       <description>&lt;p&gt;Competing risks data arise frequently in clinical and epidemiologic studies. Such data are characterized by a survival time that terminates due to one of several mutually exclusive causes. This webinar will cover the following: the two most commonly adopted frameworks for competing risks data; relevant estimands and estimators within each framework; the role of censoring as a competing risk; available modeling strategies; and causal inference in the competing risks setting. The main ideas will be illustrated through several real-data examples.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Polygenic Risk Prediction and Equitable Disease Prevention</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</link>
+      <link>/course/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</link>
       <pubDate>Thu, 22 Apr 2021 11:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</guid>
+      <guid>/course/20210422polygenic-risk-prediction-and-equitable-disease-prevention/</guid>
       <description>&lt;p&gt;Recent discoveries from large scale genome-wide association studies (GWAS) have raised the prospect of using polygenic risk scores in routine health care setting for the prediction of future incidence of large variety of complex diseases. However, as GWAS studies to date have been heavily biased towards European origin populations, current polygenic risk scores often underperform in non-European populations and thus use of them can further exacerbate healthcare inequality. In this talk, I will review simple and advanced statistical methods for generating polygenic risk score using high-dimensional SNP data and describe theoretical characterizations of their expected performance, both in the population that underlies original studies and in a different population that is expected to have different distribution of allele frequencies and linkage disequilibrium (SNP-correlation). I will further describe novel Bayesian and machine learning based methods for building polygenic risk scores that can borrow information across GWAS studies of different ethnic groups, and thus makes best use of available data to generate more powerful polygenic risk scores across different ethnic groups. I will demonstrate potential utility for PRS in precision medicine using our recent studies on breast cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Time Series - A First Course with Bootstrap Sampler</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210408time-series-a-first-course-with-bootstrap-sampler/</link>
+      <link>/course/20210408time-series-a-first-course-with-bootstrap-sampler/</link>
       <pubDate>Thu, 08 Apr 2021 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210408time-series-a-first-course-with-bootstrap-sampler/</guid>
+      <guid>/course/20210408time-series-a-first-course-with-bootstrap-sampler/</guid>
       <description>&lt;p&gt;This course will be a reprise of the main topics of the book by the same name, by Tucker McElroy and Dimitris Politis. The intended audience includes statisticians with little or no knowledge of time series, but a general knowledge of statistics. Prerequisites include a course on linear models, a course on mathematical statistics (such concepts as bias, variance, and the Gaussian distribution), and a familiarity with linear algebra (the transpose, inverse, and eigen-values of a matrix). The aim is to cover basic concepts of time series analysis at a level suitable for those with a bachelor&amp;rsquo;s or master&amp;rsquo;s degree in statistics, while including a few non-standard concepts such as volatility filtering and time series bootstraps. A second aim is to incorporate coding in R of all concepts, methods, and examples.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Causal Inference for Multiple Time-point (Longitudinal) Exposures</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/course/20210407causal-inference-for-multiple-time-point-longitudinal-exposures/</link>
+      <link>/course/20210407causal-inference-for-multiple-time-point-longitudinal-exposures/</link>
       <pubDate>Wed, 07 Apr 2021 10:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/course/20210407causal-inference-for-multiple-time-point-longitudinal-exposures/</guid>
+      <guid>/course/20210407causal-inference-for-multiple-time-point-longitudinal-exposures/</guid>
       <description>&lt;p&gt;This workshop applies the Causal Roadmap to estimate the causal effects with multiple intervention variables, such as the cumulative effect of an exposure over time, controlled direct effects, and effects on survival-type outcomes with right-censoring. We will cover longitudinal causal models, identification in the presence of time-dependent confounding; and estimation of joint treatment effects using G-computation, inverse probability weighting (IPW), and targeted maximum likelihood estimation (TMLE) with Super Learner. During the workshop session, participants will work through the Roadmap using an applied example and implement these estimators with the ltmle R package. Prior training in causal inference in a single time-point setting is strongly recommended, but not required.&lt;/p&gt;</description>
     </item>
     

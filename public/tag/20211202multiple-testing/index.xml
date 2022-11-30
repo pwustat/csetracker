@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multiple Testing | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211202multiple-testing/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20211202multiple-testing/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20211202multiple-testing/</link>
+      <atom:link href="/tag/20211202multiple-testing/index.xml" rel="self" type="application/rss+xml" />
     <description>Multiple Testing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 07:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Multiple Testing</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20211202multiple-testing/</link>
+      <link>/tag/20211202multiple-testing/</link>
     </image>
     
     <item>
       <title>RSS Journal Webinar: Multiple Testing</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211202rss-journal-webinar-multiple-testing/</link>
+      <link>/webinar/20211202rss-journal-webinar-multiple-testing/</link>
       <pubDate>Thu, 02 Dec 2021 07:00:00 -0700</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/20211202rss-journal-webinar-multiple-testing/</guid>
+      <guid>/webinar/20211202rss-journal-webinar-multiple-testing/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Paper 1: ‘AdaPT: an interactive procedure for multiple testing with side information’ (&lt;a href=&#34;https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12274&#34;&gt;https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12274&lt;/a&gt;) by Lei &amp;amp; Fithian. It was published in Series B, Volume 80, Issue 4, June 2018&lt;/p&gt;

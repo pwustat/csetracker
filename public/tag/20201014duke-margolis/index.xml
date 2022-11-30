@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Duke-Margolis | CSE Tracker</title>
-    <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20201014duke-margolis/</link>
-      <atom:link href="https://master--youthful-lamport-190a0e.netlify.app/tag/20201014duke-margolis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/20201014duke-margolis/</link>
+      <atom:link href="/tag/20201014duke-margolis/index.xml" rel="self" type="application/rss+xml" />
     <description>Duke-Margolis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 10:00:00 -0800</lastBuildDate>
     <image>
-      <url>https://master--youthful-lamport-190a0e.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Duke-Margolis</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/tag/20201014duke-margolis/</link>
+      <link>/tag/20201014duke-margolis/</link>
     </image>
     
     <item>
       <title>12th Annual Sentinel Initiative Public Workshop</title>
-      <link>https://master--youthful-lamport-190a0e.netlify.app/webinar/2020101412th-annual-sentinel-initiative-public-workshop/</link>
+      <link>/webinar/2020101412th-annual-sentinel-initiative-public-workshop/</link>
       <pubDate>Wed, 14 Oct 2020 10:00:00 -0800</pubDate>
-      <guid>https://master--youthful-lamport-190a0e.netlify.app/webinar/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
+      <guid>/webinar/2020101412th-annual-sentinel-initiative-public-workshop/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Session I: A Robust Sentinel System for the 21st Century&lt;/strong&gt;&lt;br&gt;
