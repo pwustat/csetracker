@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WNAR | CSE Tracker</title>
+    <title>WNAR | BIG Event Tracker</title>
     <link>/tag/20210226wnar/</link>
       <atom:link href="/tag/20210226wnar/index.xml" rel="self" type="application/rss+xml" />
     <description>WNAR</description>
