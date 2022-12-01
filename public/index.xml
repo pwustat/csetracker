@@ -135,6 +135,14 @@ Block Randomization with Stratification&lt;/p&gt;
     </item>
     
     <item>
+      <title>The 78th Annual Deming Conference on Applied Statistics</title>
+      <link>/conference/20221205the-78th-annual-deming-conference-on-applied-statistics/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221205the-78th-annual-deming-conference-on-applied-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Validating Surrogate Outcomes in Oncology – Statisticians, Step Up!</title>
       <link>/webinar/20221202validating-surrogate-outcomes-in-oncology-statisticians-step-up/</link>
       <pubDate>Fri, 02 Dec 2022 14:00:00 +0000</pubDate>
@@ -206,6 +214,14 @@ d. Real life application&lt;/p&gt;
     </item>
     
     <item>
+      <title>PyData Global 2022 Conference</title>
+      <link>/conference/20221201pydata-global-2022-conference/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221201pydata-global-2022-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASA Statistical Learning and Data Science Section November Webinar: Delphis&#39; Epidata Project Opportunities and Challenges in Auxiliary Surveillance for Public Health in the United States</title>
       <link>/webinar/20221130asa-statistical-learning-and-data-science-section-webinar/</link>
       <pubDate>Wed, 30 Nov 2022 10:00:00 +0000</pubDate>
@@ -245,6 +261,14 @@ trial and the historical data can be included. The framework is illustrated usin
     </item>
     
     <item>
+      <title>2022 International Symposium on Modern Data Science Application, Practice, and Theory (MDSAPT2022)</title>
+      <link>/conference/202211192022-international-symposium-on-modern-data-science-application-practice-and-theory-mdsapt2022/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202211192022-international-symposium-on-modern-data-science-application-practice-and-theory-mdsapt2022/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$100&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>40th Fisher Lecture: Fisher&#39;s Legacy of Multivariate Analysis, Statistics on Manifolds, and Beyond </title>
       <link>/webinar/2022111840th-fisher-lecture/</link>
       <pubDate>Fri, 18 Nov 2022 09:30:00 +0000</pubDate>
@@ -255,6 +279,14 @@ trial and the historical data can be included. The framework is illustrated usin
 &lt;p&gt;We will discuss the extension of the Fisher distribution on the sphere to hypersphere which is now known as the von Mises-Fisher distribution. In general, the maximum likelihood methods for directional distributions are not computationally straightforward and a new approach of the score matching estimate will be presented.&lt;/p&gt;
 &lt;p&gt;Coming back to the topic of discriminant analysis, historically, he wrote four papers on this topic during 1936-1940 and connected with the pioneering work in the same period of Hotelling and Mahalanobis. We revisit the famous iris data and answer one of the assumptions he points out in his work that he admits that he is assuming normality to assess the misclassification error, in particular. One of the most popular tests of normality is through my measures of multivariate skewness and kurtosis and we give evidence that his assumption was well founded. We also indicate how the subject has moved due to the computer revolution and there are now new methods such as kernel classifier, classification trees, support vector machine, neural networks to carry out discriminant analysis. His work is a classical parametric work, but new advances have more of non-parametric flavour. Intersting that all these new analysis lead to similar conclusion as from Fisher&amp;rsquo;s LDA for the Iris data.&lt;/p&gt;
 &lt;p&gt;Overall, with computational power, the whole subject of Multivariate Analysis has changed its emphasis. Deriving sampling distributions as one of the topics which Fisher pioneered has now moved to simulation methods, for example, to obtain percentage points. Boot strapping is another innovation. Now the topic of High Dimensional Data is another growing area and Cluster Analysis has become the topic of unsupervised learning. Finally, we end with a historical note pointing out some correspondence between D&amp;rsquo;Arcy Thompson (pioneer of Shape Analysis) and R A Fisher where we could have seen Fisher’s insight into Shape Analysis but this collaborative work via a Research Student did not materialise.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022 Biostatistics, Epidemiology, and Research Design (BERD) Methods Conference</title>
+      <link>/conference/202211182022-biostatistics-epidemiology-and-research-design-berd-methods-conference/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202211182022-biostatistics-epidemiology-and-research-design-berd-methods-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -284,6 +316,22 @@ associations between two random variables one of which is a failure time subject
       <pubDate>Thu, 17 Nov 2022 07:30:00 +0000</pubDate>
       <guid>/webinar/20221117dartmouth-area-sas-user-group-dasug-webinar/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Friends of Cancer Research Annual Meeting 2022</title>
+      <link>/conference/20221117friends-of-cancer-research-annual-meeting-2022/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221117friends-of-cancer-research-annual-meeting-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine Webinar</title>
+      <link>/webinar/20221117precision-medicine-webinar/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/webinar/20221117precision-medicine-webinar/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;€200&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -327,6 +375,38 @@ associations between two random variables one of which is a failure time subject
     </item>
     
     <item>
+      <title>Harvard Data Science Initiative (HDSI) Annual Conference 2022</title>
+      <link>/conference/20221115harvard-data-science-initiative-hdsi-annual-conference-2022/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221115harvard-data-science-initiative-hdsi-annual-conference-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHUSE EU Connect 2022</title>
+      <link>/conference/20221113phuse-eu-connect-2022/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221113phuse-eu-connect-2022/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;£525-£1,155&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022 NextGen Data Science Day (DSD) Conference</title>
+      <link>/conference/202211122022-nextgen-data-science-day-dsd-conference/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202211122022-nextgen-data-science-day-dsd-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Computing in Action 2022</title>
+      <link>/conference/20221112statistical-computing-in-action-2022/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221112statistical-computing-in-action-2022/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Section on Statistical Computing members: $10; Other ASA members: $25; Non-members: $40&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>A 2-in-1 Adaptive Design to Seamlessly Expand a Selected Dose from a Phase 2 Trial to a Phase 3 Trial for Oncology Drug Development</title>
       <link>/webinar/20221110a-2-in-1-adaptive-design-to-seamlessly-expand-a-selected-dose-from-a-phase-2-trial-to-a-phase-3-trial-for-oncology-drug-development/</link>
       <pubDate>Thu, 10 Nov 2022 06:00:00 +0000</pubDate>
@@ -356,6 +436,14 @@ assumption. Simulation studies are conducted to confirm the control of Type I er
     </item>
     
     <item>
+      <title>DIA’s Real World Evidence Conference: Translating Insights into Real-World Value</title>
+      <link>/conference/20221110dia-s-real-world-evidence-conference/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221110dia-s-real-world-evidence-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration ends on 10/13/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Cross-validation in Model Selection and Assessment</title>
       <link>/webinar/20221109cross-validation-in-model-selection-and-assessment/</link>
       <pubDate>Wed, 09 Nov 2022 08:00:00 +0000</pubDate>
@@ -367,6 +455,22 @@ assumption. Simulation studies are conducted to confirm the control of Type I er
 &lt;li&gt;Confidence intervals for prediction error using nested CV&lt;/li&gt;
 &lt;li&gt;Out-of-bag error for random-forests and standard error estimates&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>37th Annual Meeting of Society for Immunotherapy of Cancer (SITC2022)</title>
+      <link>/conference/2022110837th-annual-meeting-of-society-for-immunotherapy-of-cancer-sitc2022/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/2022110837th-annual-meeting-of-society-for-immunotherapy-of-cancer-sitc2022/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$1,550 by 10/5/2022; $1,750 after 10/5/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISPOR Europe 2022</title>
+      <link>/conference/20221106ispor-europe-2022/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221106ispor-europe-2022/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Virtual attendance: $645-$845 by 9/29/2022; $810-$1,050 after 9/29/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -396,6 +500,14 @@ assumption. Simulation studies are conducted to confirm the control of Type I er
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
       <guid>/conference/202211032022-program-in-quantitative-genomics-pqg-conference/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Theme: Emerging challenges and opportunities in gene editing&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bay Area Biotech-Pharma Statistics Workshop (BBSW2022)</title>
+      <link>/conference/20221103bay-area-biotech-pharma-statistics-workshop-bbsw2022/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221103bay-area-biotech-pharma-statistics-workshop-bbsw2022/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$400 by 9/30/2022; $500 after 9/30/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -497,21 +609,33 @@ indicator.&lt;/p&gt;</description>
       <guid>/course/20221015navigating-tough-conversations-in-statistical-collaboration/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Hosted by Boston Chapter&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Statistical practitioners face difficult conversations in their interactions with their clients and collaborators. The topics of these conversations vary widely, from completion timelines to the use and interpretation of p-values. While there are no universal guidelines for navigating tough conversations, thoughtful discussion about common experiences and lessons learned; reflection on differences among individuals and situations; and exercises such as role playing can be helpful to prepare and build confidence for engaging in future tough conversations. In this course, we will build participants’ confidence to effectively communicate with clients and customers when challenging topics or situations arise.&lt;/p&gt;
-&lt;p&gt;In this course, we will:&lt;/p&gt;
-&lt;p&gt;Give and solicit examples of difficult conversations often encountered in statistical collaboration.
-Provide suggestions to approach and engage in these difficult conversations through multiple interactive activities, with a focus on leveraging participant strengths by using individual personality and skills to have these conversations in participants’ own style.
-Engage participants in the interactive session and learn from each other through discussion, role-playing, and conversations motivated by participants’ questions and recently produced videos portraying several difficult conversations between statisticians and their collaborators.
-Course learning objectives&lt;/p&gt;
-&lt;p&gt;Build confidence for engaging in difficult conversations by improving skills for navigating these conversations, while respecting individual differences in communication strategies and professional settings and relationships.
-Cultivate communication skills and strategies for having difficult conversations on both technical and professional topics with collaborators and clients.
-Reflect on participant strategies for communication in the context of their career and their job’s expectations
-Create a sense of community among participants and start to build a support network for continued discussion and reflection after the course.
-Course outline&lt;/p&gt;
-&lt;p&gt;Welcome and Introductions: instructors &amp;amp; attendees
-Conversation: A conversation among instructors and participants to define “difficult conversations”, share experiences, identify participants’ communication strengths, and how they currently manage challenging conversations. Some example conversation questions include: How do you define “difficult conversation”? What difficult conversations have you had in your work? Can you predict that a conversation with a collaborator will be difficult? What are your communication strengths? What do you do before the meeting to help yourself prepare for a conversation you expect will be difficult? Do you have professional support through colleagues to talk through experiences, either before or after? We will also briefly discuss conflict resolution, implicit biases and intersectionalities relevant when communicating with others.
-Short break
-Focused Discussion: Explore specific scenarios through role-playing (script reading), discussion, and analyzing videos of meetings between a researcher and statistical collaborator. Three case-studies, covering different tough conversation topics, will be examined either through role-playing or viewing videos.
-Closing Discussion: Answer remaining participant questions. Review and summarize strategies for effective communication through class discussion. Solicit feedback for course improvement.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;In this course, we will:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Give and solicit examples of difficult conversations often encountered in statistical collaboration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Provide suggestions to approach and engage in these difficult conversations through multiple interactive activities, with a focus on leveraging participant strengths by using individual personality and skills to have these conversations in participants’ own style.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Engage participants in the interactive session and learn from each other through discussion, role-playing, and conversations motivated by participants’ questions and recently produced videos portraying several difficult conversations between statisticians and their collaborators.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Course learning objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Build confidence for engaging in difficult conversations by improving skills for navigating these conversations, while respecting individual differences in communication strategies and professional settings and relationships&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cultivate communication skills and strategies for having difficult conversations on both technical and professional topics with collaborators and clients&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reflect on participant strategies for communication in the context of their career and their job’s expectations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a sense of community among participants and start to build a support network for continued discussion and reflection after the course.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -523,6 +647,54 @@ Closing Discussion: Answer remaining participant questions. Review and summarize
     </item>
     
     <item>
+      <title>2022 Orange County Biostatistics Symposium: Leveraging Data to Shape the Future of Clinical Development</title>
+      <link>/conference/202210142022-orange-county-biostatistics-symposium/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202210142022-orange-county-biostatistics-symposium/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>University of Connecticut Excellence in Statistical Science Conference</title>
+      <link>/conference/20221014university-of-connecticut-excellence-in-statistical-science-conference/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221014university-of-connecticut-excellence-in-statistical-science-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Conference on Statistical Distributions and Applications (ICOSDA 2022)</title>
+      <link>/conference/20221013international-conference-on-statistical-distributions-and-applications/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221013international-conference-on-statistical-distributions-and-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Scientific Meeting: Adaptive Designs and Their Application</title>
+      <link>/conference/20221013psi-scientific-meeting-adaptive-designs-and-their-application/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221013psi-scientific-meeting-adaptive-designs-and-their-application/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Members: £40+VAT; Non-members: £150+VAT&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>6th Annual AI in Pharma: Realizing the Full Potential of AI in Drug Discovery</title>
+      <link>/conference/202210126th-annual-ai-in-pharma/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202210126th-annual-ai-in-pharma/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$899 - $1,099&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Biostatistics Conference (BAYES2022)</title>
+      <link>/conference/20221012bayesian-biostatistics-conference-bayes2022/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221012bayesian-biostatistics-conference-bayes2022/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$800; registration ends on 9/26/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>SAS Webinar: Quoting in SAS Macro Programming</title>
       <link>/webinar/20221011sas-webinar-quoting-in-sas-macro-programming/</link>
       <pubDate>Tue, 11 Oct 2022 10:00:00 +0000</pubDate>
@@ -531,11 +703,51 @@ Closing Discussion: Answer remaining participant questions. Review and summarize
     </item>
     
     <item>
+      <title>Duke-Margolis/FDA Virtual Public Workshop: Challenges and Opportunities for REMS Integration, Innovation, and Modernization</title>
+      <link>/conference/20221011duke-margolis-fda-virtual-public-workshop/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221011duke-margolis-fda-virtual-public-workshop/</guid>
+      <description>&lt;p&gt;Speakers from FDA and MITRE will provide an overview of the prototype’s aims, core functions, and role in FDA’s ongoing efforts to modernize REMS. Patients, prescribers, pharmacists, health system representatives, informaticists, and other key stakeholders will participate in a series of moderated panel discussions that focus on how the prototype can address challenges associated with integrating REMS requirements into clinical workflows to facilitate safe medication use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>BBSW 2022 October Meetup: Considerations for Pediatric Drug Development</title>
       <link>/webinar/20221007bbsw-2022-october-meetup/</link>
       <pubDate>Fri, 07 Oct 2022 13:30:00 +0000</pubDate>
       <guid>/webinar/20221007bbsw-2022-october-meetup/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>2022 Boston Pharmaceutical Symposium</title>
+      <link>/conference/202210072022-boston-pharmaceutical-symposium/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202210072022-boston-pharmaceutical-symposium/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Boston Chapter members: $90; Non-members: $120&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>International Conference on Advances in Interdisciplinary Statistics and Combinatorics</title>
+      <link>/webinar/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/webinar/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$350&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022 Women in Statistics and Data Science Conference</title>
+      <link>/conference/202210062022-women-in-statistics-and-data-science-conference/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202210062022-women-in-statistics-and-data-science-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$495-$695&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022 NIC-ASA &amp; ICSA Midwest Chapter Joint Fall Meeting</title>
+      <link>/conference/202210052022-nic-asa-icsa-midwest-chapter-joint-fall-meeting/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202210052022-nic-asa-icsa-midwest-chapter-joint-fall-meeting/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$110-$340; registration ends on 9/28/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
