@@ -319,6 +319,27 @@ associations between two random variables one of which is a failure time subject
     </item>
     
     <item>
+      <title>A 2-in-1 Adaptive Design to Seamlessly Expand a Selected Dose from a Phase 2 Trial to a Phase 3 Trial for Oncology Drug Development</title>
+      <link>/webinar/20221110a-2-in-1-adaptive-design-to-seamlessly-expand-a-selected-dose-from-a-phase-2-trial-to-a-phase-3-trial-for-oncology-drug-development/</link>
+      <pubDate>Thu, 10 Nov 2022 06:00:00 +0000</pubDate>
+      <guid>/webinar/20221110a-2-in-1-adaptive-design-to-seamlessly-expand-a-selected-dose-from-a-phase-2-trial-to-a-phase-3-trial-for-oncology-drug-development/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA-BI-NESS Statistics Webinar Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In oncology, dose-finding studies are largely performed only in Phase I clinical trials and the maximum tolerated dose (MTD), a dose initially developed for systemic chemotherapies, is by default selected for the Phase 3 confirmatory trial. With the advent of anti-cancer therapies such as molecular targeted agents and immunotherapies, a paradigm shift is underway from the use of conventional MTD approaches to
+improved dose selection strategies for oncology programs. In response to this new challenge, new study designs are needed to optimize dose selection while still bringing life-changing new therapies to patients as soon as possible. We propose a 2-in-1 adaptive design starting with a Phase 2 trial with randomized evaluation of two doses and only select one dose to expand to a Phase 3 trial if efficacy evidence is observed
+based on an interim evaluation. The low dose will be selected if both doses show promising efficacy unless the high dose demonstrates a more compelling treatment effect, and the study will be seamlessly expanded to a Phase 3 trial with the selected dose with patients enrolled in the Phase 2 portion also used for the statistical inference in the Phase 3 portion. The overall Type I error can be controlled under a mild
+assumption. Simulation studies are conducted to confirm the control of Type I error and to demonstrate the desirable operating characteristics of the proposed design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis</title>
+      <link>/webinar/20221110derivative-based-neural-modelling/</link>
+      <pubDate>Thu, 10 Nov 2022 06:00:00 +0000</pubDate>
+      <guid>/webinar/20221110derivative-based-neural-modelling/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Survival models — particularly those able to account for patient comorbidities via competing risks analysis — offer valuable prognostic information to clinicians making critical decisions and represent a growing area of application for machine learning approaches. However, current methods typically involve restrictive parameterisations, discretisation of time or the modelling of only one event cause. In this talk, I highlight how general cumulative distribution functions can be naturally expressed via neural network-based ordinary differential equations and how this can be utilised in survival analysis. In particular, we present DeSurv, a neural derivative-based approach capable of avoiding the aforementioned restrictions and flexibly modelling competing-risk survival data in continuous time. We apply DeSurv to both single-risk and competing-risk synthetic and real-world datasets and obtain results which compare favourably with current state-of-the-art models.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>A Celebration of 50 Years of the Cox Model in Memory of Sir David Cox</title>
       <link>/conference/20221110a-celebration-of-50-years-of-the-cox-model/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>

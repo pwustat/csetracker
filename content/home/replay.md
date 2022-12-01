@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Webinar Replay
+title: Past Webinars
 subtitle:
 
 content:
