@@ -5,12 +5,44 @@
     <link>/conference/</link>
       <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/conference/</link>
     </image>
+    
+    <item>
+      <title>ASA San Francisco Bay Area Chapter Holiday Event: Storytelling Statistics</title>
+      <link>/conference/20221211asa-san-francisco-bay-area-chapter-holiday-event-storytelling-statistics/</link>
+      <pubDate>Sun, 11 Dec 2022 14:00:00 +0000</pubDate>
+      <guid>/conference/20221211asa-san-francisco-bay-area-chapter-holiday-event-storytelling-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duke-Margolis/FDA 14th Annual Sentinel Initiative Public Workshop</title>
+      <link>/conference/20221115duke-margolis-fda-14th-annual-sentinel-initiative-public-workshop/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221115duke-margolis-fda-14th-annual-sentinel-initiative-public-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Celebration of 50 Years of the Cox Model in Memory of Sir David Cox</title>
+      <link>/conference/20221110a-celebration-of-50-years-of-the-cox-model/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221110a-celebration-of-50-years-of-the-cox-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022 Program in Quantitative Genomics (PQG) Conference</title>
+      <link>/conference/202211032022-program-in-quantitative-genomics-pqg-conference/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202211032022-program-in-quantitative-genomics-pqg-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Theme: Emerging challenges and opportunities in gene editing&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The 12th International Conference on Multiple Comparison Procedures (MCP2022) </title>

@@ -5,12 +5,45 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 07:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ASA San Francisco Bay Area Chapter Holiday Event: Storytelling Statistics</title>
+      <link>/conference/20221211asa-san-francisco-bay-area-chapter-holiday-event-storytelling-statistics/</link>
+      <pubDate>Sun, 11 Dec 2022 14:00:00 +0000</pubDate>
+      <guid>/conference/20221211asa-san-francisco-bay-area-chapter-holiday-event-storytelling-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing Intercurrent Events - Treatment Policy and Hypothetical Strategies</title>
+      <link>/webinar/20221208addressing-intercurrent-events-treatment-policy-and-hypothetical-strategies/</link>
+      <pubDate>Thu, 08 Dec 2022 05:00:00 +0000</pubDate>
+      <guid>/webinar/20221208addressing-intercurrent-events-treatment-policy-and-hypothetical-strategies/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Joint EFSPI &amp;amp; BBS Virtual Event; December 8, 2022, 5:00-8:00am PST &amp;amp; December 15, 2022, 5:00-8:30am PST&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The ICH E9 (R1) addendum on estimands and sensitivity analysis in clinical trials is wellestablished in many pharmaceutical companies but there remain open questions. These workshops will focus on two prominent ICE strategies and discuss both conceptual issues and
+novel statistical estimation approaches.&lt;/p&gt;
+&lt;p&gt;Questions that will be discussed include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;How to implement a treatment policy strategy if data after intercurrent events (ICEs) are frequently missing?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When is a hypothetical strategy warranted and acceptable to regulators?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Is it mandatory to remove data after the ICE for implementing a hypothetical strategy?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to estimate treatment effects for estimands with multiple intercurrent events and mixed estimand strategies?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Harnessing Risk-Based Quality Management and Deep Learning to Improve Trial Knowledge and Drive Better Decision-Making and Outcomes</title>
@@ -178,6 +211,198 @@ d. Real life application&lt;/p&gt;
       <pubDate>Tue, 29 Nov 2022 09:00:00 +0000</pubDate>
       <guid>/webinar/20221129r-at-astrazeneca/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Calculation of Power and Type I Error Rate of Methods for Borrowing Data from Historical Controls: Should We Sample the Historical Data?</title>
+      <link>/webinar/20221123calculation-of-power-and-type-i-error-rate/</link>
+      <pubDate>Wed, 23 Nov 2022 12:30:00 +0000</pubDate>
+      <guid>/webinar/20221123calculation-of-power-and-type-i-error-rate/</guid>
+      <description>&lt;p&gt;Many methods for borrowing information from historical controls in the analysis of a randomized trial have been proposed, such as the (modified) power prior and the meta-analytic predictive prior. These
+methods aim to increase the power and reduce sample size requirements while providing a safeguard against prior-data conflict (i.e. substantial differences between data sources). However some methods can increase the type I error rate, which may not be acceptable to regulatory authorities. Power and type I error rate are calculated using simulation, which can be done using a conditional (taking the historical
+data as fixed) or an unconditional approach (sampling also the historical data in the simulation).&lt;/p&gt;
+&lt;p&gt;In this talk we give a brief introduction to these borrowing methods and we discuss the ideas behind the unconditional and the conditional approach. We propose a framework for the unconditional approach that
+can incorporate a systematic bias of the historical data as well as between-study heterogeneity based on an assumption of exchangeability. In this framework, prior information on the similarity of the current
+trial and the historical data can be included. The framework is illustrated using a simulation study. The results of the unconditional approach show that if we assume exchangeability and no systematic bias of historical and current controls, a gain in power while keeping the type I error rate fixed is possible. Using the conditional approach it is difficult to incorporate knowledge on the similarity of the historical controls.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using Electronic Health Records for Scientific Research - Promises and Perils</title>
+      <link>/webinar/20221122using-electronic-health-records-for-scientific-research-promises-and-perils/</link>
+      <pubDate>Tue, 22 Nov 2022 06:00:00 +0000</pubDate>
+      <guid>/webinar/20221122using-electronic-health-records-for-scientific-research-promises-and-perils/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;University of Cambridge Medical Research Council Biostatistics Unit Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Electronic Health Records (EHR) linked with other auxiliary data sources hold tremendous potential for conducting real time actionable research. However, one has to answer two fundamental questions before conducting inference: “Who is in my study?” and “What is the target population of Inference?”.  Without accounting for selection bias, one can quickly produce rapid but inaccurate conclusions. In this talk, I will discuss a statistical framework for jointly considering selection bias and phenotype misclassification in analyzing EHR data. Examples will include genome and phenome-wide association studies of Cancer and COVID-19 outcomes using data from the Michigan Genomics initiative and the UK Biobank. This is joint work with Lars Fritsche, Lauren Beesley and Maxwell Salvatore at the University of Michigan School of Public Health.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>40th Fisher Lecture: Fisher&#39;s Legacy of Multivariate Analysis, Statistics on Manifolds, and Beyond </title>
+      <link>/webinar/2022111840th-fisher-lecture/</link>
+      <pubDate>Fri, 18 Nov 2022 09:30:00 +0000</pubDate>
+      <guid>/webinar/2022111840th-fisher-lecture/</guid>
+      <description>&lt;p&gt;It will not be an exaggeration to say that R A Fisher is the Albert Einstein of Statistics. He pioneered almost all the main branches of statistics, but it is not as well known that he opened the area of Directional Statistics with his pioneering 1953 paper introducing the Fisher distribution on the sphere. He stressed that for spherical data one should take into account that the data is on a manifold. Since then, many extensions of this distribution have appeared bearing Fisher&amp;rsquo;s name. In fact, the subject of Directional Statistics has grown tremendously in the last two decades with new applications emerging in Life Sciences, Image Analysis and so on. Another area Fisher opened which I will consider is discriminant analysis in Multivariate Analysis. Several papers by him and others followed from his seminal paper in 1936 on Discriminant Analysis where he coined the name discrimination function. Now Fisher&amp;rsquo;s Linear Discriminant Analysis (LDA) is an indispensable tool in Statistical Learning.&lt;/p&gt;
+&lt;p&gt;One of the features of Fisher&amp;rsquo;s work is that the starting point was often a motivating application from scientists and applied statisticians. For Directional Statistics, this was the problem of pole reversal raised by a geologist Mr J. Hospers. For Discriminant Analysis it was a set of cranial measurements taken by Mr E. R. Martin, who applied Discriminant Analysis to sex differences in measurements of the mandible. Further motivation was through the work of Miss Mildred Barnard in collecting and analysing a time series of skull measurements. However, in his 1936 paper, he first time introduces now celebrated iris data.&lt;/p&gt;
+&lt;p&gt;In this talk, first I will describe the Fisher distribution and reanalyse his geological data. He mentioned in the paper that it has two goals: the first to explore methodology for the analysis of widely dispersed measurements of direction such as frequently arise in geology; the second goal to illustrate the correct a pplication of fiducial inference. Regarding, the first goal the Fisher-von Mises distribution has become an essential tool for analysing spherical data but regarding his second goal on fiducial inference his achievement remains uncertain. Incidentally, Fisher derives, the von Mises distribution on the circle independently in 1959 as another example to illustrate the fiducial principle rather than analysing any circular data.&lt;/p&gt;
+&lt;p&gt;We will discuss the extension of the Fisher distribution on the sphere to hypersphere which is now known as the von Mises-Fisher distribution. In general, the maximum likelihood methods for directional distributions are not computationally straightforward and a new approach of the score matching estimate will be presented.&lt;/p&gt;
+&lt;p&gt;Coming back to the topic of discriminant analysis, historically, he wrote four papers on this topic during 1936-1940 and connected with the pioneering work in the same period of Hotelling and Mahalanobis. We revisit the famous iris data and answer one of the assumptions he points out in his work that he admits that he is assuming normality to assess the misclassification error, in particular. One of the most popular tests of normality is through my measures of multivariate skewness and kurtosis and we give evidence that his assumption was well founded. We also indicate how the subject has moved due to the computer revolution and there are now new methods such as kernel classifier, classification trees, support vector machine, neural networks to carry out discriminant analysis. His work is a classical parametric work, but new advances have more of non-parametric flavour. Intersting that all these new analysis lead to similar conclusion as from Fisher&amp;rsquo;s LDA for the Iris data.&lt;/p&gt;
+&lt;p&gt;Overall, with computational power, the whole subject of Multivariate Analysis has changed its emphasis. Deriving sampling distributions as one of the topics which Fisher pioneered has now moved to simulation methods, for example, to obtain percentage points. Boot strapping is another innovation. Now the topic of High Dimensional Data is another growing area and Cluster Analysis has become the topic of unsupervised learning. Finally, we end with a historical note pointing out some correspondence between D&amp;rsquo;Arcy Thompson (pioneer of Shape Analysis) and R A Fisher where we could have seen Fisher’s insight into Shape Analysis but this collaborative work via a Research Student did not materialise.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Boston Chapter 2022 Statistical Outreach and Literacy Award: The Art of Storytelling with Data</title>
+      <link>/webinar/20221117asa-boston-chapter-2022-statistical-outreach-and-literacy-award/</link>
+      <pubDate>Thu, 17 Nov 2022 15:00:00 +0000</pubDate>
+      <guid>/webinar/20221117asa-boston-chapter-2022-statistical-outreach-and-literacy-award/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Science communication and storytelling with scientific data represent two distinct ways of constructing reality. There are traps when science and storytelling mean different things when they speak of truth. In our highly interconnected world, data scientists must promote knowledge sharing with broad audiences and develop effective tools for science communication. Working on complex problems related to health, climate change, humanitarian conflicts, pandemics, and environmental degradation, we recognize many challenges in data collection and analysis, modeling, data visualization, and results interpretation. Data science offers new opportunities for building narratives and storytelling. Making sense out of scientific data is my passion and way of critical thinking. In this talk I plan to illustrate how to overcome the hurdles of conveying the truth with scientific data and how we can use various forms of data visualization &amp;ndash; from multi-panel charts to dynamic maps &amp;ndash; to create data-driven narratives.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Failure Time Analysis – Thinking Out of the “Cox-Regression Box” in Genomic Applications</title>
+      <link>/webinar/20221117nonparametric-failure-time-analysis/</link>
+      <pubDate>Thu, 17 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20221117nonparametric-failure-time-analysis/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Texas A&amp;amp;M University Statistics Former Student Network (SFSN) Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Genome-wide Association Study (GWAS) has become routine in oncology genomic translational research. GWAS often requires genome-wide screening to identify ordinal or continuous genomic features that are associated with long-term treatment outcome; for example, single nucleotide polymorphisms associated with time to cancer relapse. The estimated coefficient of a hazard rate regression model (HRRM, such as Cox’s model) has been a popular choice for a statistic to test for such associations. It will be demonstrated in this talk that in certain circumstances one runs into trouble with the HRRM approach.&lt;/p&gt;
+&lt;p&gt;Motivated by this problem, a robust, completely nonparametric approach using Pearson’s or rank-based correlation has been developed. This method, called correlation profile test (CPT), is formed by the correlation profile statistic coupled with an
+accurate hybrid permutation test that combines permutation and asymptotic distribution. Statistical performances of CPT are compared with a few established methods by a simulation study and an analysis of a real GWAS dataset. It is shown that
+in cases where the proportional hazards assumption does not hold, CPT is much superior to the HRRM approach in terms of possessing higher statistical power and maintaining the nominal significance level. Only in the scenarios where the proportional hazards model holds exactly or approximately can CPT be inferior to the HRRM approach. Some analytical insight into this performance pattern will be presented. In summary, CPT is a complementary alternative to the HRRM approach in testing
+associations between two random variables one of which is a failure time subject to right censoring.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dartmouth Area SAS User Group (DASUG) Webinar: Getting Started With Survival Analysis</title>
+      <link>/webinar/20221117dartmouth-area-sas-user-group-dasug-webinar/</link>
+      <pubDate>Thu, 17 Nov 2022 07:30:00 +0000</pubDate>
+      <guid>/webinar/20221117dartmouth-area-sas-user-group-dasug-webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McGill University Biostatistics Seminars: Inference in Response-Adaptive Trials When the Patient Population Varies During Time</title>
+      <link>/webinar/20221116mcgill-university-biostatistics-seminars/</link>
+      <pubDate>Wed, 16 Nov 2022 12:30:00 +0000</pubDate>
+      <guid>/webinar/20221116mcgill-university-biostatistics-seminars/</guid>
+      <description>&lt;p&gt;A common assumption of data analysis in clinical trials is that the patient population, as well as treatment effects, do not vary during the study. However, when trials enroll patients over several years, this hypothesis may be violated. Ignoring variations of the outcome distributions over time, under the control and experimental treatments, can lead to biased treatment effect estimates and poor control of false positive results. We propose and compare two procedures that account for possible variations of the outcome distributions over time, to correct treatment effect estimates, and to control type-I error rates. The first procedure models trends of patient outcomes with splines. The second leverages conditional inference principles, which have been introduced to analyze randomized trials when patient prognostic profiles are unbalanced across arms. These two procedures are applicable in response-adaptive clinical trials. We illustrate the consequences of trends in the outcome distributions in response-adaptive designs and in platform trials and investigate the proposed methods in the analysis of a glioblastoma study.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Umbrella Webinar: Introduction to Rust Programming</title>
+      <link>/webinar/20221115data-umbrella-webinar-introduction-to-rust-programming/</link>
+      <pubDate>Tue, 15 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20221115data-umbrella-webinar-introduction-to-rust-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IQVIA Webinar: Considerations for a Successful RBQM Technology Implementation</title>
+      <link>/webinar/20221115iqvia-webinar-considerations-for-a-successful-rbqm-technology-implementation/</link>
+      <pubDate>Tue, 15 Nov 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20221115iqvia-webinar-considerations-for-a-successful-rbqm-technology-implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPE/ISPOR Webinar: Different HTA Perspectives on Reliably Estimating Treatment Effects</title>
+      <link>/webinar/20221115ispe-ispor-webinar-different-hta-perspectives-on-reliably-estimating-treatment-effects/</link>
+      <pubDate>Tue, 15 Nov 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20221115ispe-ispor-webinar-different-hta-perspectives-on-reliably-estimating-treatment-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duke-Margolis/FDA 14th Annual Sentinel Initiative Public Workshop</title>
+      <link>/conference/20221115duke-margolis-fda-14th-annual-sentinel-initiative-public-workshop/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221115duke-margolis-fda-14th-annual-sentinel-initiative-public-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Celebration of 50 Years of the Cox Model in Memory of Sir David Cox</title>
+      <link>/conference/20221110a-celebration-of-50-years-of-the-cox-model/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221110a-celebration-of-50-years-of-the-cox-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-validation in Model Selection and Assessment</title>
+      <link>/webinar/20221109cross-validation-in-model-selection-and-assessment/</link>
+      <pubDate>Wed, 09 Nov 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20221109cross-validation-in-model-selection-and-assessment/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Florida State University 2022 Myles Hollander Distinguished Lecture&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Cross-validation is ubiquitous in data science, and is used for both model selection and assessment. Yet in some regards it is poorly understood. In this talk we discuss three aspects of CV:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What CV estimates?&lt;/li&gt;
+&lt;li&gt;Confidence intervals for prediction error using nested CV&lt;/li&gt;
+&lt;li&gt;Out-of-bag error for random-forests and standard error estimates&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Virtual Short Course: An Introduction to Second-generation p-values and their Use in Statistical Practice</title>
+      <link>/course/20221104asa-virtual-short-course-an-introduction-to-second-generation-p-values/</link>
+      <pubDate>Fri, 04 Nov 2022 13:00:00 +0000</pubDate>
+      <guid>/course/20221104asa-virtual-short-course-an-introduction-to-second-generation-p-values/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA San Diego Chapter Members: $25; Non-members: $35&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Second-generation p-values were recently proposed to address the well-known imperfections of classical p-values. Their implementation can largely be thought of as codifying ‘good standard practice’ for interpreting and reporting classical p-values. Second-generation pvalues maintain the favorable properties of classical p-values while emphasizing scientific relevance to expand their utility, functionality, and applicability. In particular, they can report evidence in favor of the alternative, in favor of the null hypothesis, or neither (inconclusive); they automatically incorporate an adjustment for multiple comparisons and multiple looks; they have lower false discovery rates than classical p-values; and they are easier to interpret. Second-generation p-values have been shown to work well in regularized models. They also lead to significantly improved model selection procedures in linear and generalized linear models. Also, second-generation p-values are non-denominational in the sense that they are readily applied in frequentist, likelihood and Bayesian settings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Outline and Objectives:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This course will briefly revisit the history of p-values as originally envisioned in significance and hypothesis testing, and the resulting controversy over their scientific interpretation. The importance of distinguishing between three key inferential quantities (the measure of the strength of evidence, design error rates, and false discovery rates for observed data) will be illustrated. The second-generation p-value will be introduced and contrasted with standard methods. The workshop will explain how to design studies in which the second-generation p-value is used as the primary mode of inference. We will cover computation of second-generation p-values (in R), guidelines for presenting results, and when appropriate, how to present accompanying false discovery rates. Multiple examples will be presented using data from clinical trials, observations studies and high-dimensional analysis of large-scale data. Advanced applications in model selection, adaptive monitoring of clinical trials, and regularized models will be shown if time allows. Mathematical details will be kept to a minimum, e.g., statistical properties will be presented but without mathematical proof.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Current Statistical Issues in Platform Trials for the Evaluation of Multiple Treatments</title>
+      <link>/webinar/20221104current-statistical-issues-in-platform-trials-for-the-evaluation-of-multiple-treatments/</link>
+      <pubDate>Fri, 04 Nov 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20221104current-statistical-issues-in-platform-trials-for-the-evaluation-of-multiple-treatments/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Sponsored by the International Society for Biopharmaceutical Statistics (ISBS)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Adaptive platform trials provide a framework to simultaneously study multiple treatments in a disease. They are multi-arm trials in which interventions can enter as they become available and leave for futility or efficacy based on interim analyses or a final analysis. The attractiveness of platform trials compared to separate parallel-group trials is not only due to operational aspects as a shared trial infrastructure and more efficient patient recruitment, but also results from the possibility to share control groups, to efficiently identify non-efficacious treatments, and to allow direct comparisons between experimental treatment arms. However, the flexibility of the framework comes with challenges for statistical inference and the interpretation of trial results. The main challenges concern the adaptivity of platform trials (as decisions on adding or dropping arms cannot be fully pre-specified and may have an impact on current trial arms), multiplicity issues (due to multiple interventions, subgroups and interim analyses) and the use of shared controls (concurrent or non-concurrent controls, blinding for interventions that have different routes of administration, change in the standard of care). We will provide an overview of some statistical approaches that have recently been proposed to address these issues.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022 Program in Quantitative Genomics (PQG) Conference</title>
+      <link>/conference/202211032022-program-in-quantitative-genomics-pqg-conference/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/202211032022-program-in-quantitative-genomics-pqg-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Theme: Emerging challenges and opportunities in gene editing&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Adaptive Basket Trial Design Using Model Averaging</title>
+      <link>/webinar/20221102bayesian-adaptive-basket-trial-design-using-model-averaging/</link>
+      <pubDate>Wed, 02 Nov 2022 12:30:00 +0000</pubDate>
+      <guid>/webinar/20221102bayesian-adaptive-basket-trial-design-using-model-averaging/</guid>
+      <description>&lt;p&gt;We discuss a Bayesian adaptive design methodology for oncology basket trials with binary endpoints using a Bayesian model averaging framework. Most existing methods seek to borrow information based on the degree of homogeneity of estimated response rates across all baskets. In reality, an
+investigational product may only demonstrate activity for a subset of baskets, and the degree of activity may vary across the subset. A key benefit of our Bayesian model averaging approach is that it explicitly
+accounts for the possibility that any subset of baskets may have similar activity and that some may not. Our proposed approach performs inference on the basket-specific response rates by averaging over the
+complete model space for the response rates, which can include thousands of models. We present results that demonstrate that this computationally feasible Bayesian approach performs favorably compared to existing state-of-the-art approaches, even when held to stringent requirements regarding false positive rates.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nQuery Webinar: Guide to Sample Size Re-Estimation in Clinical Trials</title>
+      <link>/webinar/20221102nquery-webinar-guide-to-sample-size-re-estimation-in-clinical-trials/</link>
+      <pubDate>Wed, 02 Nov 2022 10:00:00 +0000</pubDate>
+      <guid>/webinar/20221102nquery-webinar-guide-to-sample-size-re-estimation-in-clinical-trials/</guid>
+      <description>&lt;p&gt;We explore common challenges faced when designing and conducting clinical trials with sample size re-estimation (SSR). Common SSR methods are explored along with their pros and cons. We have also examined some real-world examples of these methods, while taking a look at what advantages their use can bring.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of Bayesian Adaptive Phase I Trials in Oncology using the DEDUCE Application</title>
+      <link>/webinar/20221101design-and-implementation-of-bayesian-adaptive-phase-i-trials-in-oncology/</link>
+      <pubDate>Tue, 01 Nov 2022 10:00:00 +0000</pubDate>
+      <guid>/webinar/20221101design-and-implementation-of-bayesian-adaptive-phase-i-trials-in-oncology/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Dana Farber Cancer Institute Frontiers in Biostatistics Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Making All Pairwise Comparisons in Multi-Arm Clinical Trials without Control Treatment</title>
+      <link>/webinar/20221101making-all-pairwise-comparisons-in-multi-arm-clinical-trials/</link>
+      <pubDate>Tue, 01 Nov 2022 07:00:00 +0000</pubDate>
+      <guid>/webinar/20221101making-all-pairwise-comparisons-in-multi-arm-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The standard paradigm for confirmatory clinical trials is to compare experimental treatments with a control, for example the standard of care or a placebo. However, it is not always the case that a suitable control exists. Efficient statistical methodology is well studied in the setting of randomised controlled trials. This is not the case if one wishes to compare several experimental with no control arm. We propose hypothesis testing methods suitable for use in such a setting.  These methods are efficient, ensuring the error rate is controlled at exactly the desired rate with no conservatism. This in turn yields an improvement in power when compared with standard methods one might otherwise consider using, such as a Bonferroni adjustment. The proposed testing procedure is also highly flexible. We show how it may be extended for use in multi-stage adaptive trials, covering the majority of scenarios in which one might consider the use of such procedures in the clinical trials setting. With such a highly flexible nature, these methods may also be applied more broadly outside of a clinical trials setting.&lt;/p&gt;</description>
     </item>
     
     <item>

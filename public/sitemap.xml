@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/webinar/</loc>
-    <lastmod>2022-12-07T07:00:00+00:00</lastmod>
+    <loc>/conference/</loc>
+    <lastmod>2022-12-11T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20221211asa-san-francisco-bay-area-chapter-holiday-event-storytelling-statistics/</loc>
+    <lastmod>2022-12-11T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2022-12-07T07:00:00+00:00</lastmod>
+    <lastmod>2022-12-11T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/</loc>
+    <lastmod>2022-12-08T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221208addressing-intercurrent-events-treatment-policy-and-hypothetical-strategies/</loc>
+    <lastmod>2022-12-08T05:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,6 +103,106 @@
   </url>
   
   <url>
+    <loc>/webinar/20221123calculation-of-power-and-type-i-error-rate/</loc>
+    <lastmod>2022-11-23T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221122using-electronic-health-records-for-scientific-research-promises-and-perils/</loc>
+    <lastmod>2022-11-22T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/2022111840th-fisher-lecture/</loc>
+    <lastmod>2022-11-18T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221117asa-boston-chapter-2022-statistical-outreach-and-literacy-award/</loc>
+    <lastmod>2022-11-17T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221117nonparametric-failure-time-analysis/</loc>
+    <lastmod>2022-11-17T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221117dartmouth-area-sas-user-group-dasug-webinar/</loc>
+    <lastmod>2022-11-17T07:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221116mcgill-university-biostatistics-seminars/</loc>
+    <lastmod>2022-11-16T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221115data-umbrella-webinar-introduction-to-rust-programming/</loc>
+    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221115iqvia-webinar-considerations-for-a-successful-rbqm-technology-implementation/</loc>
+    <lastmod>2022-11-15T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221115ispe-ispor-webinar-different-hta-perspectives-on-reliably-estimating-treatment-effects/</loc>
+    <lastmod>2022-11-15T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20221115duke-margolis-fda-14th-annual-sentinel-initiative-public-workshop/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20221110a-celebration-of-50-years-of-the-cox-model/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221109cross-validation-in-model-selection-and-assessment/</loc>
+    <lastmod>2022-11-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20221104asa-virtual-short-course-an-introduction-to-second-generation-p-values/</loc>
+    <lastmod>2022-11-04T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221104current-statistical-issues-in-platform-trials-for-the-evaluation-of-multiple-treatments/</loc>
+    <lastmod>2022-11-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/202211032022-program-in-quantitative-genomics-pqg-conference/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221102bayesian-adaptive-basket-trial-design-using-model-averaging/</loc>
+    <lastmod>2022-11-02T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221102nquery-webinar-guide-to-sample-size-re-estimation-in-clinical-trials/</loc>
+    <lastmod>2022-11-02T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221101design-and-implementation-of-bayesian-adaptive-phase-i-trials-in-oncology/</loc>
+    <lastmod>2022-11-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221101making-all-pairwise-comparisons-in-multi-arm-clinical-trials/</loc>
+    <lastmod>2022-11-01T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/20220909fda-public-webinar/</loc>
     <lastmod>2022-09-09T09:00:00-07:00</lastmod>
   </url>
@@ -115,11 +230,6 @@
   <url>
     <loc>/webinar/20220830asa-statistical-learning-and-data-science-section-webinar/</loc>
     <lastmod>2022-08-30T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/conference/</loc>
-    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
