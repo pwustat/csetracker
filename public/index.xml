@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>PSI Scientific Meeting: Decentralised Clinical Trials </title>
+      <link>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Member rate = £20+VAT; Non-Member rate = £130&lt;/em&gt;+VAT*&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In a decentralised clinical trial, patients&#39; assessments are (partly) transferred from the clinical trial site to the patients&#39; home and might occur without any face to face interactions between patient and study personnel. In particular during the Covid-19 pandemic, decentralising clinical trials attracted considerable attention as one way to continue conducting trials during lockdowns and curfews. In this online event, experts in the field discuss the opportunities and challenges of decentralised clinical trials for the development of drugs and the promise they hold for modernising the way trials are conducted.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ASA San Francisco Bay Area Chapter Holiday Event: Storytelling Statistics</title>
@@ -427,6 +436,78 @@ complete model space for the response rates, which can include thousands of mode
     </item>
     
     <item>
+      <title>Optimizing Rare Disease Trials: Trial Design &amp; Execution</title>
+      <link>/webinar/20221027optimizing-rare-disease-trials-trial-design-execution/</link>
+      <pubDate>Thu, 27 Oct 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20221027optimizing-rare-disease-trials-trial-design-execution/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;IDDI webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Causal Inference for Infectious Disease Interventions - Contagion, Confounding, Mediation, and Interference</title>
+      <link>/webinar/20221026causal-inference-for-infectious-disease-interventions/</link>
+      <pubDate>Wed, 26 Oct 2022 12:30:00 +0000</pubDate>
+      <guid>/webinar/20221026causal-inference-for-infectious-disease-interventions/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;McGill University Biostatistics Seminars&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Randomized and observational studies of infectious disease interventions often focus on groups of connected or potentially interacting individuals. When the pathogen of interest is transmissible between study subjects, interference may occur: individual infection outcomes may depend on treatments received
+by others. Contagion may induce causal dependence in outcomes, even in the absence of treatment.
+Epidemiologists have introduced several competing – and incompatible – formalisms for dealing with
+these problems. In this presentation, I will introduce a causal framework for understanding infectious disease transmission and the effects of interventions on infection outcomes. I will discuss a synthesis of two broad research efforts: causal inference for individual vaccine effects in observational and randomized trials, and population-level transmission modeling of the kind popularized during the COVID19 pandemic. I outline the causal structure of contagion, identification of meaningful individual effects,
+and generalization of these effects to counterfactual population-level epidemic trajectories. Finally, I describe some of the pitfalls of ignoring contagion in studies of infectious disease interventions. This is joint work with many other researchers, including Xiaoxuan Cai, Olga Morozova, Daniel Eck, Wen
+Wei Loh, and Eben Kenah.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI Webinar Series: Showcasing R use in Pharma</title>
+      <link>/webinar/20221025psi-webinar-series-showcasing-r-use-in-pharma/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/webinar/20221025psi-webinar-series-showcasing-r-use-in-pharma/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;October 25, 2022, 7:00-8:30am PDT, and November 8 &amp;amp; 15, 2022, 6:00-7:30am PST, Virtual (PSI members: free; Non-members: £20+VAT)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Quarto Reports and Notebooks – Literate Computing in R, Python, or Julia</title>
+      <link>/webinar/20221021introduction-to-quarto-reports-and-notebooks/</link>
+      <pubDate>Fri, 21 Oct 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20221021introduction-to-quarto-reports-and-notebooks/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Section for Statistical Programmers and Analysts Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nonadherence in Dynamic Treatment Regimes - Moving Beyond Intention-to-Treat Analyses</title>
+      <link>/webinar/20221019nonadherence-in-dynamic-treatment-regimes/</link>
+      <pubDate>Wed, 19 Oct 2022 12:30:00 +0000</pubDate>
+      <guid>/webinar/20221019nonadherence-in-dynamic-treatment-regimes/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;McGill University Biostatistics Seminars&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Dynamic treatment regimes (DTRs) are sequences of treatment rules that use patient-level information to inform treatment decisions. DTRs provide one framework for formalizing precision medicine in a longitudinal context. The estimation of optimal DTRs is an area of research which has received considerable attention, and which often assumes that patients perfectly adhere to their prescribed treatments. If patients may deviate from their assigned treatments, then applying standard DTR methods produces causal estimates for the impact of the treatment assignment, not the treatment itself. The causal impact of treatment is often of substantive interest. I will discuss the consequences of ignoring patient nonadherence in DTRs, paying attention to how this differs from nonadherence generally. I outline a framework which, through the modification of a commonly used DTR estimation technique, restores the desired causal interpretation. This allows estimation of optimal DTRs in the presence of nonadherent patients when treatment is a binary
+indicator.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What Have We Learned -  Adapting to RWE Regulatory Guidance and Experience</title>
+      <link>/webinar/20221018adapting-to-rwe-regulatory-guidance-and-experience/</link>
+      <pubDate>Tue, 18 Oct 2022 10:00:00 +0000</pubDate>
+      <guid>/webinar/20221018adapting-to-rwe-regulatory-guidance-and-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAS Webinar: Quoting in SAS Macro Programming</title>
+      <link>/webinar/20221011sas-webinar-quoting-in-sas-macro-programming/</link>
+      <pubDate>Tue, 11 Oct 2022 10:00:00 +0000</pubDate>
+      <guid>/webinar/20221011sas-webinar-quoting-in-sas-macro-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BBSW 2022 October Meetup: Considerations for Pediatric Drug Development</title>
+      <link>/webinar/20221007bbsw-2022-october-meetup/</link>
+      <pubDate>Fri, 07 Oct 2022 13:30:00 +0000</pubDate>
+      <guid>/webinar/20221007bbsw-2022-october-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FDA Public Webinar on Draft Guidance: Patient-Focused Drug Development: Selecting, Developing, or Modifying Fit-For-Purpose Clinical Outcome Assessments</title>
       <link>/webinar/20220909fda-public-webinar/</link>
       <pubDate>Fri, 09 Sep 2022 09:00:00 -0700</pubDate>
@@ -541,6 +622,16 @@ Conformal Prediction Beyond Exchangeability (Rina Barber)&lt;/p&gt;
       <pubDate>Mon, 25 Jul 2022 08:00:00 +0000</pubDate>
       <guid>/webinar/20220725fda-public-meetings-2-using-methods-from-pfdd/</guid>
       <description>&lt;p&gt;Speakers and participants will discuss a range of issues data collection and analysis, focusing on lessons learned and on areas identified as particularly challenging for stakeholders. You may find a link to the referenced guidance documents here: &lt;a href=&#34;http://wcms-internet.fda.gov/drugs/development-approval-process-drugs/fda-patient-focused-drug-development-guidance-series-enhancing-incorporation-patients-voice-medical?utm_medium=email&amp;amp;utm_source=govdelivery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PFDD Methodologic Guidance Documents&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using R in Regulatory Review</title>
+      <link>/webinar/20220713using-r-in-regulatory-review/</link>
+      <pubDate>Wed, 13 Jul 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20220713using-r-in-regulatory-review/</guid>
+      <description>&lt;p&gt;We will invite three FDA staff sharing their experiences in using R in regulatory review. The session will start with Tae Hyun (Ryan) Jung sharing his experience in reviewing an R-based sNDA submission as a statistical reviewer. Following Ryan’s presentation, Hyo Soo Cho will share her experience in reviewing the submission pilot 1 conducted by the R consortium R submission working group. The last section of
+this event will be a panel discussion between Tae Hyun (Ryan) Jung, Hye Soo Cho and Paul Schuette.
+The audience will also have the opportunity to ask questions through the live poll during the event.&lt;/p&gt;</description>
     </item>
     
     <item>

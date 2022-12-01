@@ -5,12 +5,21 @@
     <link>/conference/</link>
       <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/conference/</link>
     </image>
+    
+    <item>
+      <title>PSI Scientific Meeting: Decentralised Clinical Trials </title>
+      <link>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Member rate = £20+VAT; Non-Member rate = £130&lt;/em&gt;+VAT*&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In a decentralised clinical trial, patients&#39; assessments are (partly) transferred from the clinical trial site to the patients&#39; home and might occur without any face to face interactions between patient and study personnel. In particular during the Covid-19 pandemic, decentralising clinical trials attracted considerable attention as one way to continue conducting trials during lockdowns and curfews. In this online event, experts in the field discuss the opportunities and challenges of decentralised clinical trials for the development of drugs and the promise they hold for modernising the way trials are conducted.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ASA San Francisco Bay Area Chapter Holiday Event: Storytelling Statistics</title>

@@ -4,16 +4,21 @@
   
   <url>
     <loc>/conference/</loc>
-    <lastmod>2022-12-11T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/conference/20221211asa-san-francisco-bay-area-chapter-holiday-event-storytelling-statistics/</loc>
-    <lastmod>2022-12-11T14:00:00+00:00</lastmod>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20221211asa-san-francisco-bay-area-chapter-holiday-event-storytelling-statistics/</loc>
     <lastmod>2022-12-11T14:00:00+00:00</lastmod>
   </url>
   
@@ -213,6 +218,46 @@
   </url>
   
   <url>
+    <loc>/webinar/20221027optimizing-rare-disease-trials-trial-design-execution/</loc>
+    <lastmod>2022-10-27T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221026causal-inference-for-infectious-disease-interventions/</loc>
+    <lastmod>2022-10-26T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221025psi-webinar-series-showcasing-r-use-in-pharma/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221021introduction-to-quarto-reports-and-notebooks/</loc>
+    <lastmod>2022-10-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221019nonadherence-in-dynamic-treatment-regimes/</loc>
+    <lastmod>2022-10-19T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221018adapting-to-rwe-regulatory-guidance-and-experience/</loc>
+    <lastmod>2022-10-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221011sas-webinar-quoting-in-sas-macro-programming/</loc>
+    <lastmod>2022-10-11T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221007bbsw-2022-october-meetup/</loc>
+    <lastmod>2022-10-07T13:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/20220909fda-public-webinar/</loc>
     <lastmod>2022-09-09T09:00:00-07:00</lastmod>
   </url>
@@ -260,6 +305,11 @@
   <url>
     <loc>/webinar/20220725fda-public-meetings-2-using-methods-from-pfdd/</loc>
     <lastmod>2022-07-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20220713using-r-in-regulatory-review/</loc>
+    <lastmod>2022-07-13T08:00:00+00:00</lastmod>
   </url>
   
   <url>
