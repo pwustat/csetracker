@@ -198,6 +198,11 @@
   </url>
   
   <url>
+    <loc>/webinar/20221114joint-psi-efspi-hta-sig-webinar/</loc>
+    <lastmod>2022-11-14T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/20221113phuse-eu-connect-2022/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url>
@@ -313,13 +318,33 @@
   </url>
   
   <url>
+    <loc>/webinar/20221019the-28th-pfizer-asa-uconn/</loc>
+    <lastmod>2022-10-19T11:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/20221018adapting-to-rwe-regulatory-guidance-and-experience/</loc>
     <lastmod>2022-10-18T10:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/course/20221018asa-short-course-survival-models-for-spatial-data/</loc>
+    <lastmod>2022-10-18T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/20221015navigating-tough-conversations-in-statistical-collaboration/</loc>
     <lastmod>2022-10-15T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221014dahshu-seminar/</loc>
+    <lastmod>2022-10-14T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20221014asa-virtual-short-course/</loc>
+    <lastmod>2022-10-14T09:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -335,6 +360,11 @@
   <url>
     <loc>/conference/20221014university-of-connecticut-excellence-in-statistical-science-conference/</loc>
     <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20221013asa-virtual-short-course-adaptive-design/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -378,6 +408,11 @@
   </url>
   
   <url>
+    <loc>/conference/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url>
@@ -390,6 +425,41 @@
   <url>
     <loc>/conference/202210052022-nic-asa-icsa-midwest-chapter-joint-fall-meeting/</loc>
     <lastmod>2022-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221004nquery-webinar-improving-sample-size-using-bayesian-thinking/</loc>
+    <lastmod>2022-10-04T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20221004psi-pre-clinical-sig-webinar-therioepistemology/</loc>
+    <lastmod>2022-10-04T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20220930asa-san-francisco-bay-area-chapter-virtual-seminar/</loc>
+    <lastmod>2022-09-30T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20220929asa-mental-health-statistics-section-webinar/</loc>
+    <lastmod>2022-09-29T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20220929canssi-2022-distinguished-lecture-series-in-statistical-sciences/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20220928niss-merck-meetup/</loc>
+    <lastmod>2022-09-28T08:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20220927asa-statistical-learning-and-data/</loc>
+    <lastmod>2022-09-27T11:00:00+00:00</lastmod>
   </url>
   
   <url>

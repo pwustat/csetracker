@@ -383,6 +383,14 @@ associations between two random variables one of which is a failure time subject
     </item>
     
     <item>
+      <title>Joint PSI &amp; EFSPI HTA SIG Webinar: Statistics in EU HTA – PICOs, Estimands and More</title>
+      <link>/webinar/20221114joint-psi-efspi-hta-sig-webinar/</link>
+      <pubDate>Mon, 14 Nov 2022 04:00:00 +0000</pubDate>
+      <guid>/webinar/20221114joint-psi-efspi-hta-sig-webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PHUSE EU Connect 2022</title>
       <link>/conference/20221113phuse-eu-connect-2022/</link>
       <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
@@ -595,11 +603,27 @@ indicator.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>The 28th Pfizer/ASA/UConn Distinguished Statistician Colloquium: Some Glimpses of Small Area Estimation</title>
+      <link>/webinar/20221019the-28th-pfizer-asa-uconn/</link>
+      <pubDate>Wed, 19 Oct 2022 11:30:00 +0000</pubDate>
+      <guid>/webinar/20221019the-28th-pfizer-asa-uconn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What Have We Learned -  Adapting to RWE Regulatory Guidance and Experience</title>
       <link>/webinar/20221018adapting-to-rwe-regulatory-guidance-and-experience/</link>
       <pubDate>Tue, 18 Oct 2022 10:00:00 +0000</pubDate>
       <guid>/webinar/20221018adapting-to-rwe-regulatory-guidance-and-experience/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Short Course: Survival Models for Spatial Data</title>
+      <link>/course/20221018asa-short-course-survival-models-for-spatial-data/</link>
+      <pubDate>Tue, 18 Oct 2022 08:00:00 +0000</pubDate>
+      <guid>/course/20221018asa-short-course-survival-models-for-spatial-data/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Lifetime Data Science Section members: $20; Other ASA members: $30; Non-members: $45&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -639,6 +663,28 @@ indicator.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>DahShu Seminar: Clinical and Analytical Validation of Companion Diagnostic Devices and Their Applications in Personalized Medicine</title>
+      <link>/webinar/20221014dahshu-seminar/</link>
+      <pubDate>Fri, 14 Oct 2022 10:00:00 +0000</pubDate>
+      <guid>/webinar/20221014dahshu-seminar/</guid>
+      <description>&lt;p&gt;Applications of personalized medicine are becoming increasingly prominent. Examples of successful therapeutics linked to companion diagnostic devices include Vysis ALK Break Apart FFPE FISH Test (Crizotinib), HER2 FISH pharmDx and IHC HercepTest (Herceptin), and cobas 4800 BRAF V600 Mutation Test (Vemurafenib). A key component of personalized medicine is the development of companion diagnostics that measure biomarkers, e.g., protein expression, gene amplification, or specific mutations. An in vitro companion diagnostic device (or test) is an in vitro diagnostic device which is essential for the safe and effective use of a corresponding therapeutic product. This short course will provide an overview of CDx validation including study designs for both analytical and clinical studies, and challenges. One of such challenges is how to assess the CDx clinical validly if trial assay (CTA) instead of CDx is used to classify patient biomarker status at the clinical trial enrollment in the clinical trial. A bridging study from CTA to CDx is required in order to evaluate the drug efficacy in CDx intended use population. In this seminar, statistical methods for addressing key issues such as biomarker threshold determination, bridging study, prescreening issues, are discussed. The course will also cover the study design and data analysis for follow-on CDx.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Virtual Short Course: Clinical Trials Using Master Protocol and its Applications</title>
+      <link>/course/20221014asa-virtual-short-course/</link>
+      <pubDate>Fri, 14 Oct 2022 09:00:00 +0000</pubDate>
+      <guid>/course/20221014asa-virtual-short-course/</guid>
+      <description>&lt;p&gt;As the paradigm of drug development shifts to personalized medicine and targeted therapies, pool of eligible clinical trial patients becomes increasingly smaller and there is a need for rapid learning and confirmation of clinically meaningful treatment effect. Master protocol, including umbrella, basket, and platform trials, promotes innovation in clinical trials and aims at improving efficiency, avoiding duplication and competition, and accelerating the drug development process. Though master protocols used to be primarily sponsored by nonprofit organizations, academic institutes and government agencies mostly in oncology area, there is a growing trend of conducting clinical trials using master protocol in recent years from the pharmaceutical industry in oncology and other therapeutic areas. Regulatory agencies across the globe have issued guidance on master protocols. In 2018, the ASA Biopharmaceutical Section Oncology Scientific Working Group (SWG) was chartered to explore innovative statistics in oncology drug development and a sub-team on master protocol in oncology was formed. In this short course, instructors from the Oncology SWG master protocol sub-team will provide an overview on master protocol, its regulatory landscape, statistical methodologies, special statistical considerations, challenges and opportunities both statistically and operationally. The last part of this short course will include a case study of a COVID platform trial: RECOVERY Trial, with detailed illustrations on how to implement the considerations discussed in the earlier part of the short course. See below the structure of the short course:&lt;/p&gt;
+&lt;p&gt;Part 1: Overview of master protocol&lt;/p&gt;
+&lt;p&gt;a. Overview of master protocol: Definitions, Examples&lt;/p&gt;
+&lt;p&gt;b. Review of Regulatory Landscape: US and Rest-of-World regulatory guidance&lt;/p&gt;
+&lt;p&gt;c. Practical Considerations&lt;/p&gt;
+&lt;p&gt;Part 2: Novel statistical methodologies used in master protocol trials, statistical and operational consideration&lt;/p&gt;
+&lt;p&gt;Part 3: Case Study of a COVID platform trial: RECOVERY Trial&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA Virtual Short Course: Data Visualization with R</title>
       <link>/course/20221014asa-virtual-short-course-data-visualization-with-r/</link>
       <pubDate>Fri, 14 Oct 2022 05:30:00 +0000</pubDate>
@@ -660,6 +706,16 @@ indicator.&lt;/p&gt;</description>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/conference/20221014university-of-connecticut-excellence-in-statistical-science-conference/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Virtual Short Course: Adaptive Design</title>
+      <link>/course/20221013asa-virtual-short-course-adaptive-design/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/course/20221013asa-virtual-short-course-adaptive-design/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Hosted by New York City Metro Area Chapter&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Clinical trials play a critical role in pharmaceutical drug development. New trial designs often depend on historical data, which, however, may not be accurate for the current study due to changes in study populations, patient heterogeneity, or different medical facilities. As a result, the original plan and study design may need to be adjusted or even altered to accommodate new findings and unexpected interim results. Through carefully thought-out and planned adaptation, the right dose can be identified faster, patients can be treated more effectively, and treatment effects evaluated more efficiently.&lt;/p&gt;
+&lt;p&gt;This short course will introduce different types of adaptive designs tailored for adaptive dose finding and confirmatory clinical trials. Practical considerations will be illustrated with case studies. Types of adaptive clinical trial designs covered in this course include adaptive dose finding studies using optimal designs to allocate new cohorts of patients based on the accumulated evidence, group sequential designs, blinded and unblinded sample size re-estimation as well as adaptive designs for confirmatory trials with treatment or population selection at interim.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -728,6 +784,14 @@ indicator.&lt;/p&gt;</description>
     
     <item>
       <title>International Conference on Advances in Interdisciplinary Statistics and Combinatorics</title>
+      <link>/conference/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Conference on Advances in Interdisciplinary Statistics and Combinatorics</title>
       <link>/webinar/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/webinar/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</guid>
@@ -748,6 +812,67 @@ indicator.&lt;/p&gt;</description>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/conference/202210052022-nic-asa-icsa-midwest-chapter-joint-fall-meeting/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$110-$340; registration ends on 9/28/2022&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nQuery Webinar: Improving Sample Size Using Bayesian Thinking</title>
+      <link>/webinar/20221004nquery-webinar-improving-sample-size-using-bayesian-thinking/</link>
+      <pubDate>Tue, 04 Oct 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20221004nquery-webinar-improving-sample-size-using-bayesian-thinking/</guid>
+      <description>&lt;p&gt;In this webinar, we will explore some of the issues faced when statistical power is used as the sole metric for trial success when conducting a sample size determination.&lt;/p&gt;
+&lt;p&gt;We will show how Bayesian assurance can be used as a complementary metric, that allows parameter uncertainty to be formally incorporated into the trial design.&lt;/p&gt;
+&lt;p&gt;We also discuss some of the limitations of using a traditional confidence interval as the measure for success and examine Mixed Bayesian/Likelihood HPD interval and consensus-based approaches to interval construction as potential alternatives.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI Pre-Clinical SIG Webinar: Therioepistemology – Rethinking How We Conduct Animal-based Experimentation</title>
+      <link>/webinar/20221004psi-pre-clinical-sig-webinar-therioepistemology/</link>
+      <pubDate>Tue, 04 Oct 2022 06:00:00 +0000</pubDate>
+      <guid>/webinar/20221004psi-pre-clinical-sig-webinar-therioepistemology/</guid>
+      <description>&lt;p&gt;In recent years,  the scientific community has finally become more generally aware of the current reproducibility and translatability crisis. Some of this awareness has come from the recent NIH initiative on “Enhancing rigor, transparency, and translatability in animal research” starting a paradigm shift around certain themes. This shift can be characterized at the micro level as a shift from asking “what have we controlled for in this model?” to asking “what have we chosen to ignore in this model, and at what cost?” At the macro level, it is a shift from viewing animals as tools (the furry test tube), to viewing them as patients in an equivalent human medical study, this includes providing for an animals welfare as well as experimental design and analysis techniques. Colleagues and I feel that we are witnessing the birth of a new discipline, which we have termed Therioepistemology, or the study of how knowledge is gained from animal research. In this talk, I’ll outline six questions that help critically evaluate animal-based biomedical research from a therioepistemological perspective. Ultimately, by formalizing therioepistemology as a discipline, we can begin to discuss best practices that will improve the reproducibility and translatability of animal-based research, with concomitant benefits in terms of human health, animal well-being, and scientific quality.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA San Francisco Bay Area Chapter Virtual Seminar: A Bayesian Approach for Integrating External Data in Clinical Trials Using Overlap Prior</title>
+      <link>/webinar/20220930asa-san-francisco-bay-area-chapter-virtual-seminar/</link>
+      <pubDate>Fri, 30 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>/webinar/20220930asa-san-francisco-bay-area-chapter-virtual-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Mental Health Statistics Section Webinar: Learn then Test – Calibrating Predictive Algorithms to Achieve Risk Control </title>
+      <link>/webinar/20220929asa-mental-health-statistics-section-webinar/</link>
+      <pubDate>Thu, 29 Sep 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20220929asa-mental-health-statistics-section-webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CANSSI 2022 Distinguished Lecture Series in Statistical Sciences</title>
+      <link>/webinar/20220929canssi-2022-distinguished-lecture-series-in-statistical-sciences/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/webinar/20220929canssi-2022-distinguished-lecture-series-in-statistical-sciences/</guid>
+      <description>&lt;p&gt;General Lecture: Lessons Learned from the COVID-19 Pandemic – A Statistician’s Reflection
+September 29, 2022, 12:30-1:30pm PDT&lt;/p&gt;
+&lt;p&gt;Technical Lecture: Ensemble Methods for Testing a Global Null Hypothesis 
+September 30, 2022, 12:30-1:30pm PDT&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NISS/Merck Meetup: Interpretable/Explainable Machine Learning</title>
+      <link>/webinar/20220928niss-merck-meetup/</link>
+      <pubDate>Wed, 28 Sep 2022 08:30:00 +0000</pubDate>
+      <guid>/webinar/20220928niss-merck-meetup/</guid>
+      <description>&lt;p&gt;Interpretable/explainable Machine Learning (ML) is an emerging field to address the black-box nature of complex models obtained by many popular ML methods. Its success can remove one of the major obstacles that prevent ML from having more impact on areas such as healthcare, where human understanding of how a data-driven model works is crucial for many reasons. As many research fields have experienced in their infancy, few widely accepted notions and boundaries have given researchers the freedom to formulate this field with their visions, and to define the key concepts, such as interpretability and explainability, in their own ways. In this meetup, two leading researchers will share their efforts, contributions, and visions about this rapidly developing field.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Statistical Learning and Data Science Section Webinar: Sparse Convoluted Rank Regression in High Dimensions</title>
+      <link>/webinar/20220927asa-statistical-learning-and-data/</link>
+      <pubDate>Tue, 27 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>/webinar/20220927asa-statistical-learning-and-data/</guid>
+      <description>&lt;p&gt;Wang et al. (2020, JASA) studied the high-dimensional sparse penalized rank regression and established its nice theoretical properties. However, the computation of penalized rank regression can be very challenging for high-dimensional data, due to the highly nonsmooth rank regression loss. In this work we view the rank regression loss as a non-smooth empirical counterpart of a population level quantity, and a smooth empirical counterpart is derived by substituting a kernel density estimator for the true distribution in the expectation calculation. This view leads to the convoluted rank regression loss and consequently the sparse penalized convoluted rank regression (CRR) for high-dimensional data. Under the same key assumptions for sparse rank regression, we establish the rate of convergence of the $\ell_1$-penalized CRR for a tuning free penalization parameter and prove the strong oracle property of the folded concave penalized CRR. We further propose a high-dimensional Bayesian information criterion for selecting the penalization parameter in folded concave penalized CRR and prove its selection consistency. We derive an efficient algorithm for solving sparse convoluted rank regression that scales well with high dimensions. Numerical examples demonstrate the promising performance of the sparse convoluted rank regression over the sparse rank regression. Our theoretical and numerical results suggest that sparse convoluted rank regression enjoys the best of both sparse least squares regression and sparse rank regression.&lt;/p&gt;</description>
     </item>
     
     <item>

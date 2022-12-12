@@ -61,6 +61,14 @@ d. Real life application&lt;/p&gt;
     </item>
     
     <item>
+      <title>ASA Short Course: Survival Models for Spatial Data</title>
+      <link>/course/20221018asa-short-course-survival-models-for-spatial-data/</link>
+      <pubDate>Tue, 18 Oct 2022 08:00:00 +0000</pubDate>
+      <guid>/course/20221018asa-short-course-survival-models-for-spatial-data/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Lifetime Data Science Section members: $20; Other ASA members: $30; Non-members: $45&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA Virtual Short Course: Navigating Tough Conversations in Statistical Collaboration</title>
       <link>/course/20221015navigating-tough-conversations-in-statistical-collaboration/</link>
       <pubDate>Sat, 15 Oct 2022 07:00:00 +0000</pubDate>
@@ -97,11 +105,35 @@ d. Real life application&lt;/p&gt;
     </item>
     
     <item>
+      <title>ASA Virtual Short Course: Clinical Trials Using Master Protocol and its Applications</title>
+      <link>/course/20221014asa-virtual-short-course/</link>
+      <pubDate>Fri, 14 Oct 2022 09:00:00 +0000</pubDate>
+      <guid>/course/20221014asa-virtual-short-course/</guid>
+      <description>&lt;p&gt;As the paradigm of drug development shifts to personalized medicine and targeted therapies, pool of eligible clinical trial patients becomes increasingly smaller and there is a need for rapid learning and confirmation of clinically meaningful treatment effect. Master protocol, including umbrella, basket, and platform trials, promotes innovation in clinical trials and aims at improving efficiency, avoiding duplication and competition, and accelerating the drug development process. Though master protocols used to be primarily sponsored by nonprofit organizations, academic institutes and government agencies mostly in oncology area, there is a growing trend of conducting clinical trials using master protocol in recent years from the pharmaceutical industry in oncology and other therapeutic areas. Regulatory agencies across the globe have issued guidance on master protocols. In 2018, the ASA Biopharmaceutical Section Oncology Scientific Working Group (SWG) was chartered to explore innovative statistics in oncology drug development and a sub-team on master protocol in oncology was formed. In this short course, instructors from the Oncology SWG master protocol sub-team will provide an overview on master protocol, its regulatory landscape, statistical methodologies, special statistical considerations, challenges and opportunities both statistically and operationally. The last part of this short course will include a case study of a COVID platform trial: RECOVERY Trial, with detailed illustrations on how to implement the considerations discussed in the earlier part of the short course. See below the structure of the short course:&lt;/p&gt;
+&lt;p&gt;Part 1: Overview of master protocol&lt;/p&gt;
+&lt;p&gt;a. Overview of master protocol: Definitions, Examples&lt;/p&gt;
+&lt;p&gt;b. Review of Regulatory Landscape: US and Rest-of-World regulatory guidance&lt;/p&gt;
+&lt;p&gt;c. Practical Considerations&lt;/p&gt;
+&lt;p&gt;Part 2: Novel statistical methodologies used in master protocol trials, statistical and operational consideration&lt;/p&gt;
+&lt;p&gt;Part 3: Case Study of a COVID platform trial: RECOVERY Trial&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ASA Virtual Short Course: Data Visualization with R</title>
       <link>/course/20221014asa-virtual-short-course-data-visualization-with-r/</link>
       <pubDate>Fri, 14 Oct 2022 05:30:00 +0000</pubDate>
       <guid>/course/20221014asa-virtual-short-course-data-visualization-with-r/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Virtual Short Course: Adaptive Design</title>
+      <link>/course/20221013asa-virtual-short-course-adaptive-design/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/course/20221013asa-virtual-short-course-adaptive-design/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Hosted by New York City Metro Area Chapter&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Clinical trials play a critical role in pharmaceutical drug development. New trial designs often depend on historical data, which, however, may not be accurate for the current study due to changes in study populations, patient heterogeneity, or different medical facilities. As a result, the original plan and study design may need to be adjusted or even altered to accommodate new findings and unexpected interim results. Through carefully thought-out and planned adaptation, the right dose can be identified faster, patients can be treated more effectively, and treatment effects evaluated more efficiently.&lt;/p&gt;
+&lt;p&gt;This short course will introduce different types of adaptive designs tailored for adaptive dose finding and confirmatory clinical trials. Practical considerations will be illustrated with case studies. Types of adaptive clinical trial designs covered in this course include adaptive dose finding studies using optimal designs to allocate new cohorts of patients based on the accumulated evidence, group sequential designs, blinded and unblinded sample size re-estimation as well as adaptive designs for confirmatory trials with treatment or population selection at interim.&lt;/p&gt;</description>
     </item>
     
     <item>

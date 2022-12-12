@@ -274,6 +274,14 @@ associations between two random variables one of which is a failure time subject
     </item>
     
     <item>
+      <title>Joint PSI &amp; EFSPI HTA SIG Webinar: Statistics in EU HTA – PICOs, Estimands and More</title>
+      <link>/webinar/20221114joint-psi-efspi-hta-sig-webinar/</link>
+      <pubDate>Mon, 14 Nov 2022 04:00:00 +0000</pubDate>
+      <guid>/webinar/20221114joint-psi-efspi-hta-sig-webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A 2-in-1 Adaptive Design to Seamlessly Expand a Selected Dose from a Phase 2 Trial to a Phase 3 Trial for Oncology Drug Development</title>
       <link>/webinar/20221110a-2-in-1-adaptive-design-to-seamlessly-expand-a-selected-dose-from-a-phase-2-trial-to-a-phase-3-trial-for-oncology-drug-development/</link>
       <pubDate>Thu, 10 Nov 2022 06:00:00 +0000</pubDate>
@@ -402,11 +410,27 @@ indicator.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>The 28th Pfizer/ASA/UConn Distinguished Statistician Colloquium: Some Glimpses of Small Area Estimation</title>
+      <link>/webinar/20221019the-28th-pfizer-asa-uconn/</link>
+      <pubDate>Wed, 19 Oct 2022 11:30:00 +0000</pubDate>
+      <guid>/webinar/20221019the-28th-pfizer-asa-uconn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What Have We Learned -  Adapting to RWE Regulatory Guidance and Experience</title>
       <link>/webinar/20221018adapting-to-rwe-regulatory-guidance-and-experience/</link>
       <pubDate>Tue, 18 Oct 2022 10:00:00 +0000</pubDate>
       <guid>/webinar/20221018adapting-to-rwe-regulatory-guidance-and-experience/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DahShu Seminar: Clinical and Analytical Validation of Companion Diagnostic Devices and Their Applications in Personalized Medicine</title>
+      <link>/webinar/20221014dahshu-seminar/</link>
+      <pubDate>Fri, 14 Oct 2022 10:00:00 +0000</pubDate>
+      <guid>/webinar/20221014dahshu-seminar/</guid>
+      <description>&lt;p&gt;Applications of personalized medicine are becoming increasingly prominent. Examples of successful therapeutics linked to companion diagnostic devices include Vysis ALK Break Apart FFPE FISH Test (Crizotinib), HER2 FISH pharmDx and IHC HercepTest (Herceptin), and cobas 4800 BRAF V600 Mutation Test (Vemurafenib). A key component of personalized medicine is the development of companion diagnostics that measure biomarkers, e.g., protein expression, gene amplification, or specific mutations. An in vitro companion diagnostic device (or test) is an in vitro diagnostic device which is essential for the safe and effective use of a corresponding therapeutic product. This short course will provide an overview of CDx validation including study designs for both analytical and clinical studies, and challenges. One of such challenges is how to assess the CDx clinical validly if trial assay (CTA) instead of CDx is used to classify patient biomarker status at the clinical trial enrollment in the clinical trial. A bridging study from CTA to CDx is required in order to evaluate the drug efficacy in CDx intended use population. In this seminar, statistical methods for addressing key issues such as biomarker threshold determination, bridging study, prescreening issues, are discussed. The course will also cover the study design and data analysis for follow-on CDx.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -431,6 +455,67 @@ indicator.&lt;/p&gt;</description>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/webinar/20221007international-conference-on-advances-in-interdisciplinary-statistics-and-combinatorics/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;$350&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nQuery Webinar: Improving Sample Size Using Bayesian Thinking</title>
+      <link>/webinar/20221004nquery-webinar-improving-sample-size-using-bayesian-thinking/</link>
+      <pubDate>Tue, 04 Oct 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20221004nquery-webinar-improving-sample-size-using-bayesian-thinking/</guid>
+      <description>&lt;p&gt;In this webinar, we will explore some of the issues faced when statistical power is used as the sole metric for trial success when conducting a sample size determination.&lt;/p&gt;
+&lt;p&gt;We will show how Bayesian assurance can be used as a complementary metric, that allows parameter uncertainty to be formally incorporated into the trial design.&lt;/p&gt;
+&lt;p&gt;We also discuss some of the limitations of using a traditional confidence interval as the measure for success and examine Mixed Bayesian/Likelihood HPD interval and consensus-based approaches to interval construction as potential alternatives.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI Pre-Clinical SIG Webinar: Therioepistemology – Rethinking How We Conduct Animal-based Experimentation</title>
+      <link>/webinar/20221004psi-pre-clinical-sig-webinar-therioepistemology/</link>
+      <pubDate>Tue, 04 Oct 2022 06:00:00 +0000</pubDate>
+      <guid>/webinar/20221004psi-pre-clinical-sig-webinar-therioepistemology/</guid>
+      <description>&lt;p&gt;In recent years,  the scientific community has finally become more generally aware of the current reproducibility and translatability crisis. Some of this awareness has come from the recent NIH initiative on “Enhancing rigor, transparency, and translatability in animal research” starting a paradigm shift around certain themes. This shift can be characterized at the micro level as a shift from asking “what have we controlled for in this model?” to asking “what have we chosen to ignore in this model, and at what cost?” At the macro level, it is a shift from viewing animals as tools (the furry test tube), to viewing them as patients in an equivalent human medical study, this includes providing for an animals welfare as well as experimental design and analysis techniques. Colleagues and I feel that we are witnessing the birth of a new discipline, which we have termed Therioepistemology, or the study of how knowledge is gained from animal research. In this talk, I’ll outline six questions that help critically evaluate animal-based biomedical research from a therioepistemological perspective. Ultimately, by formalizing therioepistemology as a discipline, we can begin to discuss best practices that will improve the reproducibility and translatability of animal-based research, with concomitant benefits in terms of human health, animal well-being, and scientific quality.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA San Francisco Bay Area Chapter Virtual Seminar: A Bayesian Approach for Integrating External Data in Clinical Trials Using Overlap Prior</title>
+      <link>/webinar/20220930asa-san-francisco-bay-area-chapter-virtual-seminar/</link>
+      <pubDate>Fri, 30 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>/webinar/20220930asa-san-francisco-bay-area-chapter-virtual-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Mental Health Statistics Section Webinar: Learn then Test – Calibrating Predictive Algorithms to Achieve Risk Control </title>
+      <link>/webinar/20220929asa-mental-health-statistics-section-webinar/</link>
+      <pubDate>Thu, 29 Sep 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20220929asa-mental-health-statistics-section-webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CANSSI 2022 Distinguished Lecture Series in Statistical Sciences</title>
+      <link>/webinar/20220929canssi-2022-distinguished-lecture-series-in-statistical-sciences/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/webinar/20220929canssi-2022-distinguished-lecture-series-in-statistical-sciences/</guid>
+      <description>&lt;p&gt;General Lecture: Lessons Learned from the COVID-19 Pandemic – A Statistician’s Reflection
+September 29, 2022, 12:30-1:30pm PDT&lt;/p&gt;
+&lt;p&gt;Technical Lecture: Ensemble Methods for Testing a Global Null Hypothesis 
+September 30, 2022, 12:30-1:30pm PDT&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NISS/Merck Meetup: Interpretable/Explainable Machine Learning</title>
+      <link>/webinar/20220928niss-merck-meetup/</link>
+      <pubDate>Wed, 28 Sep 2022 08:30:00 +0000</pubDate>
+      <guid>/webinar/20220928niss-merck-meetup/</guid>
+      <description>&lt;p&gt;Interpretable/explainable Machine Learning (ML) is an emerging field to address the black-box nature of complex models obtained by many popular ML methods. Its success can remove one of the major obstacles that prevent ML from having more impact on areas such as healthcare, where human understanding of how a data-driven model works is crucial for many reasons. As many research fields have experienced in their infancy, few widely accepted notions and boundaries have given researchers the freedom to formulate this field with their visions, and to define the key concepts, such as interpretability and explainability, in their own ways. In this meetup, two leading researchers will share their efforts, contributions, and visions about this rapidly developing field.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Statistical Learning and Data Science Section Webinar: Sparse Convoluted Rank Regression in High Dimensions</title>
+      <link>/webinar/20220927asa-statistical-learning-and-data/</link>
+      <pubDate>Tue, 27 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>/webinar/20220927asa-statistical-learning-and-data/</guid>
+      <description>&lt;p&gt;Wang et al. (2020, JASA) studied the high-dimensional sparse penalized rank regression and established its nice theoretical properties. However, the computation of penalized rank regression can be very challenging for high-dimensional data, due to the highly nonsmooth rank regression loss. In this work we view the rank regression loss as a non-smooth empirical counterpart of a population level quantity, and a smooth empirical counterpart is derived by substituting a kernel density estimator for the true distribution in the expectation calculation. This view leads to the convoluted rank regression loss and consequently the sparse penalized convoluted rank regression (CRR) for high-dimensional data. Under the same key assumptions for sparse rank regression, we establish the rate of convergence of the $\ell_1$-penalized CRR for a tuning free penalization parameter and prove the strong oracle property of the folded concave penalized CRR. We further propose a high-dimensional Bayesian information criterion for selecting the penalization parameter in folded concave penalized CRR and prove its selection consistency. We derive an efficient algorithm for solving sparse convoluted rank regression that scales well with high dimensions. Numerical examples demonstrate the promising performance of the sparse convoluted rank regression over the sparse rank regression. Our theoretical and numerical results suggest that sparse convoluted rank regression enjoys the best of both sparse least squares regression and sparse rank regression.&lt;/p&gt;</description>
     </item>
     
     <item>
