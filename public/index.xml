@@ -876,6 +876,35 @@ September 30, 2022, 12:30-1:30pm PDT&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Duke Margolis-FDA Workshop: Advancing Premarket Safety Analytics</title>
+      <link>/webinar/20220914duke-margolis-fda-workshop/</link>
+      <pubDate>Wed, 14 Sep 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20220914duke-margolis-fda-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It’s All Relative – Testing Differential Abundance in Compositional Microbiome Data</title>
+      <link>/webinar/20220913it-s-all-relative-testing-differential-abundance/</link>
+      <pubDate>Tue, 13 Sep 2022 10:00:00 +0000</pubDate>
+      <guid>/webinar/20220913it-s-all-relative-testing-differential-abundance/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;DFCI Frontiers in Biostatistics Seminar Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Studies on the human microbiome have revealed that differences in microbial communities are associated with many human disorders such as inflammatory bowel disease, type II diabetes, and even Alzheimer’s disease and some cancers. The microbiome is a particularly attractive target for establishing new biomarkers for disease diagnosis and prognosis, and for developing low-cost, low-risk interventions. Microbiome data have two unique features. First, they are compositional, i.e., the total number of sequencing reads per sample is an experimental artifact and only the relative abundance of taxa can be measured. Second, they are subject to a wide variety of experimental biases (e.g., in the process of DNA extraction and PCR amplification) that plague most analyses that directly analyze relative abundance data. These features call for analyses that are based on log-ratio transformation of the relative abundance data. Existing methods often ignore experimental biases, do not handle the extensive (50-90%) zero count data adequately, and do not accommodate other complexities in microbiome data (e.g., high-dimensionality, confounding covariates, and continuous covariates of interest). In this talk, we present a new logistic-regression-based method that takes into account all of these features of microbiome data for robust testing of differential abundance. Our simulation studies indicate that our method is the only one that universally controls the FDR while at the same time maintaining good power. We illustrate our method by the analysis of a throat microbiome dataset.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nQuery Webinar: Sample Size for Non-Inferiority Studies</title>
+      <link>/webinar/20220913nquery-webinar-sample-size-for-non-inferiority-studies/</link>
+      <pubDate>Tue, 13 Sep 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20220913nquery-webinar-sample-size-for-non-inferiority-studies/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to Non-inferiority Designs&lt;/li&gt;
+&lt;li&gt;Important Designs Considerations for Non-inferiority Designs&lt;/li&gt;
+&lt;li&gt;Sample Size Determination for Non-inferiority Designs&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>FDA Public Webinar on Draft Guidance: Patient-Focused Drug Development: Selecting, Developing, or Modifying Fit-For-Purpose Clinical Outcome Assessments</title>
       <link>/webinar/20220909fda-public-webinar/</link>
       <pubDate>Fri, 09 Sep 2022 09:00:00 -0700</pubDate>
