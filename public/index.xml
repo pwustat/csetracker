@@ -799,6 +799,31 @@ indicator.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Innovative Study Design – Clinical Need and Reasoning drive Statistical Decision</title>
+      <link>/webinar/20221006innovative-study-design-clinical-need-and-reasoning/</link>
+      <pubDate>Thu, 06 Oct 2022 09:00:00 +0000</pubDate>
+      <guid>/webinar/20221006innovative-study-design-clinical-need-and-reasoning/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Biopharmaceutical Section Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For many medical devices requiring surgical implantation, large scale randomized, controlled, double-blind studies cannot be conducted due to multiple practical limitations. In addition, device development, as opposed to drug development, often occurs in an iterative manner with subsequent device generations being modified to a minor to moderate extent. Therefore, it is not surprising that many flexible study designs to leverage existing data (external to the current pivotal study) via innovative application of statistical methods (e.g., Bayesian, propensity score) have been adopted in the medical device area. In this talk, within the context of the recent FDA breakthrough program to ensure that patients with high unmet medical need (e.g., Heart Failures) have more timely access to innovative medical devices by expediting their development, we will share our experience in the need for seamless clinical trial design with the possibility to leverage a relevant external existing dataset via an improved dynamic borrowing method by taking clinical reasoning into account via equivalence margin-driven similarity measure to ensure any external data borrowing occurs only when the difference between the current and prior means falls within a pre-specified narrow margin.&lt;/p&gt;
+&lt;p&gt;Main References:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Owen Faris, Jeffrey Shure (2017) &amp;ldquo;An FDA Viewpoint on Unique Considerations for Medical-Device Clinical Trials.&amp;rdquo; N Engl J Med 376:1350-1357 &lt;a href=&#34;https://www.nejm.org/doi/full/10.1056/nejmra1512592&#34;&gt;https://www.nejm.org/doi/full/10.1056/nejmra1512592&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Breakthrough Devices Program Guidance for Industry and Food and Drug Administration Staff Document issued on December 18, 2018. &lt;a href=&#34;https://www.fda.gov/regulatory-information/search-fda-guidance-documents/breakthrough-devices-program&#34;&gt;https://www.fda.gov/regulatory-information/search-fda-guidance-documents/breakthrough-devices-program&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Michael R. Zile et al (2018) American Heart Journal Volume 204: First Granted Example of Novel FDA Trial Design Under Expedited Access Pathway for Pre-Market Approval: BeAT-HF &lt;a href=&#34;https://doi.org/10.1016/j.ahj.2018.07.011&#34;&gt;https://doi.org/10.1016/j.ahj.2018.07.011&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thompson, Laura, et al. (2021) “Dynamic Borrowing from a Single Prior Data Source using the Conditional Power Prior.” Journal of biopharmaceutical statistics” JBS 31 (4): 403-424
+&lt;a href=&#34;https://doi.org/10.1080/10543406.2021.1895190&#34;&gt;https://doi.org/10.1080/10543406.2021.1895190&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
       <title>2022 Women in Statistics and Data Science Conference</title>
       <link>/conference/202210062022-women-in-statistics-and-data-science-conference/</link>
       <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
@@ -873,6 +898,52 @@ September 30, 2022, 12:30-1:30pm PDT&lt;/p&gt;</description>
       <pubDate>Tue, 27 Sep 2022 11:00:00 +0000</pubDate>
       <guid>/webinar/20220927asa-statistical-learning-and-data/</guid>
       <description>&lt;p&gt;Wang et al. (2020, JASA) studied the high-dimensional sparse penalized rank regression and established its nice theoretical properties. However, the computation of penalized rank regression can be very challenging for high-dimensional data, due to the highly nonsmooth rank regression loss. In this work we view the rank regression loss as a non-smooth empirical counterpart of a population level quantity, and a smooth empirical counterpart is derived by substituting a kernel density estimator for the true distribution in the expectation calculation. This view leads to the convoluted rank regression loss and consequently the sparse penalized convoluted rank regression (CRR) for high-dimensional data. Under the same key assumptions for sparse rank regression, we establish the rate of convergence of the $\ell_1$-penalized CRR for a tuning free penalization parameter and prove the strong oracle property of the folded concave penalized CRR. We further propose a high-dimensional Bayesian information criterion for selecting the penalization parameter in folded concave penalized CRR and prove its selection consistency. We derive an efficient algorithm for solving sparse convoluted rank regression that scales well with high dimensions. Numerical examples demonstrate the promising performance of the sparse convoluted rank regression over the sparse rank regression. Our theoretical and numerical results suggest that sparse convoluted rank regression enjoys the best of both sparse least squares regression and sparse rank regression.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Whatever Happened to Design-Based Inference?</title>
+      <link>/webinar/20220922whatever-happened-to-design-based-inference/</link>
+      <pubDate>Thu, 22 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>/webinar/20220922whatever-happened-to-design-based-inference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;University of Waterloo David Sprott Distinguished Lecture&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Benefit-Risk Assessment of New Treatment: The Health Technology Assessmen (HTA) Process</title>
+      <link>/webinar/20220922the-benefit-risk-assessment/</link>
+      <pubDate>Thu, 22 Sep 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20220922the-benefit-risk-assessment/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;IDDI Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How Do I Use the Bootstrap Method in SAS</title>
+      <link>/webinar/20220920how-do-i-use-the-bootstrap-method-in-sas/</link>
+      <pubDate>Tue, 20 Sep 2022 08:00:00 +0000</pubDate>
+      <guid>/webinar/20220920how-do-i-use-the-bootstrap-method-in-sas/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;What the bootstrap method is and when it should be used.&lt;/li&gt;
+&lt;li&gt;How to bootstrap a univariate statistic in SAS.&lt;/li&gt;
+&lt;li&gt;Efficiency and details of the bootstrap in SAS.&lt;/li&gt;
+&lt;li&gt;How to bootstrap regression estimates in SAS.&lt;/li&gt;
+&lt;li&gt;SAS procedures that support built-in bootstrap methods.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine Annual Conference 2022: The New “Normal”?</title>
+      <link>/conference/20220920precision-medicine-annual-conference-2022/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20220920precision-medicine-annual-conference-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPPICon 2022</title>
+      <link>/conference/20220917eppicon-2022/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20220917eppicon-2022/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1019,6 +1090,22 @@ Conformal Prediction Beyond Exchangeability (Rina Barber)&lt;/p&gt;
       <pubDate>Mon, 25 Jul 2022 08:00:00 +0000</pubDate>
       <guid>/webinar/20220725fda-public-meetings-2-using-methods-from-pfdd/</guid>
       <description>&lt;p&gt;Speakers and participants will discuss a range of issues data collection and analysis, focusing on lessons learned and on areas identified as particularly challenging for stakeholders. You may find a link to the referenced guidance documents here: &lt;a href=&#34;http://wcms-internet.fda.gov/drugs/development-approval-process-drugs/fda-patient-focused-drug-development-guidance-series-enhancing-incorporation-patients-voice-medical?utm_medium=email&amp;amp;utm_source=govdelivery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PFDD Methodologic Guidance Documents&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rstudio::conf 2022</title>
+      <link>/conference/20220725rstudio-conf-2022/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20220725rstudio-conf-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friends of Cancer Research (FOCR) Virtual Meeting</title>
+      <link>/conference/20220720friends-of-cancer-research-focr-virtual-meeting/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/conference/20220720friends-of-cancer-research-focr-virtual-meeting/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Expediting Drug Development: Use of ctDNA as an Early Endpoint&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
