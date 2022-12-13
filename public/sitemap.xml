@@ -428,6 +428,11 @@
   </url>
   
   <url>
+    <loc>/conference/202210062022-women-in-statistics/</loc>
+    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/202210052022-nic-asa-icsa-midwest-chapter-joint-fall-meeting/</loc>
     <lastmod>2022-10-05T00:00:00+00:00</lastmod>
   </url>
@@ -483,6 +488,11 @@
   </url>
   
   <url>
+    <loc>/conference/202209202022-asa-biopharmaceutical-section-regulatory-industry-statistics-workshop/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/20220920precision-medicine-annual-conference-2022/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url>
@@ -498,6 +508,11 @@
   </url>
   
   <url>
+    <loc>/conference/202209147th-european-federation-of-statisticians-in-the-pharmaceutical-industry/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/20220913it-s-all-relative-testing-differential-abundance/</loc>
     <lastmod>2022-09-13T10:00:00+00:00</lastmod>
   </url>
@@ -505,6 +520,16 @@
   <url>
     <loc>/webinar/20220913nquery-webinar-sample-size-for-non-inferiority-studies/</loc>
     <lastmod>2022-09-13T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20220912royal-statistical-society-rss-international-conference-2022/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20220911society-for-clinical-data-management-scdm-2022/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -520,6 +545,11 @@
   <url>
     <loc>/webinar/20220907simulations-plus-webinar/</loc>
     <lastmod>2022-09-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20220906o-bayes-2022/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -553,6 +583,26 @@
   </url>
   
   <url>
+    <loc>/conference/20220822statistics-in-pharmaceuticals-sip2022/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20220806joint-statistical-meetings-jsm-2022/</loc>
+    <lastmod>2022-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/202208032022-workshop-on-statistical-network-analysis-and-beyond-snab2022/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20220727bioconductor-conference-bioc2022/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/20220725fda-public-meetings-2-using-methods-from-pfdd/</loc>
     <lastmod>2022-07-25T08:00:00+00:00</lastmod>
   </url>
@@ -568,8 +618,18 @@
   </url>
   
   <url>
+    <loc>/course/20220718introduction-to-data-wrangling-cleaning-and-manipulation-with-the-python-programming-language/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/20220713using-r-in-regulatory-review/</loc>
     <lastmod>2022-07-13T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/202207112022-university-of-washington-uw-biostatistics-summer-institutes/</loc>
+    <lastmod>2022-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
