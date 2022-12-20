@@ -8,8 +8,8 @@ tags: []
 type: webinar
 url_freeregister: https://docs.google.com/forms/d/e/1FAIpQLSe07Vr9nYuBWAB231dWyio9JuojlZldz5JJIzecfum8Tyylaw/viewform
 url_register: ~
-url_slides: ~
-url_video: no
+url_slides: https://baselbiometrics.github.io/home/docs/events_past.html#joint-efspi-bbs-virtual-event---addressing-intercurrent-events-treatment-policy-and-hypothetical-strategies-day-1
+url_video: https://baselbiometrics.github.io/home/docs/events_past.html#joint-efspi-bbs-virtual-event---addressing-intercurrent-events-treatment-policy-and-hypothetical-strategies-day-1
 url_agenda: /agenda_20221208 webinar.pdf
 url_website: ~
 url_audio: ~

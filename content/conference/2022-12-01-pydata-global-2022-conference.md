@@ -21,7 +21,7 @@ address:
   postcode: ~
   country: ~
 date_end: ~
-all_day: no
+all_day: yes
 publishDate: '2022-12-01T14:30:59-08:00'
 featured: no
 image:
