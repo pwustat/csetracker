@@ -5,12 +5,68 @@
     <link>/conference/</link>
       <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/conference/</link>
     </image>
+    
+    <item>
+      <title>MLconf 2023</title>
+      <link>/conference/20230330mlconf-2023/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230330mlconf-2023/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early bird registration ends on March 1&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DIA/FDA Biostatistics Industry and Regulator Forum</title>
+      <link>/conference/20230319dia-fda-biostatistics-industry-and-regulator-forum/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230319dia-fda-biostatistics-industry-and-regulator-forum/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early bird registration ends on February 1&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ENAR 2023</title>
+      <link>/conference/20230319enar-2023/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230319enar-2023/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early bird registration ends on February 17&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Annual Lange Symposium: Genomics and Computational Statistics</title>
+      <link>/conference/20230203annual-lange-symposium-genomics-and-computational-statistics/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230203annual-lange-symposium-genomics-and-computational-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 Conference on Statistical Practice</title>
+      <link>/conference/202302022023-conference-on-statistical-practice/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/202302022023-conference-on-statistical-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 Precision Medicine World Conference (PMWC)</title>
+      <link>/conference/202301252023-precision-medicine-world-conference-pmwc/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/202301252023-precision-medicine-world-conference-pmwc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Scientific Meeting: Decentralised Clinical Trials</title>
+      <link>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PSI Scientific Meeting: Decentralised Clinical Trials </title>
@@ -19,6 +75,22 @@
       <guid>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Member rate = £20+VAT; Non-Member rate = £130&lt;/em&gt;+VAT*&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;In a decentralised clinical trial, patients&#39; assessments are (partly) transferred from the clinical trial site to the patients&#39; home and might occur without any face to face interactions between patient and study personnel. In particular during the Covid-19 pandemic, decentralising clinical trials attracted considerable attention as one way to continue conducting trials during lockdowns and curfews. In this online event, experts in the field discuss the opportunities and challenges of decentralised clinical trials for the development of drugs and the promise they hold for modernising the way trials are conducted.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>University of Florida Department of Statistic&#39;s Annual Winter Workshop: Modern Computational Statistics</title>
+      <link>/conference/20230113university-of-florida-department-of-statistic-s-annual-winter-workshop-modern-computational-statistics/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230113university-of-florida-department-of-statistic-s-annual-winter-workshop-modern-computational-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 International Conference on Health Policy Statistics (ICHPS)</title>
+      <link>/conference/202301092023-international-conference-on-health-policy-statistics-ichps/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/202301092023-international-conference-on-health-policy-statistics-ichps/</guid>
+      <description></description>
     </item>
     
     <item>

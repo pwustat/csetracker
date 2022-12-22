@@ -4,17 +4,72 @@
   
   <url>
     <loc>/conference/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230330mlconf-2023/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230319dia-fda-biostatistics-industry-and-regulator-forum/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230319enar-2023/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230203annual-lange-symposium-genomics-and-computational-statistics/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/202302022023-conference-on-statistical-practice/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/202301252023-precision-medicine-world-conference-pmwc/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230113university-of-florida-department-of-statistic-s-annual-winter-workshop-modern-computational-statistics/</loc>
+    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/</loc>
+    <lastmod>2023-01-09T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20230109isi-short-course-bayesian-thinking-fundamentals-regression-and-multilevel-modeling/</loc>
+    <lastmod>2023-01-09T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/202301092023-international-conference-on-health-policy-statistics-ichps/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -80,11 +135,6 @@
   <url>
     <loc>/webinar/20221202getting-the-question-right/</loc>
     <lastmod>2022-12-02T07:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/course/</loc>
-    <lastmod>2022-12-02T06:00:00+00:00</lastmod>
   </url>
   
   <url>
