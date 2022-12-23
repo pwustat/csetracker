@@ -88,6 +88,15 @@
     </item>
     
     <item>
+      <title>A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV </title>
+      <link>/webinar/20230208a-bayesian-decision-framework/</link>
+      <pubDate>Wed, 08 Feb 2023 12:30:00 +0000</pubDate>
+      <guid>/webinar/20230208a-bayesian-decision-framework/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;McGill University Biostatistics Seminars&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Numerous adverse effects (e.g., depression) have been reported for combination antiretroviral therapy (cART) despite its remarkable success on viral suppression in people with HIV (PWH). To improve long-term health outcomes for PWH, there is an urgent need to design personalized optimal cART with the lowest risk of comorbidity in the emerging field of precision medicine for HIV. Large-scale HIV studies offer researchers unprecedented opportunities to optimize personalized cART in a data-driven manner. However, the large number of possible drug combinations for cART makes the estimation of cART effects a high-dimensional combinatorial problem, imposing challenges in both statistical inference and decision-making. We develop a Bayesian reinforcement learning framework for optimizing sequential cART assignments. Applying the proposed approach to a dataset from the Women’s Interagency HIV Study, we demonstrate its clinical utility in assisting physicians to make effective treatment decisions, serving the purpose of both viral suppression and comorbidity risk reduction&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>RSS short course: Multilevel Modelling </title>
       <link>/course/20230208rss-short-course-multilevel-modelling/</link>
       <pubDate>Wed, 08 Feb 2023 01:30:00 +0000</pubDate>
@@ -120,11 +129,38 @@
     </item>
     
     <item>
+      <title>{MMRM} and Software Engineering Working Group</title>
+      <link>/webinar/20230126mmrm-and-software-engineering-working-group/</link>
+      <pubDate>Thu, 26 Jan 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230126mmrm-and-software-engineering-working-group/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;R Adoption Series Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In this R Adoption Series Webinar, the R Consortium invites the ASA Software Engineering Working Group ASA BIOP SWE to share their experience of how the group formed and the types of problems they are trying to solve in the Open Source for the Pharmaceutical industry.&lt;/p&gt;
+&lt;p&gt;This session starts with describing the ASA SWE group, its motivations, and purpose, and then digs into one of the packages that the group has created {mmrm}. The mmrm package will be demoed and discuss why we have to be careful with the development of packages, why it’s not “yet another package,” and then the long-term perspective on software engineering in the Pharmaceutical industry.&lt;/p&gt;
+&lt;p&gt;Then, Yoni Sidi will do a demo of the {mmrm} package describing the differences between SAS and R. The last section of the event will be focused on answering questions about this new working group and the {mmrm} package.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Added Value of Biostatistics-Driven Randomization and Trial Supply Management System (RTSM)</title>
+      <link>/webinar/20230125the-added-value-of-biostatistics/</link>
+      <pubDate>Wed, 25 Jan 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230125the-added-value-of-biostatistics/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;IDDI Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2023 Precision Medicine World Conference (PMWC)</title>
       <link>/conference/202301252023-precision-medicine-world-conference-pmwc/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/conference/202301252023-precision-medicine-world-conference-pmwc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A Nonparametric Bayesian Approach to Use RWD in Clinical Trial Design</title>
+      <link>/webinar/20230124a-nonparametric-bayesian-approach-to-use-rwd-in-clinical-trial-design/</link>
+      <pubDate>Tue, 24 Jan 2023 10:00:00 +0000</pubDate>
+      <guid>/webinar/20230124a-nonparametric-bayesian-approach-to-use-rwd-in-clinical-trial-design/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Dana-Farber Cancer Institute Data Science Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -58,6 +58,16 @@
   </url>
   
   <url>
+    <loc>/webinar/</loc>
+    <lastmod>2023-02-08T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230208a-bayesian-decision-framework/</loc>
+    <lastmod>2023-02-08T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/20230208rss-short-course-multilevel-modelling/</loc>
     <lastmod>2023-02-08T01:30:00+00:00</lastmod>
   </url>
@@ -78,8 +88,23 @@
   </url>
   
   <url>
+    <loc>/webinar/20230126mmrm-and-software-engineering-working-group/</loc>
+    <lastmod>2023-01-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230125the-added-value-of-biostatistics/</loc>
+    <lastmod>2023-01-25T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/202301252023-precision-medicine-world-conference-pmwc/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230124a-nonparametric-bayesian-approach-to-use-rwd-in-clinical-trial-design/</loc>
+    <lastmod>2023-01-24T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -95,11 +120,6 @@
   <url>
     <loc>/course/20230119isi-short-course-generally-altered-inflated-truncated-and-deflated-regression-using-r/</loc>
     <lastmod>2023-01-19T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/webinar/</loc>
-    <lastmod>2023-01-19T06:00:00+00:00</lastmod>
   </url>
   
   <url>
