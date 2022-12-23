@@ -5,12 +5,38 @@
     <link>/webinar/</link>
       <atom:link href="/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 05:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 06:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/webinar/</link>
     </image>
+    
+    <item>
+      <title>Biomarkers in Clinical Development</title>
+      <link>/webinar/20230119biomarkers-in-clinical-development/</link>
+      <pubDate>Thu, 19 Jan 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230119biomarkers-in-clinical-development/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;PSI Biomarkers SIG Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pre-processing and Quality Control of Whole Genome Sequencing Data: A Case Study Using 9000 Whole Genomes from the GENESIS-HD Study</title>
+      <link>/webinar/20230118pre-processing-and-quality-control-of-whole-genome-sequencing-data/</link>
+      <pubDate>Wed, 18 Jan 2023 12:30:00 +0000</pubDate>
+      <guid>/webinar/20230118pre-processing-and-quality-control-of-whole-genome-sequencing-data/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;McGill University Biostatistics Seminars&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Rapid advances in high-throughput DNA sequencing technologies have enabled the conduct of large-scale whole genome sequencing (WGS) studies. In this presentation, we describe the per-processing pipeline and quality control framework we have selected for the GENEtic SequencIng Study Hamburg-Davos (GENESIS-HD), a study involving more than 9000 human whole genomes. All samples were sequenced on a single Illumina NovaSeq 6000 with an average coverage of 35x using a PCR-free protocol and unique dual indices (UDI). For quality control, one genome-in-a-bottle (GIAB) trio was sequenced in triplicate, and one GIAB sample was sequenced 70 times in different runs. First, we explain the sequencing approach using illustrations. We describe important quality control metrics on the raw data (fastq file), after mapping and alignment (bam file), after variant calling (gvcf file) and multi-sample calling (msvcf file). We provide empirical data for efficient sample storage using original read archive (ORA) compression of fastq files. Finally, we sketch methods tailored for downstream association analysis and their incorporation in our analysis pipeline. The most important quality metrics for sample filtering were ancestry, sample cross-contamination, deviation from the expected Het/Hom ratio, relatedness, and too low coverage. We detected some patterns of sample cross-contamination which indicate cross-contamination through a multichannel pipette. When fastq files were compressed using ORA compression, the resulting file size was approximately 1/5 of the original file size, and compression time was linear to mismatch bases. In summary, the pre-processing, joint calling and QC of large WGS studies is nowadays feasible in reasonable time and efficient quality control procedures are readily available.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BOIN Suite – a Bayesian Design Platform to Innovate Phase I Oncology Trials</title>
+      <link>/webinar/20230118boin-suite-a-bayesian-design-platform-to-innovate-phase-i-oncology-trials/</link>
+      <pubDate>Wed, 18 Jan 2023 04:30:00 +0000</pubDate>
+      <guid>/webinar/20230118boin-suite-a-bayesian-design-platform-to-innovate-phase-i-oncology-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Boston Chapter Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;US Food and Drug Administration (FDA) recently granted the Bayesian optimal interval (BOIN) design the fit-for-purpose designation as a tool for drug development. This is the third design that received this prestigious designation over the last decade. In this talk, I will review the statistical principle of BOIN designs and how they provide an integrated platform to accommodate various types of phase I trials, including single-agent trials, drug-combination trials, trials with late-onset toxicity, and trials to find the optimal biological dose. Practical guidance and software, freely available at &lt;a href=&#34;http://www.trialdesign.org&#34;&gt;www.trialdesign.org&lt;/a&gt;, will be provided with real-world trial examples.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Addressing Intercurrent Events - Treatment Policy and Hypothetical Strategies</title>

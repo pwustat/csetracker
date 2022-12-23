@@ -37,6 +37,73 @@
     </item>
     
     <item>
+      <title>ISPOR Short Course: Bayesian Analysis - An Introduction</title>
+      <link>/course/20230315ispor-short-course-bayesian-analysis-an-introduction/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230315ispor-short-course-bayesian-analysis-an-introduction/</guid>
+      <description>&lt;p&gt;This course will provide a gentle introduction to Bayesian methods for those with a limited understanding of Bayesian statistical concepts or for those who want a refresher and more practical experience. The course will introduce basic elements of Bayesian inference and provide a “hands-on” workshop performing familiar statistical tests and models using OpenBUGS software.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RSS short course: Introduction to Bayesian Statistics </title>
+      <link>/course/20230315rss-short-course-introduction-to-bayesian-statistics/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230315rss-short-course-introduction-to-bayesian-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPOR Short Course: Advanced Patient-Reported Outcomes</title>
+      <link>/course/20230308ispor-short-course-advanced-patient-reported-outcomes/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230308ispor-short-course-advanced-patient-reported-outcomes/</guid>
+      <description>&lt;p&gt;This course will present steps for successful implementation of PROs in the drug development process that includes: PRO instrument selection, psychometric evaluation, data capture, and interpretation to navigate regulatory, reimbursement, and market access drug development hurdles. Psychometric measurement properties and interpretation of meaningful change for PRO measures will also be reviewed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RSS short course: Introduction to Machine Learning in R</title>
+      <link>/course/20230307rss-short-course-introduction-to-machine-learning-in-r/</link>
+      <pubDate>Tue, 07 Mar 2023 05:00:00 +0000</pubDate>
+      <guid>/course/20230307rss-short-course-introduction-to-machine-learning-in-r/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;March 7-10, 2023&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction to machine-learning: parsnip package; basic train and test&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stages of machine-learning: problem formulation; data preparation; feature engineering; model selection&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Highlighted Models: Decision trees and random forests; K-nearest neighbours, linear regression and logistic regression.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA short course: Mediation Analysis with Failure Time Outcomes</title>
+      <link>/course/20230303asa-short-course-mediation-analysis-with-failure-time-outcomes/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230303asa-short-course-mediation-analysis-with-failure-time-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS short course: Multilevel Modelling </title>
+      <link>/course/20230208rss-short-course-multilevel-modelling/</link>
+      <pubDate>Wed, 08 Feb 2023 01:30:00 +0000</pubDate>
+      <guid>/course/20230208rss-short-course-multilevel-modelling/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;February 8 and 9, 2023. Early bird registration ends on January 8&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI short course: Restricted least squares estimation </title>
+      <link>/course/20230206isi-short-course-restricted-least-squares-estimation/</link>
+      <pubDate>Mon, 06 Feb 2023 06:00:00 +0000</pubDate>
+      <guid>/course/20230206isi-short-course-restricted-least-squares-estimation/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;February 6 and 7, 2023&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Annual Lange Symposium: Genomics and Computational Statistics</title>
       <link>/conference/20230203annual-lange-symposium-genomics-and-computational-statistics/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
@@ -75,6 +142,40 @@
       <guid>/conference/20230123psi-scientific-meeting-decentralised-clinical-trials/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Member rate = £20+VAT; Non-Member rate = £130&lt;/em&gt;+VAT*&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;In a decentralised clinical trial, patients&#39; assessments are (partly) transferred from the clinical trial site to the patients&#39; home and might occur without any face to face interactions between patient and study personnel. In particular during the Covid-19 pandemic, decentralising clinical trials attracted considerable attention as one way to continue conducting trials during lockdowns and curfews. In this online event, experts in the field discuss the opportunities and challenges of decentralised clinical trials for the development of drugs and the promise they hold for modernising the way trials are conducted.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI short course: Generally-Altered, -Inflated, -Truncated and -Deflated Regression Using R</title>
+      <link>/course/20230119isi-short-course-generally-altered-inflated-truncated-and-deflated-regression-using-r/</link>
+      <pubDate>Thu, 19 Jan 2023 09:00:00 +0000</pubDate>
+      <guid>/course/20230119isi-short-course-generally-altered-inflated-truncated-and-deflated-regression-using-r/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;January 19 and 20, 2023&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Biomarkers in Clinical Development</title>
+      <link>/webinar/20230119biomarkers-in-clinical-development/</link>
+      <pubDate>Thu, 19 Jan 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230119biomarkers-in-clinical-development/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;PSI Biomarkers SIG Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pre-processing and Quality Control of Whole Genome Sequencing Data: A Case Study Using 9000 Whole Genomes from the GENESIS-HD Study</title>
+      <link>/webinar/20230118pre-processing-and-quality-control-of-whole-genome-sequencing-data/</link>
+      <pubDate>Wed, 18 Jan 2023 12:30:00 +0000</pubDate>
+      <guid>/webinar/20230118pre-processing-and-quality-control-of-whole-genome-sequencing-data/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;McGill University Biostatistics Seminars&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Rapid advances in high-throughput DNA sequencing technologies have enabled the conduct of large-scale whole genome sequencing (WGS) studies. In this presentation, we describe the per-processing pipeline and quality control framework we have selected for the GENEtic SequencIng Study Hamburg-Davos (GENESIS-HD), a study involving more than 9000 human whole genomes. All samples were sequenced on a single Illumina NovaSeq 6000 with an average coverage of 35x using a PCR-free protocol and unique dual indices (UDI). For quality control, one genome-in-a-bottle (GIAB) trio was sequenced in triplicate, and one GIAB sample was sequenced 70 times in different runs. First, we explain the sequencing approach using illustrations. We describe important quality control metrics on the raw data (fastq file), after mapping and alignment (bam file), after variant calling (gvcf file) and multi-sample calling (msvcf file). We provide empirical data for efficient sample storage using original read archive (ORA) compression of fastq files. Finally, we sketch methods tailored for downstream association analysis and their incorporation in our analysis pipeline. The most important quality metrics for sample filtering were ancestry, sample cross-contamination, deviation from the expected Het/Hom ratio, relatedness, and too low coverage. We detected some patterns of sample cross-contamination which indicate cross-contamination through a multichannel pipette. When fastq files were compressed using ORA compression, the resulting file size was approximately 1/5 of the original file size, and compression time was linear to mismatch bases. In summary, the pre-processing, joint calling and QC of large WGS studies is nowadays feasible in reasonable time and efficient quality control procedures are readily available.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BOIN Suite – a Bayesian Design Platform to Innovate Phase I Oncology Trials</title>
+      <link>/webinar/20230118boin-suite-a-bayesian-design-platform-to-innovate-phase-i-oncology-trials/</link>
+      <pubDate>Wed, 18 Jan 2023 04:30:00 +0000</pubDate>
+      <guid>/webinar/20230118boin-suite-a-bayesian-design-platform-to-innovate-phase-i-oncology-trials/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Boston Chapter Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;US Food and Drug Administration (FDA) recently granted the Bayesian optimal interval (BOIN) design the fit-for-purpose designation as a tool for drug development. This is the third design that received this prestigious designation over the last decade. In this talk, I will review the statistical principle of BOIN designs and how they provide an integrated platform to accommodate various types of phase I trials, including single-agent trials, drug-combination trials, trials with late-onset toxicity, and trials to find the optimal biological dose. Practical guidance and software, freely available at &lt;a href=&#34;http://www.trialdesign.org&#34;&gt;www.trialdesign.org&lt;/a&gt;, will be provided with real-world trial examples.&lt;/p&gt;</description>
     </item>
     
     <item>
