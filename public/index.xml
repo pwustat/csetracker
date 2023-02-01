@@ -121,10 +121,74 @@
     </item>
     
     <item>
+      <title>Toward Better Practice of Covariate Adjustment in Analyzing Randomized Clinical Trials </title>
+      <link>/webinar/20230202toward-better-practice-of-covariate-adjustment/</link>
+      <pubDate>Thu, 02 Feb 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230202toward-better-practice-of-covariate-adjustment/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA-BI-NESS Statistics Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2023 Conference on Statistical Practice</title>
       <link>/conference/202302022023-conference-on-statistical-practice/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       <guid>/conference/202302022023-conference-on-statistical-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phases of Research for Statistical Methods </title>
+      <link>/webinar/20230131phases-of-research-for-statistical-methods/</link>
+      <pubDate>Tue, 31 Jan 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230131phases-of-research-for-statistical-methods/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Opportunities and Challenges for Digital Twins in Biomedical Sciences</title>
+      <link>/webinar/20230130opportunities-and-challenges-for-digital-twins-in-biomedical-sciences/</link>
+      <pubDate>Mon, 30 Jan 2023 07:00:00 +0000</pubDate>
+      <guid>/webinar/20230130opportunities-and-challenges-for-digital-twins-in-biomedical-sciences/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;National Academies of Sciences, Engineering, and Medicine (NASEM) Virtual Workshop&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI Short Course: Spatio-temporal Modeling and Prediction</title>
+      <link>/course/20230130spatio-temporal-modeling-and-prediction/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230130spatio-temporal-modeling-and-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Differential Privacy</title>
+      <link>/webinar/20230127gaussian-differential-privacy/</link>
+      <pubDate>Fri, 27 Jan 2023 13:00:00 +0000</pubDate>
+      <guid>/webinar/20230127gaussian-differential-privacy/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA San Francisco Bay Area Chapter Virtual Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Veridical Data Science with a Case Study to Seek Genetic Drivers of a Heart Disease</title>
+      <link>/webinar/20230127veridical-data-science-with-a-case-study-to-seek-genetic-driver/</link>
+      <pubDate>Fri, 27 Jan 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20230127veridical-data-science-with-a-case-study-to-seek-genetic-driver/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;DahShu Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introducing the Software Engineering Working Group and {mmrm} </title>
+      <link>/webinar/20230126introducing-the-software-engineering-working-group-and-mmrm/</link>
+      <pubDate>Thu, 26 Jan 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230126introducing-the-software-engineering-working-group-and-mmrm/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;R-Consortium R/Adoption Webinar Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Overcoming Challenges in Rare Disease Research - Uncovering Hard to Find Patients Using NLP in Electronic Medical Records</title>
+      <link>/webinar/20230126overcoming-challenges-in-rare-disease-research/</link>
+      <pubDate>Thu, 26 Jan 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230126overcoming-challenges-in-rare-disease-research/</guid>
       <description></description>
     </item>
     
@@ -137,6 +201,14 @@
 &lt;p&gt;In this R Adoption Series Webinar, the R Consortium invites the ASA Software Engineering Working Group ASA BIOP SWE to share their experience of how the group formed and the types of problems they are trying to solve in the Open Source for the Pharmaceutical industry.&lt;/p&gt;
 &lt;p&gt;This session starts with describing the ASA SWE group, its motivations, and purpose, and then digs into one of the packages that the group has created {mmrm}. The mmrm package will be demoed and discuss why we have to be careful with the development of packages, why it’s not “yet another package,” and then the long-term perspective on software engineering in the Pharmaceutical industry.&lt;/p&gt;
 &lt;p&gt;Then, Yoni Sidi will do a demo of the {mmrm} package describing the differences between SAS and R. The last section of the event will be focused on answering questions about this new working group and the {mmrm} package.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Derivation and Usefulness of Tight Symbolic Causal Bounds</title>
+      <link>/webinar/20230125derivation-and-usefulness-of-tight-symbolic-causal-bounds/</link>
+      <pubDate>Wed, 25 Jan 2023 12:30:00 +0000</pubDate>
+      <guid>/webinar/20230125derivation-and-usefulness-of-tight-symbolic-causal-bounds/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;McGill University Biostatistics Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
