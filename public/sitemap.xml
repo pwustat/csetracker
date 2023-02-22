@@ -58,8 +58,63 @@
   </url>
   
   <url>
+    <loc>/course/20230301multiple-imputation-analysis-for-missing-data-in-practice/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/</loc>
-    <lastmod>2023-02-08T12:30:00+00:00</lastmod>
+    <lastmod>2023-02-24T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230224modern-biostatistical-computing-environment-for-sas-r/</loc>
+    <lastmod>2023-02-24T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230224considerations-for-bayesian-methods-with-informative-priors/</loc>
+    <lastmod>2023-02-24T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230222changing-the-world-with-statistics/</loc>
+    <lastmod>2023-02-22T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230221bayesian-covariance-structure-modelling/</loc>
+    <lastmod>2023-02-21T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230217application-of-artificial-intelligence-and-machine-learning-for-precision-medicine/</loc>
+    <lastmod>2023-02-17T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230217european-ai-standardisation/</loc>
+    <lastmod>2023-02-17T02:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230216deep-neural-networks-guided-ensemble-learning-for-point-estimation/</loc>
+    <lastmod>2023-02-16T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230214using-the-case-study-of-atezolizumab/</loc>
+    <lastmod>2023-02-14T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230210big-data-a-perspective-from-statistical-foundational-of-data-science/</loc>
+    <lastmod>2023-02-10T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230210two-stage-adaptive-design-for-prognostic-biomarker-signatures-with-a-survival-endpoint/</loc>
+    <lastmod>2023-02-10T08:00:00+00:00</lastmod>
   </url>
   
   <url>

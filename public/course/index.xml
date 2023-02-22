@@ -64,6 +64,24 @@
     </item>
     
     <item>
+      <title>Multiple Imputation Analysis for Missing Data in Practice</title>
+      <link>/course/20230301multiple-imputation-analysis-for-missing-data-in-practice/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230301multiple-imputation-analysis-for-missing-data-in-practice/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Washington Statistical Society (WSS) Short Course&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Day 1: 11am-1pm EST on March 1 (Wed.), 2023&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Part 1: Basic concepts of missing data problems - Topics include missing data definition, missing data pattern, missing data mechanisms (MCAR/MAR/MNAR), and some principled as well as ad-hoc missing data analysis methods (e.g., complete-case analysis).&lt;/p&gt;
+&lt;p&gt;Part 2: Basic ideas of multiple imputation - Topics include the motivation of multiple imputation, its procedure, and the combining rules, and multiple imputation models for univariate missing data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Day 2: 11am-1pm EST on March 2 (Thur.), 2023&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Part 1: Multiple imputation for multivariate missing data – Topics include imputation using the joint modeling approach and fully conditional specification approach; Multiple imputation in some specific data and design settings (e.g., for longitudinal data, survival data, survey data, and measurement error models).&lt;/p&gt;
+&lt;p&gt;Part 2: Sample code and implementation using SAS/R/Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Day 3: 11am-1pm EST on March 3 (Fri.), 2023&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Part 1: Two real data applications: (1) Multiple imputation for survival analysis; (2) Multiple imputation sensitivity analysis for missing data not at random.&lt;/p&gt;
+&lt;p&gt;Part 2: A case study: Multiple imputation for handling CDC COVID-19 case reports with missing race/ethnicity.&lt;/p&gt;
+&lt;p&gt;Part 3: Floor discussion and wrap-up.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>RSS short course: Multilevel Modelling </title>
       <link>/course/20230208rss-short-course-multilevel-modelling/</link>
       <pubDate>Wed, 08 Feb 2023 01:30:00 +0000</pubDate>

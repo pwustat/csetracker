@@ -5,12 +5,95 @@
     <link>/webinar/</link>
       <atom:link href="/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Feb 2023 12:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 12:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/webinar/</link>
     </image>
+    
+    <item>
+      <title>Modern Biostatistical Computing Environment for SAS/R</title>
+      <link>/webinar/20230224modern-biostatistical-computing-environment-for-sas-r/</link>
+      <pubDate>Fri, 24 Feb 2023 12:00:00 +0000</pubDate>
+      <guid>/webinar/20230224modern-biostatistical-computing-environment-for-sas-r/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA San Francisco Bay Area Chapter Virtual Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Considerations for Bayesian Methods with Informative Priors</title>
+      <link>/webinar/20230224considerations-for-bayesian-methods-with-informative-priors/</link>
+      <pubDate>Fri, 24 Feb 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230224considerations-for-bayesian-methods-with-informative-priors/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;DIA Bayesian Scientific Working Group (BSWG) KOL webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Changing the World with Statistics</title>
+      <link>/webinar/20230222changing-the-world-with-statistics/</link>
+      <pubDate>Wed, 22 Feb 2023 11:00:00 +0000</pubDate>
+      <guid>/webinar/20230222changing-the-world-with-statistics/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Texas A&amp;amp;M University Statistics Former Student Network Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Covariance Structure Modelling of Clinical Trial Data</title>
+      <link>/webinar/20230221bayesian-covariance-structure-modelling/</link>
+      <pubDate>Tue, 21 Feb 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230221bayesian-covariance-structure-modelling/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Latent mixed effects models can be used in clinical trials to describe clustered data consisting of multiple outcome types. Observations in the same factor level share a random effect which, when integrated out, yields a positive addition to the covariance between these outcomes. In this research, instead we directly analyse covariance structure models where the covariance structure comes from a multi-level normal latent mixed effect model. This model allows for a positive as well as a negative addition to the covariance between observations in the same factor level. Next, the extension of the parameter range of these covariances to negative values has other benefits in statistical estimation and testing.We construct a novel, efficient and general procedure to perform Bayesian analysis under these covariance structure models, involving a product shifted-inverse gamma prior for the covariance parameters respecting the parameter range. Our leading example will consist of data coming from the BIO-RESORT clinical trial, where we apply our results to construct a Gibbs sampler for type-II interval censored event-time data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Application of Artificial Intelligence and Machine Learning for Precision Medicine</title>
+      <link>/webinar/20230217application-of-artificial-intelligence-and-machine-learning-for-precision-medicine/</link>
+      <pubDate>Fri, 17 Feb 2023 07:00:00 +0000</pubDate>
+      <guid>/webinar/20230217application-of-artificial-intelligence-and-machine-learning-for-precision-medicine/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;FDA Virtual Workshop&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>European AI Standardisation in the Context of the EU AI Act – The Work of CEN-CENELEC JTC 21</title>
+      <link>/webinar/20230217european-ai-standardisation/</link>
+      <pubDate>Fri, 17 Feb 2023 02:00:00 +0000</pubDate>
+      <guid>/webinar/20230217european-ai-standardisation/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;AI Standards Hub Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The event was designed to be of interest to a wide audience. Pursuant to the EU’s regulatory approach, companies that adhere to harmonised standards enjoy a legal presumption of conformity with the regulatory requirements to which the standards relate. As a result, the standards developed by CEN-CENELEC JTC 21 are set to play an influential role as AI governance tools within the EU and beyond. They will be relevant to any AI developers seeking to do business in the EU, but will also play an important role in discussions on best practices and regulatory interoperability for AI at the wider international level.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks Guided Ensemble Learning for Point Estimation</title>
+      <link>/webinar/20230216deep-neural-networks-guided-ensemble-learning-for-point-estimation/</link>
+      <pubDate>Thu, 16 Feb 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230216deep-neural-networks-guided-ensemble-learning-for-point-estimation/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;ASA Philadelphia Chapter Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In modern statistics, interests shift from pursuing the uniformly minimum variance unbiased estimator to reducing mean squared error (MSE) or residual squared error. However, the characterization of such optimal statistics in terms of minimizing MSE remains open and challenging in many problems, for example estimating treatment effect in adaptive clinical trials with pre-planned modifications to design aspects based on accumulated data. From an alternative perspective, we propose a deep neural network based automatic method to construct an improved estimator from existing ones. Simulation studies demonstrate that the proposed method has considerable finite-sample efficiency gain as compared with several common estimators. In the Adaptive COVID-19 Treatment Trial (ACTT) as an important application, our ensemble estimator essentially contributes to a more ethical and efficient adaptive clinical trial with fewer patients enrolled.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using the Case Study of Atezolizumab Development to Rethink Early Phase Oncology Trial Design</title>
+      <link>/webinar/20230214using-the-case-study-of-atezolizumab/</link>
+      <pubDate>Tue, 14 Feb 2023 10:00:00 +0000</pubDate>
+      <guid>/webinar/20230214using-the-case-study-of-atezolizumab/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Dana Farber Cancer Institute (DFCI) Frontiers in Biostatistics Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big Data – A Perspective from Statistical Foundational of Data Science</title>
+      <link>/webinar/20230210big-data-a-perspective-from-statistical-foundational-of-data-science/</link>
+      <pubDate>Fri, 10 Feb 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230210big-data-a-perspective-from-statistical-foundational-of-data-science/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Central Michigan University Data Science Speaker Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Two-Stage Adaptive Design for Prognostic Biomarker Signatures with a Survival Endpoint</title>
+      <link>/webinar/20230210two-stage-adaptive-design-for-prognostic-biomarker-signatures-with-a-survival-endpoint/</link>
+      <pubDate>Fri, 10 Feb 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230210two-stage-adaptive-design-for-prognostic-biomarker-signatures-with-a-survival-endpoint/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;DIA Innovative Design Scientific Working Group (IDSWG) KOL Lecture Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV </title>
