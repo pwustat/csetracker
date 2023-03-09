@@ -5,12 +5,100 @@
     <link>/webinar/</link>
       <atom:link href="/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 12:30:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/webinar/</link>
     </image>
+    
+    <item>
+      <title>The Psychometrics of Clinical Trial Endpoints Derived from Patient-Reported Outcome Measures - Causal Inference Validity</title>
+      <link>/webinar/20230308the-psychometrics-of-clinical-trial-endpoints-derived-from-patient-reported-outcome-measures-causal-inference-validity/</link>
+      <pubDate>Wed, 08 Mar 2023 12:30:00 +0000</pubDate>
+      <guid>/webinar/20230308the-psychometrics-of-clinical-trial-endpoints-derived-from-patient-reported-outcome-measures-causal-inference-validity/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;•	McGill University Biostatistics Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The US Food and Drug Administration increasingly emphasizes the importance of assessing how patients “feel, function, and survive” when evaluating new treatments in clinical trials, often via the use of endpoints derived from patient-reported outcome measures (PROs). This presentation examines possible pitfalls in using PRO-derived endpoints to estimate and test hypotheses about treatment effects. It discusses the notion of whether endpoints possess “causal inference validity,” and presents inferential remedies when such validity is not achieved. The pitfalls and remedies are exemplified in a simulation study using the Rasch item response theory measurement model to analyze a PRO.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arriving at the Junction of Statistics and Biology – My Journey </title>
+      <link>/webinar/20230308arriving-at-the-junction-of-statistics-and-biology-my-journey/</link>
+      <pubDate>Wed, 08 Mar 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20230308arriving-at-the-junction-of-statistics-and-biology-my-journey/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Harvard Radcliffe Institute Fellow’s Presentation&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Statistical Tour on Metabolomics in Cancer Epidemiology </title>
+      <link>/webinar/20230308a-statistical-tour-on-metabolomics-in-cancer-epidemiology/</link>
+      <pubDate>Wed, 08 Mar 2023 07:30:00 +0000</pubDate>
+      <guid>/webinar/20230308a-statistical-tour-on-metabolomics-in-cancer-epidemiology/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Washington Statistical Society (WSS) Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Use of Negative Controls to Assess the Validity of Non-Interventional Studies of Treatment Using Real-World Evidence</title>
+      <link>/webinar/20230308understanding-the-use-of-negative-controls-to-assess-the-validity-of-non-interventional-studies-of-treatment-using-real-world-evidence/</link>
+      <pubDate>Wed, 08 Mar 2023 07:00:00 +0000</pubDate>
+      <guid>/webinar/20230308understanding-the-use-of-negative-controls-to-assess-the-validity-of-non-interventional-studies-of-treatment-using-real-world-evidence/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Duke-Margolis/FDA Virtual Workshop&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Real-world evidence (RWE) generated from real-world data (RWD) is increasingly being utilized to address scientific and regulatory questions at the Food and Drug Administration (FDA), including both product safety and effectiveness. Evaluating RWE for regulatory use, however, depends on a robust causal inference framework, and there is growing stakeholder interest to understand how methodological advances with negative controls can improve causal inference.&lt;/p&gt;
+&lt;p&gt;On March 8, 2023, the Duke-Margolis Center for Health Policy, under cooperative agreement with the FDA, will convene a workshop on how negative controls could support new methodological approaches for causal inference in the Sentinel System. Discussion will inform the methods development projects aimed at: 1) establishing empirical methods to automate the negative controls identification in Sentinel and integrate it into the Sentinel Initiative tools, and 2) developing approaches to use a double-negative control adjustment to reduce unmeasured confounding in studying effectiveness of vaccines.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Making Clinical Trial Design and Analysis Robust</title>
+      <link>/webinar/20230307making-clinical-trial-design-and-analysis-robust/</link>
+      <pubDate>Tue, 07 Mar 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230307making-clinical-trial-design-and-analysis-robust/</guid>
+      <description>&lt;p&gt;Interpretation of a result of a primary endpoint in a clinical trial is made by reference to a single prespecified method of analysis. The convention of relying on a single method is risky as it may be suboptimal. Because we are blinded when we pre-specify, the risk that inference may depend on having selected an inferior method is always present. A better, robust, and versatile approach is to interpret the result by reference to an alpha-adjusted combined result derived from multiple prespecified methods. It is better because it has the potential to give more power than any single method. It is robust because given two methods, one optimal and the other suboptimal, the combined result is closer to the result from the optimal method. It is versatile because
+for group sequential trials, the combined approach permits use of different methods at different times. The concept is akin to diversifying financial investments to minimize risk. A limitation of combining methods is that it does not produce an unbiased estimate of the treatment effect.
+It has applications in complex clinical trials because of the greater uncertainty in the performance of a single method. Application of this method to different types of examples attests to its potential for increased power, robustness, and versatility.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Size for Categorical Endpoints – Binary, Ordered and Contingency Table Data</title>
+      <link>/webinar/20230307sample-size-for-categorical-endpoints-binary-ordered-and-contingency-table-data/</link>
+      <pubDate>Tue, 07 Mar 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230307sample-size-for-categorical-endpoints-binary-ordered-and-contingency-table-data/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;nQuery Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sample Size for Two Independent Proportions (Chi-Squared, Exact Tests)&lt;/li&gt;
+&lt;li&gt;Sample Size for Two Ordered Categorical (Proportional Odds Model)&lt;/li&gt;
+&lt;li&gt;Power for Chi-squared Independence Test for 2-Way Contingency Table&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Defining New Targets and Strategies for Immunotherapy of Advanced Prostate Cancer</title>
+      <link>/webinar/20230307science-seminar-series-defining-new-targets/</link>
+      <pubDate>Tue, 07 Mar 2023 07:00:00 +0000</pubDate>
+      <guid>/webinar/20230307science-seminar-series-defining-new-targets/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Dana Farber/Harvard Cancer Center Connect Science Seminar Series&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISPOR Webinar: FDA Patient-Focused Drug Development (PFDD) Guidance - Part 2</title>
+      <link>/webinar/20230307fda-patient-focused-drug-development/</link>
+      <pubDate>Tue, 07 Mar 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230307fda-patient-focused-drug-development/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Inform the ISPOR membership about the FDA PFDD initiative in general, the four PFDD guidance documents more specifically, and the various ways PFDD might impact the work they do in HEOR, clinical outcome assessments (COA), regulatory science, and other areas.&lt;/li&gt;
+&lt;li&gt;Discuss draft guidance 3, for which a public comment period was recently conducted, and what is required in guidance 4.&lt;/li&gt;
+&lt;li&gt;Provide insights on how the guidance documents can be used.&lt;/li&gt;
+&lt;li&gt;Provide insights on the future of PFDD.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Methods for Bayesian Optimal Design of Experiments, with Application in Biological Science</title>
+      <link>/webinar/20230307methods-for-bayesian-optimal-design-of-experiments-with-application-in-biological-science/</link>
+      <pubDate>Tue, 07 Mar 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230307methods-for-bayesian-optimal-design-of-experiments-with-application-in-biological-science/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Bayesian optimal design for many realistic and practically important experiments is complicated by the need to evaluate an expected loss over all a priori unknown and unobserved quantities for any prospective design. For nonlinear statistical models, this expected loss is typically analytically intractable; for many physical models, evaluation of the expected loss is further complicated by the need for numerical solutions to the underpinning ordinary differential equations (ODEs). Hence, finding an optimal design for such models via minimisation of the expected loss is challenging. We present methodology for finding optimal designs that (i) treats a Monte Carlo approximation of the expected loss as an unknown black-box function and conducts a computer experiment and (ii) employs a probabilistic solution to the system of ODEs, where necessary.  The potentially high-dimensional nature of the problem is mitigated via application of the coordinate exchange algorithm and conditional emulation of the expected loss for each coordinate (value of a single controllable variable in a single experimental run). The work is motivated by, and demonstrated on, examples from the biological sciences.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Modern Biostatistical Computing Environment for SAS/R</title>
