@@ -28,6 +28,16 @@
   </url>
   
   <url>
+    <loc>/webinar/</loc>
+    <lastmod>2023-03-15T06:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230315real-world-data-quality-assessing-data-quality-and-demonstrating-fitness-for-purpose/</loc>
+    <lastmod>2023-03-15T06:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -43,8 +53,28 @@
   </url>
   
   <url>
-    <loc>/webinar/</loc>
-    <lastmod>2023-03-08T12:30:00+00:00</lastmod>
+    <loc>/webinar/20230314on-causal-decision-making/</loc>
+    <lastmod>2023-03-14T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230314challenges-and-proposals-for-tumor-agnostic-drug-development/</loc>
+    <lastmod>2023-03-14T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230314the-roles-and-rules-of-dna-methylation-in-development-and-environmental-adaptation/</loc>
+    <lastmod>2023-03-14T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230310women-in-data-science-wids-2023/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230309on-the-treatment-effect-estimation-of-count-or-recurrent-event-data/</loc>
+    <lastmod>2023-03-09T08:00:00+00:00</lastmod>
   </url>
   
   <url>
