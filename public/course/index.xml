@@ -5,12 +5,28 @@
     <link>/course/</link>
       <atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Apr 2023 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/course/</link>
     </image>
+    
+    <item>
+      <title>RSS Short Course: Interactive Visualisation in R </title>
+      <link>/course/20230515rss-short-course-interactive-visualisation-in-r/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230515rss-short-course-interactive-visualisation-in-r/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RSS Short Course: Introduction to R &amp; Statistical Modelling in R </title>
+      <link>/course/20230509rss-short-course-introduction-to-r-statistical-modelling-in-r/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230509rss-short-course-introduction-to-r-statistical-modelling-in-r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Selective Introduction to Multi-Omics Analysis </title>
@@ -22,6 +38,14 @@
 4/13: Unsupervised clustering of multiomics data&lt;br&gt;
 4/18: Dimension reduction for multiomics data&lt;br&gt;
 4/20: Multiomics causal mediation analysis &amp;amp; single cell multiomics analysis&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Short Course (Hosted by Central Arkansas Chapter): Data Visualization with R</title>
+      <link>/course/20230407asa-short-course-hosted-by-central-arkansas-chapter-data-visualization-with-r/</link>
+      <pubDate>Fri, 07 Apr 2023 06:30:00 +0000</pubDate>
+      <guid>/course/20230407asa-short-course-hosted-by-central-arkansas-chapter-data-visualization-with-r/</guid>
+      <description></description>
     </item>
     
     <item>

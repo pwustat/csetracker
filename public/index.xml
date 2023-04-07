@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>CBMS Conference: Deep Learning and Numerical PDEs </title>
+      <link>/conference/20230619cbms-conference-deep-learning-and-numerical-pdes/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230619cbms-conference-deep-learning-and-numerical-pdes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 WNAR/IMS Annual Meeting</title>
+      <link>/conference/202306182023-wnar-ims-annual-meeting/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/202306182023-wnar-ims-annual-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2023 Workshop of Statistical Network Analysis and Beyond (SNAB 2023)</title>
+      <link>/conference/20230615the-2023-workshop-of-statistical-network-analysis-and-beyond-snab-2023/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230615the-2023-workshop-of-statistical-network-analysis-and-beyond-snab-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ICSA 2023 Applied Statistics Symposium</title>
@@ -85,6 +109,14 @@
     </item>
     
     <item>
+      <title>ISPOR Webinar: Clinical Trial Innovation: How Healthcare Technology is Evolving</title>
+      <link>/webinar/20230531ispor-webinar-clinical-trial-innovation-how-healthcare-technology-is-evolving/</link>
+      <pubDate>Wed, 31 May 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230531ispor-webinar-clinical-trial-innovation-how-healthcare-technology-is-evolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Symposium on Data Science and Statistics 2023: Beyond Big Data: Inquire, Investigate, Implement, Innovate</title>
       <link>/conference/20230523symposium-on-data-science-and-statistics-2023-beyond-big-data-inquire-investigate-implement-innovate/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
@@ -117,6 +149,14 @@
     </item>
     
     <item>
+      <title>RSS Short Course: Interactive Visualisation in R </title>
+      <link>/course/20230515rss-short-course-interactive-visualisation-in-r/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230515rss-short-course-interactive-visualisation-in-r/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>PharmaSUG 2023: Putting Digitalization to Work</title>
       <link>/conference/20230514pharmasug-2023-putting-digitalization-to-work/</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
@@ -129,6 +169,14 @@
       <link>/conference/20230510the-stat4onc-annual-symposium-2023/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       <guid>/conference/20230510the-stat4onc-annual-symposium-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS Short Course: Introduction to R &amp; Statistical Modelling in R </title>
+      <link>/course/20230509rss-short-course-introduction-to-r-statistical-modelling-in-r/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230509rss-short-course-introduction-to-r-statistical-modelling-in-r/</guid>
       <description></description>
     </item>
     
@@ -146,6 +194,31 @@
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       <guid>/conference/20230507ispor-2023/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Panel on the Role of Biostatistics in an Increasingly Big Data/Data Science World</title>
+      <link>/webinar/20230503panel-on-the-role-of-biostatistics-in-an-increasingly-big-data-data-science-world/</link>
+      <pubDate>Wed, 03 May 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20230503panel-on-the-role-of-biostatistics-in-an-increasingly-big-data-data-science-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENAR Webinar: Powerful Data Presentations with Success = (PD)2</title>
+      <link>/webinar/20230428enar-webinar-powerful-data-presentations-with-success-pd-2/</link>
+      <pubDate>Fri, 28 Apr 2023 10:00:00 +0000</pubDate>
+      <guid>/webinar/20230428enar-webinar-powerful-data-presentations-with-success-pd-2/</guid>
+      <description>&lt;p&gt;The amount of available data has exploded in the past ten years. Those holding quantitative roles in academia, government, and industry have been called upon to analyze and interpret it. We must turn data into information so that researchers can advance science and decision makers can act upon these advances. This is true whether you are assessing the performance of a new therapy, the impact of public health policy, or modeling disease transmission. It is also true for those presenting new statistical analysis methods. The point of a presentation is to synthesize facts in a meaningful, digestible way for the audience. Yet, many presentations serve to create confusion and because they lack clarity. Even worse, the lack of clarity leads to poor decisions built on erroneous interpretations.&lt;/p&gt;
+&lt;p&gt;Developing good communication skills around scientific and statistical presentations is essential for those in quantitative fields. This talk will discuss a four phased process for excelling at these types of presentations. The four phases are Prepare, Design, Practice and Deliver or (PD)2 for short. In the context of the process, emphasis will be placed on explaining complex concepts, formatting your results for clarity, designing your slides to facilitate interpretation, and engaging a non-quantitative or mixed level audience. The material will also cover incorporating story into a scientific presentation and effective principles of data visualization. You will leave the talk with an overall framework for tackling your next formal presentation as well as tips and tricks you can immediately use in informal team interactions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WHO Pricing Policy Webinar: “Fad or fabulous”? Assessing Value of Medicines Using HTA to Inform Pricing</title>
+      <link>/webinar/20230427who-pricing-policy-webinar-fad-or-fabulous-assessing-value-of-medicines-using-hta-to-inform-pricing/</link>
+      <pubDate>Thu, 27 Apr 2023 05:00:00 +0000</pubDate>
+      <guid>/webinar/20230427who-pricing-policy-webinar-fad-or-fabulous-assessing-value-of-medicines-using-hta-to-inform-pricing/</guid>
+      <description>&lt;p&gt;Assessing value through Health Technology Assessment (HTA) to inform pricing of pharmaceutical products has been burgeoning in countries in recent years. While the concept of HTA and value assessment are well-accepted, there have been questions about whether pharmaceutical pricing informed by value assessment could be the single solution to bring about timely and affordable access to medicines and incentivize future innovations. Some research shows that prices can be higher than the assessed value in countries with HTA, while others have concluded that there are surpluses to patients and providers. In this webinar, we will explore the experiences with country HTA systems to inform medicines pricing based on the experiences in implementing and establishing HTA processes in Brazil, India and the United States of America. The panelists will describe the achievements, promises and challenges of using HTA to inform pharmaceutical pricing and decision-making, and a moderated discussion will follow to highlight the key themes and ways to move our understanding forward.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -174,10 +247,34 @@
     </item>
     
     <item>
+      <title>The 2023 Bradley Lecture: Protocols for Observational Studies – Methods and a Gun Violence Prevention Study</title>
+      <link>/webinar/20230414the-2023-bradley-lecture-protocols-for-observational-studies-methods-and-a-gun-violence-prevention-study/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/webinar/20230414the-2023-bradley-lecture-protocols-for-observational-studies-methods-and-a-gun-violence-prevention-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The 21th Annual ASA Connecticut Chapter Mini-Conference: Information Integration</title>
       <link>/conference/20230414the-21th-annual-asa-connecticut-chapter-mini-conference-information-integration/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       <guid>/conference/20230414the-21th-annual-asa-connecticut-chapter-mini-conference-information-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considerations for the Design and Conduct of Externally Controlled Trials for Drug and Biological Products – Draft Guidance for Industry</title>
+      <link>/webinar/20230413considerations-for-the-design-and-conduct-of-externally-controlled-trials-for-drug-and-biological-products-draft-guidance-for-industry/</link>
+      <pubDate>Thu, 13 Apr 2023 11:00:00 +0000</pubDate>
+      <guid>/webinar/20230413considerations-for-the-design-and-conduct-of-externally-controlled-trials-for-drug-and-biological-products-draft-guidance-for-industry/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Reagan-Udall Foundation/FDA Public Webinar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Basel Biometrics Section Seminar: Quantification of risk: ask the right questions or time to apply the estimand framework to safety!</title>
+      <link>/webinar/20230412basel-biometrics-section-seminar-quantification-of-risk/</link>
+      <pubDate>Wed, 12 Apr 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230412basel-biometrics-section-seminar-quantification-of-risk/</guid>
       <description></description>
     </item>
     
@@ -194,12 +291,52 @@
     </item>
     
     <item>
+      <title>ISPOR Short Course: Meta-Analysis and Systematic Reviews in Comparative Effectiveness Research</title>
+      <link>/conference/20230410ispor-short-course-meta-analysis-and-systematic-reviews-in-comparative-effectiveness-research/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230410ispor-short-course-meta-analysis-and-systematic-reviews-in-comparative-effectiveness-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Power and Sample Size Calculations for Rerandomized Experiments</title>
       <link>/webinar/20230407power-and-sample-size-calculations-for-rerandomized-experiments/</link>
       <pubDate>Fri, 07 Apr 2023 08:00:00 +0000</pubDate>
       <guid>/webinar/20230407power-and-sample-size-calculations-for-rerandomized-experiments/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;George Mason University Statistics Seminar&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Power analyses are an important aspect of experimental design, because they help determine how experiments are implemented in practice. It is common to specify a desired level of power and compute the sample size necessary to obtain that power. Such calculations are well-known for completely randomized experiments, but there can be many benefits to using other experimental designs. For example, it has recently been established that rerandomization, where subjects are randomized until covariate balance is obtained, increases the precision of causal effect estimators. This work establishes the power of rerandomized treatment-control experiments, thereby allowing for sample size calculators. We find the surprising result that, while power is often greater under rerandomization than complete randomization, the opposite can occur for very small treatment effects. The reason is that inference under rerandomization can be relatively more conservative, in the sense that it can have a lower type-I error at the same nominal significance level, and this additional conservativeness adversely affects power. This surprising result is due to treatment effect heterogeneity, a quantity often ignored in power analyses. We find that heterogeneity increases power for large effect sizes but decreases power for small effect sizes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ASA Short Course (Hosted by Central Arkansas Chapter): Data Visualization with R</title>
+      <link>/course/20230407asa-short-course-hosted-by-central-arkansas-chapter-data-visualization-with-r/</link>
+      <pubDate>Fri, 07 Apr 2023 06:30:00 +0000</pubDate>
+      <guid>/course/20230407asa-short-course-hosted-by-central-arkansas-chapter-data-visualization-with-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Philadelphia Chapter Webinar: Partially-Global Frechet Regression and Its Variable Selection </title>
+      <link>/webinar/20230406asa-philadelphia-chapter-webinar-partially-global-frechet-regression-and-its-variable-selection/</link>
+      <pubDate>Thu, 06 Apr 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230406asa-philadelphia-chapter-webinar-partially-global-frechet-regression-and-its-variable-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dealing with Uncertainty in Sample Size Determination – Pilot Studies, Model Selection and Practical Equivalence </title>
+      <link>/webinar/20230404dealing-with-uncertainty-in-sample-size-determination-pilot-studies-model-selection-and-practical-equivalence/</link>
+      <pubDate>Tue, 04 Apr 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20230404dealing-with-uncertainty-in-sample-size-determination-pilot-studies-model-selection-and-practical-equivalence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview with Professor Philip Dawid</title>
+      <link>/webinar/20230404interview-with-professor-philip-dawid/</link>
+      <pubDate>Tue, 04 Apr 2023 08:30:00 +0000</pubDate>
+      <guid>/webinar/20230404interview-with-professor-philip-dawid/</guid>
+      <description></description>
     </item>
     
     <item>

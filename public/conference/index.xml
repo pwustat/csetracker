@@ -5,12 +5,36 @@
     <link>/conference/</link>
       <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/conference/</link>
     </image>
+    
+    <item>
+      <title>CBMS Conference: Deep Learning and Numerical PDEs </title>
+      <link>/conference/20230619cbms-conference-deep-learning-and-numerical-pdes/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230619cbms-conference-deep-learning-and-numerical-pdes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 WNAR/IMS Annual Meeting</title>
+      <link>/conference/202306182023-wnar-ims-annual-meeting/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/202306182023-wnar-ims-annual-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2023 Workshop of Statistical Network Analysis and Beyond (SNAB 2023)</title>
+      <link>/conference/20230615the-2023-workshop-of-statistical-network-analysis-and-beyond-snab-2023/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230615the-2023-workshop-of-statistical-network-analysis-and-beyond-snab-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ICSA 2023 Applied Statistics Symposium</title>
@@ -169,6 +193,14 @@
       <link>/conference/20230414the-21th-annual-asa-connecticut-chapter-mini-conference-information-integration/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       <guid>/conference/20230414the-21th-annual-asa-connecticut-chapter-mini-conference-information-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPOR Short Course: Meta-Analysis and Systematic Reviews in Comparative Effectiveness Research</title>
+      <link>/conference/20230410ispor-short-course-meta-analysis-and-systematic-reviews-in-comparative-effectiveness-research/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230410ispor-short-course-meta-analysis-and-systematic-reviews-in-comparative-effectiveness-research/</guid>
       <description></description>
     </item>
     
