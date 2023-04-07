@@ -5,12 +5,76 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ICSA 2023 Applied Statistics Symposium</title>
+      <link>/conference/20230611icsa-2023-applied-statistics-symposium/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230611icsa-2023-applied-statistics-symposium/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Apr 15, 2023&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSI 2023 Conference</title>
+      <link>/conference/20230611psi-2023-conference/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230611psi-2023-conference/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Mar 29, 2023&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Dose Finding and Other Topics in Drug Development Conference: Honoring Dr. Naitee Ting</title>
+      <link>/conference/20230608the-dose-finding-and-other-topics-in-drug-development-conference-honoring-dr-naitee-ting/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230608the-dose-finding-and-other-topics-in-drug-development-conference-honoring-dr-naitee-ting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10th International Purdue Symposium on Statistics and Celebration of the 60th Anniversary of the Department of Statistics: Demystifying Data Science via Statistics: Theory and Applications</title>
+      <link>/conference/2023060610th-international-purdue-symposium/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/2023060610th-international-purdue-symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 Annual Symposium on Risks and Opportunities of AI in Pharmaceutical Medicine: AI and Causality</title>
+      <link>/conference/202306052023-annual-symposium-on-risks-and-opportunities-of-ai-in-pharmaceutical-medicine-ai-and-causality/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/202306052023-annual-symposium-on-risks-and-opportunities-of-ai-in-pharmaceutical-medicine-ai-and-causality/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Apr 30, 2023&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BIO International Convention</title>
+      <link>/conference/20230605bio-international-convention/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230605bio-international-convention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 39th Quality and Productivity Research Conference (QPRC-2023): Statistics, Deep Learning &amp; the People Side of Process</title>
+      <link>/conference/20230605the-39th-quality-and-productivity-research-conference-qprc-2023-statistics-deep-learning-the-people-side-of-process/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230605the-39th-quality-and-productivity-research-conference-qprc-2023-statistics-deep-learning-the-people-side-of-process/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Apr 15, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>36th New England Statistics Symposium: Statistics and Data Science – Driving Discoveries in Modern Era</title>
+      <link>/conference/2023060336th-new-england-statistics-symposium-statistics-and-data-science-driving-discoveries-in-modern-era/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/2023060336th-new-england-statistics-symposium-statistics-and-data-science-driving-discoveries-in-modern-era/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The annual conference of the International Indian Statistical Association (IISA) 2023</title>
