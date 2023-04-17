@@ -9,7 +9,7 @@ type: webinar
 url_freeregister: ~
 url_register: ~
 url_slides: ~
-url_video: no
+url_video: https://www.youtube.com/watch?v=5vJSHAyNVz4
 url_agenda: ~
 url_website: ~
 url_audio: ~
