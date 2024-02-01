@@ -5,12 +5,20 @@
     <link>/conference/</link>
       <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2024 05:45:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/conference/</link>
     </image>
+    
+    <item>
+      <title>New England Journal of Statistics in Data Science (NEJSDS) Workshop on Statistics in Data Science</title>
+      <link>/conference/20240126new-england-journal-of-statistics-in-data-science-nejsds-workshop-on-statistics-in-data-science/</link>
+      <pubDate>Fri, 26 Jan 2024 05:45:00 +0000</pubDate>
+      <guid>/conference/20240126new-england-journal-of-statistics-in-data-science-nejsds-workshop-on-statistics-in-data-science/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CBMS Conference: Deep Learning and Numerical PDEs </title>
@@ -882,7 +890,7 @@ The Scylla and Charybdis of Evidence Based Medicine&lt;/em&gt;&lt;/p&gt;
 &lt;em&gt;Pitfalls of subgroup analysis&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Lisa McShane, PhD (NCI)&lt;/strong&gt; 
+&lt;p&gt;&lt;strong&gt;Lisa McShane, PhD (NCI)&lt;/strong&gt;
 &lt;em&gt;Finding the subgroup of patients who benefit from a novel therapy: no time for a game of
 hide and seek&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -1664,7 +1672,7 @@ Department of Statistics &amp;amp; Data Science, The University of Texas at Aust
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, December 10, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Recent Development on Bayesian Clinical Trial Designs Using Historical Data&lt;/strong&gt;&lt;br&gt;
-Ming-Hui Chen, Professor and Head of the Department of Statistics, The University of Connecticut (1hr) 
+Ming-Hui Chen, Professor and Head of the Department of Statistics, The University of Connecticut (1hr)
 &lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2691518&amp;amp;sessionid=1&amp;amp;key=B3CA28FA4552CAB13C45A32C412748AD&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday March 11, 2021&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;

@@ -5,12 +5,164 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 08:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ASA Philadelphia Chapter Webinar: Reflections on Clinical Trial Futility Decisions</title>
+      <link>/webinar/20240201asa-philadelphia-chapter-webinar-reflections-on-clinical-trial-futility-decisions/</link>
+      <pubDate>Thu, 01 Feb 2024 08:00:00 +0000</pubDate>
+      <guid>/webinar/20240201asa-philadelphia-chapter-webinar-reflections-on-clinical-trial-futility-decisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA Oncology Center of Excellence/EMA Public Panel Discussion</title>
+      <link>/webinar/20240201fda-oncology-center-of-excellence/ema-public-panel-discussion/</link>
+      <pubDate>Thu, 01 Feb 2024 06:30:00 +0000</pubDate>
+      <guid>/webinar/20240201fda-oncology-center-of-excellence/ema-public-panel-discussion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA San Antonio Chapter Webinar: Bayesian and Influence Function Based Empirical Likelihoods</title>
+      <link>/webinar/20240126asa-san-antonio-chapter-webinar-bayesian-and-influence-function-based-empirical-likelihoods/</link>
+      <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>/webinar/20240126asa-san-antonio-chapter-webinar-bayesian-and-influence-function-based-empirical-likelihoods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DahShu Webinar: Large-Scale Pancreatic Cancer Detection via Non-Contrast CT and Deep Learning</title>
+      <link>/webinar/20240126dahshu-webinar-large-scale-pancreatic-cancer-detection-via-non-contrast-ct-and-deep-learning/</link>
+      <pubDate>Fri, 26 Jan 2024 09:00:00 +0000</pubDate>
+      <guid>/webinar/20240126dahshu-webinar-large-scale-pancreatic-cancer-detection-via-non-contrast-ct-and-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New England Journal of Statistics in Data Science (NEJSDS) Workshop on Statistics in Data Science</title>
+      <link>/conference/20240126new-england-journal-of-statistics-in-data-science-nejsds-workshop-on-statistics-in-data-science/</link>
+      <pubDate>Fri, 26 Jan 2024 05:45:00 +0000</pubDate>
+      <guid>/conference/20240126new-england-journal-of-statistics-in-data-science-nejsds-workshop-on-statistics-in-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 16th Kolokotrones Symposium: Causal Inference in Pregnancy – Real World Data when Randomized Trials are Impractical</title>
+      <link>/webinar/20231215the-16th-kolokotrones-symposium-causal-inference-in-pregnancy-real-world-data-when-randomized-trials-are-impractical/</link>
+      <pubDate>Fri, 15 Dec 2023 10:00:00 +0000</pubDate>
+      <guid>/webinar/20231215the-16th-kolokotrones-symposium-causal-inference-in-pregnancy-real-world-data-when-randomized-trials-are-impractical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Philadelphia Chapter Webinar: Adaptations and Type I Error Control in Platform Trials</title>
+      <link>/webinar/20231214asa-philadelphia-chapter-webinar-adaptations-and-type-i-error-control-in-platform-trials/</link>
+      <pubDate>Thu, 14 Dec 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20231214asa-philadelphia-chapter-webinar-adaptations-and-type-i-error-control-in-platform-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA Webinar: Oncology Drug Products Used with Certain In Vitro Diagnostic Tests: Pilot Program</title>
+      <link>/webinar/20231212fda-webinar-oncology-drug-products-used-with-certain-in-vitro-diagnostic-tests-pilot-program/</link>
+      <pubDate>Tue, 12 Dec 2023 10:00:00 +0000</pubDate>
+      <guid>/webinar/20231212fda-webinar-oncology-drug-products-used-with-certain-in-vitro-diagnostic-tests-pilot-program/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA Webinar: Navigating Complex Waters: A Deep Dive into FDA Drug Interactions Guidances and Resources</title>
+      <link>/webinar/20231212fda-webinar-navigating-complex-waters-a-deep-dive-into-fda-drug-interactions-guidances-and-resources/</link>
+      <pubDate>Tue, 12 Dec 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20231212fda-webinar-navigating-complex-waters-a-deep-dive-into-fda-drug-interactions-guidances-and-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Consortium/FDA Statistical Association Webinar: R and Shiny in Regulatory Submissions</title>
+      <link>/webinar/20231211r-consortium/fda-statistical-association-webinar-r-and-shiny-in-regulatory-submissions/</link>
+      <pubDate>Mon, 11 Dec 2023 12:00:00 +0000</pubDate>
+      <guid>/webinar/20231211r-consortium/fda-statistical-association-webinar-r-and-shiny-in-regulatory-submissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>San Francisco Bay Area Chapter of the American Statistical Association (SFASA) Holiday Celebration</title>
+      <link>/webinar/20231210san-francisco-bay-area-chapter-of-the-american-statistical-association-sfasa-holiday-celebration/</link>
+      <pubDate>Sun, 10 Dec 2023 14:00:00 +0000</pubDate>
+      <guid>/webinar/20231210san-francisco-bay-area-chapter-of-the-american-statistical-association-sfasa-holiday-celebration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI HTA SIG Webinar: Estimands, PICOs and Co. - Are We Losing or Gaining in Translation?</title>
+      <link>/webinar/20231207psi-hta-sig-webinar-estimands-picos-and-co.-are-we-losing-or-gaining-in-translation/</link>
+      <pubDate>Thu, 07 Dec 2023 05:00:00 +0000</pubDate>
+      <guid>/webinar/20231207psi-hta-sig-webinar-estimands-picos-and-co.-are-we-losing-or-gaining-in-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dana Farber Cancer Institute (DFCI) Frontiers in Biostatistics Seminar: Analyzing Big EHR Data – Optimal Cox Regression Subsampling Procedure with Rare Events</title>
+      <link>/webinar/20231205dana-farber-cancer-institute-dfci-frontiers-in-biostatistics-seminar-analyzing-big-ehr-data-optimal-cox-regression-subsampling-procedure-with-rare-events/</link>
+      <pubDate>Tue, 05 Dec 2023 10:00:00 +0000</pubDate>
+      <guid>/webinar/20231205dana-farber-cancer-institute-dfci-frontiers-in-biostatistics-seminar-analyzing-big-ehr-data-optimal-cox-regression-subsampling-procedure-with-rare-events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nQuery Webinar: Clinical Trial Design – This Year’s Most Popular Topics</title>
+      <link>/webinar/20231205nquery-webinar-clinical-trial-design-this-years-most-popular-topics/</link>
+      <pubDate>Tue, 05 Dec 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20231205nquery-webinar-clinical-trial-design-this-years-most-popular-topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DahShu Webinar: Explainable AI: Model-Agnostic Interpretability in Machine Learning</title>
+      <link>/webinar/20231201dahshu-webinar-explainable-ai-model-agnostic-interpretability-in-machine-learning/</link>
+      <pubDate>Fri, 01 Dec 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20231201dahshu-webinar-explainable-ai-model-agnostic-interpretability-in-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Philadelphia Chapter Webinar: Our Most Important Discovery: the Question</title>
+      <link>/webinar/20231130asa-philadelphia-chapter-webinar-our-most-important-discovery-the-question/</link>
+      <pubDate>Thu, 30 Nov 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20231130asa-philadelphia-chapter-webinar-our-most-important-discovery-the-question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Statistical Learning and Data Science Section Webinar: The Pareto Principle in Data Science: Maximizing Value and Efficiency</title>
+      <link>/webinar/20231130asa-statistical-learning-and-data-science-section-webinar-the-pareto-principle-in-data-science-maximizing-value-and-efficiency/</link>
+      <pubDate>Thu, 30 Nov 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20231130asa-statistical-learning-and-data-science-section-webinar-the-pareto-principle-in-data-science-maximizing-value-and-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA Oncology Center of Excellence Public Webcast: Conversations on Cancer – How Biotech Built a Blockbuster Cancer Drug</title>
+      <link>/webinar/20231130fda-oncology-center-of-excellence-public-webcast-conversations-on-cancer-how-biotech-built-a-blockbuster-cancer-drug/</link>
+      <pubDate>Thu, 30 Nov 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20231130fda-oncology-center-of-excellence-public-webcast-conversations-on-cancer-how-biotech-built-a-blockbuster-cancer-drug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BBSW 2023 September Meetup: Robust Inference in Clinical Trials</title>
+      <link>/webinar/20230929bbsw_sep_meetup/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/webinar/20230929bbsw_sep_meetup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CBMS Conference: Deep Learning and Numerical PDEs </title>
@@ -1789,7 +1941,7 @@ indicator.&lt;/p&gt;</description>
       <guid>/webinar/20220929canssi-2022-distinguished-lecture-series-in-statistical-sciences/</guid>
       <description>&lt;p&gt;General Lecture: Lessons Learned from the COVID-19 Pandemic – A Statistician’s Reflection
 September 29, 2022, 12:30-1:30pm PDT&lt;/p&gt;
-&lt;p&gt;Technical Lecture: Ensemble Methods for Testing a Global Null Hypothesis 
+&lt;p&gt;Technical Lecture: Ensemble Methods for Testing a Global Null Hypothesis
 September 30, 2022, 12:30-1:30pm PDT&lt;/p&gt;</description>
     </item>
     
@@ -1931,11 +2083,11 @@ September 30, 2022, 12:30-1:30pm PDT&lt;/p&gt;</description>
       <guid>/webinar/20220907psi-journal-club-estimating-treatment-effects/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Luo, J, Ruberg, SJ, Qu, Y. Estimating the treatment effect for adherers using multiple imputation. 
+&lt;p&gt;Luo, J, Ruberg, SJ, Qu, Y. Estimating the treatment effect for adherers using multiple imputation.
 Pharmaceutical Statistics. 2022; 21( 3): 525- 534. doi:&lt;a href=&#34;https://doi.org/10.1002/pst.2184&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1002/pst.2184&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Ye, Z, Harrar, SW. Estimation of multivariate treatment effects in contaminated clinical trials. 
+&lt;p&gt;Ye, Z, Harrar, SW. Estimation of multivariate treatment effects in contaminated clinical trials.
 Pharmaceutical Statistics. 2022; 21( 3): 535- 565. doi:&lt;a href=&#34;https://doi.org/10.1002/pst.2185&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1002/pst.2185&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
@@ -2496,14 +2648,14 @@ Variants: Leroux, mixture, BYM2&lt;/li&gt;
       <link>/webinar/20220524basel-biometric-society-bbs-spring-seminar-transforming-drug-development/</link>
       <pubDate>Tue, 24 May 2022 05:00:00 -0700</pubDate>
       <guid>/webinar/20220524basel-biometric-society-bbs-spring-seminar-transforming-drug-development/</guid>
-      <description>&lt;p&gt;The current drug development model is confronted by major challenges including rising clinical trial costs, a tougher competitive landscape, and 
+      <description>&lt;p&gt;The current drug development model is confronted by major challenges including rising clinical trial costs, a tougher competitive landscape, and
 growing pressure from payers. Consequently, there is an increasing
 awareness that drug development must be fundamentally updated to meet
 these challenges.&lt;/p&gt;
 &lt;p&gt;This seminar first addresses why transformation is needed from a pharma
-development and from an investor perspective. It then discusses three areas 
-of innovation where biostatisticians can play a major role. The seminar will 
-conclude with a panel discussion with all speakers and members from 
+development and from an investor perspective. It then discusses three areas
+of innovation where biostatisticians can play a major role. The seminar will
+conclude with a panel discussion with all speakers and members from
 pharma and regulatory authorities.&lt;/p&gt;</description>
     </item>
     
@@ -2746,7 +2898,7 @@ Pharmaceutical Statistics.2021;20:129–145.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Juliane Manitz, &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1002/pst.2158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estimands for overall survival in clinical trials with treatment switching in oncology.&lt;/a&gt;
-Juliane Manitz, Natalia Kan-Dobrosky, Hannes Buchner, Marie-Laure Casadebaig, Evgeny Degtyarev, Jyotirmoy Dey et al. 
+Juliane Manitz, Natalia Kan-Dobrosky, Hannes Buchner, Marie-Laure Casadebaig, Evgeny Degtyarev, Jyotirmoy Dey et al.
 Pharmaceutical Statistics. 2022;21(1):150-162.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
@@ -2862,7 +3014,7 @@ The Scylla and Charybdis of Evidence Based Medicine&lt;/em&gt;&lt;/p&gt;
 &lt;em&gt;Pitfalls of subgroup analysis&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Lisa McShane, PhD (NCI)&lt;/strong&gt; 
+&lt;p&gt;&lt;strong&gt;Lisa McShane, PhD (NCI)&lt;/strong&gt;
 &lt;em&gt;Finding the subgroup of patients who benefit from a novel therapy: no time for a game of
 hide and seek&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -3468,18 +3620,18 @@ Understanding transmission dynamics of emerging infectious diseases from contact
       <link>/course/20220221basel-biometric-society-training-machine-learning-in-clinical-drug-development/</link>
       <pubDate>Mon, 21 Feb 2022 05:00:00 -0700</pubDate>
       <guid>/course/20220221basel-biometric-society-training-machine-learning-in-clinical-drug-development/</guid>
-      <description>&lt;p&gt;There is tremendous interest and excitement surrounding the application of Machine 
-learning (ML) in drug development. ML tools can process information much faster, cheaper 
-and more accurately than any human, and some people expect no less than a change to 
+      <description>&lt;p&gt;There is tremendous interest and excitement surrounding the application of Machine
+learning (ML) in drug development. ML tools can process information much faster, cheaper
+and more accurately than any human, and some people expect no less than a change to
 the clinical drug development paradigm.&lt;br&gt;
-In this seminar, the participants will get up to speed with the opportunities of ML in drug 
-development. The statistical details behind the ideas, the implementation using software 
-(R) as well as the interpretation of the results will be discussed. Any examples will be 
+In this seminar, the participants will get up to speed with the opportunities of ML in drug
+development. The statistical details behind the ideas, the implementation using software
+(R) as well as the interpretation of the results will be discussed. Any examples will be
 inspired by real problems.&lt;br&gt;
-Markus Lange and Lorenz Uhlmann (both Novartis) will provide an overview of machine 
-learning and artificial intelligence and its application in the pharmaceutical industry. They 
-will illustrate key elements and principles for building and assessing machine learning 
-methods, discuss different types of algorithms (e.g. supervised and unsupervised learning) 
+Markus Lange and Lorenz Uhlmann (both Novartis) will provide an overview of machine
+learning and artificial intelligence and its application in the pharmaceutical industry. They
+will illustrate key elements and principles for building and assessing machine learning
+methods, discuss different types of algorithms (e.g. supervised and unsupervised learning)
 and provide examples of the types of problems where they might be applied.&lt;/p&gt;</description>
     </item>
     
@@ -3508,11 +3660,11 @@ and provide examples of the types of problems where they might be applied.&lt;/p
 &lt;ol&gt;
 &lt;li&gt;To what extent is biological signal reproducibly shared across different studies?&lt;/li&gt;
 &lt;li&gt;How can this global signal be extracted?&lt;/li&gt;
-&lt;li&gt;How can we detect and quantify local signals that may be masked by strong 
+&lt;li&gt;How can we detect and quantify local signals that may be masked by strong
 global signals?&lt;/li&gt;
 &lt;li&gt;How do these global and local signals manifest differently in different data types?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;We will answer these four questions by introducing novel classes of methodologies for the joint analysis of different studies. The goal is to separately identify and estimate 1) common factors reproduced across 
+&lt;p&gt;We will answer these four questions by introducing novel classes of methodologies for the joint analysis of different studies. The goal is to separately identify and estimate 1) common factors reproduced across
 multiple studies, and 2) study-specific factors. We present different medical and biological applications. In all the cases, we clarify the benefits of a joint analysis compared to the standard methods.Our methods could accelerate the pace at which we can combine unsupervised analysis across different studies, and understand the cross-study reproducibility of signal in multivariate data.&lt;/p&gt;</description>
     </item>
     
@@ -4841,7 +4993,7 @@ Ron Yu, Ph.D., Senior Director of Biostatistics, Gilead Sciences; Director of Pu
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;The Impact of COVID-19 on Recology Waste Disposal Trends&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;Presenter:&lt;/strong&gt; 
+&lt;strong&gt;Presenter:&lt;/strong&gt;
 Weiran Wang, 11th Grade, Aragon High School&lt;br&gt;
 &lt;strong&gt;Mentor:&lt;/strong&gt;
 Jerry Ping, Ph.D., Director of Biostatistics at Pharmacyclics, An Abbvie Company&lt;/p&gt;
@@ -6776,7 +6928,7 @@ Department of Statistics &amp;amp; Data Science, The University of Texas at Aust
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday, December 10, 2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Recent Development on Bayesian Clinical Trial Designs Using Historical Data&lt;/strong&gt;&lt;br&gt;
-Ming-Hui Chen, Professor and Head of the Department of Statistics, The University of Connecticut (1hr) 
+Ming-Hui Chen, Professor and Head of the Department of Statistics, The University of Connecticut (1hr)
 &lt;a href=&#34;https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;amp;mode=login&amp;amp;eventid=2691518&amp;amp;sessionid=1&amp;amp;key=B3CA28FA4552CAB13C45A32C412748AD&amp;amp;regTag=&amp;amp;V2=false&amp;amp;sourcepage=register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replay&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Thursday March 11, 2021&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;

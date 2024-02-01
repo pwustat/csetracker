@@ -3,13 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/conference/</loc>
-    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <loc>/webinar/</loc>
+    <lastmod>2024-02-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240201asa-philadelphia-chapter-webinar-reflections-on-clinical-trial-futility-decisions/</loc>
+    <lastmod>2024-02-01T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240201fda-oncology-center-of-excellence/ema-public-panel-discussion/</loc>
+    <lastmod>2024-02-01T06:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240126asa-san-antonio-chapter-webinar-bayesian-and-influence-function-based-empirical-likelihoods/</loc>
+    <lastmod>2024-01-26T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240126dahshu-webinar-large-scale-pancreatic-cancer-detection-via-non-contrast-ct-and-deep-learning/</loc>
+    <lastmod>2024-01-26T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/</loc>
+    <lastmod>2024-01-26T05:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240126new-england-journal-of-statistics-in-data-science-nejsds-workshop-on-statistics-in-data-science/</loc>
+    <lastmod>2024-01-26T05:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231215the-16th-kolokotrones-symposium-causal-inference-in-pregnancy-real-world-data-when-randomized-trials-are-impractical/</loc>
+    <lastmod>2023-12-15T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231214asa-philadelphia-chapter-webinar-adaptations-and-type-i-error-control-in-platform-trials/</loc>
+    <lastmod>2023-12-14T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231212fda-webinar-oncology-drug-products-used-with-certain-in-vitro-diagnostic-tests-pilot-program/</loc>
+    <lastmod>2023-12-12T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231212fda-webinar-navigating-complex-waters-a-deep-dive-into-fda-drug-interactions-guidances-and-resources/</loc>
+    <lastmod>2023-12-12T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231211r-consortium/fda-statistical-association-webinar-r-and-shiny-in-regulatory-submissions/</loc>
+    <lastmod>2023-12-11T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231210san-francisco-bay-area-chapter-of-the-american-statistical-association-sfasa-holiday-celebration/</loc>
+    <lastmod>2023-12-10T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231207psi-hta-sig-webinar-estimands-picos-and-co.-are-we-losing-or-gaining-in-translation/</loc>
+    <lastmod>2023-12-07T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231205dana-farber-cancer-institute-dfci-frontiers-in-biostatistics-seminar-analyzing-big-ehr-data-optimal-cox-regression-subsampling-procedure-with-rare-events/</loc>
+    <lastmod>2023-12-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231205nquery-webinar-clinical-trial-design-this-years-most-popular-topics/</loc>
+    <lastmod>2023-12-05T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231201dahshu-webinar-explainable-ai-model-agnostic-interpretability-in-machine-learning/</loc>
+    <lastmod>2023-12-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231130asa-philadelphia-chapter-webinar-our-most-important-discovery-the-question/</loc>
+    <lastmod>2023-11-30T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231130asa-statistical-learning-and-data-science-section-webinar-the-pareto-principle-in-data-science-maximizing-value-and-efficiency/</loc>
+    <lastmod>2023-11-30T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20231130fda-oncology-center-of-excellence-public-webcast-conversations-on-cancer-how-biotech-built-a-blockbuster-cancer-drug/</loc>
+    <lastmod>2023-11-30T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230929bbsw_sep_meetup/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/20230929causal-inference/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -70,11 +180,6 @@
   <url>
     <loc>/conference/20230601the-annual-conference-of-the-international-indian-statistical-association-iisa-2023/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/webinar/</loc>
-    <lastmod>2023-05-31T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1219,11 +1324,6 @@
   
   <url>
     <loc>/webinar/20220621nasem-symposium/</loc>
-    <lastmod>2022-06-21T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2022-06-21T10:00:00+00:00</lastmod>
   </url>
   
@@ -2515,11 +2615,6 @@
   <url>
     <loc>/webinar/20210901advancing-the-development-of-pediatric-therapeutics-adept-7-complex-innovative-trial-design/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/20210827causal-inference/</loc>
-    <lastmod>2021-08-27T07:30:00-07:00</lastmod>
   </url>
   
   <url>
