@@ -5,12 +5,60 @@
     <link>/course/</link>
       <atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 07:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/course/</link>
     </image>
+    
+    <item>
+      <title>ISPOR Short Course: Introduction to Modeling Methods</title>
+      <link>/course/20240313ispor-short-course-introduction-to-modeling-methods/</link>
+      <pubDate>Wed, 13 Mar 2024 07:00:00 +0000</pubDate>
+      <guid>/course/20240313ispor-short-course-introduction-to-modeling-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS Short Course: Introduction to Bayesian Statistics</title>
+      <link>/course/20240312rss-short-course-introduction-to-bayesian-statistics/</link>
+      <pubDate>Tue, 12 Mar 2024 13:30:00 +0000</pubDate>
+      <guid>/course/20240312rss-short-course-introduction-to-bayesian-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS Short Course: Introduction to Machine Learning in R</title>
+      <link>/course/20240305rss-short-course-introduction-to-machine-learning-in-r/</link>
+      <pubDate>Tue, 05 Mar 2024 05:00:00 +0000</pubDate>
+      <guid>/course/20240305rss-short-course-introduction-to-machine-learning-in-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical University of South Carolina (MUSC) Department of Public Health Sciences Bayesian Workshop: Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</title>
+      <link>/course/20240304medical-university-of-south-carolina-musc-department-of-public-health-sciences-bayesian-workshop-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/course/20240304medical-university-of-south-carolina-musc-department-of-public-health-sciences-bayesian-workshop-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPOR Short Course: Introduction to Patient-Reported Outcomes Assessment: Instrument Development &amp; Evaluation</title>
+      <link>/course/20240228ispor-short-course-introduction-to-patient-reported-outcomes-assessment-instrument-development-evaluation/</link>
+      <pubDate>Wed, 28 Feb 2024 07:00:00 +0000</pubDate>
+      <guid>/course/20240228ispor-short-course-introduction-to-patient-reported-outcomes-assessment-instrument-development-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS Short Course: Multilevel Modelling</title>
+      <link>/course/20240207rss-short-course-multilevel-modelling/</link>
+      <pubDate>Wed, 07 Feb 2024 13:30:00 +0000</pubDate>
+      <guid>/course/20240207rss-short-course-multilevel-modelling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PSI Training Course: R for Clinical Trial Statisticians</title>

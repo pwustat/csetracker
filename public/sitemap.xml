@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>/course/</loc>
+    <lastmod>2024-03-13T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20240313ispor-short-course-introduction-to-modeling-methods/</loc>
+    <lastmod>2024-03-13T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20240312rss-short-course-introduction-to-bayesian-statistics/</loc>
+    <lastmod>2024-03-12T13:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/20240310enar-2024/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -43,8 +58,23 @@
   </url>
   
   <url>
+    <loc>/course/20240305rss-short-course-introduction-to-machine-learning-in-r/</loc>
+    <lastmod>2024-03-05T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/20240305fda-public-workshop-advancing-the-use-of-complex-innovative-designs-in-clinical-trials-from-pilot-to-practice/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20240304medical-university-of-south-carolina-musc-department-of-public-health-sciences-bayesian-workshop-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20240228ispor-short-course-introduction-to-patient-reported-outcomes-assessment-instrument-development-evaluation/</loc>
+    <lastmod>2024-02-28T07:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,6 +90,11 @@
   <url>
     <loc>/conference/20240215fda-aacr-public-workshop-on-optimizing-dosages-for-oncology-drug-products-quantitative-approaches-to-select-dosages-for-clinical-trials/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20240207rss-short-course-multilevel-modelling/</loc>
+    <lastmod>2024-02-07T13:30:00+00:00</lastmod>
   </url>
   
   <url>
@@ -80,11 +115,6 @@
   <url>
     <loc>/conference/20240131duke-margolis-fda-workshop-building-quality-into-the-design-and-conduct-of-clinical-studies/</loc>
     <lastmod>2024-01-31T06:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/course/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>

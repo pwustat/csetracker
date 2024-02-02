@@ -7,7 +7,7 @@ date: 2024-02-28T07:00:00
 date_end: 2024-02-29T23:59:59
 all_day: yes
 location: "Virtual"
-publishDate: 2024-02-28
+publishDate: 2024-01-28
 featured: false
 image:
   caption: ""
