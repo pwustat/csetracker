@@ -5,7 +5,7 @@
     <link>/conference/</link>
       <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2024 05:45:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 06:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Duke Margolis-FDA Workshop: Building Quality into the Design and Conduct of Clinical Studies</title>
+      <link>/conference/20240131duke-margolis-fda-workshop-building-quality-into-the-design-and-conduct-of-clinical-studies/</link>
+      <pubDate>Wed, 31 Jan 2024 06:00:00 +0000</pubDate>
+      <guid>/conference/20240131duke-margolis-fda-workshop-building-quality-into-the-design-and-conduct-of-clinical-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New England Journal of Statistics in Data Science (NEJSDS) Workshop on Statistics in Data Science</title>
       <link>/conference/20240126new-england-journal-of-statistics-in-data-science-nejsds-workshop-on-statistics-in-data-science/</link>
       <pubDate>Fri, 26 Jan 2024 05:45:00 +0000</pubDate>
       <guid>/conference/20240126new-england-journal-of-statistics-in-data-science-nejsds-workshop-on-statistics-in-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024 Lange Symposium: Computational and Statistical Genomics</title>
+      <link>/conference/202401262024-lange-symposium-computational-and-statistical-genomics/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/202401262024-lange-symposium-computational-and-statistical-genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024 Precision Medicine World Conference (PMWC)</title>
+      <link>/conference/202401242024-precision-medicine-world-conference-pmwc/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/202401242024-precision-medicine-world-conference-pmwc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmaceutical &amp; BioScience Society (PBSS) Workshop: ADME/DMPK Studies for IND and NDA Filing for Small Molecules: Nuts, Bolts and Best Practices</title>
+      <link>/conference/20240119pharmaceutical-bioscience-society-pbss-workshop-adme/dmpk-studies-for-ind-and-nda-filing-for-small-molecules-nuts-bolts-and-best-practices/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240119pharmaceutical-bioscience-society-pbss-workshop-adme/dmpk-studies-for-ind-and-nda-filing-for-small-molecules-nuts-bolts-and-best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Florida Department of Statistic&#39;s Annual Winter Workshop: Causal Inference and Its Applications</title>
+      <link>/conference/20240119university-of-florida-department-of-statistics-annual-winter-workshop-causal-inference-and-its-applications/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240119university-of-florida-department-of-statistics-annual-winter-workshop-causal-inference-and-its-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024 Boston Chapter of the American Statistical Association (BCASA) Winter Party</title>
+      <link>/conference/202401112024-boston-chapter-of-the-american-statistical-association-bcasa-winter-party/</link>
+      <pubDate>Thu, 11 Jan 2024 15:00:00 +0000</pubDate>
+      <guid>/conference/202401112024-boston-chapter-of-the-american-statistical-association-bcasa-winter-party/</guid>
       <description></description>
     </item>
     

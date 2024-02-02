@@ -10,12 +10,6 @@ url_website:
 url_agenda: 
 
 location:
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -63,6 +57,5 @@ projects: []
 summary:
 abstract:
 ---
-<span style="color: salmon;">*Early registration Deadline: Jan 11, 2021*</span>
 
 <!--more-->
