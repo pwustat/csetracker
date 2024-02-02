@@ -7,7 +7,7 @@ date: 2024-03-18T00:00:00
 date_end: 2024-03-19T23:59:59
 all_day: yes
 location: "Storrs, CT or Virtual"
-publishDate: 
+publishDate: '2023-04-07T11:23:42-07:00'
 featured: false
 image:
   caption: ""

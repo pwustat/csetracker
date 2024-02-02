@@ -4,17 +4,62 @@
   
   <url>
     <loc>/conference/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240328pharmaceutical-bioscience-society-pbss-workshop-antibody-drug-conjugates-from-discovery-to-development-chemistry-engineering-characterization-cmc-pk/tox-clinical-design-and-intellectual-property/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240322the-7th-analytics-without-borders-conference/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/conference/20240319duke-margolis-fda-workshop-enhancing-adoption-of-innovative-clinical-trial-approaches/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240318pharmaceutical-data-science-pharmads-conference-2024/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240310enar-2024/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240306the-7th-international-symposium-on-biopharmaceutical-statistics/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240305fda-public-workshop-advancing-the-use-of-complex-innovative-designs-in-clinical-trials-from-pilot-to-practice/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/202402272024-conference-on-statistical-practice/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/202402162024-statistical-practice-in-cancer-conference/</loc>
+    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240215fda-aacr-public-workshop-on-optimizing-dosages-for-oncology-drug-products-quantitative-approaches-to-select-dosages-for-clinical-trials/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,6 +118,11 @@
   </url>
   
   <url>
+    <loc>/webinar/20240123university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-causal-machine-learning-for-biomarker-subgroup-discovery-in-randomised-trials/</loc>
+    <lastmod>2024-01-23T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/20240119pharmaceutical-bioscience-society-pbss-workshop-adme/dmpk-studies-for-ind-and-nda-filing-for-small-molecules-nuts-bolts-and-best-practices/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url>
@@ -80,6 +130,11 @@
   <url>
     <loc>/conference/20240119university-of-florida-department-of-statistics-annual-winter-workshop-causal-inference-and-its-applications/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240117mcgill-university-biostatistics-seminars-clusterde-a-post-clustering-differential-expression-de-method-robust-to-false-positive-inflation-caused-by-double-dipping/</loc>
+    <lastmod>2024-01-17T12:30:00+00:00</lastmod>
   </url>
   
   <url>

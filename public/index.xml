@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
@@ -13,10 +13,82 @@
     </image>
     
     <item>
+      <title>Pharmaceutical &amp; BioScience Society (PBSS) Workshop: Antibody-Drug Conjugates from Discovery to Development: Chemistry, Engineering, Characterization, CMC, PK/Tox, Clinical Design and Intellectual Property</title>
+      <link>/conference/20240328pharmaceutical-bioscience-society-pbss-workshop-antibody-drug-conjugates-from-discovery-to-development-chemistry-engineering-characterization-cmc-pk/tox-clinical-design-and-intellectual-property/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240328pharmaceutical-bioscience-society-pbss-workshop-antibody-drug-conjugates-from-discovery-to-development-chemistry-engineering-characterization-cmc-pk/tox-clinical-design-and-intellectual-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 7th Analytics Without Borders Conference</title>
+      <link>/conference/20240322the-7th-analytics-without-borders-conference/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240322the-7th-analytics-without-borders-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Duke Margolis-FDA Workshop: Enhancing Adoption of Innovative Clinical Trial Approaches</title>
       <link>/conference/20240319duke-margolis-fda-workshop-enhancing-adoption-of-innovative-clinical-trial-approaches/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>/conference/20240319duke-margolis-fda-workshop-enhancing-adoption-of-innovative-clinical-trial-approaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmaceutical Data Science (PharmaDS) Conference 2024</title>
+      <link>/conference/20240318pharmaceutical-data-science-pharmads-conference-2024/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240318pharmaceutical-data-science-pharmads-conference-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENAR 2024</title>
+      <link>/conference/20240310enar-2024/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240310enar-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 7th International Symposium on Biopharmaceutical Statistics</title>
+      <link>/conference/20240306the-7th-international-symposium-on-biopharmaceutical-statistics/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240306the-7th-international-symposium-on-biopharmaceutical-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA Public Workshop: Advancing the Use of Complex Innovative Designs in Clinical Trials: From Pilot to Practice</title>
+      <link>/conference/20240305fda-public-workshop-advancing-the-use-of-complex-innovative-designs-in-clinical-trials-from-pilot-to-practice/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240305fda-public-workshop-advancing-the-use-of-complex-innovative-designs-in-clinical-trials-from-pilot-to-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024 Conference on Statistical Practice</title>
+      <link>/conference/202402272024-conference-on-statistical-practice/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/202402272024-conference-on-statistical-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024 Statistical Practice in Cancer Conference</title>
+      <link>/conference/202402162024-statistical-practice-in-cancer-conference/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/202402162024-statistical-practice-in-cancer-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA-AACR Public Workshop on Optimizing Dosages for Oncology Drug Products: Quantitative Approaches to Select Dosages for Clinical Trials</title>
+      <link>/conference/20240215fda-aacr-public-workshop-on-optimizing-dosages-for-oncology-drug-products-quantitative-approaches-to-select-dosages-for-clinical-trials/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240215fda-aacr-public-workshop-on-optimizing-dosages-for-oncology-drug-products-quantitative-approaches-to-select-dosages-for-clinical-trials/</guid>
       <description></description>
     </item>
     
@@ -93,6 +165,14 @@
     </item>
     
     <item>
+      <title>University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar: Causal Machine Learning for Biomarker Subgroup Discovery in Randomised Trials</title>
+      <link>/webinar/20240123university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-causal-machine-learning-for-biomarker-subgroup-discovery-in-randomised-trials/</link>
+      <pubDate>Tue, 23 Jan 2024 06:00:00 +0000</pubDate>
+      <guid>/webinar/20240123university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-causal-machine-learning-for-biomarker-subgroup-discovery-in-randomised-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pharmaceutical &amp; BioScience Society (PBSS) Workshop: ADME/DMPK Studies for IND and NDA Filing for Small Molecules: Nuts, Bolts and Best Practices</title>
       <link>/conference/20240119pharmaceutical-bioscience-society-pbss-workshop-adme/dmpk-studies-for-ind-and-nda-filing-for-small-molecules-nuts-bolts-and-best-practices/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
@@ -105,6 +185,14 @@
       <link>/conference/20240119university-of-florida-department-of-statistics-annual-winter-workshop-causal-inference-and-its-applications/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/conference/20240119university-of-florida-department-of-statistics-annual-winter-workshop-causal-inference-and-its-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McGill University Biostatistics Seminars: ClusterDE: A Post-Clustering Differential Expression (DE) Method Robust to False-Positive Inflation Caused by Double Dipping</title>
+      <link>/webinar/20240117mcgill-university-biostatistics-seminars-clusterde-a-post-clustering-differential-expression-de-method-robust-to-false-positive-inflation-caused-by-double-dipping/</link>
+      <pubDate>Wed, 17 Jan 2024 12:30:00 +0000</pubDate>
+      <guid>/webinar/20240117mcgill-university-biostatistics-seminars-clusterde-a-post-clustering-differential-expression-de-method-robust-to-false-positive-inflation-caused-by-double-dipping/</guid>
       <description></description>
     </item>
     

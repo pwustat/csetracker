@@ -6,7 +6,7 @@ url_register: https://www.bentley.edu/centers/cads/dart/analytics-without-border
 date: 2024-03-22T00:00:00
 all_day: yes
 location: "Bryant University, RI"
-publishDate: 
+publishDate: '2023-04-07T11:23:42-07:00'
 featured: false
 image:
   caption: ""

@@ -5,7 +5,7 @@
     <link>/conference/</link>
       <atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
@@ -13,10 +13,82 @@
     </image>
     
     <item>
+      <title>Pharmaceutical &amp; BioScience Society (PBSS) Workshop: Antibody-Drug Conjugates from Discovery to Development: Chemistry, Engineering, Characterization, CMC, PK/Tox, Clinical Design and Intellectual Property</title>
+      <link>/conference/20240328pharmaceutical-bioscience-society-pbss-workshop-antibody-drug-conjugates-from-discovery-to-development-chemistry-engineering-characterization-cmc-pk/tox-clinical-design-and-intellectual-property/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240328pharmaceutical-bioscience-society-pbss-workshop-antibody-drug-conjugates-from-discovery-to-development-chemistry-engineering-characterization-cmc-pk/tox-clinical-design-and-intellectual-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 7th Analytics Without Borders Conference</title>
+      <link>/conference/20240322the-7th-analytics-without-borders-conference/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240322the-7th-analytics-without-borders-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Duke Margolis-FDA Workshop: Enhancing Adoption of Innovative Clinical Trial Approaches</title>
       <link>/conference/20240319duke-margolis-fda-workshop-enhancing-adoption-of-innovative-clinical-trial-approaches/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>/conference/20240319duke-margolis-fda-workshop-enhancing-adoption-of-innovative-clinical-trial-approaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmaceutical Data Science (PharmaDS) Conference 2024</title>
+      <link>/conference/20240318pharmaceutical-data-science-pharmads-conference-2024/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240318pharmaceutical-data-science-pharmads-conference-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENAR 2024</title>
+      <link>/conference/20240310enar-2024/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240310enar-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 7th International Symposium on Biopharmaceutical Statistics</title>
+      <link>/conference/20240306the-7th-international-symposium-on-biopharmaceutical-statistics/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240306the-7th-international-symposium-on-biopharmaceutical-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA Public Workshop: Advancing the Use of Complex Innovative Designs in Clinical Trials: From Pilot to Practice</title>
+      <link>/conference/20240305fda-public-workshop-advancing-the-use-of-complex-innovative-designs-in-clinical-trials-from-pilot-to-practice/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240305fda-public-workshop-advancing-the-use-of-complex-innovative-designs-in-clinical-trials-from-pilot-to-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024 Conference on Statistical Practice</title>
+      <link>/conference/202402272024-conference-on-statistical-practice/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/202402272024-conference-on-statistical-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024 Statistical Practice in Cancer Conference</title>
+      <link>/conference/202402162024-statistical-practice-in-cancer-conference/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/202402162024-statistical-practice-in-cancer-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA-AACR Public Workshop on Optimizing Dosages for Oncology Drug Products: Quantitative Approaches to Select Dosages for Clinical Trials</title>
+      <link>/conference/20240215fda-aacr-public-workshop-on-optimizing-dosages-for-oncology-drug-products-quantitative-approaches-to-select-dosages-for-clinical-trials/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240215fda-aacr-public-workshop-on-optimizing-dosages-for-oncology-drug-products-quantitative-approaches-to-select-dosages-for-clinical-trials/</guid>
       <description></description>
     </item>
     
