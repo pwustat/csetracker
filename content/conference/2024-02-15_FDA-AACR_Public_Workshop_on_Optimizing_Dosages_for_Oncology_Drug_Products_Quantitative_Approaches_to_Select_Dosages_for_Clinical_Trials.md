@@ -7,7 +7,7 @@ date: 2024-02-15T00:00:00
 date_end: 2024-02-16T23:59:59
 all_day: yes
 location: "Washington, D.C. or Virtual"
-publishDate: 2024-02-15
+publishDate: 
 featured: false
 image:
   caption: ""

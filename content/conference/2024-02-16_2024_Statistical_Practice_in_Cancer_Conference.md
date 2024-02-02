@@ -7,7 +7,7 @@ date: 2024-02-16T00:00:00
 date_end: 2024-02-17T23:59:59
 all_day: yes
 location: "Tampa, FL"
-publishDate: 2024-02-16
+publishDate:
 featured: false
 image:
   caption: ""

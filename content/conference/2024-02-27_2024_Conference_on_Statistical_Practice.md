@@ -7,7 +7,7 @@ date: 2024-02-27T00:00:00
 date_end: 2024-02-29T23:59:59
 all_day: yes
 location: "New Orleans, LA"
-publishDate: 2024-02-27
+publishDate:
 featured: false
 image:
   caption: ""

@@ -6,7 +6,7 @@ url_freeregister: https://healthpolicy.duke.edu/events/building-quality-design-a
 date: 2024-01-31T06:00:00
 all_day: yes
 location: "Washington, D.C. or Virtual"
-publishDate: 2024-01-31
+publishDate: 
 featured: false
 image:
   caption: ""

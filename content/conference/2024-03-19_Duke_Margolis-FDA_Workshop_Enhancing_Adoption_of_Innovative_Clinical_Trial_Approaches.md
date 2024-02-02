@@ -7,7 +7,7 @@ date: 2024-03-19T00:00:00
 date_end: 2024-03-20T23:59:59
 all_day: yes
 location: "In-person or Virtual"
-publishDate: 2024-03-19
+publishDate: 
 featured: false
 image:
   caption: ""
