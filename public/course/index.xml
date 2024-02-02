@@ -5,12 +5,20 @@
     <link>/course/</link>
       <atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/course/</link>
     </image>
+    
+    <item>
+      <title>PSI Training Course: R for Clinical Trial Statisticians</title>
+      <link>/course/20240129psi-training-course-r-for-clinical-trial-statisticians/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/course/20240129psi-training-course-r-for-clinical-trial-statisticians/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RSS Short Course: Interactive Visualisation in R </title>
