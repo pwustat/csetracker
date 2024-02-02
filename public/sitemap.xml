@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/conference/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20240319duke-margolis-fda-workshop-enhancing-adoption-of-innovative-clinical-trial-approaches/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/</loc>
     <lastmod>2024-02-01T08:00:00+00:00</lastmod>
   </url>
@@ -13,18 +28,8 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2024-02-01T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/webinar/20240201fda-oncology-center-of-excellence/ema-public-panel-discussion/</loc>
     <lastmod>2024-02-01T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/conference/</loc>
-    <lastmod>2024-01-31T06:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -75,6 +80,11 @@
   <url>
     <loc>/conference/20240119university-of-florida-department-of-statistics-annual-winter-workshop-causal-inference-and-its-applications/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240116dfci-frontiers-in-biostatistics-seminar-methods-for-the-analysis-of-data-with-missing-values/</loc>
+    <lastmod>2024-01-16T10:00:00+00:00</lastmod>
   </url>
   
   <url>

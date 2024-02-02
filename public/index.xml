@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Duke Margolis-FDA Workshop: Enhancing Adoption of Innovative Clinical Trial Approaches</title>
+      <link>/conference/20240319duke-margolis-fda-workshop-enhancing-adoption-of-innovative-clinical-trial-approaches/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/conference/20240319duke-margolis-fda-workshop-enhancing-adoption-of-innovative-clinical-trial-approaches/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ASA Philadelphia Chapter Webinar: Reflections on Clinical Trial Futility Decisions</title>
@@ -97,6 +105,14 @@
       <link>/conference/20240119university-of-florida-department-of-statistics-annual-winter-workshop-causal-inference-and-its-applications/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/conference/20240119university-of-florida-department-of-statistics-annual-winter-workshop-causal-inference-and-its-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFCI Frontiers in Biostatistics Seminar: Methods for the Analysis of Data with Missing Values</title>
+      <link>/webinar/20240116dfci-frontiers-in-biostatistics-seminar-methods-for-the-analysis-of-data-with-missing-values/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0000</pubDate>
+      <guid>/webinar/20240116dfci-frontiers-in-biostatistics-seminar-methods-for-the-analysis-of-data-with-missing-values/</guid>
       <description></description>
     </item>
     
