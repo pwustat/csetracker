@@ -5,12 +5,84 @@
     <link>/webinar/</link>
       <atom:link href="/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Feb 2024 08:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/webinar/</link>
     </image>
+    
+    <item>
+      <title>IQVIA Webinar: The Future is Now: Navigating AI, Tech-Enablement and Global Delivery Trends in Clinical Research</title>
+      <link>/webinar/20240214iqvia-webinar-the-future-is-now-navigating-ai-tech-enablement-and-global-delivery-trends-in-clinical-research/</link>
+      <pubDate>Wed, 14 Feb 2024 08:00:00 +0000</pubDate>
+      <guid>/webinar/20240214iqvia-webinar-the-future-is-now-navigating-ai-tech-enablement-and-global-delivery-trends-in-clinical-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar: Graphical and Summary Diagnostics for Node Level Adequacy in Bayesian Hierarchical Models</title>
+      <link>/webinar/20240213university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-graphical-and-summary-diagnostics-for-node-level-adequacy-in-bayesian-hierarchical-models/</link>
+      <pubDate>Tue, 13 Feb 2024 06:00:00 +0000</pubDate>
+      <guid>/webinar/20240213university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-graphical-and-summary-diagnostics-for-node-level-adequacy-in-bayesian-hierarchical-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Institute of Statistical Sciences (NISS)/Federal Committee on Statistical Methodology (FCSM) AI in Federal Government Series: Text Analysis – Methods and Use Cases</title>
+      <link>/webinar/20240212national-institute-of-statistical-sciences-niss/federal-committee-on-statistical-methodology-fcsm-ai-in-federal-government-series-text-analysis-methods-and-use-cases/</link>
+      <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+      <guid>/webinar/20240212national-institute-of-statistical-sciences-niss/federal-committee-on-statistical-methodology-fcsm-ai-in-federal-government-series-text-analysis-methods-and-use-cases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Section on Statistics in Genomics and Genetics (SSGG) Short Course: An Introduction to Mendelian Randomization</title>
+      <link>/webinar/20240212asa-section-on-statistics-in-genomics-and-genetics-ssgg-short-course-an-introduction-to-mendelian-randomization/</link>
+      <pubDate>Mon, 12 Feb 2024 08:00:00 +0000</pubDate>
+      <guid>/webinar/20240212asa-section-on-statistics-in-genomics-and-genetics-ssgg-short-course-an-introduction-to-mendelian-randomization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Mason University R. Clifton Bailey Statistics Seminar Series: Differentially Private Hypothesis Testing for High-Dimensional Federated Data</title>
+      <link>/webinar/20240209george-mason-university-r.-clifton-bailey-statistics-seminar-series-differentially-private-hypothesis-testing-for-high-dimensional-federated-data/</link>
+      <pubDate>Fri, 09 Feb 2024 08:00:00 +0000</pubDate>
+      <guid>/webinar/20240209george-mason-university-r.-clifton-bailey-statistics-seminar-series-differentially-private-hypothesis-testing-for-high-dimensional-federated-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Townhall: The role of statistics for the future of AI</title>
+      <link>/webinar/20240207asa-townhall-the-role-of-statistics-for-the-future-of-ai/</link>
+      <pubDate>Wed, 07 Feb 2024 13:30:00 +0000</pubDate>
+      <guid>/webinar/20240207asa-townhall-the-role-of-statistics-for-the-future-of-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McGill University Biostatistics Seminars: Nonparametric and Robust Inference for Covariance Operators</title>
+      <link>/webinar/20240207mcgill-university-biostatistics-seminars-nonparametric-and-robust-inference-for-covariance-operators/</link>
+      <pubDate>Wed, 07 Feb 2024 12:30:00 +0000</pubDate>
+      <guid>/webinar/20240207mcgill-university-biostatistics-seminars-nonparametric-and-robust-inference-for-covariance-operators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nQuery Webinar: Projecting How Long Your Trial Will Take</title>
+      <link>/webinar/20240207nquery-webinar-projecting-how-long-your-trial-will-take/</link>
+      <pubDate>Wed, 07 Feb 2024 09:00:00 +0000</pubDate>
+      <guid>/webinar/20240207nquery-webinar-projecting-how-long-your-trial-will-take/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dana Farber Cancer Institute (DFCI) Frontiers in Biostatistics Seminar: Quantitative Methods in Implementation Research: Concepts, Goals, and Applications</title>
+      <link>/webinar/20240206dana-farber-cancer-institute-dfci-frontiers-in-biostatistics-seminar-quantitative-methods-in-implementation-research-concepts-goals-and-applications/</link>
+      <pubDate>Tue, 06 Feb 2024 10:00:00 +0000</pubDate>
+      <guid>/webinar/20240206dana-farber-cancer-institute-dfci-frontiers-in-biostatistics-seminar-quantitative-methods-in-implementation-research-concepts-goals-and-applications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ASA Philadelphia Chapter Webinar: Reflections on Clinical Trial Futility Decisions</title>
@@ -29,6 +101,22 @@
     </item>
     
     <item>
+      <title>University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar: Semiparametric Posterior Corrections</title>
+      <link>/webinar/20240130university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-semiparametric-posterior-corrections/</link>
+      <pubDate>Tue, 30 Jan 2024 06:00:00 +0000</pubDate>
+      <guid>/webinar/20240130university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-semiparametric-posterior-corrections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint PSI/EFSPI HTA SIG Meeting: Indirect Comparisons: Choosing the Right Tool for the Job</title>
+      <link>/webinar/20240129joint-psi/efspi-hta-sig-meeting-indirect-comparisons-choosing-the-right-tool-for-the-job/</link>
+      <pubDate>Mon, 29 Jan 2024 05:00:00 +0000</pubDate>
+      <guid>/webinar/20240129joint-psi/efspi-hta-sig-meeting-indirect-comparisons-choosing-the-right-tool-for-the-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASA San Antonio Chapter Webinar: Bayesian and Influence Function Based Empirical Likelihoods</title>
       <link>/webinar/20240126asa-san-antonio-chapter-webinar-bayesian-and-influence-function-based-empirical-likelihoods/</link>
       <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
@@ -41,6 +129,22 @@
       <link>/webinar/20240126dahshu-webinar-large-scale-pancreatic-cancer-detection-via-non-contrast-ct-and-deep-learning/</link>
       <pubDate>Fri, 26 Jan 2024 09:00:00 +0000</pubDate>
       <guid>/webinar/20240126dahshu-webinar-large-scale-pancreatic-cancer-detection-via-non-contrast-ct-and-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Statistical Institute Webinar: Optimal Pathways: A Comparative Study of Linear and Non-linear Optimization Techniques using R</title>
+      <link>/webinar/20240126international-statistical-institute-webinar-optimal-pathways-a-comparative-study-of-linear-and-non-linear-optimization-techniques-using-r/</link>
+      <pubDate>Fri, 26 Jan 2024 06:00:00 +0000</pubDate>
+      <guid>/webinar/20240126international-statistical-institute-webinar-optimal-pathways-a-comparative-study-of-linear-and-non-linear-optimization-techniques-using-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McGill University Biostatistics Seminars: Leveraging Multi-Study, Multi-Outcome Data to Improve External Validity and Efficiency of Clinical Trials for Managing Schizophrenia</title>
+      <link>/webinar/20240124mcgill-university-biostatistics-seminars-leveraging-multi-study-multi-outcome-data-to-improve-external-validity-and-efficiency-of-clinical-trials-for-managing-schizophrenia/</link>
+      <pubDate>Wed, 24 Jan 2024 12:30:00 +0000</pubDate>
+      <guid>/webinar/20240124mcgill-university-biostatistics-seminars-leveraging-multi-study-multi-outcome-data-to-improve-external-validity-and-efficiency-of-clinical-trials-for-managing-schizophrenia/</guid>
       <description></description>
     </item>
     
