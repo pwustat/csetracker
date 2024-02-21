@@ -5,12 +5,28 @@
     <link>/webinar/</link>
       <atom:link href="/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Feb 2024 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 06:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/webinar/</link>
     </image>
+    
+    <item>
+      <title>University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar: Statistical Modelling for State-of-the-Art Gene Editing Experiments</title>
+      <link>/webinar/20240220university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-statistical-modelling-for-state-of-the-art-gene-editing-experiments/</link>
+      <pubDate>Tue, 20 Feb 2024 06:00:00 +0000</pubDate>
+      <guid>/webinar/20240220university-of-cambridge-medical-research-council-mrc-biostatistics-unit-seminar-statistical-modelling-for-state-of-the-art-gene-editing-experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McGill University Biostatistics Seminar: A Bayesian Approach to Investigate Life Course Hypotheses</title>
+      <link>/webinar/20240219mcgill-university-biostatistics-seminar-a-bayesian-approach-to-investigate-life-course-hypotheses/</link>
+      <pubDate>Mon, 19 Feb 2024 13:00:00 +0000</pubDate>
+      <guid>/webinar/20240219mcgill-university-biostatistics-seminar-a-bayesian-approach-to-investigate-life-course-hypotheses/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IQVIA Webinar: The Future is Now: Navigating AI, Tech-Enablement and Global Delivery Trends in Clinical Research</title>
