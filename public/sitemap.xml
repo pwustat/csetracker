@@ -73,8 +73,38 @@
   </url>
   
   <url>
+    <loc>/webinar/</loc>
+    <lastmod>2024-02-29T05:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240229ibs-emr-ibs/sib/seb-joint-webinar-personalized-treatments-sounds-heavenly-but-where-on-earth-did-they-find-my-guinea-pigs/</loc>
+    <lastmod>2024-02-29T05:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240228bay-area-bioinformatics-baybifx-and-bay-area-chromatin-epigenetics-bace-meetup-ai-in-health-care-genetics/</loc>
+    <lastmod>2024-02-28T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240228mcgill-university-biostatistics-seminars-causal-twas-a-new-method-for-integrative-analysis-of-expression-qtls-and-gwas-detects-causal-genes-of-complex-traits/</loc>
+    <lastmod>2024-02-28T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/20240228ispor-short-course-introduction-to-patient-reported-outcomes-assessment-instrument-development-evaluation/</loc>
     <lastmod>2024-02-28T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240227r-consortium-webinar-escape-the-data-dungeon-unlock-scalable-r-analytics-and-ml/</loc>
+    <lastmod>2024-02-27T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240227asa-statistical-learning-and-data-science-section-webinar-adaptive-stochastic-optimization-with-constraints/</loc>
+    <lastmod>2024-02-27T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,8 +113,33 @@
   </url>
   
   <url>
-    <loc>/webinar/</loc>
-    <lastmod>2024-02-20T06:00:00+00:00</lastmod>
+    <loc>/webinar/20240226fda/cder-and-american-association-of-pharmaceutical-scientists-aaps-public-workshop-therapeutic-drug-monitoring-of-biologics-current-practice-challenges-and-opportunities/</loc>
+    <lastmod>2024-02-26T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240223boston-chapter-of-the-asa-webinar-statistical-thinking-in-the-age-of-ai-for-drug-development-a-regulatory-perspective/</loc>
+    <lastmod>2024-02-23T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240223asa-biopharmaceutical-section-webinar-open-source-software-for-regulatory-submissions/environments-introducing-openstatsware-biop-working-group/</loc>
+    <lastmod>2024-02-23T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240221iqvia-webinar-exploring-rwd-in-australia-and-new-zealand/</loc>
+    <lastmod>2024-02-21T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240221reagan-udall-foundation-for-the-fda-webinar-qualifying-biomarkers-to-support-rare-disease-regulatory-pathways/</loc>
+    <lastmod>2024-02-21T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20240221cytel-webinar-advanced-statistical-methodologies-negative-binomial-for-group-sequential-designs-in-solara/</loc>
+    <lastmod>2024-02-21T06:00:00+00:00</lastmod>
   </url>
   
   <url>

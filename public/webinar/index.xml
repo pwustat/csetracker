@@ -5,12 +5,100 @@
     <link>/webinar/</link>
       <atom:link href="/webinar/index.xml" rel="self" type="application/rss+xml" />
     <description>BIG Event Tracker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 06:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Feb 2024 05:30:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>BIG Event Tracker</title>
       <link>/webinar/</link>
     </image>
+    
+    <item>
+      <title>IBS (EMR-IBS/SIB/SEB) Joint Webinar: Personalized Treatments: Sounds heavenly, but where on Earth did they find my guinea pigs?</title>
+      <link>/webinar/20240229ibs-emr-ibs/sib/seb-joint-webinar-personalized-treatments-sounds-heavenly-but-where-on-earth-did-they-find-my-guinea-pigs/</link>
+      <pubDate>Thu, 29 Feb 2024 05:30:00 +0000</pubDate>
+      <guid>/webinar/20240229ibs-emr-ibs/sib/seb-joint-webinar-personalized-treatments-sounds-heavenly-but-where-on-earth-did-they-find-my-guinea-pigs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bay Area Bioinformatics (BayBIFX) and Bay Area Chromatin &amp; Epigenetics (BACE) Meetup: AI in Health Care &amp; Genetics</title>
+      <link>/webinar/20240228bay-area-bioinformatics-baybifx-and-bay-area-chromatin-epigenetics-bace-meetup-ai-in-health-care-genetics/</link>
+      <pubDate>Wed, 28 Feb 2024 17:00:00 +0000</pubDate>
+      <guid>/webinar/20240228bay-area-bioinformatics-baybifx-and-bay-area-chromatin-epigenetics-bace-meetup-ai-in-health-care-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McGill University Biostatistics Seminars: Causal-TWAS: a new method for integrative analysis of expression QTLs and GWAS detects causal genes of complex traits</title>
+      <link>/webinar/20240228mcgill-university-biostatistics-seminars-causal-twas-a-new-method-for-integrative-analysis-of-expression-qtls-and-gwas-detects-causal-genes-of-complex-traits/</link>
+      <pubDate>Wed, 28 Feb 2024 12:30:00 +0000</pubDate>
+      <guid>/webinar/20240228mcgill-university-biostatistics-seminars-causal-twas-a-new-method-for-integrative-analysis-of-expression-qtls-and-gwas-detects-causal-genes-of-complex-traits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Consortium Webinar: Escape the Data Dungeon: Unlock Scalable R Analytics and ML</title>
+      <link>/webinar/20240227r-consortium-webinar-escape-the-data-dungeon-unlock-scalable-r-analytics-and-ml/</link>
+      <pubDate>Tue, 27 Feb 2024 11:00:00 +0000</pubDate>
+      <guid>/webinar/20240227r-consortium-webinar-escape-the-data-dungeon-unlock-scalable-r-analytics-and-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Statistical Learning and Data Science Section Webinar: Adaptive Stochastic Optimization with Constraints</title>
+      <link>/webinar/20240227asa-statistical-learning-and-data-science-section-webinar-adaptive-stochastic-optimization-with-constraints/</link>
+      <pubDate>Tue, 27 Feb 2024 10:00:00 +0000</pubDate>
+      <guid>/webinar/20240227asa-statistical-learning-and-data-science-section-webinar-adaptive-stochastic-optimization-with-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA/CDER and American Association of Pharmaceutical Scientists (AAPS) Public Workshop: Therapeutic Drug Monitoring of Biologics: Current Practice, Challenges and Opportunities</title>
+      <link>/webinar/20240226fda/cder-and-american-association-of-pharmaceutical-scientists-aaps-public-workshop-therapeutic-drug-monitoring-of-biologics-current-practice-challenges-and-opportunities/</link>
+      <pubDate>Mon, 26 Feb 2024 06:00:00 +0000</pubDate>
+      <guid>/webinar/20240226fda/cder-and-american-association-of-pharmaceutical-scientists-aaps-public-workshop-therapeutic-drug-monitoring-of-biologics-current-practice-challenges-and-opportunities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boston Chapter of the ASA Webinar: Statistical Thinking in the Age of AI for Drug Development: A Regulatory Perspective</title>
+      <link>/webinar/20240223boston-chapter-of-the-asa-webinar-statistical-thinking-in-the-age-of-ai-for-drug-development-a-regulatory-perspective/</link>
+      <pubDate>Fri, 23 Feb 2024 09:00:00 +0000</pubDate>
+      <guid>/webinar/20240223boston-chapter-of-the-asa-webinar-statistical-thinking-in-the-age-of-ai-for-drug-development-a-regulatory-perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Biopharmaceutical Section Webinar: Open-Source Software for Regulatory Submissions/Environments &amp; Introducing Openstatsware BIOP Working Group</title>
+      <link>/webinar/20240223asa-biopharmaceutical-section-webinar-open-source-software-for-regulatory-submissions/environments-introducing-openstatsware-biop-working-group/</link>
+      <pubDate>Fri, 23 Feb 2024 08:00:00 +0000</pubDate>
+      <guid>/webinar/20240223asa-biopharmaceutical-section-webinar-open-source-software-for-regulatory-submissions/environments-introducing-openstatsware-biop-working-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IQVIA Webinar: Exploring RWD in Australia and New Zealand</title>
+      <link>/webinar/20240221iqvia-webinar-exploring-rwd-in-australia-and-new-zealand/</link>
+      <pubDate>Wed, 21 Feb 2024 07:00:00 +0000</pubDate>
+      <guid>/webinar/20240221iqvia-webinar-exploring-rwd-in-australia-and-new-zealand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reagan-Udall Foundation for the FDA Webinar: Qualifying Biomarkers to Support Rare Disease Regulatory Pathways</title>
+      <link>/webinar/20240221reagan-udall-foundation-for-the-fda-webinar-qualifying-biomarkers-to-support-rare-disease-regulatory-pathways/</link>
+      <pubDate>Wed, 21 Feb 2024 07:00:00 +0000</pubDate>
+      <guid>/webinar/20240221reagan-udall-foundation-for-the-fda-webinar-qualifying-biomarkers-to-support-rare-disease-regulatory-pathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytel Webinar: Advanced Statistical Methodologies: Negative Binomial for Group Sequential Designs in Solara</title>
+      <link>/webinar/20240221cytel-webinar-advanced-statistical-methodologies-negative-binomial-for-group-sequential-designs-in-solara/</link>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0000</pubDate>
+      <guid>/webinar/20240221cytel-webinar-advanced-statistical-methodologies-negative-binomial-for-group-sequential-designs-in-solara/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>University of Cambridge Medical Research Council (MRC) Biostatistics Unit Seminar: Statistical Modelling for State-of-the-Art Gene Editing Experiments</title>

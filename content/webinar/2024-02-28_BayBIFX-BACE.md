@@ -5,6 +5,7 @@ title: "Bay Area Bioinformatics (BayBIFX) and Bay Area Chromatin & Epigenetics (
 url_freeregister: https://www.meetup.com/baybifx/events/299047870/
 date: 2024-02-28T17:00:00
 date_end: 2024-02-28T21:00:00
+publishDate: '2022-06-22T09:52:28-07:00'
 all_day: false
 speaker: "Lana Feng, Avantika Lal, Jing Huang, Alex Pankov, Rohit Shinde"
 location: "In-person in South San Francisco, CA"
