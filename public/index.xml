@@ -613,6 +613,190 @@
     </item>
     
     <item>
+      <title>ASA Traveling Course (Hosted by San Francisco Bay Area Chapter): Fundamentals of Causal Inference: With R</title>
+      <link>/course/20230922asa-traveling-course-hosted-by-san-francisco-bay-area-chapter-fundamentals-of-causal-inference-with-r/</link>
+      <pubDate>Fri, 22 Sep 2023 09:00:00 +0000</pubDate>
+      <guid>/course/20230922asa-traveling-course-hosted-by-san-francisco-bay-area-chapter-fundamentals-of-causal-inference-with-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Careers Lunch &amp; Learn: ChatGPT &amp; Beyond</title>
+      <link>/webinar/20230912psi-careers-lunch-learn-chatgpt-beyond/</link>
+      <pubDate>Tue, 12 Sep 2023 04:00:00 +0000</pubDate>
+      <guid>/webinar/20230912psi-careers-lunch-learn-chatgpt-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA San Francisco Bay Area Chapter (SFASA) K-12 Students Summer Project Presentations</title>
+      <link>/webinar/20230909asa-san-francisco-bay-area-chapter-sfasa-k-12-students-summer-project-presentations/</link>
+      <pubDate>Sat, 09 Sep 2023 17:00:00 +0000</pubDate>
+      <guid>/webinar/20230909asa-san-francisco-bay-area-chapter-sfasa-k-12-students-summer-project-presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RBQMLive 2023</title>
+      <link>/conference/20230906rbqmlive-2023/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230906rbqmlive-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Mason University Statistics Seminar: Data Science at the Singularity</title>
+      <link>/webinar/20230901george-mason-university-statistics-seminar-data-science-at-the-singularity/</link>
+      <pubDate>Fri, 01 Sep 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230901george-mason-university-statistics-seminar-data-science-at-the-singularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Traveling Course (Hosted by Columbus Chapter): From R Markdown to Quarto</title>
+      <link>/course/20230818asa-traveling-course-hosted-by-columbus-chapter-from-r-markdown-to-quarto/</link>
+      <pubDate>Fri, 18 Aug 2023 06:30:00 +0000</pubDate>
+      <guid>/course/20230818asa-traveling-course-hosted-by-columbus-chapter-from-r-markdown-to-quarto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Umbrella Webinar: Lessons from COVID-19 – Non-random Missing Data and Its Consequences</title>
+      <link>/webinar/20230808data-umbrella-webinar-lessons-from-covid-19-non-random-missing-data-and-its-consequences/</link>
+      <pubDate>Tue, 08 Aug 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20230808data-umbrella-webinar-lessons-from-covid-19-non-random-missing-data-and-its-consequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nQuery Webinar: Practical Guide to Sequential Design</title>
+      <link>/webinar/20230808nquery-webinar-practical-guide-to-sequential-design/</link>
+      <pubDate>Tue, 08 Aug 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20230808nquery-webinar-practical-guide-to-sequential-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Statistical Learning and Data Science Section Webinar: Exact Conditional Independence Testing and Conformal Inference with Adaptively Collected Data</title>
+      <link>/webinar/20230727asa-statistical-learning-and-data-science-section-webinar-exact-conditional-independence-testing-and-conformal-inference-with-adaptively-collected-data/</link>
+      <pubDate>Thu, 27 Jul 2023 11:00:00 +0000</pubDate>
+      <guid>/webinar/20230727asa-statistical-learning-and-data-science-section-webinar-exact-conditional-independence-testing-and-conformal-inference-with-adaptively-collected-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Umbrella Webinar: Machine Learning Visualization using Yellowbrick</title>
+      <link>/webinar/20230725data-umbrella-webinar-machine-learning-visualization-using-yellowbrick/</link>
+      <pubDate>Tue, 25 Jul 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20230725data-umbrella-webinar-machine-learning-visualization-using-yellowbrick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bay Area R Meetup</title>
+      <link>/conference/20230721bay-area-r-meetup/</link>
+      <pubDate>Fri, 21 Jul 2023 09:00:00 +0000</pubDate>
+      <guid>/conference/20230721bay-area-r-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Scientific Working Group (BSWG) KOL Lecture Series: Why are there not more Bayesian Clinical Trials? Results from a Survey of Clinicians in the Clinical Trial Community</title>
+      <link>/webinar/20230721bayesian-scientific-working-group-bswg-kol-lecture-series-why-are-there-not-more-bayesian-clinical-trials-results-from-a-survey-of-clinicians-in-the-clinical-trial-community/</link>
+      <pubDate>Fri, 21 Jul 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230721bayesian-scientific-working-group-bswg-kol-lecture-series-why-are-there-not-more-bayesian-clinical-trials-results-from-a-survey-of-clinicians-in-the-clinical-trial-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA BIOP SWE WG/BBSW/SFASA/R Consortium Workshop: Good Software Engineering Practice for R Packages</title>
+      <link>/conference/20230720asa-biop-swe-wg/bbsw/sfasa/r-consortium-workshop-good-software-engineering-practice-for-r-packages/</link>
+      <pubDate>Thu, 20 Jul 2023 09:00:00 +0000</pubDate>
+      <guid>/conference/20230720asa-biop-swe-wg/bbsw/sfasa/r-consortium-workshop-good-software-engineering-practice-for-r-packages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDA-AACR-ASA Workshop: Overall Survival in Oncology Clinical Trials</title>
+      <link>/conference/20230718fda-aacr-asa-workshop-overall-survival-in-oncology-clinical-trials/</link>
+      <pubDate>Tue, 18 Jul 2023 05:00:00 +0000</pubDate>
+      <guid>/conference/20230718fda-aacr-asa-workshop-overall-survival-in-oncology-clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Pre-Clinical SIG Webinar: An Investigation to Improve Nonlinear Mixed-Effects Approach for EC50 Estimation Based on Multi-Donor Dose-Response Data</title>
+      <link>/webinar/20230627psi-pre-clinical-sig-webinar-an-investigation-to-improve-nonlinear-mixed-effects-approach-for-ec50-estimation-based-on-multi-donor-dose-response-data/</link>
+      <pubDate>Tue, 27 Jun 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230627psi-pre-clinical-sig-webinar-an-investigation-to-improve-nonlinear-mixed-effects-approach-for-ec50-estimation-based-on-multi-donor-dose-response-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reuters Event: Synthesise RWE and AI. Transform Patient-Driven Healthcare</title>
+      <link>/webinar/20230627reuters-event-synthesise-rwe-and-ai.-transform-patient-driven-healthcare/</link>
+      <pubDate>Tue, 27 Jun 2023 06:00:00 +0000</pubDate>
+      <guid>/webinar/20230627reuters-event-synthesise-rwe-and-ai.-transform-patient-driven-healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMA Workshop: Multi-Stakeholder Workshop on Real World Data (RWD) Quality and Real World Evidence (RWE) Use</title>
+      <link>/conference/20230626ema-workshop-multi-stakeholder-workshop-on-real-world-data-rwd-quality-and-real-world-evidence-rwe-use/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230626ema-workshop-multi-stakeholder-workshop-on-real-world-data-rwd-quality-and-real-world-evidence-rwe-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Journal Club: Propensity Scores</title>
+      <link>/webinar/20230622psi-journal-club-propensity-scores/</link>
+      <pubDate>Thu, 22 Jun 2023 08:00:00 +0000</pubDate>
+      <guid>/webinar/20230622psi-journal-club-propensity-scores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPOR Webinar: FDA Patient-Focused Drug Development (PFDD) Guidance – Part 3</title>
+      <link>/webinar/20230622ispor-webinar-fda-patient-focused-drug-development-pfdd-guidance-part-3/</link>
+      <pubDate>Thu, 22 Jun 2023 07:00:00 +0000</pubDate>
+      <guid>/webinar/20230622ispor-webinar-fda-patient-focused-drug-development-pfdd-guidance-part-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 Cox Award Presentation and Annual Dinner: Too Big to Fail – Bias, Fairness and Ethics of Conducting Medical Research in the Era of Big Data</title>
+      <link>/webinar/202306212023-cox-award-presentation-and-annual-dinner-too-big-to-fail-bias-fairness-and-ethics-of-conducting-medical-research-in-the-era-of-big-data/</link>
+      <pubDate>Wed, 21 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>/webinar/202306212023-cox-award-presentation-and-annual-dinner-too-big-to-fail-bias-fairness-and-ethics-of-conducting-medical-research-in-the-era-of-big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fierce Biotech Webinar: Balancing Priorities in Therapeutics Development – Simulation-Guided Decision Making</title>
+      <link>/webinar/20230620fierce-biotech-webinar-balancing-priorities-in-therapeutics-development-simulation-guided-decision-making/</link>
+      <pubDate>Tue, 20 Jun 2023 11:00:00 +0000</pubDate>
+      <guid>/webinar/20230620fierce-biotech-webinar-balancing-priorities-in-therapeutics-development-simulation-guided-decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Statistical Learning and Data Science Section Webinar: Statistical Learning Methods for Neuroimaging Data Analysis with Applications</title>
+      <link>/webinar/20230620asa-statistical-learning-and-data-science-section-webinar-statistical-learning-methods-for-neuroimaging-data-analysis-with-applications/</link>
+      <pubDate>Tue, 20 Jun 2023 10:00:00 +0000</pubDate>
+      <guid>/webinar/20230620asa-statistical-learning-and-data-science-section-webinar-statistical-learning-methods-for-neuroimaging-data-analysis-with-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StanCon2023</title>
+      <link>/conference/20230620stancon2023/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230620stancon2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CBMS Conference: Deep Learning and Numerical PDEs </title>
       <link>/conference/20230619cbms-conference-deep-learning-and-numerical-pdes/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
@@ -629,10 +813,42 @@
     </item>
     
     <item>
+      <title>PHUSE Safety Analytics Working Group Webinar: Scientific Evaluation of Safety Data and Aggregate Safety Assessment Planning for IND Safety Reporting</title>
+      <link>/webinar/20230615phuse-safety-analytics-working-group-webinar-scientific-evaluation-of-safety-data-and-aggregate-safety-assessment-planning-for-ind-safety-reporting/</link>
+      <pubDate>Thu, 15 Jun 2023 07:00:00 +0000</pubDate>
+      <guid>/webinar/20230615phuse-safety-analytics-working-group-webinar-scientific-evaluation-of-safety-data-and-aggregate-safety-assessment-planning-for-ind-safety-reporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The 2023 Workshop of Statistical Network Analysis and Beyond (SNAB 2023)</title>
       <link>/conference/20230615the-2023-workshop-of-statistical-network-analysis-and-beyond-snab-2023/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/conference/20230615the-2023-workshop-of-statistical-network-analysis-and-beyond-snab-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Umbrella Webinar: Intro to FluxML and Machine Learning in Julia</title>
+      <link>/webinar/20230614data-umbrella-webinar-intro-to-fluxml-and-machine-learning-in-julia/</link>
+      <pubDate>Wed, 14 Jun 2023 09:00:00 +0000</pubDate>
+      <guid>/webinar/20230614data-umbrella-webinar-intro-to-fluxml-and-machine-learning-in-julia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Academies of Sciences, Engineering, and Medicine (NASEM) Workshop: AI to Assist Mathematical Reasoning – A Workshop</title>
+      <link>/conference/20230612national-academies-of-sciences-engineering-and-medicine-nasem-workshop-ai-to-assist-mathematical-reasoning-a-workshop/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230612national-academies-of-sciences-engineering-and-medicine-nasem-workshop-ai-to-assist-mathematical-reasoning-a-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Summer Methodology Series Virtual Course: Introduction to Structural Equation Modeling</title>
+      <link>/course/20230612pittsburgh-summer-methodology-series-virtual-course-introduction-to-structural-equation-modeling/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/course/20230612pittsburgh-summer-methodology-series-virtual-course-introduction-to-structural-equation-modeling/</guid>
       <description></description>
     </item>
     
@@ -657,6 +873,30 @@
       <link>/conference/20230608the-dose-finding-and-other-topics-in-drug-development-conference-honoring-dr-naitee-ting/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/conference/20230608the-dose-finding-and-other-topics-in-drug-development-conference-honoring-dr-naitee-ting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics and Pharmacometrics Special Interest Group (SxP SIG) Webinar: Evaluation of Covariate Effects Using Forest Plots and Introduction to the coveffectsplot R Package</title>
+      <link>/webinar/20230607statistics-and-pharmacometrics-special-interest-group-sxp-sig-webinar-evaluation-of-covariate-effects-using-forest-plots-and-introduction-to-the-coveffectsplot-r-package/</link>
+      <pubDate>Wed, 07 Jun 2023 07:00:00 +0000</pubDate>
+      <guid>/webinar/20230607statistics-and-pharmacometrics-special-interest-group-sxp-sig-webinar-evaluation-of-covariate-effects-using-forest-plots-and-introduction-to-the-coveffectsplot-r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duke-Margolis/FDA Virtual Public Workshop: Rare Disease Endpoint Advancement Pilot Program Workshop – Novel Endpoints for Rare Disease Drug Development</title>
+      <link>/conference/20230607duke-margolis/fda-virtual-public-workshop-rare-disease-endpoint-advancement-pilot-program-workshop-novel-endpoints-for-rare-disease-drug-development/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230607duke-margolis/fda-virtual-public-workshop-rare-disease-endpoint-advancement-pilot-program-workshop-novel-endpoints-for-rare-disease-drug-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASA Columbus Chapter Spring Seminar: Algorithm Development for Progression of Liver Disease to Liver Cancer</title>
+      <link>/webinar/20230606asa-columbus-chapter-spring-seminar-algorithm-development-for-progression-of-liver-disease-to-liver-cancer/</link>
+      <pubDate>Tue, 06 Jun 2023 12:30:00 +0000</pubDate>
+      <guid>/webinar/20230606asa-columbus-chapter-spring-seminar-algorithm-development-for-progression-of-liver-disease-to-liver-cancer/</guid>
       <description></description>
     </item>
     
@@ -709,10 +949,26 @@
     </item>
     
     <item>
+      <title>ASA Statistical Learning and Data Science (SLDS) Section Webinar: Stability of Black-Box Algorithms</title>
+      <link>/webinar/20230531asa-statistical-learning-and-data-science-slds-section-webinar-stability-of-black-box-algorithms/</link>
+      <pubDate>Wed, 31 May 2023 10:00:00 +0000</pubDate>
+      <guid>/webinar/20230531asa-statistical-learning-and-data-science-slds-section-webinar-stability-of-black-box-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ISPOR Webinar: Clinical Trial Innovation: How Healthcare Technology is Evolving</title>
       <link>/webinar/20230531ispor-webinar-clinical-trial-innovation-how-healthcare-technology-is-evolving/</link>
       <pubDate>Wed, 31 May 2023 08:00:00 +0000</pubDate>
       <guid>/webinar/20230531ispor-webinar-clinical-trial-innovation-how-healthcare-technology-is-evolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPOR Short Course: Payment for Pharmaceuticals in the US – Understanding the Healthcare System</title>
+      <link>/course/20230524ispor-short-course-payment-for-pharmaceuticals-in-the-us-understanding-the-healthcare-system/</link>
+      <pubDate>Wed, 24 May 2023 07:00:00 +0000</pubDate>
+      <guid>/course/20230524ispor-short-course-payment-for-pharmaceuticals-in-the-us-understanding-the-healthcare-system/</guid>
       <description></description>
     </item>
     
@@ -730,6 +986,14 @@
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       <guid>/conference/20230522friends-of-cancer-research-hybrid-meetig-the-next-generation-of-cellular-therapies-a-blueprint-to-accelerate-development/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: salmon;&#34;&gt;&lt;em&gt;Early registration Deadline: Jan 11, 2021&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Midwest Biopharmaceutical Statistics Workshop (MBSW) 2023</title>
+      <link>/conference/20230522midwest-biopharmaceutical-statistics-workshop-mbsw-2023/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20230522midwest-biopharmaceutical-statistics-workshop-mbsw-2023/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -785,6 +1049,14 @@
       <link>/webinar/20230515bbsw-2023-may-meetup-data-science-effective-communication-in-the-world-of-information-overload/</link>
       <pubDate>Mon, 15 May 2023 13:00:00 +0000</pubDate>
       <guid>/webinar/20230515bbsw-2023-may-meetup-data-science-effective-communication-in-the-world-of-information-overload/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 SORA-TABA Annual Workshop &amp; DLSPH Biostatistics Research Day: Fundamentals of Causal Inference: With R</title>
+      <link>/conference/202305152023-sora-taba-annual-workshop-dlsph-biostatistics-research-day-fundamentals-of-causal-inference-with-r/</link>
+      <pubDate>Mon, 15 May 2023 06:00:00 +0000</pubDate>
+      <guid>/conference/202305152023-sora-taba-annual-workshop-dlsph-biostatistics-research-day-fundamentals-of-causal-inference-with-r/</guid>
       <description></description>
     </item>
     

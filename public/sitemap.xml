@@ -408,6 +408,121 @@
   </url>
   
   <url>
+    <loc>/course/20230922asa-traveling-course-hosted-by-san-francisco-bay-area-chapter-fundamentals-of-causal-inference-with-r/</loc>
+    <lastmod>2023-09-22T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230912psi-careers-lunch-learn-chatgpt-beyond/</loc>
+    <lastmod>2023-09-12T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230909asa-san-francisco-bay-area-chapter-sfasa-k-12-students-summer-project-presentations/</loc>
+    <lastmod>2023-09-09T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230906rbqmlive-2023/</loc>
+    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230901george-mason-university-statistics-seminar-data-science-at-the-singularity/</loc>
+    <lastmod>2023-09-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20230818asa-traveling-course-hosted-by-columbus-chapter-from-r-markdown-to-quarto/</loc>
+    <lastmod>2023-08-18T06:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230808data-umbrella-webinar-lessons-from-covid-19-non-random-missing-data-and-its-consequences/</loc>
+    <lastmod>2023-08-08T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230808nquery-webinar-practical-guide-to-sequential-design/</loc>
+    <lastmod>2023-08-08T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230727asa-statistical-learning-and-data-science-section-webinar-exact-conditional-independence-testing-and-conformal-inference-with-adaptively-collected-data/</loc>
+    <lastmod>2023-07-27T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230725data-umbrella-webinar-machine-learning-visualization-using-yellowbrick/</loc>
+    <lastmod>2023-07-25T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230721bay-area-r-meetup/</loc>
+    <lastmod>2023-07-21T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230721bayesian-scientific-working-group-bswg-kol-lecture-series-why-are-there-not-more-bayesian-clinical-trials-results-from-a-survey-of-clinicians-in-the-clinical-trial-community/</loc>
+    <lastmod>2023-07-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230720asa-biop-swe-wg/bbsw/sfasa/r-consortium-workshop-good-software-engineering-practice-for-r-packages/</loc>
+    <lastmod>2023-07-20T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230718fda-aacr-asa-workshop-overall-survival-in-oncology-clinical-trials/</loc>
+    <lastmod>2023-07-18T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230627psi-pre-clinical-sig-webinar-an-investigation-to-improve-nonlinear-mixed-effects-approach-for-ec50-estimation-based-on-multi-donor-dose-response-data/</loc>
+    <lastmod>2023-06-27T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230627reuters-event-synthesise-rwe-and-ai.-transform-patient-driven-healthcare/</loc>
+    <lastmod>2023-06-27T06:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230626ema-workshop-multi-stakeholder-workshop-on-real-world-data-rwd-quality-and-real-world-evidence-rwe-use/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230622psi-journal-club-propensity-scores/</loc>
+    <lastmod>2023-06-22T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230622ispor-webinar-fda-patient-focused-drug-development-pfdd-guidance-part-3/</loc>
+    <lastmod>2023-06-22T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/202306212023-cox-award-presentation-and-annual-dinner-too-big-to-fail-bias-fairness-and-ethics-of-conducting-medical-research-in-the-era-of-big-data/</loc>
+    <lastmod>2023-06-21T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230620fierce-biotech-webinar-balancing-priorities-in-therapeutics-development-simulation-guided-decision-making/</loc>
+    <lastmod>2023-06-20T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230620asa-statistical-learning-and-data-science-section-webinar-statistical-learning-methods-for-neuroimaging-data-analysis-with-applications/</loc>
+    <lastmod>2023-06-20T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230620stancon2023/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/20230619cbms-conference-deep-learning-and-numerical-pdes/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url>
@@ -418,8 +533,28 @@
   </url>
   
   <url>
+    <loc>/webinar/20230615phuse-safety-analytics-working-group-webinar-scientific-evaluation-of-safety-data-and-aggregate-safety-assessment-planning-for-ind-safety-reporting/</loc>
+    <lastmod>2023-06-15T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/conference/20230615the-2023-workshop-of-statistical-network-analysis-and-beyond-snab-2023/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230614data-umbrella-webinar-intro-to-fluxml-and-machine-learning-in-julia/</loc>
+    <lastmod>2023-06-14T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230612national-academies-of-sciences-engineering-and-medicine-nasem-workshop-ai-to-assist-mathematical-reasoning-a-workshop/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20230612pittsburgh-summer-methodology-series-virtual-course-introduction-to-structural-equation-modeling/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -435,6 +570,21 @@
   <url>
     <loc>/conference/20230608the-dose-finding-and-other-topics-in-drug-development-conference-honoring-dr-naitee-ting/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230607statistics-and-pharmacometrics-special-interest-group-sxp-sig-webinar-evaluation-of-covariate-effects-using-forest-plots-and-introduction-to-the-coveffectsplot-r-package/</loc>
+    <lastmod>2023-06-07T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230607duke-margolis/fda-virtual-public-workshop-rare-disease-endpoint-advancement-pilot-program-workshop-novel-endpoints-for-rare-disease-drug-development/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webinar/20230606asa-columbus-chapter-spring-seminar-algorithm-development-for-progression-of-liver-disease-to-liver-cancer/</loc>
+    <lastmod>2023-06-06T12:30:00+00:00</lastmod>
   </url>
   
   <url>
@@ -468,8 +618,18 @@
   </url>
   
   <url>
+    <loc>/webinar/20230531asa-statistical-learning-and-data-science-slds-section-webinar-stability-of-black-box-algorithms/</loc>
+    <lastmod>2023-05-31T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/webinar/20230531ispor-webinar-clinical-trial-innovation-how-healthcare-technology-is-evolving/</loc>
     <lastmod>2023-05-31T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/20230524ispor-short-course-payment-for-pharmaceuticals-in-the-us-understanding-the-healthcare-system/</loc>
+    <lastmod>2023-05-24T07:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -479,6 +639,11 @@
   
   <url>
     <loc>/conference/20230522friends-of-cancer-research-hybrid-meetig-the-next-generation-of-cellular-therapies-a-blueprint-to-accelerate-development/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/20230522midwest-biopharmaceutical-statistics-workshop-mbsw-2023/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -515,6 +680,11 @@
   <url>
     <loc>/webinar/20230515bbsw-2023-may-meetup-data-science-effective-communication-in-the-world-of-information-overload/</loc>
     <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/202305152023-sora-taba-annual-workshop-dlsph-biostatistics-research-day-fundamentals-of-causal-inference-with-r/</loc>
+    <lastmod>2023-05-15T06:00:00+00:00</lastmod>
   </url>
   
   <url>
