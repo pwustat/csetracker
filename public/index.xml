@@ -557,6 +557,22 @@
     </item>
     
     <item>
+      <title>PBSS Symposium: Artificial Intelligence and Machine Learning to Drive Therapeutic Drug Discovery &amp; Development</title>
+      <link>/webinar/20231206pbss-symposium-artificial-intelligence-and-machine-learning-to-drive-therapeutic-drug-discovery-development/</link>
+      <pubDate>Wed, 06 Dec 2023 08:30:00 +0000</pubDate>
+      <guid>/webinar/20231206pbss-symposium-artificial-intelligence-and-machine-learning-to-drive-therapeutic-drug-discovery-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Webinars: Causal inference in Clinical Trials</title>
+      <link>/webinar/20231206psi-webinars-causal-inference-in-clinical-trials/</link>
+      <pubDate>Wed, 06 Dec 2023 05:30:00 +0000</pubDate>
+      <guid>/webinar/20231206psi-webinars-causal-inference-in-clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dana Farber Cancer Institute (DFCI) Frontiers in Biostatistics Seminar: Analyzing Big EHR Data – Optimal Cox Regression Subsampling Procedure with Rare Events</title>
       <link>/webinar/20231205dana-farber-cancer-institute-dfci-frontiers-in-biostatistics-seminar-analyzing-big-ehr-data-optimal-cox-regression-subsampling-procedure-with-rare-events/</link>
       <pubDate>Tue, 05 Dec 2023 10:00:00 +0000</pubDate>
@@ -601,6 +617,86 @@
       <link>/webinar/20231130fda-oncology-center-of-excellence-public-webcast-conversations-on-cancer-how-biotech-built-a-blockbuster-cancer-drug/</link>
       <pubDate>Thu, 30 Nov 2023 08:00:00 +0000</pubDate>
       <guid>/webinar/20231130fda-oncology-center-of-excellence-public-webcast-conversations-on-cancer-how-biotech-built-a-blockbuster-cancer-drug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 15th Annual Sentinel Initiative Public Workshop</title>
+      <link>/conference/20231108the-15th-annual-sentinel-initiative-public-workshop/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231108the-15th-annual-sentinel-initiative-public-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Alliance for Biological Standardization (IABS) 9th Annual Statistics Workshop</title>
+      <link>/conference/20231107international-alliance-for-biological-standardization-iabs-9th-annual-statistics-workshop/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231107international-alliance-for-biological-standardization-iabs-9th-annual-statistics-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHUSE EU Connect 2023</title>
+      <link>/conference/20231105phuse-eu-connect-2023/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231105phuse-eu-connect-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Science Conference (ODSC) West 2023</title>
+      <link>/conference/20231030open-data-science-conference-odsc-west-2023/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231030open-data-science-conference-odsc-west-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 29th Pfizer Colloquium at UConn: Frequentist and/or Bayesian Adjustment for Multiple Testing</title>
+      <link>/conference/20231025the-29th-pfizer-colloquium-at-uconn-frequentist-and/or-bayesian-adjustment-for-multiple-testing/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231025the-29th-pfizer-colloquium-at-uconn-frequentist-and/or-bayesian-adjustment-for-multiple-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women in Statistics and Data Science (WSDS) 2023</title>
+      <link>/conference/20231025women-in-statistics-and-data-science-wsds-2023/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231025women-in-statistics-and-data-science-wsds-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oklahoma Conference for Statistics, Biostatistics, and Data Science</title>
+      <link>/conference/20231024oklahoma-conference-for-statistics-biostatistics-and-data-science/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231024oklahoma-conference-for-statistics-biostatistics-and-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023 NextGen Data Science Day (DSD) Conference</title>
+      <link>/conference/202310212023-nextgen-data-science-day-dsd-conference/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/202310212023-nextgen-data-science-day-dsd-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 17th Annual Program in Quantitative Genomics (PQG) Conference: Diversity in Genetics &amp; Genomics</title>
+      <link>/conference/20231017the-17th-annual-program-in-quantitative-genomics-pqg-conference-diversity-in-genetics-genomics/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231017the-17th-annual-program-in-quantitative-genomics-pqg-conference-diversity-in-genetics-genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIA Real World Evidence Conference</title>
+      <link>/conference/20231016dia-real-world-evidence-conference/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/conference/20231016dia-real-world-evidence-conference/</guid>
       <description></description>
     </item>
     
@@ -8771,6 +8867,14 @@ We explore these statistical concepts through an example from health outcomes re
     </item>
     
     <item>
+      <title>ASA Lifetime Data Science Section Webinar: Deep Learning Methods for Survival Analysis</title>
+      <link>/webinar/10101asa-lifetime-data-science-section-webinar-deep-learning-methods-for-survival-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/webinar/10101asa-lifetime-data-science-section-webinar-deep-learning-methods-for-survival-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASA Philadelphia Chapter Webinar: Innovative Design and Analysis Approaches for Master Protocols</title>
       <link>/webinar/10101asa-philadelphia-chapter-webinar-innovative-design-and-analysis-approaches-for-master-protocols/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -8811,6 +8915,22 @@ We explore these statistical concepts through an example from health outcomes re
     </item>
     
     <item>
+      <title>COPSS-NISS Leadership Webinar: Leadership in Statistical Methods for Electronic Health Records Data</title>
+      <link>/webinar/10101copss-niss-leadership-webinar-leadership-in-statistical-methods-for-electronic-health-records-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/webinar/10101copss-niss-leadership-webinar-leadership-in-statistical-methods-for-electronic-health-records-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTTI/FDA Virtual Public Workshop to Enhance Clinical Study Diversity</title>
+      <link>/webinar/10101ctti/fda-virtual-public-workshop-to-enhance-clinical-study-diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/webinar/10101ctti/fda-virtual-public-workshop-to-enhance-clinical-study-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DahShu Webinar: Generative AI for Healthcare and Life Sciences on AWS</title>
       <link>/webinar/10101dahshu-webinar-generative-ai-for-healthcare-and-life-sciences-on-aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -8823,6 +8943,22 @@ We explore these statistical concepts through an example from health outcomes re
       <link>/webinar/10101dana-farber-cancer-institute-dfci-frontiers-in-biostatistics-seminar-ai-in-medical-imaging-current-state-future-opportunities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/webinar/10101dana-farber-cancer-institute-dfci-frontiers-in-biostatistics-seminar-ai-in-medical-imaging-current-state-future-opportunities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Biomarkers SIG Webinar: A Promising Adaptive Biomarker-Based Design Strategy for Early Phase and Machine Learning as an Enabler of Precision Medicine!</title>
+      <link>/webinar/10101psi-biomarkers-sig-webinar-a-promising-adaptive-biomarker-based-design-strategy-for-early-phase-and-machine-learning-as-an-enabler-of-precision-medicine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/webinar/10101psi-biomarkers-sig-webinar-a-promising-adaptive-biomarker-based-design-strategy-for-early-phase-and-machine-learning-as-an-enabler-of-precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSI Journal Club: Bayesian Approaches in Efficacy and Safety</title>
+      <link>/webinar/10101psi-journal-club-bayesian-approaches-in-efficacy-and-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/webinar/10101psi-journal-club-bayesian-approaches-in-efficacy-and-safety/</guid>
       <description></description>
     </item>
     
